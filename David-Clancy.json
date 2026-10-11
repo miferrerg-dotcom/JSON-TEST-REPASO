@@ -1,0 +1,168 @@
+{
+  "class_title": "Career Positioning en el Alto Rendimiento",
+  "total_questions": 12,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "¿Qué comprende la ventaja competitiva o 'Edge' de un profesional del rendimiento deportivo?",
+      "options": [
+        "La especialización hiper-enfocada en una única herramienta tecnológica avanzada.",
+        "La combinación transversal de historial personal, habilidades blandas (human skills) y comprensión estratégica.",
+        "La capacidad exclusiva de autopromocionar los resultados individuales frente a la alta gerencia.",
+        "El conocimiento profundo y memorístico de todos los manuales fisiológicos del club."
+      ],
+      "correct_answer": "La combinación transversal de historial personal, habilidades blandas (human skills) y comprensión estratégica.",
+      "accepted_variations": null,
+      "feedback": "La ventaja competitiva rara vez reside en una única habilidad técnica o conocimiento aislado [1]. Se construye a través de la intersección del historial personal (incluyendo los errores y lecciones aprendidas), las habilidades interpersonales y una visión estratégica profunda que permite aportar soluciones únicas al equipo [2-5]."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "Las aptitudes o rasgos auténticos que constituyen la 'salsa secreta' de un profesional a menudo le resultan invisibles a él mismo por tratarse de dinámicas que percibe como totalmente ordinarias.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "accepted_variations": null,
+      "feedback": "El valor único o 'salsa secreta' con frecuencia permanece oculto a simple vista porque el individuo lo ejecuta de manera genuina [6, 7]. Aquello que un profesional percibe como absolutamente normal en su forma de actuar suele ser, en realidad, el atributo excepcional que lo diferencia del resto [8-10]."
+    },
+    {
+      "id": 3,
+      "type": "keyword",
+      "question": "Dentro del marco de evaluación IMPACT, la letra 'T' hace referencia a la __________, un criterio que evalúa si un método o solución implementada puede escalarse y multiplicarse en el club.",
+      "options": null,
+      "correct_answer": "transferibilidad",
+      "accepted_variations": [
+        "transferibilidad",
+        "la transferibilidad",
+        "escalabilidad",
+        "la escalabilidad"
+      ],
+      "feedback": "En el modelo IMPACT, la Transferibilidad analiza de qué manera la intervención o solución desarrollada puede escalarse o repetirse sin exigir un esfuerzo desproporcionado [11, 12]. Esto incluye apoyarse en tecnología e innovación para maximizar los beneficios organizacionales a largo plazo [13, 14]."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Al analizar la dinámica dentro de un cuerpo técnico multidisciplinar, ¿qué patrón de conducta es representativo de un profesional con un alto grado de influencia?",
+      "options": [
+        "Evitar delegar decisiones operativas para mantener un control absoluto del rendimiento de los atletas.",
+        "Describir pormenorizadamente todas las tareas del día a día para visibilizar su carga laboral ante sus superiores.",
+        "Simplificar conceptos técnicos complejos y reducir la fricción en los flujos de toma de decisiones colectivas.",
+        "Enfocar la comunicación interdepartamental exclusivamente en los propios aciertos para proteger la marca personal."
+      ],
+      "correct_answer": "Simplificar conceptos técnicos complejos y reducir la fricción en los flujos de toma de decisiones colectivas.",
+      "accepted_variations": null,
+      "feedback": "La verdadera influencia profesional facilita el ecosistema: consiste en lograr que lo complejo resulte comprensible mediante una comunicación nítida y concisa [15, 16]. Los profesionales influyentes consiguen alinear a distintos departamentos y reducen los problemas y la fricción ('friction') para el resto del staff [17, 18]."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "Ser técnicamente excelente es el factor principal de diferenciación para asegurar un puesto de relevancia en entornos deportivos de alto rendimiento.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "accepted_variations": null,
+      "feedback": "La excelencia técnica se asume como el estándar mínimo y básico en entornos competitivos de élite [19, 20]. El verdadero factor diferenciador radica en ser 'diferente', tener un buen posicionamiento, grado de influencia, y la capacidad de resolver problemas organizacionales [21-23]."
+    },
+    {
+      "id": 6,
+      "type": "keyword",
+      "question": "Mantener una calidad de ejecución sostenida a lo largo de las temporadas, evitando fluctuaciones extremas y garantizando ser siempre un '8 sobre 10', se define como ___________.",
+      "options": null,
+      "correct_answer": "consistencia",
+      "accepted_variations": [
+        "consistencia",
+        "la consistencia",
+        "constancia",
+        "la constancia"
+      ],
+      "feedback": "La reputación en la élite requiere un nivel fiable de ejecución [24]. Es drásticamente más valioso mantener una constancia operativa sólida a diario (ser un 8 sobre 10), que exhibir un comportamiento errático que fluctúa entre rendimientos sobresalientes y mediocres [24-26]."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "¿Con qué propósito metodológico se utiliza la técnica de los '5 porqués' en la arquitectura y planificación activa de la carrera deportiva?",
+      "options": [
+        "Rastrear el eslabón organizativo exacto causante de un déficit prolongado en el rendimiento condicional del primer equipo.",
+        "Descubrir la motivación subyacente de los objetivos profesionales y evitar decisiones impulsivas guiadas por el 'síndrome del objeto brillante'.",
+        "Jerarquizar los presupuestos del departamento de ciencias del deporte en función del impacto clínico antes del inicio de pretemporada.",
+        "Aportar una estructura argumentativa racional para justificar incrementos contractuales durante la renovación en el club actual."
+      ],
+      "correct_answer": "Descubrir la motivación subyacente de los objetivos profesionales y evitar decisiones impulsivas guiadas por el 'síndrome del objeto brillante'.",
+      "accepted_variations": null,
+      "feedback": "Aplicar esta herramienta metodológica obliga a realizar una introspección radical sobre las razones genuinas detrás del deseo de un cambio o meta profesional [27, 28]. Permite evolucionar hacia un liderazgo intencional, advirtiendo del peligro de abandonar un buen entorno dejándose deslumbrar superficialmente por objetos brillantes [29, 30]."
+    },
+    {
+      "id": 8,
+      "type": "keyword",
+      "question": "El modelo analítico utilizado para estructurar temporalmente las competencias, diferenciando entre habilidades actuales, emergentes y futuras, se conoce como el marco de los ___________.",
+      "options": null,
+      "correct_answer": "tres horizontes",
+      "accepted_variations": [
+        "tres horizontes",
+        "3 horizontes",
+        "los tres horizontes",
+        "los 3 horizontes"
+      ],
+      "feedback": "El esquema de los 'Tres Horizontes' promueve auditar permanentemente las capacidades, el liderazgo de pensamiento y la red de contactos [31, 32]. Facilita la transición lógica identificando qué pilares sostienen el presente y qué destrezas de innovación se deben empezar a incubar para garantizar el éxito en el contexto futuro [33, 34]."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "Compartir conocimientos, reflexiones técnicas y publicaciones de forma transparente actúa como un catalizador de visibilidad y fortalece la profesión deportiva, en lugar de mermar la ventaja competitiva.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "accepted_variations": null,
+      "feedback": "El hermetismo penaliza en el ecosistema actual. Exponer trabajo valioso y transparente crea comunidad, genera conversaciones y promueve el crecimiento de la profesión ('una marea alta levanta todos los barcos') [35-39]."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "¿Qué escenario demuestra una comunicación enfocada estratégicamente en el 'Impacto' frente a una comunicación plana centrada en 'Listados de Tareas'?",
+      "options": [
+        "Ejecuté rigurosamente la programación semanal de hipertrofia y prevención con todos los suplentes post-partido.",
+        "Organicé y moderé reuniones diarias de 15 minutos con el cuerpo médico para registrar exhaustivamente incidencias físicas.",
+        "Sistematicé flujos de monitorización compartida que redujeron la fricción de decisión y aumentaron la disponibilidad de los jugadores.",
+        "Permanecí en el campo analizando la carga de entrenamiento en tiempo real a través de los GPS para informar al míster."
+      ],
+      "correct_answer": "Sistematicé flujos de monitorización compartida que redujeron la fricción de decisión y aumentaron la disponibilidad de los jugadores.",
+      "accepted_variations": null,
+      "feedback": "Proyectar impacto demanda evidenciar causalidad directa ('causa y efecto') [40]. Ejecutar programas o leer métricas son simplemente las tareas del día a día [41, 42], pero el verdadero valor estratégico se demuestra al explicar cómo un proceso determinado mejoró el flujo de comunicación, redujo la fricción y escaló los sistemas de cuidado del deportista [43-45]."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "De acuerdo con la analogía de hacer que el 'bote vaya más rápido', ¿cuál es la condición indispensable antes de buscar un aumento en la eficiencia ejecutiva de la carrera?",
+      "options": [
+        "Adquirir un presupuesto tecnológico que permita superar logísticamente a los rivales del entorno deportivo inmediato.",
+        "Verificar que toda la infraestructura analítica del cuerpo biomédico procese los mismos marcadores de fatiga.",
+        "Establecer e interiorizar con nitidez la 'North Star' o destino último hacia el cual está enfocado todo el trayecto laboral.",
+        "Someter al equipo de trabajo a una reevaluación biomecánica completa para suprimir disfunciones sistémicas."
+      ],
+      "correct_answer": "Establecer e interiorizar con nitidez la 'North Star' o destino último hacia el cual está enfocado todo el trayecto laboral.",
+      "accepted_variations": null,
+      "feedback": "Optimizar esfuerzos sin rumbo es inútil. Tener una clara orientación estratégica o destino asegura que la eliminación de obstáculos se materialice en progreso hacia la meta elegida [46-48]. Sin una dirección clara, el profesional corre el riesgo de desgastarse remando en círculos o 'dando vueltas en el océano' [49]."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Al llevar a cabo el ejercicio de 'After Action Review' enfocado en el crecimiento a largo plazo, ¿qué beneficio crucial aporta la identificación del propio 'punto ciego' (blind spot)?",
+      "options": [
+        "Garantizar que las deficiencias técnicas permanezcan bajo control durante los exigentes procesos de selección del sector élite.",
+        "Facilitar el descubrimiento de dinámicas internas, carencias y perspectivas que la óptica individual es incapaz de percibir por sí sola.",
+        "Delegar sistemáticamente las competencias operativas que lastran la toma de decisiones al resto de preparadores físicos del club.",
+        "Justificar a posteriori ante la directiva cualquier desalineación entre el rendimiento planificado y los resultados estadísticos reales."
+      ],
+      "correct_answer": "Facilitar el descubrimiento de dinámicas internas, carencias y perspectivas que la óptica individual es incapaz de percibir por sí sola.",
+      "accepted_variations": null,
+      "feedback": "El progreso estructural demanda auditar honestamente aquello que se ignora ('What do I not see?') . Abordar los puntos ciegos —habitualmente requiriendo que otras personas nos ofrezcan su perspectiva— previene sesgos y permite intervenir en áreas de mejora que resultan invisibles para uno mismo ."
+    }
+  ]
+}
