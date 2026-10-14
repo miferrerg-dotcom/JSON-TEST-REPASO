@@ -9,25 +9,23 @@
       "options": [
         "Readiness, Wellness, Respuesta interna, Carga externa",
         "Carga externa, Respuesta a la carga, Wellness, Readiness",
-        "Respuesta fisiológica, Carga externa, Readiness, Wellness",
-        "Wellness, Carga externa, Readiness, Respuesta a la carga"
+        "Respuesta fisiológica intrínseca, Carga externa aplicada, Readiness, Wellness",
+        "Tolerancia al estrés, Carga externa acumulada, Readiness, Respuesta a la carga"
       ],
       "correct_answer": "Carga externa, Respuesta a la carga, Wellness, Readiness",
-      "accepted_variations": null,
-      "feedback": "El marco lógico de evaluación profundiza desde la punta del iceberg a la base invisible mediante cuatro pasos críticos: 1) Evaluar la carga externa aplicada al deportista, 2) Medir la respuesta fisiológica interna a dicha carga, 3) Analizar cómo tolera este estrés (Wellness) y 4) Determinar cuán preparado está estructural y mentalmente para rendir (Readiness)."
+      "feedback": "El marco lógico de evaluación profundiza desde la punta del iceberg a la base invisible mediante cuatro pasos críticos: evaluar la carga externa aplicada al deportista, medir la respuesta fisiológica interna, analizar cómo tolera este estrés (Wellness) y determinar cuán preparado está estructural y mentalmente para rendir (Readiness)."
     },
     {
       "id": 2,
-      "type": "keyword",
-      "question": "En la resolución de conflictos uno a uno, para desactivar las defensas del ego del atleta, la intervención técnica o disciplinaria debe ir precedida de una validación empática iniciando la frase con: \"Yo en tu lugar me sentiría _______.\"",
-      "options": null,
-      "correct_answer": "igual",
-      "accepted_variations": [
-        "igual",
-        "exactamente igual",
-        "lo mismo"
+      "type": "multiple_choice",
+      "question": "Dado que el rendimiento deportivo opera en un entorno altamente volátil, huir del estancamiento egocéntrico implica asumir un estado dinámico de adaptación que se conoce como ____.",
+      "options": [
+        "un desequilibrio armónico constante",
+        "un déficit estructural crónico",
+        "un reajuste sistemático forzado"
       ],
-      "feedback": "Validar el sentimiento del atleta conectando emocionalmente desactiva la reactividad y establece un estado de apertura. Confirmar que uno se sentiría 'igual' bajo esas circunstancias garantiza que el deportista perciba una escucha activa real antes de recibir cualquier corrección del cuerpo técnico."
+      "correct_answer": "un desequilibrio armónico constante",
+      "feedback": "El concepto de desequilibrio armónico establece que buscar un equilibrio absoluto es perseguir una quimera estática. En la práctica real, el preparador físico debe fluir constantemente a través de tensiones y adaptaciones, manteniéndose dinámico y operando siempre desde la utilidad hacia el deportista."
     },
     {
       "id": 3,
@@ -38,49 +36,45 @@
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
       "feedback": "La pirámide analizada establece que el descanso mental y el sueño son la verdadera base de la recuperación. La tecnología y las métricas representan la cima, demostrándose que habitualmente se comete el grave error de sobreinvertir recursos en la punta visible ignorando por completo la estabilidad psicológica y el descanso básico del atleta."
     },
     {
       "id": 4,
       "type": "multiple_choice",
-      "question": "Al aplicar la analogía del iceberg al propio cuerpo técnico, ¿qué variables definen la 'línea vertical' de crecimiento profesional frente a la 'línea horizontal'?",
+      "question": "¿Qué rasgo psicológico estructural define el concepto de 'serial insecurity' observado en profesionales y equipos que logran un éxito sostenido?",
       "options": [
-        "Los resultados, victorias y currículum visible frente a la cantidad de horas invertidas en la planificación deportiva.",
-        "La gestión de métricas frente a la gestión de emociones y dinámicas grupales en el vestuario.",
-        "La formación académica acreditada frente a la capacidad técnica para diseñar sesiones de alta intensidad.",
-        "La transformación interna, la coherencia de actos y el autoconocimiento frente a los títulos, diplomas y medallas conseguidas."
+        "La percepción constante de amenaza por parte de los rivales directos.",
+        "Un déficit de autoconfianza que requiere retroalimentación continua.",
+        "La insatisfacción constructiva y humildad para mantenerse en mejora.",
+        "La ansiedad de rendimiento generada por las altas expectativas externas y la presión mediática."
       ],
-      "correct_answer": "La transformación interna, la coherencia de actos y el autoconocimiento frente a los títulos, diplomas y medallas conseguidas.",
-      "accepted_variations": null,
-      "feedback": "La línea horizontal aglutina los logros superficiales y altamente visibles (títulos, currículum, medallas). En contraposición, la línea vertical encarna el proceso que nunca se publica: la transformación profunda y la coherencia humana (alinear el pensamiento, la emoción, el discurso y la acción), lo cual constituye el pilar que consolida el liderazgo genuino a largo plazo."
+      "correct_answer": "La insatisfacción constructiva y humildad para mantenerse en mejora.",
+      "feedback": "El rasgo de 'serial insecurity' refleja una disconformidad productiva. Estos perfiles nunca operan desde la complacencia de sentirse 'llegados'; asumen el rendimiento con humildad entendiendo que el éxito no es un destino estático, sino una evolución perpetua en el camino de la optimización."
     },
     {
       "id": 5,
-      "type": "keyword",
-      "question": "El liderazgo sustentado en el conocimiento técnico, la experiencia y la congruencia personal define al poder experto y al poder _______.",
-      "options": null,
-      "correct_answer": "referente",
-      "accepted_variations": [
-        "referente",
-        "el referente",
-        "referencial"
+      "type": "multiple_choice",
+      "question": "El liderazgo sustentado en el conocimiento técnico, la experiencia empírica y la congruencia personal del entrenador define al poder experto y al ____.",
+      "options": [
+        "poder referente o de influencia",
+        "modelo de autoridad clásico",
+        "poder coercitivo tradicional"
       ],
-      "feedback": "La literatura científica en psicología deportiva constata que el poder 'experto' y el poder 'referente' (forjado a partir del respeto genuino por la identidad y coherencia del técnico) generan una influencia exponencialmente más alta y duradera en la plantilla que el obsoleto modelo impositivo basado en premios y castigos."
+      "correct_answer": "poder referente o de influencia",
+      "feedback": "La literatura científica en psicología deportiva constata que el poder experto y el poder referente (forjado a partir del respeto genuino por la identidad y coherencia del técnico) generan una influencia exponencialmente más alta y duradera en la plantilla que el obsoleto modelo impositivo basado en premios y castigos."
     },
     {
       "id": 6,
       "type": "multiple_choice",
-      "question": "¿Qué rasgo psicológico estructural define el concepto de 'serial insecurity' observado en profesionales y equipos que logran un éxito sostenido?",
+      "question": "Al aplicar la analogía del iceberg al propio cuerpo técnico, ¿qué variables definen la 'línea vertical' de crecimiento profesional frente a la 'línea horizontal'?",
       "options": [
-        "La percepción constante de amenaza por parte de los rivales que obliga a modificar la táctica semanalmente.",
-        "Un déficit de autoconfianza que requiere retroalimentación positiva continua por parte de la dirección deportiva.",
-        "La insatisfacción constructiva y la humildad de saber que nunca se alcanza una meta definitiva, manteniéndose siempre en proceso de mejora.",
-        "La ansiedad de rendimiento generada por la presión externa, que se canaliza mediante la determinación focalizada."
+        "La transformación interna y coherencia de actos frente a los títulos conseguidos.",
+        "Los resultados, victorias y currículum visible frente a la cantidad de horas trabajadas.",
+        "La gestión avanzada de métricas frente a la capacidad de gestionar dinámicas grupales complejas.",
+        "La formación académica internacional acreditada frente al talento innato para diseñar sesiones tácticas."
       ],
-      "correct_answer": "La insatisfacción constructiva y la humildad de saber que nunca se alcanza una meta definitiva, manteniéndose siempre en proceso de mejora.",
-      "accepted_variations": null,
-      "feedback": "El rasgo de 'serial insecurity' refleja una disconformidad productiva. Estos perfiles nunca operan desde la complacencia de sentirse 'llegados'; asumen el rendimiento con humildad entendiendo que el éxito no es un destino estático, sino una evolución perpetua en el camino de la optimización."
+      "correct_answer": "La transformación interna y coherencia de actos frente a los títulos conseguidos.",
+      "feedback": "La línea horizontal aglutina los logros superficiales y altamente visibles (títulos, currículum, medallas). En contraposición, la línea vertical encarna el proceso que nunca se publica: la transformación profunda y la coherencia humana (alinear el pensamiento, la emoción, el discurso y la acción), pilar del liderazgo genuino."
     },
     {
       "id": 7,
@@ -91,89 +85,82 @@
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "La aplicación de los tres filtros socráticos dictamina que la veracidad de la información es insuficiente. El mensaje debe ser simultáneamente verdadero, bueno (sano y constructivo para el entorno) y estrictamente necesario. Si se transgrede alguno de los tres criterios, la intervención es inútil e introduce ruido emocional en la plantilla."
+      "feedback": "La aplicación de los tres filtros socráticos dictamina que la veracidad de la información es insuficiente. El mensaje debe ser simultáneamente verdadero, bueno (sano y constructivo para el entorno) y estrictamente necesario. Si se transgrede alguno de los tres criterios, la intervención introduce ruido emocional en la plantilla."
     },
     {
       "id": 8,
       "type": "multiple_choice",
-      "question": "¿Por qué resulta altamente perjudicial catalogar a un deportista con etiquetas absolutas como 'lento' o 'desmotivado' en el entorno del cuerpo técnico?",
+      "question": "¿Cuál es la metodología más efectiva para instaurar un trabajo preventivo de fuerza si un atleta rechaza o carece de adherencia hacia las rutinas de gimnasio?",
       "options": [
-        "Porque dichas etiquetas alteran los algoritmos de las plataformas de seguimiento, arrojando falsos positivos en los índices de readiness.",
-        "Porque confunden un dato objetivo con una interpretación subjetiva, predisponiendo negativamente al staff y dañando el trato humano.",
-        "Porque generan un clima de confrontación directa en la plantilla que fractura irremediablemente la cohesión táctica a largo plazo.",
-        "Porque la verbalización de estas etiquetas genera bucles de estrés que limitan la hidratación celular del jugador afectado."
+        "Establecer una evaluación semanal donde los minutos de juego dependan de los marcadores de fuerza.",
+        "Presentar evidencias biomecánicas exhaustivas sobre la reducción de lesiones para apelar a la razón.",
+        "Diseñar un entorno que haga el estímulo obvio, atractivo, sencillo de ejecutar y satisfactorio.",
+        "Imponer sistemáticamente la rutina amparándose en el rol jerárquico hasta que el jugador automatice la acción mediante repetición forzada."
       ],
-      "correct_answer": "Porque confunden un dato objetivo con una interpretación subjetiva, predisponiendo negativamente al staff y dañando el trato humano.",
-      "accepted_variations": null,
-      "feedback": "Emitir juicios taxativos desvirtúa los datos aislados (ej: correr a 29,8 km/h se traduce erróneamente en 'ser lento') sustituyéndolos por interpretaciones sesgadas. Esto contamina el prisma con el que el staff evalúa al atleta, destruye la empatía sobre su contexto vital y obstaculiza cualquier aproximación pedagógica efectiva."
+      "correct_answer": "Diseñar un entorno que haga el estímulo obvio, atractivo, sencillo de ejecutar y satisfactorio.",
+      "feedback": "Fundamentado en los principios de creación de hábitos, fomentar la adherencia requiere abandonar la coerción jerárquica y el bombardeo teórico. El éxito radica en modificar la arquitectura del entorno del jugador: acercar la tarea para hacerla obvia, dotarla de atractivo, eliminar barreras haciéndola fácil y vincularla a un desenlace gratificante."
     },
     {
       "id": 9,
       "type": "multiple_choice",
-      "question": "Al evaluar las competencias de un preparador físico en el alto rendimiento, ¿qué elementos prioriza la literatura y el entorno profesional por encima de las propias habilidades técnicas o la maestría en gestión de cargas?",
+      "question": "En la resolución de conflictos uno a uno, para desactivar las defensas del ego del atleta, la intervención disciplinaria debe ir precedida de una validación empática iniciando la frase con: \"Yo en tu lugar me sentiría ____.\"",
       "options": [
-        "La aplicación práctica de los datos algorítmicos y el mapeo de GPS.",
-        "La obtención de títulos de liga y medallas a lo largo del historial deportivo.",
-        "El comportamiento, el carácter y la personalidad del técnico.",
-        "La capacidad de imponer disciplina estricta mediante normativas rígidas."
+        "exactamente igual",
+        "muy frustrado",
+        "bastante culpable"
       ],
-      "correct_answer": "El comportamiento, el carácter y la personalidad del técnico.",
-      "accepted_variations": null,
-      "feedback": "La 'Paradoja del especialista' demuestra de manera empírica que el sustrato humano del técnico (comportamiento, personalidad y el respeto intrínseco que inspira) es sustancialmente más valorado por los deportistas y el cuerpo técnico que las victorias, las métricas o la sofisticación de sus métodos de entrenamiento."
+      "correct_answer": "exactamente igual",
+      "feedback": "Validar el sentimiento del atleta conectando emocionalmente desactiva la reactividad y establece un estado de apertura. Confirmar que uno se sentiría igual bajo esas circunstancias garantiza que el deportista perciba una escucha activa real antes de recibir la corrección."
     },
     {
       "id": 10,
-      "type": "keyword",
-      "question": "Dado que el rendimiento deportivo opera en un entorno altamente volátil, huir del estancamiento egocéntrico implica asumir un estado dinámico de adaptación que se conoce como desequilibrio _______.",
-      "options": null,
-      "correct_answer": "armónico",
-      "accepted_variations": [
-        "armónico",
-        "armonico",
-        "el armónico"
+      "type": "multiple_choice",
+      "question": "¿Por qué resulta altamente perjudicial catalogar a un deportista con etiquetas absolutas como 'lento' o 'desmotivado' en el entorno del cuerpo técnico?",
+      "options": [
+        "Porque dichas etiquetas alteran los algoritmos de plataformas, arrojando falsos positivos de readiness.",
+        "Porque confunden un dato objetivo con una interpretación subjetiva, dañando el trato humano.",
+        "Porque generan un clima de confrontación directa que fractura la cohesión táctica a largo plazo.",
+        "Porque la verbalización de estas etiquetas genera bucles de estrés que limitan la capacidad de asimilación táctica y el rendimiento biomecánico en el campo."
       ],
-      "feedback": "El concepto de desequilibrio armónico establece que buscar un equilibrio absoluto es perseguir una quimera estática. En la práctica real, el preparador físico debe fluir constantemente a través de tensiones y adaptaciones, manteniéndose dinámico y operando siempre desde la utilidad hacia el deportista, evitando la rigidez del ego."
+      "correct_answer": "Porque confunden un dato objetivo con una interpretación subjetiva, dañando el trato humano.",
+      "feedback": "Emitir juicios taxativos desvirtúa los datos aislados (ej: correr a 29,8 km/h se traduce erróneamente en 'ser lento') sustituyéndolos por interpretaciones sesgadas. Esto contamina el prisma con el que el staff evalúa al atleta, destruye la empatía sobre su contexto vital y obstaculiza cualquier aproximación pedagógica efectiva."
     },
     {
       "id": 11,
       "type": "true_false",
-      "question": "El miedo o el alto nivel de estrés experimentado por el preparador físico afecta a su propia toma de decisiones, pero resulta inocuo para el nivel de creatividad táctica de la plantilla si las instrucciones orales son las adecuadas.",
+      "question": "El nivel de estrés experimentado por el preparador físico afecta a su propia toma de decisiones, pero resulta inocuo para la creatividad táctica de la plantilla si las instrucciones orales son adecuadas.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "La neurociencia avala que, a través de las neuronas espejo y la coherencia fisiológica cardiaca (cuyo alcance electromagnético roza el metro y medio), el estado ansioso o temeroso del técnico se transfiere y activa neurológicamente en el deportista. El miedo contrae y restringe cognitivamente, mermando drásticamente el repertorio de soluciones creativas del equipo."
+      "feedback": "La neurociencia avala que, a través de las neuronas espejo y la coherencia fisiológica cardiaca, el estado ansioso o temeroso del técnico se transfiere neurológicamente al deportista. El miedo contrae y restringe cognitivamente, mermando drásticamente el repertorio de soluciones creativas del equipo independientemente de las instrucciones orales."
     },
     {
       "id": 12,
       "type": "multiple_choice",
-      "question": "¿Cuál es la metodología más efectiva para instaurar un trabajo preventivo de fuerza si un atleta rechaza o carece de adherencia hacia las rutinas de gimnasio?",
+      "question": "Al evaluar las competencias de un preparador físico en el alto rendimiento, ¿qué elementos prioriza el entorno profesional por encima de las propias habilidades técnicas o la maestría en gestión de cargas?",
       "options": [
-        "Establecer una evaluación semanal condicional donde la participación en los minutos de juego dependa directamente de los marcadores de fuerza excéntrica.",
-        "Presentar evidencias biomecánicas exhaustivas sobre la reducción de lesiones para apelar a la racionalidad analítica del deportista.",
-        "Diseñar un entorno que haga el estímulo obvio, elaborar tareas visual y mecánicamente atractivas, mantener un umbral sencillo de ejecución y garantizar una experiencia satisfactoria.",
-        "Imponer sistemáticamente la rutina amparándose en el rol jerárquico ('porque yo lo digo') hasta que el cerebro del deportista automatice la acción por estrés repetitivo."
+        "La obtención de títulos de liga y medallas a lo largo del historial deportivo.",
+        "La aplicación práctica de los datos algorítmicos avanzados y el mapeo de GPS en tiempo real.",
+        "El comportamiento, el carácter y la personalidad del técnico.",
+        "La capacidad de imponer una disciplina estricta mediante la aplicación de normativas internas inflexibles."
       ],
-      "correct_answer": "Diseñar un entorno que haga el estímulo obvio, elaborar tareas visual y mecánicamente atractivas, mantener un umbral sencillo de ejecución y garantizar una experiencia satisfactoria.",
-      "accepted_variations": null,
-      "feedback": "Fundamentado en los principios de creación de hábitos, fomentar la adherencia requiere abandonar la coerción jerárquica y el bombardeo teórico. El éxito radica en modificar la arquitectura del entorno del jugador: acercar la tarea para hacerla obvia, dotarla de atractivo, eliminar barreras haciéndola fácil de ejecutar y vincularla a un desenlace psicológicamente gratificante."
+      "correct_answer": "El comportamiento, el carácter y la personalidad del técnico.",
+      "feedback": "La 'Paradoja del especialista' demuestra de manera empírica que el sustrato humano del técnico (comportamiento, personalidad y el respeto intrínseco que inspira) es sustancialmente más valorado por los deportistas que las victorias, las métricas o la sofisticación de sus métodos de entrenamiento."
     },
     {
       "id": 13,
       "type": "multiple_choice",
-      "question": "En la evaluación psicológica encubierta mediante el 'mapa de la mano', ¿qué necesidad subyacente y condicionante de la conducta proyecta el gesto del dedo pulgar ('ok') en un jugador?",
+      "question": "En la evaluación psicológica encubierta mediante el 'mapa de la mano', ¿qué necesidad subyacente y condicionante de la conducta proyecta el gesto del dedo pulgar en un jugador?",
       "options": [
-        "El miedo a la inacción táctica y la parálisis por el exceso de análisis de rivales.",
-        "La urgencia intrínseca por recibir validación y aprobación externa por parte de sus figuras de autoridad.",
-        "El rechazo profundo a la asunción de responsabilidades colectivas o falta de compromiso.",
-        "El temor paralizante a ser objeto de escrutinio público o enjuiciamiento social tras un error."
+        "El miedo profundo a la inacción táctica y la parálisis por el exceso de análisis.",
+        "La urgencia intrínseca por recibir validación y aprobación externa.",
+        "El rechazo profundo a la asunción de responsabilidades colectivas.",
+        "El temor paralizante a ser objeto de escrutinio público o enjuiciamiento tras cometer un error crítico."
       ],
-      "correct_answer": "La urgencia intrínseca por recibir validación y aprobación externa por parte de sus figuras de autoridad.",
-      "accepted_variations": null,
-      "feedback": "El mapeo simbólico de los miedos estipula que el pulgar representa la necesidad de aprobación; el índice advierte del miedo al señalamiento; el dedo corazón revela miedo a actuar; el anular expone fobia al compromiso; y el meñique manifiesta el temor a sobresalir. Comprender este sustrato invisible permite al técnico liderar desde la persona y no exclusivamente desde el GPS."
+      "correct_answer": "La urgencia intrínseca por recibir validación y aprobación externa.",
+      "feedback": "El mapeo simbólico de los miedos estipula que el pulgar representa la necesidad de aprobación; el índice advierte del miedo al señalamiento; el dedo corazón revela miedo a actuar; el anular expone fobia al compromiso; y el meñique manifiesta el temor a sobresalir."
     }
   ]
 }
