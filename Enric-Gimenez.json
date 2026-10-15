@@ -1,252 +1,253 @@
 {
   "class_title": "Certificación PSS: Gestión en el alto rendimiento y Estructuras Organizacionales",
-  "total_questions": 18,
+  "total_questions": 20,
   "questions": [
     {
       "id": 1,
       "type": "true_false",
-      "question": "El alto rendimiento deportivo moderno debe fundamentarse de manera aislada en la optimización fisiológica, anatómica y biomecánica del deportista, dejando en un segundo plano el diseño estructural del equipo de trabajo.",
+      "question": "La transdisciplinariedad en el alto rendimiento se alcanza cuando los diferentes especialistas elaboran informes técnicos independientes y posteriormente los fusionan en una reunión conjunta.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "El alto rendimiento exige alejarse de la visión puramente fisiológica o biomecánica aislada para adoptar una perspectiva sistémica compleja. El liderazgo, la cultura y la estructura organizacional son los determinantes fundamentales del éxito, incidiendo directa y sistémicamente en el resultado incluso por encima de la acumulación de talento técnico individual."
+      "feedback": "Eso describe la multidisciplinariedad o interdisciplinariedad. El estado genuinamente transdisciplinar exige asumir la inmensa dificultad sistémica desde el inicio, obligando al panel de expertos a comunicarse a través de un marco y lenguaje común para encontrar respuestas fusionadas desde el diseño de la intervención."
     },
     {
       "id": 2,
       "type": "multiple_choice",
-      "question": "¿Por qué es fundamental que la estructura de KPIs diferencie claramente entre métricas de proceso y métricas de resultado en el contexto de un cuerpo técnico multidisciplinar?",
+      "question": "En el desarrollo evolutivo histórico de los cuerpos técnicos de élite bajo influencia anglosajona, ¿qué disciplina científica operó como pionera al integrarse formalmente junto a los entrenadores?",
       "options": [
-        "Porque los objetivos de proceso dependen totalmente del azar y los de resultado del talento técnico",
-        "Porque los imponderables del deporte anulan cualquier control directo sobre los objetivos de proceso",
-        "Porque los objetivos de proceso dependen al 100% del staff, mientras que los de resultado están sujetos a imponderables externos",
-        "Porque los KPI de resultado solo pueden ser evaluados utilizando metodología SMART a largo plazo"
+        "La preparación física",
+        "El análisis de datos tácticos",
+        "La medicina",
+        "La psicología deportiva"
       ],
-      "correct_answer": "Porque los objetivos de proceso dependen al 100% del staff, mientras que los de resultado están sujetos a imponderables externos",
-      "accepted_variations": null,
-      "feedback": "Es un error evaluar el rendimiento de un departamento o especialista basándose únicamente en resultados (por ejemplo, evitar lesiones en un torneo o ser convocado a selección), ya que intervienen variables incontrolables de entorno y azar. Los KPIs de proceso (como cumplir el 100% de revisiones oftalmológicas de la plantilla) garantizan la medición de acciones directamente ejecutables y controlables por el profesional."
+      "correct_answer": "La medicina",
+      "feedback": "Históricamente, el área médica fue la primera ciencia en sumarse estructuralmente para brindar soporte directo al entrenador. A partir de esa inclusión pionera, se fueron incorporando progresivamente fisioterapeutas, preparadores físicos, nutricionistas y psicólogos, conformando los extensos staffs contemporáneos."
     },
     {
       "id": 3,
-      "type": "keyword",
-      "question": "A nivel histórico, en el desarrollo evolutivo de los cuerpos técnicos de élite bajo influencia anglosajona, la _______ fue la primera disciplina científica en incorporarse formalmente al lado de los entrenadores.",
-      "options": null,
-      "correct_answer": "medicina",
-      "accepted_variations": [
-        "medicina",
-        "la medicina",
-        "médica",
-        "medica",
-        "medico",
-        "médico"
+      "type": "multiple_choice",
+      "question": "Capacitar formalmente a un preparador físico en el uso avanzado de Power BI o lenguajes de programación constituye un claro ejemplo de ____.",
+      "options": [
+        "capacitación transdisciplinar",
+        "desarrollo vertical",
+        "desarrollo horizontal"
       ],
-      "feedback": "Históricamente, el área médica fue la ciencia pionera en integrarse a los cuerpos técnicos para brindar soporte al entrenador. A partir de ella, se fueron sumando progresivamente especialistas en preparación física, nutrición y psicología, lo que derivó en la necesidad actual de organizar a toda esta gama de expertos bajo modelos de transdisciplinariedad."
+      "correct_answer": "desarrollo vertical",
+      "feedback": "El desarrollo vertical consiste en profundizar e incrementar las habilidades técnicas exactas que requiere la descripción de ese puesto particular, dotando al profesional de herramientas operativas (como programación o manejo de bases de datos) para ejecutar sus funciones diarias con mayor nivel de sofisticación y precisión."
     },
     {
       "id": 4,
       "type": "multiple_choice",
-      "question": "Al trazar mapas de inversión en la formación del staff técnico, ¿qué diferencia estructural define al desarrollo vertical respecto al horizontal?",
+      "question": "Al integrarse operativamente a una nueva organización deportiva, la aplicación gerencial del axioma 'el mapa no es el territorio' exige prioritariamente:",
       "options": [
-        "El desarrollo vertical fomenta el liderazgo integrador, y el horizontal herramientas tecnológicas de medición",
-        "El desarrollo vertical mejora capacidades técnicas de la descripción del puesto, y el horizontal amplía habilidades blandas y transversales",
-        "El desarrollo vertical requiere inversión económica de externos, y el horizontal se realiza mediante mentorías internas de pares",
-        "El desarrollo vertical se aplica únicamente en estructuras de red, y el horizontal en organigramas rígidamente jerárquicos"
+        "Rediseñar el organigrama piramidal en un plazo máximo de treinta días hábiles",
+        "Comprender las dinámicas y reglas reales antes de ejecutar decisiones estructurales",
+        "Imponer un marco de valores declarado alineado estrictamente a la ciencia de datos",
+        "Delegar la evaluación de procesos internos a auditorías de agentes externos"
       ],
-      "correct_answer": "El desarrollo vertical mejora capacidades técnicas de la descripción del puesto, y el horizontal amplía habilidades blandas y transversales",
-      "accepted_variations": null,
-      "feedback": "El desarrollo vertical exige la profundización en las habilidades técnicas exactas requeridas por el cargo (por ejemplo, enseñar Power BI o programación a un analista de datos o sport scientist). El desarrollo horizontal, por su parte, dota al profesional de habilidades más amplias (liderazgo, habilidades blandas, doctorados intermedios), volviéndolo un activo más transversal y resistente dentro del sistema multidisciplinar."
+      "correct_answer": "Comprender las dinámicas y reglas reales antes de ejecutar decisiones estructurales",
+      "feedback": "El territorio representa la cultura profunda real, los liderazgos tácitos y los flujos sociológicos vivos del club, los cuales rara vez coinciden con el documento estéril del organigrama oficial (mapa). Evaluar pacíficamente el contexto antes de reaccionar evita amputar relaciones críticas durante la fase inicial de inserción."
     },
     {
       "id": 5,
       "type": "true_false",
-      "question": "En el diseño institucional contemporáneo de alto rendimiento, es factible que coexistan simultáneamente un organigrama general altamente jerárquico corporativo y una estructura matricial orientada a red dentro del departamento puramente deportivo.",
+      "question": "Los proyectos organizacionales contemporáneos de alto rendimiento colapsan mayoritariamente a causa de debilidades metodológicas en la preparación física o carencias biomecánicas del staff.",
       "options": [
         "Verdadero",
         "Falso"
       ],
-      "correct_answer": "Verdadero",
-      "accepted_variations": null,
-      "feedback": "Es una práctica habitual de estructuración organizativa y optimización. Las instituciones requieren multiestructuras; la empresa matriz puede operar bajo modelos divisionales rígidos, mientras que subsecciones específicas, como el departamento de performance deportiva, adoptan enfoques en red o matriciales para sostener la agilidad decisional ante la alta complejidad biológica y deportiva."
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Basado en los postulados de Edgar Schein, el fracaso de estas macroestructuras casi nunca proviene de lagunas formativas procedimentales o técnicas, sino de la brutal desconexión y falta de alineación entre la cultura organizacional real que se respira a diario y la estrategia corporativa trazada sobre el papel."
     },
     {
       "id": 6,
       "type": "multiple_choice",
-      "question": "La cultura organizacional de un club deportivo puede asimilarse metafóricamente a la biología de un organismo para comprender su función primaria. Si el organigrama compone el esqueleto, ¿qué sistema fisiológico representaría la cultura?",
+      "question": "Extrapolando los modelos cognitivos expuestos por Daniel Kahneman al diseño de un departamento de rendimiento, ¿qué dinámica operativa define el equilibrio de liderazgo óptimo para una estructura deportiva robusta?",
       "options": [
-        "El sistema muscular, ya que ejecuta el movimiento táctico derivado de las órdenes del entrenador",
-        "El sistema nervioso, puesto que transmite la información subyacente y hace reaccionar y funcionar al conjunto",
-        "El sistema endocrino, al encargarse exclusivamente de la gestión del estrés competitivo de la plantilla",
-        "El sistema cardiovascular, responsable de la nutrición económica de los diferentes departamentos"
+        "Un director focalizado en el 'slow thinking' estratégico, respaldado por un staff de campo operando bajo 'fast thinking'",
+        "Una centralización absoluta del 'fast thinking' directivo para acelerar intervenciones clínicas de emergencia",
+        "Un paradigma donde todo el equipo técnico interaccione exclusivamente mediante protocolos de 'slow thinking'",
+        "La erradicación del pensamiento a largo plazo para priorizar el dinamismo táctico de los fines de semana"
       ],
-      "correct_answer": "El sistema nervioso, puesto que transmite la información subyacente y hace reaccionar y funcionar al conjunto",
-      "accepted_variations": null,
-      "feedback": "Utilizando la analogía conceptual validada en modelos de cultura corporativa, si la estructura jerárquica y departamental (organigrama) establece el armazón óseo, es la cultura quien asume el rol del sistema nervioso, encargándose de enviar los impulsos reales que pautan los comportamientos organizacionales, determinando verdaderamente cómo reacciona, procesa y vive la organización en el día a día."
+      "correct_answer": "Un director focalizado en el 'slow thinking' estratégico, respaldado por un staff de campo operando bajo 'fast thinking'",
+      "feedback": "Las áreas de rendimiento actuales exigen un líder con capacidad de alejarse de la intervención operativa diaria para focalizarse en el diseño sistémico a largo plazo ('slow thinking'). Paralelamente, necesita que su equipo en el terreno de juego resuelva contingencias inmediatas con alta velocidad reactiva ('fast thinking')."
     },
     {
       "id": 7,
-      "type": "keyword",
-      "question": "Para auditar procesos metodológicos (como nutrición, prevención de lesiones o readaptación) estableciendo su madurez por niveles y definiendo el tiempo y recursos necesarios para evolucionar al nivel líder, se exige la implementación metodológica de un análisis _______.",
-      "options": null,
-      "correct_answer": "gap",
-      "accepted_variations": [
-        "gap",
-        "análisis gap",
-        "analisis gap",
-        "gap analysis"
+      "type": "multiple_choice",
+      "question": "Para estructurar el rendimiento y la promoción de un especialista biomecánico de forma equitativa, la evaluación institucional jamás debería basarse únicamente en ____.",
+      "options": [
+        "métricas de carga interna",
+        "descriptores de rol",
+        "objetivos de resultado"
       ],
-      "feedback": "El Análisis GAP es la metodología estructural que categoriza las áreas de un club en estadios (básico, estándar, avanzado, líder). Facilita visualizar el estado latente del departamento frente al estadio ideal objetivo, lo que a su vez fundamenta la petición formal a los directivos sobre tiempos e inversiones económicas necesarias para migrar hacia nuevas cuotas de rendimiento sistémico."
+      "correct_answer": "objetivos de resultado",
+      "feedback": "Evaluar exclusivamente por resultados (como ganar un título, no tener lesionados en un mes o que un jugador sea convocado a la selección) es un error estructural, ya que estas métricas dependen de innumerables factores externos incontrolables, obviando la calidad técnica real del trabajo diario del especialista."
     },
     {
       "id": 8,
       "type": "multiple_choice",
-      "question": "Diseñar un organigrama en red u holárquico (completamente plano) maximiza la velocidad reactiva del equipo. Sin embargo, este diseño requiere extremar el cuidado en un aspecto estructural crítico. ¿Cuál es la principal debilidad o riesgo intrínseco de estas estructuras ultradinámicas?",
+      "question": "Para fundamentar financieramente un Retorno de Inversión (ROI) derivado de un Análisis GAP departamental, la evolución escalada hacia un nivel 'líder' o de vanguardia en recuperación deportiva se fundamenta en:",
       "options": [
-        "La ralentización burocrática extrema a la hora de procesar métricas y retornos de inversión",
-        "La carencia de claridad organizativa, propiciando ambigüedad profunda de responsabilidades y conflictos interdepartamentales",
-        "La resistencia cultural de los entrenadores para delegar la preparación física a los coordinadores de salud",
-        "El bloqueo sistemático del desarrollo horizontal de los perfiles subalternos de sport science"
+        "Eliminar terapias pasivas estandarizadas en favor del monitoreo perceptivo de esfuerzo post-partido",
+        "Individualizar el abordaje a través de perfiles térmicos y marcadores de susceptibilidad genética",
+        "Restringir la autonomía de los sport scientists cediendo la carga a los auxiliares tácticos",
+        "Estandarizar los baños de contraste y crioterapia como protocolo unificado para la plantilla completa"
       ],
-      "correct_answer": "La carencia de claridad organizativa, propiciando ambigüedad profunda de responsabilidades y conflictos interdepartamentales",
-      "accepted_variations": null,
-      "feedback": "El dinamismo de los organigramas planos o en red acelera exponencialmente las decisiones ante la volatilidad deportiva, pero sacrifica la rigidez de control. Si no hay balances organizativos claros, esto desata una profunda ambigüedad sobre 'quién tiene la última palabra' frente a crisis metodológicas complejas, desestructurando el equipo de trabajo y paralizando la ejecución al chocar responsabilidades superpuestas."
+      "correct_answer": "Individualizar el abordaje a través de perfiles térmicos y marcadores de susceptibilidad genética",
+      "feedback": "Las estrategias nivel 'líder' abandonan la homogeneidad (ej. inmersión en agua fría general) para capitalizar tecnología avanzada de máxima precisión individualizada. Identificar genética de recuperación o termografía demanda inversión económica inicial, pero garantiza un aumento objetivo de la disponibilidad de plantilla, justificando el ROI directivo."
     },
     {
       "id": 9,
+      "type": "multiple_choice",
+      "question": "Si asimilamos de forma conceptual la arquitectura departamental y el organigrama rígido con el esqueleto de un club, la cultura organizacional actuaría indudablemente como ____.",
+      "options": [
+        "la masa muscular",
+        "el sistema cardiovascular",
+        "el sistema nervioso"
+      ],
+      "correct_answer": "el sistema nervioso",
+      "feedback": "Utilizando la analogía conceptual validada en modelos corporativos, mientras la estructura jerárquica establece el armazón estático, la cultura asume el rol del sistema nervioso: transmite los impulsos reales, codifica los comportamientos, da forma a la respuesta frente al estrés y determina verdaderamente cómo vive el sistema en la práctica."
+    },
+    {
+      "id": 10,
       "type": "true_false",
-      "question": "El éxito de un director de rendimiento deportivo recae fundamentalmente en su capacidad innegociable de imponer y mantener una estricta homogeneidad metodológica sin inmutarse ante la llegada al club de cuerpos técnicos transitorios.",
+      "question": "La implementación de un organigrama departamental completamente plano u holárquico maximiza la agilidad en la toma de decisiones sin generar riesgos colaterales en la operativa interna.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es falso porque la literatura y la experiencia organizativa deportiva determinan que los cuerpos técnicos (entrenadores y preparadores directos de primera línea) suelen llegar con una extrema influencia y alto rango jerárquico que es transitorio. El verdadero indicador de madurez y éxito de la estructura permanente del club es su adaptabilidad de procesos hacia estos entrenadores, garantizando la continuidad estructural sin provocar fricciones paralizantes."
-    },
-    {
-      "id": 10,
-      "type": "multiple_choice",
-      "question": "Al argumentar un retorno de inversión (ROI) a la directiva por la optimización escalar de procesos (Análisis GAP), ¿qué ejemplo representa con exactitud clínica y organizativa la transición de un nivel estratégico 'básico' a uno verdaderamente 'líder' en recuperación deportiva?",
-      "options": [
-        "Reemplazar protocolos prescriptivos individualizados por suplementación estandarizada obligatoria para igualar variables",
-        "Cambiar los medidores GPS de alto coste por monitoreo perceptivo (RPE) estandarizado post-competición",
-        "Escalar desde terapias pasivas generalistas de crioterapia a implementaciones tecnológicas basadas en marcadores genéticos y perfiles térmicos individualizados",
-        "Anular las métricas de carga diaria a favor de delegar el proceso de fatiga al feedback directo de los cuerpos técnicos transitorios"
-      ],
-      "correct_answer": "Escalar desde terapias pasivas generalistas de crioterapia a implementaciones tecnológicas basadas en marcadores genéticos y perfiles térmicos individualizados",
-      "accepted_variations": null,
-      "feedback": "Justificar una inversión exige demostrar la mejora sistémica. En recuperación, el nivel 'básico' provee atenciones poco intervencionistas y homogéneas (inmersión en agua fría estándar). Migrar al perfil de vanguardia o 'líder' implica máxima individualización (diferenciar genéticamente entre perfiles recuperadores tempranos/tardíos, uso de termografía analítica). Esta capitalización reduce la lesión, incrementa la disponibilidad del futbolista y repercute financieramente (venta, rendimiento), justificando el ROI directivo."
+      "feedback": "Es falso. Aunque las estructuras holárquicas o en red aceleran drásticamente el flujo de acciones, conllevan el grave riesgo colateral de difuminar la claridad procesal. Si no se establecen límites rigurosos, se produce una profunda ambigüedad sobre las responsabilidades finales, desatando colisiones interdepartamentales."
     },
     {
       "id": 11,
-      "type": "keyword",
-      "question": "Un _______ de rol está lejos de ser simplemente un trámite archivístico de Recursos Humanos; constituye una poderosa herramienta de alto impacto gerencial cuya misión prioritaria es reducir la ambigüedad sistémica fijando expectativas procesales y KPIs interdepartamentales.",
-      "options": null,
-      "correct_answer": "descriptor",
-      "accepted_variations": [
-        "descriptor",
-        "descriptor de",
-        "descripción",
-        "descripcion"
+      "type": "multiple_choice",
+      "question": "Al planificar el diseño institucional de una franquicia deportiva, la coexistencia de múltiples esquemas de organigrama interactuando en simultáneo (por ejemplo, matriz corporativa rígida frente a núcleo deportivo en red) representa:",
+      "options": [
+        "Una negligencia directiva que fractura el control jerárquico de recursos humanos",
+        "Una práctica estratégica consolidada para salvaguardar la agilidad decisional ante la volatilidad biológica",
+        "Una obligación reglamentaria exclusiva de las normativas financieras de ligas europeas",
+        "Un síntoma temporal y transitorio previo a la absorción total por un jefe médico unicefálico"
       ],
-      "feedback": "El descriptor de roles o funciones debe verse como una de las herramientas más valiosas para el liderazgo sistémico. Otorga al profesional un marco libre de confusiones sobre hasta dónde llega su área de competencia y en qué variables debe impactar para ser validado metodológicamente, promoviendo la interconexión dinámica en lugar del conflicto limítrofe entre disciplinas."
+      "correct_answer": "Una práctica estratégica consolidada para salvaguardar la agilidad decisional ante la volatilidad biológica",
+      "feedback": "Las corporaciones de élite necesitan multiestructuras eficientes. Mientras la junta directiva y áreas administrativas operan bajo rígidos diagramas divisionales, el departamento de performance funciona en redes dinámicas. Este diseño no es un error, sino una optimización sistémica para soportar entornos extremadamente variables y dinámicos."
     },
     {
       "id": 12,
       "type": "multiple_choice",
-      "question": "De acuerdo con el análisis de la élite de los departamentos de rendimiento documentada científicamente, ¿cuál es el porcentaje de equilibrio más habitual que utilizan las grandes corporaciones deportivas entre métricas de proceso y métricas de resultado a nivel puramente departamental?",
+      "question": "El obstáculo orgánico más crítico que enfrenta un director de rendimiento global al alinear procesos en conglomerados como el City Football Group radica en adaptar estratégicamente ____.",
       "options": [
-        "Distribuyen su ponderación estratégica centrando un 100% al proceso y desechando formalmente el control de imponderables",
-        "Otorgan una distribución completamente equitativa del 50/50 entre indicadores de proceso puro y evaluaciones de resultado",
-        "Centralizan un 90% en resultados para asegurar un lenguaje compatible y entendible con la junta de accionistas, asumiendo los imponderables",
-        "Varía exclusivamente en función de si el modelo organizativo adoptado por el área es bicefálico o unicefálico"
+        "la cultura local",
+        "la carga táctica",
+        "los salarios base"
       ],
-      "correct_answer": "Otorgan una distribución completamente equitativa del 50/50 entre indicadores de proceso puro y evaluaciones de resultado",
-      "accepted_variations": null,
-      "feedback": "La literatura organizativa del deporte ratifica que a nivel macro (del departamento en general) existe un balance de 50% de KPIs en proceso y 50% en resultado (para no perder el objetivo final de disponibilidad y éxito biológico). Esta ponderación cambia radicalmente en la base del organigrama, priorizando el KPI de proceso de los individuos operativos, para darles una métrica que sí dependa al 100% de su propia ejecución técnica."
+      "correct_answer": "la cultura local",
+      "feedback": "El desafío de importar un modelo global a diferentes clubes adquiridos no reside en la entrega de manuales tecnológicos o fisiológicos, sino en permear, comprender y evolucionar la cultura organizativa previa de ese país o región, transformando las arraigadas costumbres de los trabajadores para lograr alinear todo el grupo."
     },
     {
       "id": 13,
       "type": "multiple_choice",
-      "question": "Para que un staff multidisciplinar alcance el nivel de 'transdisciplinariedad', debe transformar radicalmente su concepción metodológica frente a una patología deportiva. ¿Cuál es el núcleo central que define el estado genuinamente transdisciplinar?",
+      "question": "¿Qué dinámica ilustra con mayor precisión una intervención verdaderamente transdisciplinar frente al desgaste biológico derivado de una alta congestión del calendario competitivo?",
       "options": [
-        "La interacción fragmentada o en silos para que cada rama mantenga su pureza científica sin intromisiones de otros expertos",
-        "La cesión sistemática de responsabilidad decisional prioritaria al área que represente estadísticamente el mayor volumen presupuestario",
-        "La comprensión íntegra de la complejidad biológica desde un primer instante para hallar respuestas bajo la asunción y diseño previo de un lenguaje y marco taxonómico común",
-        "La ejecución independiente de informes clínicos parcelados, delegando su posterior compilación a un intermediario directivo de enlace operativo"
+        "El preparador físico asume tareas de suplementación para agilizar las rutinas de vestuario del primer equipo",
+        "El nutricionista, el psicólogo y el cuerpo médico conceptualizan un abordaje preventivo integrado bajo una taxonomía lingüística común",
+        "El área de rendimiento emite reportes fisiológicos aislados, cediendo la responsabilidad matemática del recambio táctico al analista de video",
+        "La coordinación general bloquea intervenciones preventivas para evitar conflictos de autoridad con el entrenador principal"
       ],
-      "correct_answer": "La comprensión íntegra de la complejidad biológica desde un primer instante para hallar respuestas bajo la asunción y diseño previo de un lenguaje y marco taxonómico común",
-      "accepted_variations": null,
-      "feedback": "La transdisciplinariedad rompe definitivamente los silos. No persigue reunir reportes aislados para armar una conclusión (interdisciplinariedad o multidisciplinariedad), sino que, asumiendo la inmensa dificultad sistémica, obliga al panel de especialistas a comunicarse a través de un estándar verbal y semántico compartido desde el diseño temprano de la intervención, actuando todos sin costuras procedimentales."
+      "correct_answer": "El nutricionista, el psicólogo y el cuerpo médico conceptualizan un abordaje preventivo integrado bajo una taxonomía lingüística común",
+      "feedback": "La transdisciplinariedad erradica la fragmentación departamental. Frente a problemas de altísima complejidad, como el estrés competitivo extremo, exige que áreas tradicionalmente separadas pierdan sus límites, se comuniquen a través de un estándar semántico común y codiseñen conjuntamente la ruta completa de recuperación desde el momento cero."
     },
     {
       "id": 14,
       "type": "true_false",
-      "question": "Con base en los postulados de organización contemporánea, los proyectos de alto rendimiento fallan preponderantemente cuando adolecen de carencias e infraestructura tecnológica o lagunas metodológicas dentro del cuerpo técnico.",
+      "question": "El verdadero indicador de madurez institucional en una estructura de rendimiento recae en su facultad de imponer una ortodoxia inquebrantable frente a la llegada de cuerpos técnicos eventuales.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es falso. Citando el cierre estructural analítico basado en Edgar Schein, los modelos de altísimo rendimiento en escasas ocasiones colapsan debido a incompetencias técnicas, herramientas biomecánicas obsoletas o lagunas formativas procedimentales. Sus fracasos se originan mayormente por una brutal falta de alineación, coherencia y sentido crítico entre la estrategia corporativa trazada sobre el papel y la cultura real respirada en las bases diarias de la organización."
+      "feedback": "Es falso. En el deporte contemporáneo, los entrenadores principales y sus asistentes aterrizan con altísimo poder jerárquico transitorio. La resiliencia y el éxito a largo plazo del departamento permanente dependen de su inteligencia estructural para fluir, ceder y adaptarse pragmáticamente a las nuevas exigencias sin colapsar su propia identidad."
     },
     {
       "id": 15,
       "type": "multiple_choice",
-      "question": "Conocer e intervenir la cultura estructural implica utilizar diagnósticos por estratos. El modelo organizacional consolidado de Schein fracciona la cultura en tres niveles de estudio. ¿Qué elementos institucionales quedan enmarcados dentro de los 'Artefactos'?",
+      "question": "Bajo los tres estratos culturales analizados por Edgar Schein, el hallazgo de que el staff biomédico desecha las métricas tecnológicas en favor de la intuición clínica durante una crisis de resultados pone en evidencia un fallo en:",
       "options": [
-        "Las creencias ocultas arraigadas, los prejuicios sobre promoción laboral y los mecanismos inconfesables para manejar tensiones internas de grupo",
-        "Los discursos estipulados de liderazgo oficial, las políticas escritas de gestión integral y los reglamentos formalmente difundidos al exterior",
-        "Las expresiones tangibles como la identidad cromática corporativa, nivel tecnológico visible, morfología de las instalaciones e indumentaria aplicada a los equipos",
-        "La distribución matemática del organigrama institucional con base en mandos intermedios y reportes numéricos transnacionales"
+        "El nivel superficial de los artefactos tangibles y el diseño visual",
+        "La consolidación técnica de los descriptores del rol analítico",
+        "La capa profunda de los supuestos básicos operantes",
+        "La formulación estructural del organigrama corporativo general"
       ],
-      "correct_answer": "Las expresiones tangibles como la identidad cromática corporativa, nivel tecnológico visible, morfología de las instalaciones e indumentaria aplicada a los equipos",
-      "accepted_variations": null,
-      "feedback": "El nivel de 'Artefactos' constituye el plano de visibilidad periférica y superficial. Todo lo que impacta el sentido de la vista, oído o comportamiento primario al aterrizar por primera vez en la corporación (instalaciones de vanguardia versus precarias, vestimenta moderna igualitaria, transporte disponible e incluso los códigos de jerga trivial entre trabajadores) operan puramente como artefactos culturales, antes de descender a capas conductuales dogmáticas."
+      "correct_answer": "La capa profunda de los supuestos básicos operantes",
+      "feedback": "Mientras los 'valores declarados' pueden presumir de modernidad y ciencia de datos en panfletos o manuales, los 'supuestos básicos' representan las convicciones silenciosas que rigen verdaderamente las decisiones críticas. Abandonar la tecnología bajo estrés desnuda cuáles son las creencias tácitas operativas que imperan en la organización."
     },
     {
       "id": 16,
-      "type": "keyword",
-      "question": "Bajo la teoría cultural corporativa de Schein, el hecho de afirmar utilizar la tecnología en la toma de decisiones pero abandonarla para decidir por instinto ante una presión extrema de calendario, saca a la luz los verdaderos _______ básicos operantes en el staff.",
-      "options": null,
-      "correct_answer": "supuestos",
-      "accepted_variations": [
-        "supuestos",
-        "supuestos basicos",
-        "supuestos básicos",
-        "los supuestos"
+      "type": "multiple_choice",
+      "question": "Durante la fase introductoria de 90 días en una gerencia deportiva, la legitimación de autoridad de un líder de performance se acelera significativamente si logra orquestar ____.",
+      "options": [
+        "evaluaciones externas",
+        "pequeñas victorias tempranas",
+        "renovaciones de contrato"
       ],
-      "feedback": "Los supuestos básicos se configuran como la capa matriz e inobservable. A menudo entran en confrontación letal contra el segundo nivel de la teoría (los valores declarados o aquello de lo que la empresa se jacta verbalmente). Descubrir que, ante crisis, se descartan los protocolos consensuados saca a relucir cómo es la verdadera creencia tácita que impera sobre la toma de decisiones sistémicas del personal interno."
+      "correct_answer": "pequeñas victorias tempranas",
+      "feedback": "Obtener quick wins (como la mejora de una dinámica alimentaria estancada o aprobar un cambio logístico demandado) proporciona al nuevo líder una validación instantánea ante el grupo. Genera credibilidad estructural inmediata que le permitirá posteriormente implementar auditorías más complejas o cambios metodológicos disruptivos de manera orgánica."
     },
     {
       "id": 17,
       "type": "multiple_choice",
-      "question": "En el crecimiento orgánico de las estructuras para performance biológico-táctico, expandir verticalmente el volumen de profesionales demanda establecer nodos intermedios para no erosionar el alineamiento. ¿A partir de qué cociente de individuos directos se aconseja instituir rigurosamente una coordinación puente?",
+      "question": "En la auditoría académica del uso de KPIs dentro de la élite deportiva, ¿qué ponderación estratégica predomina usualmente al calibrar la macroestructura del área de rendimiento en su conjunto?",
       "options": [
-        "Cada bloque superior a 2 o 3 técnicos de especialidad homogénea",
-        "Cada bloque que supere las 5 o 6 personas en vinculación inmediata de unidad operativa",
-        "Exclusivamente en bloques de más de 12 a 15 técnicos adscritos a procesos de recuperación cruzada",
-        "No existe cociente, las coordinaciones son barreras innecesarias en los modelos planos modernos"
+        "Una dependencia total de ratios de disponibilidad para maximizar el margen de venta de activos",
+        "Un balance equitativo fijado en 50% de indicadores orientados al proceso y 50% orientados al resultado",
+        "Una ponderación exclusiva de las métricas tácticas filtradas por la visión del cuerpo técnico interino",
+        "Un 90% enfocado hacia el proceso interno, asumiendo una total resignación ante la volatilidad competitiva"
       ],
-      "correct_answer": "Cada bloque que supere las 5 o 6 personas en vinculación inmediata de unidad operativa",
-      "accepted_variations": null,
-      "feedback": "A medida que proliferan especialistas dentro del equipo (sport scientists, analistas de fuerza y rehabilitadores), toda unidad enlazada a un coordinador único que perfore el tope demográfico operativo de 5 o 6 especialistas provocará fugas informativas graves, pérdida del hilo metodológico conductual o colapso del coordinador. Segmentar y dotar de mandos de línea intermedios salvaguarda la eficacia jerárquico-procesal."
+      "correct_answer": "Un balance equitativo fijado en 50% de indicadores orientados al proceso y 50% orientados al resultado",
+      "feedback": "La evidencia publicada establece que, si bien a nivel individual la evaluación recae casi por completo en métricas de proceso (controlables), a nivel macro-departamental se sostiene un equilibrio 50/50. Esto asegura blindar el rigor técnico de la rutina diaria sin perder de vista que el mandato final de la institución es garantizar el éxito biológico del conjunto."
     },
     {
       "id": 18,
       "type": "multiple_choice",
-      "question": "Aplicar de inicio el axioma de que 'el mapa no es el territorio' al desembarcar operativamente en un área gerencial deportiva de alto nivel obliga al profesional a:",
+      "question": "En el crecimiento escalar de un departamento táctico-físico, el diseño orgánico aconseja imperativamente fracturar la unidad y establecer un nodo puente o coordinación intermedia cuando el bloque de intervención directa excede:",
       "options": [
-        "Ignorar inmediatamente el organigrama presentado, diseñando un plano jerárquico disruptivo fundamentado en modelos teóricos anglosajones de alta intensidad burocrática",
-        "Comprender la realidad tangible antes de operar, evitando ser arrastrado hacia la pasividad estéril o la hiperactividad agresiva en un plazo de inserción de 90 días",
-        "Forzar auditorías holárquicas externas que impongan un cambio súbito de mentalidad hacia herramientas de medición tecnológicas de proceso analítico",
-        "Implantar microculturas periféricas, delegando transitoriamente el poder de toma de decisiones estratégicas al cuerpo técnico del entrenador principal"
+        "Las 2 o 3 personas adscritas al mismo proceso",
+        "Las 5 o 6 personas vinculadas a un mismo foco operativo",
+        "Los 10 técnicos orientados exclusivamente al equipo titular",
+        "Los 15 especialistas dedicados al desarrollo a largo plazo"
       ],
-      "correct_answer": "Comprender la realidad tangible antes de operar, evitando ser arrastrado hacia la pasividad estéril o la hiperactividad agresiva en un plazo de inserción de 90 días",
-      "accepted_variations": null,
-      "feedback": "El territorio representa las dinámicas reales (cultura profunda, historial sociológico de ascensos de los miembros, conflictos arraigados no declarados y motivaciones individuales) que muy raramente coinciden con el documento estéril del diseño jerárquico (mapa). Evaluar pacíficamente pero logrando victorias tempranas asegura tracción sistémica y evita amputar relaciones críticas durante la asimilación del puesto."
+      "correct_answer": "Las 5 o 6 personas vinculadas a un mismo foco operativo",
+      "feedback": "Mantener un enjambre de docenas de sport scientists reportando a un solo director garantiza un cuello de botella comunicacional masivo. Al sobrepasar el umbral de 5 o 6 integrantes operativos, la literatura organizativa demanda instaurar coordinaciones que mantengan la limpieza de reporte, la cohesión del modelo y eviten la saturación de liderazgo."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "En el plano del diseño sistémico y el management deportivo, el descriptor detallado de funciones y tareas interdepartamentales constituye fundamentalmente:",
+      "options": [
+        "Un requerimiento legal obligatorio y de carácter puramente archivístico",
+        "Una barrera defensiva para que el área de rendimiento bloquee injerencias externas del presidente",
+        "Una herramienta directiva que extingue zonas de ambigüedad al delinear responsabilidades transversales precisas",
+        "Un documento confidencial que fomenta la estandarización de terapias médicas limitando la individualización"
+      ],
+      "correct_answer": "Una herramienta directiva que extingue zonas de ambigüedad al delinear responsabilidades transversales precisas",
+      "feedback": "El descriptor trasciende su formato de papel para operar como un reductor drástico de incertidumbre. Clarifica qué competencias exactas ostenta cada miembro, hasta dónde se extiende la responsabilidad cruzada de su puesto con otros especialistas y mediante qué indicadores numéricos se validará anualmente su desempeño táctico-biológico."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Al ejecutar la metodología SMART para establecer métricas departamentales, la fijación estratégica de culminar con éxito el 100% de las revisiones oftalmológicas se categoriza irrefutablemente como:",
+      "options": [
+        "Una imposición biomédica inalcanzable ante las variables del azar competitivo",
+        "Una pauta orientada al resultado, supeditada a las decisiones de la gerencia comercial",
+        "Un mandato holárquico carente de sentido cronológico a medio plazo",
+        "Un indicador de proceso puro que recae íntegra y absolutamente bajo la órbita de ejecución del staff"
+      ],
+      "correct_answer": "Un indicador de proceso puro que recae íntegra y absolutamente bajo la órbita de ejecución del staff",
+      "feedback": "A diferencia de los KPIs de resultado (como mejorar la capacidad visual real, que sufre imponderables como adaptaciones neurales del sujeto), completar el volumen total de diagnósticos es un objetivo de proceso. Depende única y exclusivamente de la planificación logística, capacidad ejecutiva y dedicación organizativa del cuerpo multidisciplinario a cargo."
     }
   ]
 }
