@@ -1,210 +1,190 @@
 {
-  "class_title": "Acondicionamiento físico y rendimiento en el béisbol profesional",
+  "class_title": "El rol del S&C Coach y Performance Science en el béisbol",
   "total_questions": 15,
   "questions": [
     {
       "id": 1,
       "type": "multiple_choice",
-      "question": "El calendario competitivo del béisbol profesional exige disputar hasta 214 partidos en siete meses. ¿Qué repercusión principal tiene esta densidad competitiva sobre la epidemiología lesional del deporte?",
+      "question": "Dada la densidad competitiva extrema del béisbol con hasta 214 partidos en siete meses, ¿qué alteración principal se produce en la epidemiología lesional del deportista en comparación con otros deportes de equipo?",
       "options": [
-        "Predominan las lesiones musculares por isquemia aguda debido a la alta demanda anaeróbica láctica.",
-        "Las lesiones se caracterizan por ser predominantemente articulares debido a los mecanismos de sobreuso crónico.",
-        "Las lesiones por impacto traumático superan a las metabólicas debido a la velocidad de la pelota.",
-        "La carga aguda provoca principalmente roturas de ligamento cruzado anterior en los desplazamientos entre bases."
+        "El alto volumen de 'high-speed running' incrementa drásticamente las roturas de isquiotibiales.",
+        "El estrés traumático directo por impacto genera el mayor porcentaje de bajas médicas.",
+        "Las lesiones metabólicas superan a las musculoesqueléticas por la acumulación sistémica de lactato.",
+        "Las lesiones articulares crónicas por sobreuso predominan sobre las roturas musculares agudas."
       ],
-      "correct_answer": "Las lesiones se caracterizan por ser predominantemente articulares debido a los mecanismos de sobreuso crónico.",
-      "accepted_variations": null,
-      "feedback": "El béisbol es el deporte de equipo con mayor densidad de partidos, compitiendo casi a diario. Esta enorme carga crónica transforma el perfil lesional clínico, alejándolo de las típicas roturas agudas musculares de otros deportes (como el fútbol) y concentrando el riesgo en problemas articulares por sobreuso, especialmente en hombro y codo a causa de la repetitividad de los lanzamientos."
+      "correct_answer": "Las lesiones articulares crónicas por sobreuso predominan sobre las roturas musculares agudas.",
+      "feedback": "Al competir prácticamente a diario durante siete meses, la carga crónica se dispara exponencialmente. Esto aleja el perfil lesional de los traumas agudos típicos de los deportes de invasión, concentrando el riesgo en el deterioro progresivo y estructural de las articulaciones por el sobreuso continuo, especialmente en el complejo hombro-codo."
     },
     {
       "id": 2,
       "type": "true_false",
-      "question": "La técnica quirúrgica de reconstrucción del ligamento colateral medial cubital (Tommy John) que utiliza un injerto de isquiotibial facilita el proceso de rehabilitación posquirúrgica al permitir enfocar el trabajo exclusivamente en el tren superior.",
+      "question": "En la reconstrucción del ligamento colateral medial ulnar (Tommy John), optar por un injerto de isquiotibial facilita la rehabilitación postquirúrgica al aislar el foco terapéutico y el estrés mecánico exclusivamente en la extremidad superior.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "La utilización de un injerto de isquiotibial hace que la rehabilitación sea significativamente más compleja y desafiante. Al extraer tejido del tren inferior para reparar el codo, el deportista presenta dos estructuras anatómicas distintas dañadas (una en extremidad superior y otra en la inferior), lo que limita las opciones de trabajo compensatorio en las primeras fases."
+      "feedback": "Es falso. La utilización del isquiotibial (hamstring graft) hace que el proceso clínico sea más complejo y desafiante, ya que el atleta pasa a tener dos estructuras dañadas en diferentes extremidades (el codo reparado y la zona donante en la pierna), lo que limita las opciones de apoyo y carga de peso corporal en las fases iniciales."
     },
     {
       "id": 3,
-      "type": "keyword",
-      "question": "La pérdida de un jugador por una lesión articular de larga duración desajusta drásticamente la carga del resto del plantel, provocando un efecto en cadena que eleva el riesgo de nuevas lesiones, fenómeno descrito metafóricamente como un _______ _______.",
-      "options": null,
-      "correct_answer": "incendio forestal",
-      "accepted_variations": [
-        "incendio forestal",
+      "type": "multiple_choice",
+      "question": "En un calendario denso e ininterrumpido de uso repetitivo, la baja médica prolongada de un jugador clave altera bruscamente los minutos de juego del resto del roster, provocando un desgaste estructural en cadena que se denomina como ____.",
+      "options": [
         "un incendio forestal",
-        "incendios forestales"
+        "un déficit cruzado",
+        "una sobrecarga aláctica"
       ],
-      "feedback": "En un deporte de demandas diarias, la ausencia prolongada de un jugador clave obliga a sus compañeros (especialmente en posiciones de relevo) a asumir minutos extra no planificados. Esta alteración brusca de la carga crónica aumenta exponencialmente las probabilidades de que los compañeros sanos también se lesionen, propagando las bajas médicas en el equipo como un incendio forestal."
+      "correct_answer": "un incendio forestal",
+      "feedback": "La ausencia prolongada de un atleta obliga a redistribuir minutos de juego no planificados entre los compañeros que están sanos. Este incremento abrupto y descontrolado de la carga crónica eleva dramáticamente las probabilidades de que ellos también se lesionen, generando un efecto dominó que arrasa el estado físico de la plantilla."
     },
     {
       "id": 4,
       "type": "multiple_choice",
-      "question": "Durante la 'fase cero' o postquirúrgica inmediata tras una reconstrucción de codo, el atleta porta un 'brace' con limitación de grados. Desde la perspectiva de la readaptación neuromuscular, ¿cuál es la estrategia principal de intervención física segura?",
+      "question": "Durante la fase cero o postquirúrgica inmediata tras una cirugía de codo, el uso de un 'brace' con restricción de grados articulares plantea un desafío clínico severo. ¿Cuál es la principal estrategia de intervención física segura y efectiva en este punto para el S&C coach?",
       "options": [
-        "Suspender cualquier estímulo mecánico hasta la cicatrización completa del tejido.",
-        "Iniciar contracciones isométricas máximas del bíceps para mitigar la atrofia del compartimento anterior.",
-        "Realizar movilizaciones escapulares (abducción/aducción) integradas al entrenamiento de las extremidades contralaterales.",
-        "Aplicar altas dosis de estimulación eléctrica de baja frecuencia exclusivamente sobre la incisión quirúrgica."
+        "Someter la articulación operada a tracciones pasivas de alta intensidad para evitar la fibrosis del injerto de manera aguda.",
+        "Estimular el sistema nervioso ejecutando trabajo de fuerza con el brazo y pierna contralaterales.",
+        "Suspender absolutamente todo estímulo de fuerza y movilidad sistémica para focalizar la energía metabólica en la cicatrización del tejido.",
+        "Aplicar altas dosis de isometría máxima sostenida directamente sobre los músculos flexores de la muñeca del brazo recién operado."
       ],
-      "correct_answer": "Realizar movilizaciones escapulares (abducción/aducción) integradas al entrenamiento de las extremidades contralaterales.",
-      "accepted_variations": null,
-      "feedback": "La inmovilización parcial de la articulación reparada no justifica el reposo absoluto del cuerpo. El objetivo es mantener el atleta funcional estimulando estructuras adyacentes seguras (como estabilizadores de la escápula) y maximizando el efecto de irradiación neurológica central ("cross-education") mediante el trabajo de fuerza en las extremidades sanas."
+      "correct_answer": "Estimular el sistema nervioso ejecutando trabajo de fuerza con el brazo y pierna contralaterales.",
+      "feedback": "La inmovilización parcial del codo no justifica el reposo absoluto del atleta. El preparador físico debe aprovechar los mecanismos biológicos de transferencia cruzada neurológica entrenando las extremidades contralaterales sanas, además de movilizar articulaciones libres adyacentes como la escápula, preservando un tono óptimo sin arriesgar el tejido en reparación."
     },
     {
       "id": 5,
-      "type": "keyword",
-      "question": "Para mitigar la fatiga acumulada y prevenir episodios de calambres musculares en un calendario ininterrumpido, el equipo multidisciplinario evalúa objetivamente a diario los niveles de deshidratación celular del jugador utilizando la tecnología del dispositivo _______. ",
-      "options": null,
-      "correct_answer": "mx3",
-      "accepted_variations": [
-        "mx3",
-        "el mx3",
-        "dispositivo mx3",
-        "sistema mx3"
+      "type": "multiple_choice",
+      "question": "Para un jugador en la posición de 'catcher', la exigencia biomecánica de pasar instantáneamente de una posición estática profunda de cuclillas a un lanzamiento balístico explosivo hacia las bases exige priorizar en su acondicionamiento un trabajo intenso enfocado en ____.",
+      "options": [
+        "su movilidad cervical",
+        "su resistencia aeróbica",
+        "su footwork y agilidad"
       ],
-      "feedback": "La monitorización de la carga interna y el estado fisiológico de recuperación es una práctica innegociable en el béisbol moderno. El MX3 es una de las herramientas portátiles señaladas para cuantificar marcadores biológicos salivales de deshidratación, permitiendo al nutricionista prescribir intervenciones agudas de reposición hídrica antes del inicio del juego."
+      "correct_answer": "su footwork y agilidad",
+      "feedback": "El receptor o 'catcher' pasa la mayor parte del partido hincado bloqueando pelotas. Poder cambiar de manera reactiva desde esta postura flexionada hacia una posición biomecánicamente sólida y estable para lanzar la pelota exige una coordinación motriz fina y agilidad de pies (footwork) excepcional."
     },
     {
       "id": 6,
-      "type": "multiple_choice",
-      "question": "Dada la morfología del campo de béisbol, donde la distancia de separación entre cada base es de 30 yardas, ¿qué orientación biomotora primaria debe guiar los bloques de acondicionamiento físico de los jugadores de campo?",
-      "options": [
-        "Desarrollar la capacidad aeróbica extensiva mediante carrera continua prolongada.",
-        "Maximizar el 'high-speed running' intermitente con volúmenes superiores a los del fútbol.",
-        "Fomentar la resistencia isométrica pura del tren inferior orientada a las posturas defensivas prolongadas.",
-        "Priorizar la reactividad neuromuscular y los sprints cortos explosivos de naturaleza anaeróbica aláctica."
-      ],
-      "correct_answer": "Priorizar la reactividad neuromuscular y los sprints cortos explosivos de naturaleza anaeróbica aláctica.",
-      "accepted_variations": null,
-      "feedback": "A diferencia de deportes de invasión prolongada, el béisbol carece de desplazamientos aeróbicos altos. Las acciones competitivas exigen pasar de un estado de latencia a velocidad máxima absoluta ('0 a 100') para recorrer 30 yardas. Por consiguiente, la especificidad biomecánica obliga a priorizar el sistema anaeróbico a través de aceleraciones reactivas y sprints muy breves."
-    },
-    {
-      "id": 7,
       "type": "true_false",
-      "question": "La aparición de dolor articular y sintomatología de agujetas ('sore') en etapas avanzadas de la readaptación al retomar los lanzamientos (Throwing Program) es un claro indicador patológico que obliga a retroceder en la fase clínica y detener la mecánica de inmediato.",
+      "question": "Durante la fase aguda de inmovilización postquirúrgica, la pauta nutricional incluye suplementación a base de remolacha (beetroot) primariamente por su potente efecto termogénico que suprime el apetito y frena el aumento de tejido adiposo.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es falso. Experimentar sensaciones de sobrecarga ('sore') o molestias puntuales es una respuesta biológica totalmente natural al someter nuevamente las estructuras cicatrizadas al estrés multiplanar extremo de lanzar una pelota tras meses de inactividad. El reto crítico del especialista no es detener el programa, sino liderar una gestión psicológica y comunicativa para no generar miedo ni retrocesos mentales en la confianza del deportista."
+      "feedback": "Falso. Aunque evitar el aumento de tejido adiposo en fases de inactividad es crucial, la suplementación clínica con remolacha se prescribe específicamente por su alto aporte de nitratos que promueven la vasodilatación sistémica. Esto optimiza el flujo sanguíneo y asegura el transporte vital de nutrientes y oxígeno hacia los tejidos en pleno proceso de regeneración."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "En el marco fisiológico del Síndrome General de Adaptación, el calendario ininterrumpido de 162 partidos expone al atleta a una sobreexcitación celular constante. ¿Qué intervención específica resulta crítica para el equipo multidisciplinario de cara a consolidar el 'performance'?",
+      "options": [
+        "Sesiones de estiramiento pasivo excéntrico de altísimo volumen superior a dos horas de duración.",
+        "Sustitución incondicional de los bloques de gimnasio pesado por masajes de descarga en camilla profunda.",
+        "Prácticas estructuradas de respiración diafragmática y 'mindfulness' para atenuar la alerta nerviosa.",
+        "Protocolos diarios de inmersión en crioterapia sistémica focalizada en reducir procesos autoinmunes musculares."
+      ],
+      "correct_answer": "Prácticas estructuradas de respiración diafragmática y 'mindfulness' para atenuar la alerta nerviosa.",
+      "feedback": "El atleta de élite suele subestimar sistemáticamente la fase valle o de descanso del Síndrome de Adaptación. Integrar estrategias pasivas que logren apagar el estado de alerta aguda del sistema nervioso central (como el mindfulness y la respiración diafragmática post-gimnasio) facilita que el organismo reduzca el cortisol, baje las pulsaciones y consolide genuinamente el rendimiento."
     },
     {
       "id": 8,
-      "type": "keyword",
-      "question": "Para transformar una simple rutina de activación en una potente herramienta de evaluación cualitativa que arroje información inmediata para el equipo médico, el Strength Coach utiliza la metodología estructurada conocida como calentamiento dinámico o protocolo _______. ",
-      "options": null,
-      "correct_answer": "ramp",
-      "accepted_variations": [
-        "ramp",
-        "protocolo ramp",
-        "el ramp",
-        "sistema ramp",
-        "método ramp"
+      "type": "true_false",
+      "question": "El calentamiento dinámico colectivo y estructurado (formato RAMP) tiene como única función fisiológica elevar la temperatura sinovial pre-esfuerzo, por lo que carece de utilidad práctica para el análisis de deficiencias estructurales agudas.",
+      "options": [
+        "Verdadero",
+        "Falso"
       ],
-      "feedback": "El calentamiento (Raise, Activate, Mobilize, Potentiate) representa el primer filtro del día. Aprovechar este momento permite al S&C visualizar dismetrías, estados de tensión muscular o signos de fatiga sistémica ('sudoración anormal, caras de esfuerzo') que, al reportarse inmediatamente al equipo de salud, se traducen en planes de intervención preventiva antes de que el jugador se lesione."
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Para un preparador físico observador, el momento del 'warm up dynamic stretch' funciona operativamente como el primer filtro clínico del día. Observar de primera mano asimetrías de movimiento, falta de fluidez, sudoración excesiva o gestos de dolor facial permite recopilar información visual inestimable y aplicar ajustes antes del entrenamiento."
     },
     {
       "id": 9,
       "type": "multiple_choice",
-      "question": "A medida que el atleta avanza a las fases intermedias (2 y 3) de la rehabilitación, el perfilado de fuerza de extremidad superior requiere de plataformas de medición precisas. ¿Qué variable biomecánica específica permite cuantificar el dispositivo Tindeck?",
+      "question": "De acuerdo con el perfil operativo del Certified Performance Sport Scientist (CPSS), ¿cuál es la verdadera competencia de élite que determina la utilidad clínica final de los datos biométricos recogidos en una franquicia deportiva profesional?",
       "options": [
-        "El coeficiente de rigidez tendinosa (stiffness) mediante vibración localizada.",
-        "El volumen máximo de oxígeno tisular periférico en estado de reposo.",
-        "La producción de picos de fuerza isométrica en acciones de rotación y tracción.",
-        "La aceleración balística en el momento exacto de soltar la bola ('release point')."
+        "El diseño de bases de datos cerradas que restrinjan la confidencialidad biométrica exclusivamente hacia la alta gerencia corporativa.",
+        "La habilidad de comunicar asertivamente y traducir los datos fríos cruzándolos con la observación clínica en el terreno de juego.",
+        "La destreza para automatizar la gestión diaria de cargas sin margen de error mediante software predictivo algorítmico de inteligencia artificial.",
+        "La capacidad metodológica de aislar al jugador de su entorno táctico para medir vectores de fuerza libres de variables psicológicas."
       ],
-      "correct_answer": "La producción de picos de fuerza isométrica en acciones de rotación y tracción.",
-      "accepted_variations": null,
-      "feedback": "El Tindeck opera esencialmente como una celda de tracción. En las etapas donde la arquitectura del tejido aún no tolera contracciones excéntricas agresivas o dinámicas de alta velocidad, esta herramienta objetiva la tolerancia de carga del manguito rotador permitiendo a los especialistas cuantificar el output de fuerza isométrica máxima (MVIC) bajo ángulos seguros."
+      "correct_answer": "La habilidad de comunicar asertivamente y traducir los datos fríos cruzándolos con la observación clínica en el terreno de juego.",
+      "feedback": "La recopilación de métricas numéricas por sí sola proporciona una visión plana ('una foto en blanco y negro'). El verdadero impacto del CPSS no reside en tabular métricas encerrado tras un computador, sino en tomar un café, salir al diamante, observar la dinámica táctica del juego y poseer la fluidez comunicativa para darle 'color' a esos datos en las reuniones de toma de decisiones del cuerpo técnico."
     },
     {
       "id": 10,
       "type": "multiple_choice",
-      "question": "Un Performance Sport Scientist (CPSS) no se define únicamente por su dominio algorítmico y matemático. Según la ponencia, ¿cuál es la competencia operativa que verdaderamente determina el éxito y la utilidad de este profesional dentro de la franquicia?",
+      "question": "Al reintroducir la biomecánica veloz de los lanzamientos tras un largo proceso de inactividad quirúrgica, experimentar sensaciones de molestia natural ('soreness') a nivel articular frecuentemente desata en el jugador ____.",
       "options": [
-        "Habilidad para construir interfaces de programación complejas exclusivas para la alta gerencia del equipo.",
-        "La capacidad comunicativa para traducir la rigidez de los datos crudos en la práctica clínica diaria en el campo y facilitar la toma de decisiones.",
-        "Delegar por completo la observación técnica subjetiva hacia sistemas automatizados por inteligencia artificial de circuito cerrado.",
-        "Evitar la participación del staff médico en la periodización de cargas agudas para reducir las variables de confusión."
+        "un incremento rápido de su fuerza isocinética",
+        "un rechazo agudo a las terapias manuales de drenaje",
+        "un cuadro psicológico de miedo y bloqueos mentales"
       ],
-      "correct_answer": "La capacidad comunicativa para traducir la rigidez de los datos crudos en la práctica clínica diaria en el campo y facilitar la toma de decisiones.",
-      "accepted_variations": null,
-      "feedback": "Los datos descontextualizados ('la foto en blanco y negro') carecen de valor. El nivel élite de la certificación CPSS prepara al especialista para ir al terreno de juego, cruzar el rigor de la estadística con el arte del coaching visual, y sobre todo, dominar un lenguaje común para comunicar efectivamente esta síntesis al cuerpo técnico (entrenadores, médicos y preparadores) logrando intervenciones reales."
+      "correct_answer": "un cuadro psicológico de miedo y bloqueos mentales",
+      "feedback": "Reintegrar la cápsula articular a velocidades extremas genera irremediablemente dolores de adaptación celular ('sore'). No obstante, ante el simple concepto de la palabra 'dolor', el atleta suele desarrollar un nivel de aprensión brutal, asumiendo erróneamente que la cirugía fracasó. Es imperativo que el staff gestione este miedo para no truncar la evolución mecánica."
     },
     {
       "id": 11,
       "type": "multiple_choice",
-      "question": "La transición hacia la fase final de rehabilitación ('Return to Play') presenta vulnerabilidades procedimentales severas en muchas organizaciones. ¿Qué fallo estructural en la gestión multidisciplinaria suele ocurrir justo en esta etapa?",
+      "question": "A pesar de la aparente pasividad metabólica del béisbol en contraste con deportes de invasión prolongada (fútbol, baloncesto), ¿qué orientación biomotora específica determina ineludiblemente la preparación física de los desplazamientos entre bases?",
       "options": [
-        "El jugador es transferido obligatoriamente a ligas menores perdiendo su estado de prospecto.",
-        "El departamento legal del club asume el control total impidiendo la evaluación funcional final.",
-        "Al observar funcionalidad estructural en el jugador, se asume un alta precoz debilitando las reuniones del cuerpo técnico y descuidando el miedo psicológico del atleta.",
-        "Se prioriza erróneamente la suplementación proteica por encima de la periodización táctica."
+        "El desarrollo de la capacidad aeróbica extensiva enfocada estructuralmente en la vascularización capilar del tren inferior.",
+        "El incremento de la tolerancia máxima láctica periférica ante esfuerzos de carrera continua superiores a un minuto de latencia.",
+        "El acondicionamiento hacia la potencia anaeróbica aláctica estricta mediante aceleraciones y sprints explosivos muy reactivos.",
+        "El perfeccionamiento de la resistencia isométrica profunda para sostener el equilibrio rotacional durante el vuelo de la bola."
       ],
-      "correct_answer": "Al observar funcionalidad estructural en el jugador, se asume un alta precoz debilitando las reuniones del cuerpo técnico y descuidando el miedo psicológico del atleta.",
-      "accepted_variations": null,
-      "feedback": "Suele ser un grave error asumir que la curación tisular (ligamento/hueso sólido) equivale a la preparación mental para competir. Es en la fase tardía donde la constante comunicación multidisciplinaria a menudo colapsa prematuramente, abandonando el aspecto psicológico ('mental health') justo cuando el atleta sufre mayores cuadros de aprensión y miedo ante la recaída."
+      "correct_answer": "El acondicionamiento hacia la potencia anaeróbica aláctica estricta mediante aceleraciones y sprints explosivos muy reactivos.",
+      "feedback": "El béisbol carece de desplazamientos aeróbicos de larga duración de 'high-speed running'. Su demanda posicional obliga a un jugador a pasar de inactividad absoluta a un estado de aceleración nerviosa reactiva para recorrer las 30 yardas entre bases. Esto depende exclusivamente del sistema energético anaeróbico explosivo (aceleraciones breves de 0 a 100)."
     },
     {
       "id": 12,
       "type": "multiple_choice",
-      "question": "En el marco fisiológico del Síndrome General de Adaptación, ¿qué mecanismo biológico esencial para la supercompensación y el aumento del 'performance' tiende a ser subestimado de forma sistemática por el jugador moderno?",
+      "question": "Al alcanzar las delicadas fases intermedias (2 y 3) de la readaptación funcional del manguito rotador, las estructuras aún no toleran acciones excéntricas a gran velocidad de elongación. En este punto, ¿qué parámetro mecánico se monitoriza objetivamente mediante dinamómetros como el Tindeck?",
       "options": [
-        "La respuesta hipertrófica al entrenamiento excéntrico supramáximo.",
-        "Las estrategias pasivas de restitución fisiológica, como la calidad del sueño, nutrición e hidratación.",
-        "El trabajo propioceptivo postural sobre superficies inestables tipo bosu.",
-        "La optimización de los vectores de fuerza en movimientos multiplanares de la escápula."
+        "La oxigenación capilar periférica de la musculatura del antebrazo sometida a alta tracción tendinosa ininterrumpida.",
+        "La rigidez elástica de la fascia toracolumbar contralateral durante las simulaciones balísticas cortas.",
+        "La aceleración de salida tangencial de la pelota medida cinemáticamente en el punto de soltado ('release point').",
+        "La producción voluntaria de picos de fuerza isométrica pura bajo diversas angulaciones controladas y bioseguras."
       ],
-      "correct_answer": "Las estrategias pasivas de restitución fisiológica, como la calidad del sueño, nutrición e hidratación.",
-      "accepted_variations": null,
-      "feedback": "El deportista asume equívocamente que las adaptaciones se forjan solo mediante el desgaste del gimnasio ('pesas'). No obstante, el pico de rendimiento solo emerge en la fase valle del Síndrome de Adaptación; si el atleta no gestiona el descanso del sistema nervioso (evitando sobreexcitación neuronal) y no repone fluidos y nutrientes, el sistema colapsará hacia el sobreentrenamiento en un calendario de 162 partidos."
+      "correct_answer": "La producción voluntaria de picos de fuerza isométrica pura bajo diversas angulaciones controladas y bioseguras.",
+      "feedback": "En las fases intermedias, someter el complejo glenohumeral a contracciones excéntricas agresivas puede dañar los anclajes del tejido reparado. Dispositivos como el Tindeck operan como celdas de fuerza, lo que brinda una herramienta de alta fiabilidad clínica para medir cómo el brazo tolera las cargas isométricas (MVIC) máximas en ángulos predecibles y protegidos."
     },
     {
       "id": 13,
-      "type": "keyword",
-      "question": "La mecánica del béisbol exige que el tren superior disipe cantidades masivas de energía cinética durante los gestos de bateo y lanzamiento, concentrando el estrés excéntrico de manera muy agresiva en las estructuras del _______ _______ del hombro.",
-      "options": null,
-      "correct_answer": "manguito rotador",
-      "accepted_variations": [
-        "manguito rotador",
-        "el manguito rotador",
-        "los manguitos rotadores",
-        "complejo del manguito rotador"
-      ],
-      "feedback": "La transferencia balística de rotación interna durante el lanzamiento expone a los músculos estabilizadores posteriores del hombro (manguito de los rotadores) a fuerzas de distracción brutales en la fase de desaceleración. Su déficit de fuerza excéntrica específica es el principal predictor de lesiones estructurales masivas de la articulación glenohumeral."
-    },
-    {
-      "id": 14,
       "type": "true_false",
-      "question": "Para contener las variaciones indeseadas de composición corporal en atletas inactivos post-cirugía, el protocolo nutricional clínico utiliza extractos de remolacha por su potente función termogénica y de supresión del apetito central.",
+      "question": "Si en la fase final de rehabilitación el atleta reporta una excelente recuperación al nutricionista, pero paralelamente manifiesta dolor crónico y pesadez física ante el readaptador de campo, la solución protocolar dicta que cada departamento estructure su progresión de carga independientemente.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es falso. La inclusión de suplementación basada en remolacha ('beetroot') en fases de inmovilización no persigue funciones supresoras del apetito. Su objetivo fisiológico real es el aporte exógeno de nitratos para inducir vasodilatación sistémica, optimizando el flujo sanguíneo, la oxigenación y el suministro de nutrientes hacia los tejidos en pleno proceso de regeneración."
+      "feedback": "Falso. Frente a la aprensión o el afán por regresar (y evitar perder su puesto táctico), el deportista puede mentir u omitir sintomatología deliberadamente dependiendo del miembro del cuerpo técnico con el que hable. Por ello, es innegociable mantener una cohesión transversal estricta y alinear el mensaje de toda la franquicia para impedir una fractura clínica y evitar una alta precipitada."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "La programación preventiva de cargas crónicas muestra asimetrías operativas extremas según el rol del lanzador. A nivel táctico y de dosificación, ¿por qué la gestión de carga de un pitcher relevista resulta considerablemente más volátil y compleja que la de un pitcher abridor?",
+      "options": [
+        "Porque el abridor nunca supera el estricto umbral normativo de 150 lanzamientos por partido bajo ninguna regulación táctica de la liga norteamericana.",
+        "Porque los relevistas carecen intrínsecamente de adaptaciones protectoras cartilaginosas en el codo tras haber iniciado su desarrollo motor en el 'infield'.",
+        "Porque el abridor utiliza exclusivamente repertorios de curvas agresivas que disparan el estrés mecánico articular de compresión, mientras el relevista solo lanza rectas.",
+        "Porque la imprevisibilidad pura del marcador obliga al relevista a activar picos neurológicos máximos de lanzamiento en días consecutivos sin ventanas de recuperación estables."
+      ],
+      "correct_answer": "Porque la imprevisibilidad pura del marcador obliga al relevista a activar picos neurológicos máximos de lanzamiento en días consecutivos sin ventanas de recuperación estables.",
+      "feedback": "El 'starter' o abridor genera volúmenes agudos bestiales (superando los 100 lanzamientos continuos), pero el staff se ampara en un microciclo de descanso extremadamente rígido (compite aproximadamente cada cinco días). El cerrador o relevista depende del caos del juego: la táctica dicta si lanza hoy, mañana e incluso pasado mañana, lo que anula la posibilidad de planificar correctamente la supercompensación."
     },
     {
       "id": 15,
       "type": "multiple_choice",
-      "question": "La gestión de carga ('load management') en la posición de pitcher es radicalmente asimétrica y dependiente del rol táctico. ¿Por qué el control de carga crónica de un 'relevista' entraña una complejidad fisiológica superior frente a la de un 'abridor'?",
+      "question": "Bajo la directriz filosófica 'Gutta cavat lapidem' (la gota horada la piedra) instaurada por el ponente, ¿cuál debe ser la premisa procedimental primaria del preparador físico ante un jugador que manifiesta fatiga sistémica severa un día de partido?",
       "options": [
-        "Porque el abridor lanza exclusivamente bolas curvas de gran impacto articular, mientras que el relevista solo lanza rectas.",
-        "Porque la naturaleza táctica del partido puede obligar a un relevista a lanzar máxima intensidad en múltiples días consecutivos sin rutinas de descanso establecidas.",
-        "Porque el abridor nunca supera los 50 lanzamientos por partido bajo ninguna regulación táctica de las ligas mayores.",
-        "Porque los relevistas carecen de adaptaciones anatómicas previas en la rotación externa al ser jugadores convertidos de otras posiciones del campo ('infield')."
+        "Suspender automáticamente cualquier estímulo hipertrófico y transferir el entrenamiento a terapias aisladas de termoterapia pasiva y masaje hasta recuperar parámetros basales.",
+        "Reemplazar por completo toda la estructura metodológica a medio plazo e instaurar periodizaciones de choque hiperagresivas para forzar un pico tardío.",
+        "Ejecutar a toda costa los volúmenes teóricos y la intensidad prescrita en la hoja de Excel para desencadenar el pico fisiológico de supercompensación estacional.",
+        "Mantener el estímulo de manera inteligente realizando adaptaciones clínicas inmediatas a la carga para ser perseverantes y persistentes dentro de la variabilidad de la temporada."
       ],
-      "correct_answer": "Porque la naturaleza táctica del partido puede obligar a un relevista a lanzar máxima intensidad en múltiples días consecutivos sin rutinas de descanso establecidas.",
-      "accepted_variations": null,
-      "feedback": "El lanzador abridor (Starter) se expone a cargas agudas altísimas (100+ lanzamientos) pero goza de un microciclo rígido y predecible (1 partido cada 5 días). En contraste, el relevista/cerrador vive en un estado de estrés caótico: el marcador dicta si compite. Esto los aboca a lanzar a máxima intensidad hoy, mañana y pasado mañana, dificultando el diseño de las sesiones de fuerza en el gimnasio y elevando su fragilidad ante lesiones por uso repetitivo."
+      "correct_answer": "Mantener el estímulo de manera inteligente realizando adaptaciones clínicas inmediatas a la carga para ser perseverantes y persistentes dentro de la variabilidad de la temporada.",
+      "feedback": "El principio de Ovidio argumenta que los verdaderos cimientos mecánicos de un jugador de élite no se forjan forzando cargas irreales cuando el atleta no está preparado. Ante un jugador enfermo o fatigado, el éxito del staff radica en adaptar la sesión instantáneamente, bajar los pesos (ej. de 200lbs en trap bar) y priorizar la tenacidad inquebrantable de entrenar diariamente durante el extenuante calendario regular de siete meses."
     }
   ]
 }
