@@ -1,348 +1,253 @@
 {
   "class_title": "El rol del S&C Coach en el fútbol femenino - Certificación PSS",
-  "total_questions": 25,
+  "total_questions": 20,
   "questions": [
     {
       "id": 1,
-      "type": "multiple_choice",
-      "question": "Al implementar un programa de individualización correctiva de seis semanas para un déficit asimétrico de aductores (Caso Jugadora B, con estado 'Full'), la directriz metodológica óptima a nivel de dinámica de equipo consiste en:",
-      "options": [
-        "Extraer a la jugadora de la dinámica grupal para realizar la intervención en un horario secundario aislado, garantizando el aislamiento del estímulo.",
-        "Integrar el programa de fuerza correctivo en el mismo espacio y tiempo que las sesiones colectivas, aplicando un estímulo diferenciado sin desvincular a la jugadora del grupo.",
-        "Sustituir la totalidad de su carga táctica en campo por trabajo preventivo de aductores hasta que el ForceFrame indique simetría perfecta.",
-        "Pautar exclusivamente isometría de baja intensidad post-entrenamiento de campo, evitando cualquier sobrecarga excéntrica intersemanal."
-      ],
-      "correct_answer": "Integrar el programa de fuerza correctivo en el mismo espacio y tiempo que las sesiones colectivas, aplicando un estímulo diferenciado sin desvincular a la jugadora del grupo.",
-      "accepted_variations": null,
-      "feedback": "La individualización eficaz dentro de un entorno de élite no implica necesariamente aislar al deportista. Compartir el espacio y el horario con el resto del plantel favorece la cohesión del grupo, permitiendo ajustar y maximizar las necesidades mecánicas de la jugadora mediante un estímulo diferenciado (ej. plancha Copenhague, adductor squeeze) sin romper la dinámica colectiva."
-    },
-    {
-      "id": 2,
       "type": "true_false",
-      "question": "El 'Player Profile' se establece al inicio de la pretemporada como una estructura fija e inamovible que dicta la planificación biométrica de los siguientes doce meses de competición.",
+      "question": "Alcanzar la misma altura en un salto vertical (CMJ bilateral) garantiza clínicamente que dos jugadoras comparten una estrategia idéntica de producción de fuerza elástica y tiempo de contracción.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es falso. El perfil de la jugadora es un documento vivo y dinámico. Evoluciona continuamente a medida que se recolectan datos de monitorización (testing y retesting), permitiendo ajustar sistemáticamente las programaciones individuales para priorizar el desarrollo y corregir asimetrías a lo largo de la temporada."
+      "feedback": "Dos atletas pueden saltar la misma altura utilizando mecánicas neuromusculares completamente distintas. Evaluar métricas complementarias como el RSI modificado o la asimetría de impulso es imperativo para individualizar de forma precisa el estímulo pliométrico."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "En la estructuración biomecánica del Match Day -2 (día intensivo), ¿qué perfil cinético diferencia radicalmente este entrenamiento frente a la jornada extensiva previa (MD-3)?",
+      "options": [
+        "Incrementa el metraje lineal superando siempre los 7000 metros de distancia total.",
+        "Reduce drásticamente el volumen total, priorizando espacios medios y pequeños para forzar acciones explosivas.",
+        "Elimina por completo los cambios de dirección para enfocar la carga en rodajes aeróbicos regenerativos continuos.",
+        "Emplea espacios masivos para que las jugadoras acumulen la mayor cantidad de High Speed Running de la semana."
+      ],
+      "correct_answer": "Reduce drásticamente el volumen total, priorizando espacios medios y pequeños para forzar acciones explosivas.",
+      "feedback": "El MD-2 persigue un perfil de potencia explosiva ('tapering'). Para encender el sistema sin fatigar metabólicamente, se recortan los metros totales y se reducen los espacios, lo que incrementa las acciones cortas de alta intensidad y las aceleraciones."
     },
     {
       "id": 3,
-      "type": "keyword",
-      "question": "Para realizar una monitorización continua de la capacidad aeróbica intermitente reduciendo drásticamente el coste de fatiga sobre el sistema nervioso y muscular, se implementa la versión _________ del test 30/15 cruzada con la respuesta de la frecuencia cardíaca.",
-      "options": null,
-      "correct_answer": "submáxima",
-      "accepted_variations": [
-        "submáxima",
-        "submaxima",
-        "submáximo",
-        "submaximo",
-        "sub-máxima",
-        "la versión submáxima"
+      "type": "multiple_choice",
+      "question": "Segmentar los tiempos de paso cada 10 metros en un test de sprint lineal (0-30m) permite aislar mecánicamente la fase de aceleración propulsiva y localizar con exactitud los ____.",
+      "options": [
+        "picos de velocidad",
+        "déficits de oxígeno",
+        "umbrales anaeróbicos"
       ],
-      "feedback": "Ejecutar la prueba en su versión submáxima (hasta un nivel específico predeterminado) facilita el seguimiento sistemático de las adaptaciones aeróbicas y cardiovasculares de la atleta sin forzarla al límite metabólico, preservando su estado de preparación ('readiness') para las sesiones técnico-tácticas inmediatas."
+      "correct_answer": "picos de velocidad",
+      "feedback": "Diferenciar los parciales cinemáticos fracciona la fase de fuerza inicial respecto a la carrera lanzada reactiva, permitiendo diagnosticar con precisión matemática en qué momento la atleta alcanza su máxima eficiencia mecánica."
     },
     {
       "id": 4,
       "type": "multiple_choice",
-      "question": "Si durante un entrenamiento táctico los datos de telemetría (GPS en vivo) revelan que una jugadora no alcanzará las cuotas de High Speed Running estipuladas, y su frecuencia cardíaca evidencia una buena asimilación fisiológica de la carga, la intervención inmediata debe ser:",
+      "question": "Durante el Match Day -4 (día de Re-entry), ubicado inmediatamente tras un viaje o jornada de descanso total, ¿qué directriz fisiológica rige la microdosis de fuerza en sala?",
       "options": [
-        "Posponer el trabajo de compensación metabólica exclusivamente para la sesión de recuperación (MD+1) para evitar sobrecargar los tejidos contráctiles el mismo día.",
-        "Prescribir un bloque de tareas físicas suplementarias y específicas al término de esa misma sesión de campo para alcanzar el umbral de metros y zonas de velocidad pautados.",
-        "Alterar el diseño de la tarea grupal en curso, ampliando el campo para forzar que todas las jugadoras compensen el déficit de esta atleta específica.",
-        "Ignorar el déficit temporal siempre y cuando el volumen de 'Distancia Total' esté dentro de los márgenes preestablecidos por el modelo de medias móviles."
+        "Circuito de máxima hipertrofia transversal para compensar la pérdida de masa muscular durante el descanso.",
+        "Sesión balística basada en levantamientos olímpicos al 95% del 1RM.",
+        "Protocolo exhaustivo de sobrecarga excéntrica isoinercial para generar daño muscular controlado.",
+        "Isométricos largos para salud tendinosa."
       ],
-      "correct_answer": "Prescribir un bloque de tareas físicas suplementarias y específicas al término de esa misma sesión de campo para alcanzar el umbral de metros y zonas de velocidad pautados.",
-      "accepted_variations": null,
-      "feedback": "La lectura de datos en tiempo real (Live GPS) otorga una ventana crítica de intervención. Al constatar que la carga externa requerida (sprint/HSR) presenta un déficit, y validar que la respuesta cardiaca (carga interna) soporta un estímulo adicional, prescribir tareas de top-up post-sesión permite cumplir el objetivo semanal sin trasladar el problema de dosificación de carga a días posteriores."
+      "correct_answer": "Isométricos largos para salud tendinosa.",
+      "feedback": "Tras el desacondicionamiento viscoelástico del reposo o viaje, los tejidos conectivos se relajan. Las contracciones isométricas de larga duración (holds) organizan eficientemente la matriz de colágeno sin daño mecánico, preparando tendones para futuras cargas balísticas."
     },
     {
       "id": 5,
-      "type": "keyword",
-      "question": "En el análisis cinemático del CMJ, un aumento desmedido del tiempo de contracción concéntrica que impacta negativamente bajando el índice RSI, es un indicador patognomónico de que el sistema _________ no es capaz de reclutar las unidades motoras con la misma velocidad por fatiga.",
-      "options": null,
-      "correct_answer": "nervioso",
-      "accepted_variations": [
-        "nervioso",
-        "nervioso central",
-        "neuromuscular",
-        "snc"
-      ],
-      "feedback": "Cuando existe una fatiga aguda acumulada (especialmente tras alta exposición al HSR), la atleta no necesariamente sufre una caída de su fuerza estructural absoluta, sino que sufre una ralentización en la tasa de reclutamiento muscular mediada por el SNC, extendiendo el tiempo desde el punto más bajo de la sentadilla hasta el despegue balístico."
-    },
-    {
-      "id": 6,
       "type": "true_false",
-      "question": "En la evaluación biomecánica del Salto con Contramovimiento (CMJ), la altura máxima de salto es la única métrica predictiva válida para individualizar el volumen de entrenamiento pliométrico.",
+      "question": "Al analizar el output posicional en métricas de GPS, las centrocampistas dominan la variable de distancia total acumulada, mientras que las delanteras y extremos lideran las estadísticas de High Speed Running y Sprints.",
       "options": [
         "Verdadero",
         "Falso"
       ],
-      "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es falso. Alcanzar idéntica altura no garantiza el mismo perfil cinético. Diferentes atletas logran el mismo desplazamiento vertical empleando estrategias neuromusculares distintas. Métricas como el RSI modificado, el impulso concéntrico, la tasa de desarrollo de fuerza (RFD) y las asimetrías de impulso son determinantes obligatorios para programar con precisión el trabajo elástico-reactivo."
+      "correct_answer": "Verdadero",
+      "feedback": "El análisis posicional revela que las jugadoras de la medular tejen el juego asumiendo el mayor kilometraje base aeróbico. Por contra, las posiciones perimetrales de ataque operan mediante continuas rupturas violentas al espacio, saturando las demandas de alta velocidad."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Ante un cuadro donde una jugadora presenta dolor en isquiotibiales (Wellness), un volumen semanal de HSR 12% por encima de su umbral y un índice RSI desplomado en el CMJ, la interpretación neuromecánica clínica dicta:",
+      "options": [
+        "Ralentización del reclutamiento motor por fatiga del SNC, requiriendo neuroflushing activo.",
+        "Caída de la fuerza estructural bruta que obliga a prescribir sentadillas pesadas para recuperar la tensión mecánica perdida en ese microciclo.",
+        "Desadaptación aguda periférica al calzado.",
+        "Pérdida irreversible de masa magra contráctil en la cadena posterior."
+      ],
+      "correct_answer": "Ralentización del reclutamiento motor por fatiga del SNC, requiriendo neuroflushing activo.",
+      "feedback": "Un RSI bajo refleja que la atleta no ha perdido masa muscular, sino que sufre un apagón neural (fatiga central) que demora la respuesta reactiva. Exponerla a campo agravaría las micro-roturas isquiosurales; se exige un estímulo de cardio depurativo sin impacto mecánico."
     },
     {
       "id": 7,
       "type": "multiple_choice",
-      "question": "En la distribución biomecánica del microciclo, el diseño de tareas de un día extensivo (Match Day -3) exige operativamente:",
+      "question": "La integración asidua y de bajo coste de fatiga del Nordic Curl en rutinas de preactivación, facilita la detección temprana de debilidades excéntricas unilaterales en los ____.",
       "options": [
-        "Emplear espacios amplios para maximizar la exposición fisiológica a la distancia total y las demandas de High Speed Running.",
-        "Utilizar exclusivamente rondos de posesión en espacios ínfimos para multiplicar los impactos concéntricos sin acumular fatiga aeróbica.",
-        "Suprimir el trabajo de deceleración suprimiendo las transiciones y limitando la distancia global por debajo de los 3 kilómetros.",
-        "Exigir picos de producción de lactato a través de saltos verticales consecutivos sin desplazamiento horizontal."
+        "isquiotibiales",
+        "músculos peroneos",
+        "flexores de cadera"
       ],
-      "correct_answer": "Emplear espacios amplios para maximizar la exposición fisiológica a la distancia total y las demandas de High Speed Running.",
-      "accepted_variations": null,
-      "feedback": "El día MD-3 concentra la mayor exigencia de carga acumulativa de la semana. Para generar las largas distancias de aceleración necesarias para alcanzar velocidades punta (High Speed Running y Sprint) y elevar el volumen métrico general, es biomecánicamente indispensable que las tareas tácticas se desplieguen sobre dimensiones de campo amplias."
+      "correct_answer": "isquiotibiales",
+      "feedback": "La cualidad frenadora o excéntrica isquiotibial es el escudo principal ante la mecánica de sprint. El testeo recurrente mediante el Nordic revela déficits silentes y mermas neurales pre-lesionales antes de que la atleta sufra una claudicación estructural en el campo."
     },
     {
       "id": 8,
-      "type": "keyword",
-      "question": "Durante un día tipificado como reactivo (MD-1), el estímulo preparatorio microdosificado en gimnasio busca encender el sistema nervioso priorizando el 'stiffness' del tobillo y el blindaje del core mediante vectores de anti_________.",
-      "options": null,
-      "correct_answer": "extensión",
-      "accepted_variations": [
-        "extensión",
-        "extension",
-        "antiextensión",
-        "antiextension",
-        "anti-extensión"
+      "type": "multiple_choice",
+      "question": "El retorno de una jugadora tras una ventana FIFA transoceánica (tres partidos, jet lag severo) exige un abordaje drásticamente distinto al de un amistoso local. ¿Cuál es el protocolo prioritario de reintegración?",
+      "options": [
+        "Mantener idénticos los objetivos de carga externa (GPS) para no descompensar la media móvil del equipo durante ese mesociclo.",
+        "Sometimiento inmediato al Match Day -3 para nivelar su estado de forma con el resto de la plantilla.",
+        "Aislamiento absoluto del campo y restricción de cualquier labor preventiva en sala durante una semana.",
+        "Reintroducción gradual y conservadora enfocada en neuroflushing e hidratación."
       ],
-      "feedback": "El microdosing del día anterior al partido emplea tiempos ultracortos (10-15 min) centrados puramente en despertar vías neurales eferentes. Ejercicios reactivos para la rigidez tendinosa (stiffness) combinados con patrones de antiextensión preparan la columna para la transferencia de fuerzas balísticas y previenen fugas de energía cinética sin generar acidosis metabólica residual."
+      "correct_answer": "Reintroducción gradual y conservadora enfocada en neuroflushing e hidratación.",
+      "feedback": "El estrés multidimensional de un viaje intercontinental (husos horarios, deshidratación, presión mental en clasificaciones) deja al sistema hipervulnerable. La reintegración no puede ser lineal; exige proteger el tejido priorizando la depuración celular y el sueño antes del alto impacto."
     },
     {
       "id": 9,
       "type": "multiple_choice",
-      "question": "Dentro del análisis cualitativo de una frenada y cambio de dirección a alta velocidad, una compensación patológica que exige intervención preventiva inmediata por su vinculación estructural a roturas del LCA es:",
+      "question": "Si la telemetría in vivo indica que una jugadora se quedará corta en sus cuotas tácticas de High Speed Running del día, pero su respuesta de frecuencia cardíaca y percepción (RPE) es óptima, la intervención estipulada es:",
       "options": [
-        "La flexión plantar controlada en la fase de amortiguación.",
-        "El colapso medial o valgo dinámico de la articulación de la rodilla y las rotaciones excesivas del tronco.",
-        "El mantenimiento del stiffness puro del complejo Aquiles-sóleo durante el despegue.",
-        "Una coactivación isométrica simultánea del core en antiextensión."
+        "Pausar el entrenamiento colectivo para que todo el equipo alargue el metraje y ella pueda nivelar la estadística requerida.",
+        "Posponer ese volumen para la sesión de activación neuromotriz del Match Day -1.",
+        "Cancelar su participación táctica inmediatamente.",
+        "Ejecutar tareas suplementarias al finalizar la sesión."
       ],
-      "correct_answer": "El colapso medial o valgo dinámico de la articulación de la rodilla y las rotaciones excesivas del tronco.",
-      "accepted_variations": null,
-      "feedback": "La incapacidad de los estabilizadores coxofemorales (como el glúteo medio) para sostener la alineación biomecánica durante una alta demanda de absorción de fuerzas excéntricas, provoca que el fémur aduzca y rote internamente, originando un valgo dinámico. Esto aplica una tensión rotacional e hiper-extensiva crítica sobre el Ligamento Cruzado Anterior."
+      "correct_answer": "Ejecutar tareas suplementarias al finalizar la sesión.",
+      "feedback": "Validar una carga interna positiva brinda una ventana dorada de oportunidad. Prescribir acciones suplementarias individualizadas (top-ups) post-campo asegura cubrir la deficiencia del estímulo sin arrastrar hipotecas de carga a las jornadas críticas de afinamiento (tapering)."
     },
     {
       "id": 10,
       "type": "true_false",
-      "question": "El sistema energético fosfagénico (ATP-PC) asume la carga metabólica principal para sostener secuencias de pressing táctico intenso y cambios de dirección agresivos repetidos de manera continuada durante más de 15 segundos.",
+      "question": "El 'Player Profile' es un documento hermético sellado tras la batería analítica de pretemporada, y rige de manera estática e inamovible la periodización física durante los meses de competición siguientes.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es falso. El sistema de fosfágenos se agota rápidamente y domina acciones de potencia máxima menores a 6 segundos (saltos, golpeos o aceleraciones aisladas). Las secuencias repetitivas, encadenadas y sin pausas de alta intensidad técnica recaen fuertemente sobre el sistema metabólico glucolítico (anaeróbico láctico)."
+      "feedback": "Es falso. El perfil es un ente vivo en permanente mutación. Se reconfigura constantemente incorporando los resultados dinámicos extraídos de los retests intersemanales, lo que permite iterar ajustes en las prescripciones de fuerza correctiva y en la distribución de la fatiga."
     },
     {
       "id": 11,
       "type": "multiple_choice",
-      "question": "A la hora de parametrizar el perfil de cargas semanales y construir el blueprint del entrenamiento, ¿qué metodología matemática se utiliza como estándar de referencia (el 100%) para evitar exigir métricas obsoletas a mitad de temporada?",
+      "question": "En la microdosis de sala previa al Match Day -1 (día reactivo), se persigue encender las vías eferentes priorizando el stiffness del tobillo y protegiendo el core con vectores de ____.",
       "options": [
-        "Una extrapolación estandarizada provista por los papers anuales de FIFA aplicable a todas las ligas profesionales del mundo.",
-        "El resultado máximo del primer test intermitente de la pretemporada (30/15) multiplicado por un factor de conversión de 1.5.",
-        "Una media móvil fundamentada empíricamente en los valores recogidos en los últimos 4 a 6 partidos oficiales jugados por la plantilla.",
-        "La sumatoria aislada de todas las acciones de High Speed Running del partido más demandante de la temporada pasada."
+        "antiextensión",
+        "flexión lateral",
+        "rotación máxima"
       ],
-      "correct_answer": "Una media móvil fundamentada empíricamente en los valores recogidos en los últimos 4 a 6 partidos oficiales jugados por la plantilla.",
-      "accepted_variations": null,
-      "feedback": "Basar el '100% de la carga' de un partido en una media móvil permite que los objetivos físicos exigidos por el área de rendimiento escalen dinámicamente según la respuesta adaptativa del equipo a lo largo del año. Así, el estímulo exigido en la jornada 3 evoluciona coherentemente frente al exigido en la jornada 18 tras la adaptación funcional de los tejidos."
+      "correct_answer": "antiextensión",
+      "feedback": "El estímulo pre-partido emplea tiempos ultracortos sin generar acidez. El trabajo tendinoso reactivo acoplado a un blindaje del core en antiextensión prepara mecánicamente la columna para transferir fuerzas balísticas impidiendo fugas lesivas de energía."
     },
     {
       "id": 12,
-      "type": "keyword",
-      "question": "Para tratar asimetrías de fuerza en los grupos aductores aplicando principios biomecánicos de momento de fuerza, se implementan protocolos empleando la plancha _________, progresando el soporte de resistencia desde la rodilla hacia el tobillo para incrementar el estrés estabilizador.",
-      "options": null,
-      "correct_answer": "copenhague",
-      "accepted_variations": [
-        "copenhague",
-        "copenhagen",
-        "plancha copenhague",
-        "plancha copenhagen"
+      "type": "multiple_choice",
+      "question": "Dentro del intrincado organigrama multidisciplinar de un equipo élite, ¿cómo se define estructuralmente la función operativa del especialista en Ciencias del Deporte?",
+      "options": [
+        "Ente aislado que dictamina cargas de gimnasio sin intervención alguna en las decisiones de campo o esquemas tácticos.",
+        "Puente integrador que cruza datos telemétricos con diseños tácticos y clínica médica.",
+        "Responsable exclusivo de la nutrición.",
+        "Supervisor de los minutos de juego oficiales impuestos por la dirección directiva para evitar penalizaciones contractuales."
       ],
-      "feedback": "El ejercicio ejerce una intensa contracción de los grupos internos. Iniciar el apoyo con palanca corta (rodilla) permite un control motor y estabilización básica en presencia de déficits marcados. Progresar extendiendo el fulcro de resistencia distalmente hasta el tobillo (palanca larga) incrementa dramáticamente el torque de la cadera interna, forzando mayores picos de tensión isométrica."
+      "correct_answer": "Puente integrador que cruza datos telemétricos con diseños tácticos y clínica médica.",
+      "feedback": "El dato sin contexto es estéril. La maestría del rol radica en destruir los silos de trabajo: se procesan perfiles cinéticos y fatiga objetiva para modular en constante sinergia las decisiones con el entrenador principal y los readaptadores fisioterapéuticos."
     },
     {
       "id": 13,
       "type": "multiple_choice",
-      "question": "El diseño de la sesión clasificada como Match Day -2 (día intensivo) requiere un estímulo cinético opuesto al del MD-3. ¿Qué configuración volumétrica y espacial es imperativa para cumplir su propósito neurofisiológico?",
+      "question": "Al desglosar el 'blueprint' posicional a través de la telemetría, se evidencia que la mayor densidad volumétrica para las extremas y posiciones de ataque se expresa en forma de ____.",
       "options": [
-        "Orientarse hacia la producción de potencia pura, empleando espacios medianos para acciones explosivas cortas, y reduciendo dramáticamente el volumen de High Speed Running total.",
-        "Sostener el volumen kilométrico del día anterior, pero reemplazando todo el sprint lineal por trabajo pliométrico de alto impacto sin calzado en césped artificial.",
-        "Aumentar en un 30% la distancia total recorrida obligando a las jugadoras a desplazarse en espacios que replican el tamaño real del campo.",
-        "Eliminar por completo las acciones cortas e intensas, enfocándose puramente en trotes oxidativos lineales sin deceleraciones mecánicas."
+        "sprints y alta velocidad",
+        "trote aeróbico",
+        "fuerza isométrica"
       ],
-      "correct_answer": "Orientarse hacia la producción de potencia pura, empleando espacios medianos para acciones explosivas cortas, y reduciendo dramáticamente el volumen de High Speed Running total.",
-      "accepted_variations": null,
-      "feedback": "El MD-2 persigue un perfil de potencia explosiva ('tapering' hacia el partido). Exige estimular altas tasas de desarrollo de fuerza (aceleraciones, sprints cortos) sin vaciar los depósitos de glucógeno y sin acumular fatiga mecánica central. Para ello, los espacios se reducen y las distancias largas asociadas al HSR caen bruscamente en relación con el MD-3."
+      "correct_answer": "sprints y alta velocidad",
+      "feedback": "La distribución espacial del fútbol confiere a estas posiciones el rol táctico de estirar y amenazar la profundidad adversaria repetidamente. Este esfuerzo sostenido a la espalda de la defensa dispara drásticamente sus variables fisiológicas en los tramos de High Speed Running."
     },
     {
       "id": 14,
+      "type": "multiple_choice",
+      "question": "Para tratar eficazmente una marcada asimetría de aductores (Caso Jugadora B, con disponibilidad 'Full') sin fracturar la cohesión dinámica grupal, el preparador opta por:",
+      "options": [
+        "Sustituir la totalidad de su carga de campo por trabajo clínico en camilla hasta lograr la isometría bilateral perfecta.",
+        "Un ciclo de descanso total de tren inferior.",
+        "Aislarla del equipo durante todas las sesiones de gimnasio matinales para asegurar una atención exclusiva libre de distracciones externas.",
+        "Un programa de seis semanas integrado en la sesión colectiva manipulando palancas."
+      ],
+      "correct_answer": "Un programa de seis semanas integrado en la sesión colectiva manipulando palancas.",
+      "feedback": "La máxima del alto rendimiento exige no estigmatizar al deportista. Adaptar su estímulo mediante progresiones mecánicas (ej. Planchas Copenhague en palanca corta a larga) durante el mismo espacio-tiempo que el resto de la plantilla soluciona el déficit asimétrico sosteniendo su integración psicológica colectiva."
+    },
+    {
+      "id": 15,
       "type": "true_false",
-      "question": "El protocolo de reincorporación de una jugadora tras una 'Ventana FIFA' internacional se ejecuta de forma lineal y estandarizada: dos días obligatorios de recuperación pasiva seguidos de una reintegración completa al tercer día, independientemente del contexto del torneo.",
+      "question": "Las secuencias tácticas densas de pressing continuado, que encadenan aceleraciones y cambios de dirección sin pausas oxigenantes largas, dependen fisiológicamente casi en exclusividad del sistema metabólico de los fosfágenos.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es rotundamente falso. El retorno exige un análisis casuístico profundo. La reintegración difiere drásticamente dependiendo de factores como la exigencia mental de la competición (clasificatorias mundiales vs amistosos), las zonas horarias cruzadas, la higiene del sueño afectada por el jet lag y la deshidratación del vuelo transoceánico. Las decisiones deben tomarse ajustando conservadoramente la carga individual en base a una respuesta fisiológica muy impredecible."
-    },
-    {
-      "id": 15,
-      "type": "multiple_choice",
-      "question": "Ante una triangulación de datos donde la Jugadora A cruza quejas subjetivas en los isquiotibiales (Wellness), una carga HSR acumulativa 12% superior a su umbral, y un tiempo concéntrico prolongado en el CMJ (bajo RSI), la prescripción desde el área de rendimiento es:",
-      "options": [
-        "Reiterar el testeo con isométricos máximos hasta que recupere la fuerza central.",
-        "Separar inmediatamente a la atleta del entrenamiento táctico grupal y prescribir un trabajo aislado de neuroflushing cardiovascular sin carga o impacto mecánico articular.",
-        "Ajustar su GPS elevando las alertas en tiempo real y permitirle entrenar exclusivamente como jugadora comodín sin transiciones defensivas.",
-        "Aumentar drásticamente el trabajo de hipertrofia de aductores y cadena posterior en la sesión de gimnasio previa al campo."
-      ],
-      "correct_answer": "Separar inmediatamente a la atleta del entrenamiento táctico grupal y prescribir un trabajo aislado de neuroflushing cardiovascular sin carga o impacto mecánico articular.",
-      "accepted_variations": null,
-      "feedback": "La conjunción de estos tres biomarcadores determina un estado de sobre-saturación mecánica de la cadena posterior y fatiga neural patente. Sostener la exposición en campo exacerba logarítmicamente el riesgo de rotura. El neuroflushing (cardio sin impacto) bombea sangre al tejido oxigenando y lavando metabolitos nocivos sin estresar las estructuras elásticas ni demandar reclutamientos explosivos al SNC."
+      "feedback": "Es falso. El sistema ATP-PC se agota al cruzar la barrera de los 6 segundos de potencia absoluta. Esas fases prolongadas e intermitentes, asfixiadas de oxígeno para recuperar los depósitos, disparan críticamente la demanda de la maquinaria metabólica del sistema glucolítico."
     },
     {
       "id": 16,
-      "type": "keyword",
-      "question": "En un día post-descanso o tras viaje, marcado como reintroducción de carga (MD-4), la microdosis prescriptiva de fuerza asume un carácter profiláctico prescribiendo holds isométricos prolongados para asegurar la alineación de las fibras y promover la salud _________.",
-      "options": null,
-      "correct_answer": "tendinosa",
-      "accepted_variations": [
-        "tendinosa",
-        "del tendón",
-        "de los tendones",
-        "tendones"
+      "type": "multiple_choice",
+      "question": "Al apostar por la versión submáxima del test 30/15 en los re-tests sistemáticos intersemanales durante el periodo competitivo, el objetivo biomecánico central radica en:",
+      "options": [
+        "Provocar un vaciado completo de las reservas de glucógeno muscular para forzar una supercompensación anabólica extrema en las siguientes 48 horas previas al partido oficial.",
+        "Evaluar la máxima acumulación de lactato capilar en el umbral anaeróbico para descartar patologías cardíacas latentes en la plantilla.",
+        "Sustituir por completo el trabajo técnico.",
+        "Monitorizar la capacidad aeróbica cruzando un nivel estandarizado con la frecuencia cardíaca, mitigando la fatiga residual."
       ],
-      "feedback": "Tras el desacondicionamiento agudo temporal propio del descanso o del estatus de viaje prolongado, los tejidos conectivos pierden su disposición viscoelástica ideal para tolerar ciclos de acortamiento-estiramiento. Exponer isometrías de larga duración estimula mecanorreguladores tisulares, organizando las fibras de colágeno del tendón preparándolas progresivamente frente a las futuras fuerzas excéntricas balísticas."
+      "correct_answer": "Monitorizar la capacidad aeróbica cruzando un nivel estandarizado con la frecuencia cardíaca, mitigando la fatiga residual.",
+      "feedback": "Imponer un testeo máximo de agotamiento intersemanal destrozaría el ecosistema físico y vaciaría a la jugadora antes de sesiones críticas. Detenerlo en un nivel predefinido garantiza fiscalizar fielmente las adaptaciones cardiovasculares internas sin facturar un letal coste de sobrecarga central y tisular."
     },
     {
       "id": 17,
       "type": "multiple_choice",
-      "question": "Durante un día de volumen extensivo, el circuito preventivo previo al campo debe configurar intervenciones muy específicas para preparar la cinética de alta velocidad. Esto incluye inexcusablemente:",
+      "question": "En el análisis cinemático de un cambio de dirección agresivo, el colapso medial o valgo dinámico denota invariablemente un déficit severo en la capacidad muscular para ____.",
       "options": [
-        "Movilización prolongada del ROM extremo y trabajo masivo de empujes del tren superior.",
-        "Activación excéntrica profiláctica para isquiosurales, estabilidad de la cadera media y excitación del stiffness (rigidez reactiva) de la articulación del tobillo.",
-        "Un circuito fatigante de lactato mediante Burpees encadenados cruzando el umbral aeróbico-anaeróbico.",
-        "Reposo absoluto neuromuscular prescrito para las estructuras de cadera a fin de salvaguardar el glucógeno celular."
+        "estabilizar la cadera",
+        "articular los tobillos",
+        "rotar la columna"
       ],
-      "correct_answer": "Activación excéntrica profiláctica para isquiosurales, estabilidad de la cadera media y excitación del stiffness (rigidez reactiva) de la articulación del tobillo.",
-      "accepted_variations": null,
-      "feedback": "El gesto del sprint (High Speed Running) proyecta contracciones excéntricas máximas para frenar el fémur en fase de vuelo y confía absolutamente en la devolución de energía elástica sin colapso articular. Preparar isquiotibiales (protectores LCA), la antirotación del tronco para no disipar vectores de fuerza y un tobillo rígido (stiffness) son fundamentos preventivos mandatorios previos a la exposición táctica extensiva."
+      "correct_answer": "estabilizar la cadera",
+      "feedback": "El fracaso excéntrico de los complejos abductores en el área coxofemoral propicia que el fémur ceda en rotación interna ante la deceleración lateral abrupta. Esa falta de soporte proximal empuja a la rodilla al letal ángulo del valgus patológico, coartando críticamente la integridad del Ligamento Cruzado Anterior."
     },
     {
       "id": 18,
-      "type": "true_false",
-      "question": "Durante un microciclo de 'semana limpia' (sin partido oficial), la programación exige clonar la densidad del morfociclo patrón, acumulando inexcusablemente todas las métricas de alta intensidad en un único día extensivo repetido.",
+      "type": "multiple_choice",
+      "question": "La configuración volumétrica y fisiológica de un Match Day -3 (día tipificado como extensivo) demanda operativamente y de forma innegociable:",
       "options": [
-        "Verdadero",
-        "Falso"
+        "Rondos en espacios minúsculos.",
+        "Un diseño basado enteramente en acciones estáticas y lanzamientos a balón parado para prevenir la micro-ruptura de las fibras rápidas tipo IIb.",
+        "La eliminación absoluta de las transiciones horizontales, exigiendo a las jugadoras mantenerse en posiciones fijas durante todo el entrenamiento para reservar energía glucolítica.",
+        "Espacios amplios que garanticen distancias de aceleración suficientes para acumular High Speed Running."
       ],
-      "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es falso. Una semana larga provee el lujo de contar con mayores ventanas adaptativas. Esto flexibiliza el diseño, facultando a los preparadores para fragmentar métricas altamente fatigantes (High Speed Running, Sprint) y el trabajo de fuerza individual a través de varios días de calidad moderada y espaciada en lugar de condensarlo en un solo macro-estímulo estresante."
+      "correct_answer": "Espacios amplios que garanticen distancias de aceleración suficientes para acumular High Speed Running.",
+      "feedback": "Biomecánicamente, este día aglutina la cota más agresiva de carga longitudinal pura (hasta 65% del partido). Producir las largas distancias de despegue y vuelo precisas para disparar métricas en alta velocidad (sprints/HSR) requiere obligatoriamente disponer de extensas franjas de verde sin muros técnicos de contención táctica inmediata."
     },
     {
       "id": 19,
       "type": "multiple_choice",
-      "question": "¿Cuál es la trascendencia funcional de monitorizar continuamente el ratio isométrico de abducción/aducción mediante dinamometría (ej. ForceFrame)?",
+      "question": "Para modelar matemáticamente y sin distorsiones temporales el '100% de la carga' que sirve como norte en el diseño volumétrico semanal del microciclo, el estándar estadístico aplicado es:",
       "options": [
-        "Diagnostica clínicamente las posibles fisuras capilares de la musculatura lateral antes de un encuentro.",
-        "Define la capacidad coordinadora de flexión dorsal de cara a evitar tropiezos mecánicos en la fase de apoyo del pie.",
-        "Provee una lectura directa de la capacidad de los músculos de la cadera interna para estabilizar el anillo pélvico ante los vectores multidireccionales de alta velocidad.",
-        "Determina el potencial aeróbico celular local de las extremidades inferiores sustituyendo la prueba 30/15 de campo."
+        "La extrapolación universal de datos provistos por los papers anuales de FIFA aplicable a todas las ligas mundiales sin distinción de contexto ni género.",
+        "El pico fisiológico de distancia total acumulado por el equipo masculino del mismo club durante la exigente temporada anterior.",
+        "El registro de sprint más alto obtenido en la primera semana de pretemporada.",
+        "Una media móvil de los últimos 4 a 6 partidos oficiales."
       ],
-      "correct_answer": "Provee una lectura directa de la capacidad de los músculos de la cadera interna para estabilizar el anillo pélvico ante los vectores multidireccionales de alta velocidad.",
-      "accepted_variations": null,
-      "feedback": "La asimetría y el desequilibrio pélvico son la antesala directa a patologías del pubis y colapsos patológicos de rodilla. Sostener un correcto equilibrio de fuerzas reactivas en los planos laterales garantiza que las presiones articulares provenientes de un rápido cambio de vector (frenada o giro brusco) se disipen muscularmente sin deformar la postura central de la atleta."
+      "correct_answer": "Una media móvil de los últimos 4 a 6 partidos oficiales.",
+      "feedback": "Fijar métricas estáticas basadas en referencias históricas fosiliza el entrenamiento. La media móvil empuja al área de rendimiento a que los estímulos escalen en conjunción con la evolución cronológica y la fluida optimización física del bloque a lo largo de las densas etapas de la liga."
     },
     {
       "id": 20,
-      "type": "keyword",
-      "question": "En el marco de los sistemas de producción energética, secuencias prolongadas y densas de juego intermitente que incluyen marcajes persistentes, cambios de dirección e idas y vueltas constantes sin pausas oxigenantes prolongadas, saturan rápidamente las vías metabólicas del sistema _________.",
-      "options": null,
-      "correct_answer": "glucolítico",
-      "accepted_variations": [
-        "glucolítico",
-        "glucolitico",
-        "sistema glucolítico",
-        "lactácido",
-        "anaeróbico láctico"
-      ],
-      "feedback": "Al exceder los breves 6 segundos que soporta el pool del ATP-Fosfocreatina y recaer en contracciones de alta intensidad agolpadas con recuperaciones insuficientes que merman la capacidad del oxidativo basal, el músculo demanda desesperadamente la escisión glucolítica, debiendo soportar acumulaciones severas de iones H+ y acidez local celular en sus fibras."
-    },
-    {
-      "id": 21,
       "type": "multiple_choice",
-      "question": "Desde un paradigma estructural y de 'management' moderno, el rol neurálgico del preparador físico en el ecosistema multidisciplinar del club radica en:",
+      "question": "Monitorizar con extrema asiduidad el ratio de fuerza en abducción/aducción mediante dinamometría isométrica (ej. ForceFrame) nos provee información crucial centrada en:",
       "options": [
-        "Tomar un monopolio resolutivo aislando sus decisiones de los criterios médicos sobre disponibilidad para acortar tiempos de return-to-play.",
-        "Fungir de nexo integrador que cruza el volumen de telemetría de rendimiento físico con los enfoques tácticos y el estatus médico, asegurando la cohesión de las decisiones diarias.",
-        "Proporcionar exclusivamente informes crudos post-sesión de la carga externa a las direcciones ejecutivas comerciales.",
-        "Delimitar puramente el trabajo regenerativo y nutricional de sala, delegando integralmente los perfiles de entrenamiento de campo a la jefatura táctica."
+        "La capacidad pulmonar máxima de la atleta durante esfuerzos hiperbáricos encadenados en un contexto de altura simulada por fatiga restrictiva.",
+        "El riesgo inminente de padecer conmociones cerebrales debido a desequilibrios en la base de sustentación temporal durante las violentas disputas aéreas por el balón en ambas áreas.",
+        "La fuerza propulsiva concéntrica del tríceps sural.",
+        "La estabilización de la pelvis ante vectores de fuerza laterales y cambios de dirección."
       ],
-      "correct_answer": "Fungir de nexo integrador que cruza el volumen de telemetría de rendimiento físico con los enfoques tácticos y el estatus médico, asegurando la cohesión de las decisiones diarias.",
-      "accepted_variations": null,
-      "feedback": "El departamento de rendimiento fracasa si opera en un silo técnico. El analista de ciencias del deporte dota de contexto a un RPE o a una lectura de GPS deficiente; evalúa la fatiga subyacente y, mediante una comunicación fluida, modula colaborativamente las sesiones tácticas en conjunto con entrenadores y fisioterapeutas para alinear los inputs físicos al diseño técnico y maximizar la protección de la plantilla."
-    },
-    {
-      "id": 22,
-      "type": "multiple_choice",
-      "question": "El test Nordic Curl empleado como un protocolo de retest ágil y constante incrustado dentro de una sesión de entrenamiento intersemanal aporta una invaluable cuantificación instantánea orientada a:",
-      "options": [
-        "Diagnosticar la respuesta cardiovascular del corazón frente a posiciones de declive prolongado.",
-        "Evaluar la asimilación del reclutamiento en fibras rápidas para prescribir dosis exactas en Halterofilia clásica.",
-        "Detectar silenciosos y latentes déficits unilaterales y mermas en la fuerza excéntrica en los isquiotibiales que predicen inminentes claudicaciones estructurales.",
-        "Cuantificar las asimetrías de aducción pura generadas durante un salto vertical no lastrado."
-      ],
-      "correct_answer": "Detectar silenciosos y latentes déficits unilaterales y mermas en la fuerza excéntrica en los isquiotibiales que predicen inminentes claudicaciones estructurales.",
-      "accepted_variations": null,
-      "feedback": "La fuerza frenadora (excéntrica) de los isquiotibiales y su equilibrado ratio pierna derecha/izquierda, medidos bajo el rigor biométrico del nórdico, son el 'gold standard' para anticipar roturas. Al introducirlo como un retest natural y rápido que exige nula fatiga sistémica, se pueden advertir déficits neurales pre-lesionales y recodificar la intensidad preventiva de la semana inmediatamente."
-    },
-    {
-      "id": 23,
-      "type": "keyword",
-      "question": "Cuando a la Jugadora A (con RSI alterado y molestia en isquiotibiales) se la remueve de la sesión táctica para ejecutar rodajes cardiovasculares estáticos (como bicicleta estática), el propósito biomédico es lograr el neuroflushing sin someter a las estructuras colagenosas a nueva carga _________.",
-      "options": null,
-      "correct_answer": "mecánica",
-      "accepted_variations": [
-        "mecánica",
-        "mecanica",
-        "articular",
-        "de impacto"
-      ],
-      "feedback": "El estado de fatiga periférica se acentúa si los tendones, ligamentos y puentes cruzados musculares siguen procesando altas tensiones de impacto contra el suelo (frenadas/trote). La estimulación aeróbica pasiva en dispositivos como bicicletas provee un masivo e indispensable flujo sanguíneo depurador sin los dañinos microtraumatismos repetitivos derivados de una elevada carga mecánica."
-    },
-    {
-      "id": 24,
-      "type": "multiple_choice",
-      "question": "Al aplicar evaluaciones de velocidad mediante el sprint lineal de 30 metros, el imperativo analítico de segmentar y registrar los tiempos de paso cada 10 metros radica en:",
-      "options": [
-        "Validar estrictamente la técnica visual de oscilación pendular de la carrera a nivel de los brazos.",
-        "Poder interrumpir la prueba anticipadamente si el atleta excede los índices cardíacos seguros a los 20 metros.",
-        "Estimar el gasto calórico proyectado que demandará el sujeto al encadenar cinco de estos esfuerzos de forma anaeróbica.",
-        "Mapear la cinética de la aceleración, localizando exactamente en qué ventana espacial brotan los picos de velocidad máxima y definiendo perfiles biomecánicos únicos para individualizar programaciones."
-      ],
-      "correct_answer": "Mapear la cinética de la aceleración, localizando exactamente en qué ventana espacial brotan los picos de velocidad máxima y definiendo perfiles biomecánicos únicos para individualizar programaciones.",
-      "accepted_variations": null,
-      "feedback": "No todas las atletas logran Vmax o aceleran de igual forma. Diferenciar parciales permite disgregar mecánicamente la salida rápida (fuerza propulsiva) frente al mantenimiento de la zancada (fase reactiva o técnica de carrera lanzada). Con estos perfiles desglosados, se diseña un abordaje correctivo microscópico adaptado al déficit mecánico particular del deportista evaluado."
-    },
-    {
-      "id": 25,
-      "type": "true_false",
-      "question": "En la concepción de la estructura de cargas en fútbol élite, el día de descanso programado representa un vacío de entrenamiento donde se asume una desconexión fisiológica que frena las adaptaciones ganadas previamente.",
-      "options": [
-        "Verdadero",
-        "Falso"
-      ],
-      "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Completamente falso. A nivel biomédico, la jornada libre es considerada conceptualmente 'parte innegociable del entrenamiento'. Este día de reposo sistémico consolida los beneficios anabólicos tras una supercompensación y ejerce de pilar intermedio indispensable para poder sostener en los días posteriores dos nuevas sesiones encadenadas de altísima intensidad y calidad fisiológica sin que la atleta colapse hacia el sobreentrenamiento."
+      "correct_answer": "La estabilización de la pelvis ante vectores de fuerza laterales y cambios de dirección.",
+      "feedback": "El anillo pélvico exige un soporte muscular inquebrantable desde su anclaje interno. Una asimetría en el ratio lateral delata precozmente a una jugadora incapacitada para disipar de manera compensada una agresiva fuerza lateral de frenada, antecedente directo al desarrollo del dolor en la sínfisis púbica y del valgo femoral lesivo."
     }
   ]
 }
