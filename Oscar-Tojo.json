@@ -4,167 +4,150 @@
   "questions": [
     {
       "id": 1,
-      "type": "keyword",
-      "question": "En la aplicación específica del entrenamiento SAQ, resulta imperativo priorizar el desarrollo de las velocidades __________, dado que representan el 90% de las aceleraciones en el contexto real del juego.",
-      "options": null,
-      "correct_answer": "angulares",
-      "accepted_variations": [
-        "angulares",
-        "angular",
-        "no lineales",
-        "anguladas"
+      "type": "multiple_choice",
+      "question": "¿Qué elemento conceptual diferencia a un ejercicio con alta representatividad táctica frente a una tarea analítica descontextualizada en el entrenamiento de élite?",
+      "options": [
+        "Su capacidad para inducir una frecuencia cardíaca máxima sostenida ininterrumpidamente durante amplios periodos de tiempo en el microciclo.",
+        "Su diseño estructurado en complejas secuencias cerradas de pases geométricos repetitivos ejecutados sin oposición real y sin toma de decisiones.",
+        "Su transferencia de la lógica y comportamientos reales del juego.",
+        "Su enfoque biológico dirigido de manera exclusiva al aumento desproporcionado de los niveles de fuerza concéntrica muscular suprimiendo el uso del balón."
       ],
-      "feedback": "El concepto de Sprint, Agility, and Quickness (SAQ) exige especificidad biomecánica y táctica. Las velocidades angulares son críticas porque la enorme mayoría de las acciones explosivas, desmarques y correcciones defensivas en el fútbol competitivo requieren cambios de trayectoria, no desplazamientos puramente longitudinales."
+      "correct_answer": "Su transferencia de la lógica y comportamientos reales del juego.",
+      "feedback": "La representatividad de una tarea radica en su nivel de especificidad y complejidad táctica. Un ejercicio altamente representativo acerca los conceptos técnicos, la configuración del espacio y la toma de decisiones al contexto genuino que el jugador enfrentará en la competición, alejándose de los aislamientos analíticos puros."
     },
     {
       "id": 2,
       "type": "multiple_choice",
-      "question": "¿Cuál es la estrategia óptima de gestión de carga táctica y condicional en el día pre-partido menos dos (MD-2) dentro de un microciclo competitivo moderno?",
+      "question": "En la aplicación biomecánica del entrenamiento SAQ (Sprint, Agility, Quickness), resulta imperativo para el preparador físico priorizar el desarrollo de las velocidades ____.",
       "options": [
-        "Introducir un estímulo de velocidad máxima para garantizar el reclutamiento de unidades motoras rápidas a 48 horas del encuentro.",
-        "Enfocarse en una recuperación totalmente pasiva, prescindiendo del trabajo de campo para maximizar la supercompensación.",
-        "Direccionar la sesión hacia la recuperación metabólica, manteniendo un estímulo de velocidad a través de ejercicios pausados y de baja exigencia espacial.",
-        "Aumentar el volumen de trabajo táctico utilizando dimensiones de campo completas para replicar las distancias del modelo de juego."
+        "lineales continuas",
+        "angulares",
+        "de reacción acústica"
       ],
-      "correct_answer": "Direccionar la sesión hacia la recuperación metabólica, manteniendo un estímulo de velocidad a través de ejercicios pausados y de baja exigencia espacial.",
-      "accepted_variations": null,
-      "feedback": "Si se ha aplicado una carga evolutiva óptima (estimulando en MD-5, MD-4 y MD-3), generar un sobreestímulo de velocidad en el MD-2 es contraproducente. La sesión debe enfocarse en la recuperación inter-esfuerzos, introduciendo acciones de velocidad conceptual pero bajo un régimen de baja densidad, mucho más pausado y limitando el desgaste por exigencia espacial."
+      "correct_answer": "angulares",
+      "feedback": "El desarrollo integral del fútbol exige especificidad en los desplazamientos. El entrenamiento de velocidades angulares es crítico metodológicamente porque aproximadamente el 90% de las acciones explosivas, desmarques y correcciones defensivas en un partido real requieren cambios de trayectoria y agilidad multidireccional, no sprints puramente rectilíneos."
     },
     {
       "id": 3,
       "type": "true_false",
-      "question": "La segregación de oxitocina, inducida mediante dinámicas grupales previas a la sesión en campo, tiene como objetivo fisiológico principal elevar los niveles de agresividad competitiva y activación simpática del equipo.",
+      "question": "La segregación de oxitocina, inducida deliberadamente mediante dinámicas grupales previas a la sesión en campo, tiene como objetivo fisiológico principal elevar los niveles de agresividad competitiva y activación del sistema simpático del equipo.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es falso. La generación de oxitocina a través de dinámicas previas al entrenamiento busca fomentar la sociabilidad, el bienestar psicológico y la cohesión. Esto afianza las relaciones interpersonales entre los jugadores y el cuerpo técnico, mejorando significativamente la predisposición mental y el compromiso hacia las cargas de trabajo de la sesión."
+      "feedback": "Es falso. La inducción de oxitocina a través de dinámicas previas busca todo lo contrario: fomentar la sociabilidad, el bienestar psicológico y la cohesión. Esto afianza las relaciones interpersonales entre los pares y el cuerpo técnico, generando una predisposición mental óptima y de confianza hacia las cargas de la sesión."
     },
     {
       "id": 4,
       "type": "multiple_choice",
-      "question": "Desde una perspectiva metodológica e integral, ¿cuál es el perfil dual que define al entrenador más capacitado en el ecosistema del fútbol de alto rendimiento?",
+      "question": "¿Qué indicador lesional constituye el termómetro biomédico principal y más objetivo para validar empíricamente la eficacia del proceso metodológico de un cuerpo técnico?",
       "options": [
-        "Aquel que delega la parcela científica al preparador físico para centrarse exclusivamente en la gestión emocional del vestuario.",
-        "Aquel que aplica estrictamente un modelo de periodización táctica ortodoxo sin alteraciones a lo largo de la temporada.",
-        "Aquel que combina la sensibilidad práctica y empatía nacida de su experiencia empírica con un profundo sustento teórico y conceptual.",
-        "Aquel que prioriza la implementación de análisis de big data por encima de las interacciones socioafectivas directas con los deportistas."
+        "Las contusiones articulares severas y traumatismos sufridos aleatoriamente durante los partidos oficiales de máxima exigencia.",
+        "Las fracturas óseas por estrés mecánico derivadas de impactos crónicos y repetitivos contra superficies de césped artificial.",
+        "Las lesiones musculares sin contacto físico.",
+        "Las conmociones cerebrales y contusiones craneales derivadas de las continuas disputas aéreas en balones divididos del juego directo."
       ],
-      "correct_answer": "Aquel que combina la sensibilidad práctica y empatía nacida de su experiencia empírica con un profundo sustento teórico y conceptual.",
-      "accepted_variations": null,
-      "feedback": "La figura óptima para liderar estructuras de alto rendimiento es aquella capaz de transitar entre dos dimensiones: debe poseer la empatía, el 'timing' y la sensibilidad práctica de haber vivenciado las dinámicas del juego, integrando obligatoriamente un rigor académico y conceptual que justifique cada decisión metodológica del proceso."
+      "correct_answer": "Las lesiones musculares sin contacto físico.",
+      "feedback": "Las lesiones sin contacto directo, especialmente las de índole muscular, son el indicador biomédico directo de cómo se están gestionando las cargas mecánicas y metabólicas internas. Su monitorización constante permite al cuerpo técnico validar objetivamente si la periodización de las tareas y el daño muscular provocado están siendo asimilados correctamente por el atleta."
     },
     {
       "id": 5,
-      "type": "keyword",
-      "question": "El trabajo conjunto del cuerpo técnico con especialistas en __________ permite evaluar y entrenar las habilidades visuales del jugador, acelerando la captación de información para optimizar la toma de decisiones en el campo.",
-      "options": null,
-      "correct_answer": "optometría",
-      "accepted_variations": [
-        "optometría",
-        "optometria",
-        "optometria deportiva",
-        "neurociencia visual",
-        "oftalmología"
+      "type": "true_false",
+      "question": "La implementación de rotaciones en la plantilla, como respuesta a los calendarios altamente congestionados, debe ejecutarse de forma mayormente aleatoria para evitar la previsibilidad táctica frente a los analistas del equipo rival.",
+      "options": [
+        "Verdadero",
+        "Falso"
       ],
-      "feedback": "La neurociencia aplicada al deporte requiere evaluar la capacidad cognitiva y visual del atleta. El uso de la optometría permite determinar el nivel de las habilidades visuales del jugador y entrenarlas específicamente, logrando que el procesamiento de la información durante el juego sea mucho más rápido y la toma de decisiones más eficaz."
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Ante la alta fatiga acumulada (jugadores superando los 30 partidos anuales, viajes, husos horarios), la rotación de la plantilla es obligatoria pero jamás aleatoria. Debe estar minuciosamente sustentada en métricas de carga, sectores del campo y modelos de éxito probados, garantizando la salud del atleta sin comprometer la competitividad."
     },
     {
       "id": 6,
       "type": "multiple_choice",
-      "question": "¿Cuál es el valor biológico y estratégico subyacente a la prescripción de microestímulos preventivos de 10 a 20 minutos diarios?",
+      "question": "¿Cuál es el valor biológico y estratégico subyacente a la prescripción diaria de microestímulos preventivos de 10 a 20 minutos en futbolistas de élite?",
       "options": [
-        "Sustituyen íntegramente las sesiones de fuerza máxima y potencia hipertrófica en los periodos competitivos congestionados.",
-        "Acumulados a lo largo de un mínimo de 240 sesiones anuales, generan un efecto multiplicador que reduce drásticamente el riesgo lesivo a largo plazo.",
-        "Permiten la liberación masiva de ácido láctico en la musculatura isquiosural antes de las sesiones de velocidad máxima.",
-        "Su única función es actuar como calentamiento general (warm-up) sin generar adaptaciones estructurales crónicas."
+        "Sustituyen de manera íntegra y absoluta las sesiones de fuerza máxima y potencia hipertrófica en los macrociclos competitivos más congestionados del año.",
+        "Permiten la liberación masiva y repentina de lactato en la musculatura isquiosural inmediatamente antes de enfrentar sesiones de velocidad máxima.",
+        "Generan un efecto multiplicador que reduce el riesgo lesivo crónico.",
+        "Actúan exclusivamente como un medio de calentamiento general (warm-up) sin provocar ningún tipo de adaptaciones estructurales o neuromusculares a lo largo de la temporada."
       ],
-      "correct_answer": "Acumulados a lo largo de un mínimo de 240 sesiones anuales, generan un efecto multiplicador que reduce drásticamente el riesgo lesivo a largo plazo.",
-      "accepted_variations": null,
-      "feedback": "El poder de los microestímulos radica en su constancia. Aunque 10 o 20 minutos parezcan irrelevantes de forma aislada, al multiplicarlos por más de 240 sesiones anuales generan adaptaciones crónicas significativas en las estructuras tendinosas y musculares, marcando una diferencia abismal en la prevención de lesiones frente a los atletas que no los realizan."
+      "correct_answer": "Generan un efecto multiplicador que reduce el riesgo lesivo crónico.",
+      "feedback": "El fundamento fisiológico de los microestímulos radica en la consistencia. Acumular 10 o 20 minutos diarios se traduce en cientos de minutos a lo largo de las más de 240 sesiones de una temporada deportiva. Esta constancia genera adaptaciones estructurales crónicas y sostenidas en los tendones y músculos, marcando una diferencia abismal en la protección frente a lesiones."
     },
     {
       "id": 7,
-      "type": "true_false",
-      "question": "Debido a los calendarios congestionados con más de 30 partidos anuales y la exigencia de las selecciones, la implementación de rotaciones en la plantilla debe ejecutarse de forma aleatoria basándose en la intuición del cuerpo técnico.",
+      "type": "multiple_choice",
+      "question": "El trabajo interdisciplinar del cuerpo técnico con especialistas externos permite evaluar las habilidades visuales del jugador para acelerar la captación de información mediante la ____.",
       "options": [
-        "Verdadero",
-        "Falso"
+        "psicología deportiva aplicada",
+        "optometría",
+        "medicina hiperbárica"
       ],
-      "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es falso. Ante la alta fatiga acumulada por calendarios congestionados, viajes y metodologías variadas, la rotación de jugadores es imperativa pero debe estar obligatoriamente sustentada en criterios metodológicos bien definidos (posiciones, métricas de carga, sectores del campo) y no en la aleatoriedad, estudiando siempre los modelos de rotación de clubes exitosos."
+      "correct_answer": "optometría",
+      "feedback": "Dentro del marco de la neurociencia aplicada, utilizar el área de optometría permite evaluar objetivamente y entrenar el nivel de las habilidades visuales del deportista. Un mejor procesamiento y captación de la información visual impacta de forma directa y positiva en la rapidez y eficacia de su toma de decisiones tácticas en el campo."
     },
     {
       "id": 8,
       "type": "multiple_choice",
-      "question": "¿Qué indicador lesional constituye el termómetro principal y más objetivo para validar o refutar la eficacia del proceso metodológico de un cuerpo técnico?",
+      "question": "¿De qué manera cualitativa la integración de sistemas GPS y análisis de Inteligencia Artificial optimiza la intervención metodológica del entrenador principal en el día a día?",
       "options": [
-        "Las contusiones articulares severas sufridas durante los partidos de alta trascendencia competitiva.",
-        "Las lesiones musculares sin contacto físico que se producen tanto en entrenamientos como en competición.",
-        "Las fracturas óseas por estrés derivadas de impactos crónicos contra superficies artificiales.",
-        "Las conmociones cerebrales derivadas de las disputas aéreas en balones divididos."
+        "Reemplazando por completo el criterio empírico humano al momento de confeccionar la alineación titular y los descartes técnicos para los partidos oficiales.",
+        "Restringiendo estratégicamente el acceso a los datos cinemáticos para que el entrenador se vea obligado a enfocarse únicamente en el análisis cualitativo del equipo rival.",
+        "Proporcionando feedback objetivo para manipular el diseño de las tareas.",
+        "Aumentando de forma artificial e ininterrumpida el tiempo de la sesión en el campo para lograr compensar los déficits tácticos colectivos evidenciados por los diferentes algoritmos algorítmicos."
       ],
-      "correct_answer": "Las lesiones musculares sin contacto físico que se producen tanto en entrenamientos como en competición.",
-      "accepted_variations": null,
-      "feedback": "Las lesiones sin contacto, especialmente las de índole muscular, son el indicador biomédico directo de cómo se están gestionando las cargas mecánicas y metabólicas. Monitorizarlas permite al cuerpo técnico validar objetivamente si la periodización, la exigencia espacial y los microestímulos preventivos están siendo asimilados correctamente por los tejidos del deportista."
+      "correct_answer": "Proporcionando feedback objetivo para manipular el diseño de las tareas.",
+      "feedback": "El cruce de datos telemétricos (GPS) con los modelos de Inteligencia Artificial provee al staff de información precisa sobre la intensidad y las exigencias espaciales de cada tarea. Esto empodera al entrenador, ayudándole a saber exactamente qué variables del ejercicio (tamaño, jugadores, tiempo) debe manipular para alcanzar el predominio físico deseado sin sobreentrenar."
     },
     {
       "id": 9,
-      "type": "keyword",
-      "question": "En el día post-partido (MD+1), es un error metodológico aplicar un protocolo grupal estandarizado; la recuperación debe cimentarse obligatoriamente en la __________ total del deportista, considerando su fisiología y rutinas de preferencia.",
-      "options": null,
-      "correct_answer": "individualización",
-      "accepted_variations": [
-        "individualización",
-        "individualizacion",
-        "personalización",
-        "personalizacion",
-        "especificidad"
-      ],
-      "feedback": "Cada atleta responde de manera distinta a los estresores biomecánicos del partido. Aplicar patrones iguales para todos carece de sentido fisiológico. El éxito de herramientas como la crioterapia o cámaras hiperbáricas en el MD+1 depende de personalizar la rutina según las necesidades y el perfil de recuperación específico de cada jugador."
-    },
-    {
-      "id": 10,
       "type": "true_false",
-      "question": "El éxito de un cuerpo técnico en la élite se mide única y exclusivamente a través de los títulos obtenidos y la posición final del equipo en la tabla clasificatoria.",
+      "question": "El verdadero éxito integral de un cuerpo técnico en el alto rendimiento no se alcanza únicamente ganando títulos puntuales, sino logrando añadir valor formativo al jugador, comprendiendo sus vidas extradeportivas y cimentando la exigencia en el respeto.",
       "options": [
         "Verdadero",
         "Falso"
       ],
-      "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es falso. Aunque el rendimiento deportivo es vital, el éxito integral también radica en la gestión humana: añadir valor al jugador, comprender sus vidas extradeportivas, dejar una huella formativa y lograr que el deportista hable bien del respeto, compromiso y metodología del staff años después de haber finalizado su etapa conjunta."
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Si bien ganar es la demanda competitiva principal, dejar un legado en el valor del jugador a su salida y que los atletas reconozcan el respeto, compromiso y ayuda brindada en la esfera personal y táctica años después de la etapa conjunta, constituye el éxito definitivo en la gestión humana de un staff."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Desde una perspectiva metodológica e integral, ¿qué perfil dual define al entrenador contemporáneo con mayor capacidad para liderar y seducir en el ecosistema del fútbol de alto rendimiento?",
+      "options": [
+        "Aquel que delega de manera absoluta toda la parcela fisiológica y científica al cuerpo médico para centrarse de forma exclusiva en la gestión motivacional y emocional del vestuario.",
+        "Aquel que aplica de manera dogmática e inflexible un único modelo de periodización táctica teórica, ignorando las fluctuaciones físicas de la plantilla durante la temporada.",
+        "Aquel que integra armónicamente la empatía empírica y el rigor teórico.",
+        "Aquel que prioriza dogmáticamente la implementación pura y dura de análisis de macrodatos e Inteligencia Artificial por encima de la construcción de interacciones socioafectivas genuinas."
+      ],
+      "correct_answer": "Aquel que integra armónicamente la empatía empírica y el rigor teórico.",
+      "feedback": "El entrenador ideal y más exitoso es aquel capaz de transitar fluidamente por dos mundos: posee la empatía, el tacto y la sensibilidad de haber vivenciado el vestuario (para seducir al jugador), pero al mismo tiempo posee y aplica un profundo sustento académico y conceptual metodológico que fundamenta sólidamente todas sus decisiones y cargas de trabajo."
     },
     {
       "id": 11,
       "type": "multiple_choice",
-      "question": "¿Qué elemento conceptual diferencia a un ejercicio con alta representatividad táctica frente a una tarea analítica descontextualizada en el entrenamiento de élite?",
+      "question": "En el día post-partido (MD+1), la aplicación de un protocolo de recuperación grupal estandarizado carece de sentido biológico; el éxito del retorno fisiológico debe cimentarse obligatoriamente en la ____.",
       "options": [
-        "Su capacidad para inducir una frecuencia cardíaca máxima sostenida durante más de tres minutos ininterrumpidos.",
-        "Su diseño basado en secuencias cerradas de pases geométricos repetitivos sin toma de decisiones.",
-        "Su capacidad para transferir la lógica, los comportamientos espaciales y los principios tácticos reales del juego al entrenamiento.",
-        "Su enfoque exclusivo en el aumento de los niveles de fuerza concéntrica mediante la supresión total del uso del balón."
+        "inmersión isquémica grupal",
+        "individualización",
+        "carrera continua regenerativa"
       ],
-      "correct_answer": "Su capacidad para transferir la lógica, los comportamientos espaciales y los principios tácticos reales del juego al entrenamiento.",
-      "accepted_variations": null,
-      "feedback": "La representatividad de una tarea radica en su nivel de especificidad y complejidad. Un ejercicio altamente representativo acerca los conceptos tácticos y la toma de decisiones al contexto genuino que el jugador enfrentará el día de partido, exigiendo leer el espacio, el tiempo y las interacciones socioafectivas dictadas por el modelo de juego."
+      "correct_answer": "individualización",
+      "feedback": "Cada jugador presenta una absorción de daño tisular y una fatiga del sistema nervioso central completamente distinta tras el impacto de la competición. Entender que no hay un patrón idéntico de recuperación implica personalizar las estrategias (crioterapia, rutinas de gimnasio, cámara hiperbárica) a las necesidades específicas de la fisiología de cada atleta en el MD+1."
     },
     {
       "id": 12,
       "type": "multiple_choice",
-      "question": "¿De qué manera la integración del GPS y la Inteligencia Artificial optimiza cualitativamente la intervención y la toma de decisiones del entrenador principal?",
+      "question": "Dentro del marco de un microciclo competitivo moderno adaptado a la fatiga, ¿cuál es la orientación metodológica óptima para gestionar la carga táctica y condicional a aplicar en el día pre-partido menos dos (MD-2)?",
       "options": [
-        "Reemplazando por completo el criterio humano al momento de diseñar el once inicial para los partidos oficiales.",
-        "Proporcionando feedback objetivo sobre la intensidad y las variables espaciales de cada tarea, permitiéndole manipular de forma precisa el diseño de los ejercicios.",
-        "Restringiendo el acceso a los datos cinemáticos para que el entrenador se enfoque únicamente en el análisis de video del equipo rival.",
-        "Aumentando artificialmente el tiempo de la sesión para compensar los déficits tácticos evidenciados por los algoritmos."
+        "Introducir a toda costa un estímulo de velocidad máxima supra-máxima sustained para garantizar el reclutamiento total de las fibras de contracción rápida a 48 horas del evento oficial.",
+        "Enfocarse rigurosamente en una recuperación cien por cien pasiva y estática en camilla, prescribiendo evitar cualquier tipo de trabajo de campo para maximizar la fase de supercompensación previa al choque.",
+        "Aumentar de manera drástica e imprudente el volumen del trabajo táctico utilizando las máximas dimensiones espaciales para intentar replicar palmo a palmo las métricas teóricas del modelo de juego.",
+        "Direccionar la sesión a la recuperación metabólica con estímulos tácticos pausados."
       ],
-      "correct_answer": "Proporcionando feedback objetivo sobre la intensidad y las variables espaciales de cada tarea, permitiéndole manipular de forma precisa el diseño de los ejercicios.",
-      "accepted_variations": null,
-      "feedback": "El uso de la Inteligencia Artificial y la tecnología GPS no sustituye al entrenador, sino que lo cualifica. Al cruzar los datos de intensidad (aceleraciones, distancias) con las variables de los ejercicios, el entrenador comprende exactamente qué parámetros contextuales (tamaño del campo, número de jugadores, tiempo) debe modificar para alcanzar el estímulo físico y táctico deseado sin generar sobreentrenamiento."
+      "correct_answer": "Direccionar la sesión a la recuperación metabólica con estímulos tácticos pausados.",
+      "feedback": "Si se ha llevado a cabo una carga evolutiva óptima (estimulando de MD-5 a MD-3), generar un sobreestímulo de velocidad el MD-2 resulta un error biomecánico y fisiológico. La sesión debe orientarse a un descongestionamiento, introduciendo los principios tácticos del modelo de juego pero bajo formatos pausados y con baja exigencia de distancias en los espacios, favoreciendo así la limpieza metabólica."
     }
   ]
 }
