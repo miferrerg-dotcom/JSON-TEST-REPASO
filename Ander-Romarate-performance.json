@@ -5,44 +5,37 @@
     {
       "id": 1,
       "type": "multiple_choice",
-      "question": "¿Cuál es la principal razón fisiológica por la que la frecuencia cardíaca resulta una métrica insuficiente e imprecisa para cuantificar la carga interna de forma aislada en deportistas con lesión medular alta?",
+      "question": "¿Cuál es la principal razón fisiológica por la que la frecuencia cardíaca resulta una métrica imprecisa para cuantificar la carga interna de forma aislada en deportistas con lesión medular alta?",
       "options": [
-        "Existe una limitación severa en la respuesta cardiovascular y del sistema simpático que impide reflejar la intensidad real del estrés metabólico.",
-        "Presentan una alteración en el sistema parasimpático que genera taquicardias prematuras, sobrestimando el esfuerzo submáximo.",
+        "Presentan una alteración en el sistema parasimpático que genera taquicardias prematuras, sobrestimando sistemáticamente el esfuerzo submáximo.",
+        "Existe una severa limitación simpática que impide reflejar el estrés metabólico real.",
         "La masa muscular inactiva absorbe gran parte del gasto cardíaco, provocando una caída brusca y artificial de la frecuencia cardíaca máxima.",
-        "El lactato interfiere con los receptores adrenérgicos del miocardio, bloqueando el aumento progresivo de la frecuencia cardíaca."
+        "El lactato interfiere con los receptores adrenérgicos del miocardio, bloqueando de manera irreversible el aumento progresivo de los latidos."
       ],
-      "correct_answer": "Existe una limitación severa en la respuesta cardiovascular y del sistema simpático que impide reflejar la intensidad real del estrés metabólico.",
-      "accepted_variations": null,
+      "correct_answer": "Existe una severa limitación simpática que impide reflejar el estrés metabólico real.",
       "feedback": "En lesiones medulares altas, se produce una afectación grave del sistema simpático y de la función autonómica. Esto genera una respuesta cardiovascular tardía y limitada, impidiendo que la frecuencia cardíaca máxima alcance niveles proporcionales a la verdadera carga interna, lo que lleva a infraestimar críticamente la intensidad de la sesión si se usa como métrica exclusiva."
     },
     {
       "id": 2,
       "type": "true_false",
-      "question": "En perfiles con deficiencia estructural severa, siempre que el atleta alcance un nivel de élite y posea una alta eficiencia metabólica, la curva de lactato seguirá una linealidad perfecta, logrando que los umbrales láctico y ventilatorio terminen coincidiendo.",
+      "question": "En perfiles con deficiencia estructural severa, siempre que el atleta posea una alta eficiencia metabólica, la curva de lactato seguirá una linealidad perfecta logrando que los umbrales láctico y ventilatorio coincidan.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
       "feedback": "Es falso. La fisiología del lactato está intrínsecamente ligada al volumen de masa muscular activa. En el deporte adaptado, al contar con menor masa útil, las curvas carecen de la progresión lineal estandarizada del deporte convencional, rompiendo la sincronía clásica provocando que el umbral láctico y el ventilatorio rara vez coincidan, independientemente del nivel de entrenamiento del atleta."
     },
     {
       "id": 3,
-      "type": "keyword",
-      "question": "La infracción ética donde un atleta distorsiona o exagera intencionadamente su deficiencia frente a los evaluadores médicos para obtener una clase funcional más ventajosa se denomina _______________.",
-      "options": null,
-      "correct_answer": "tergiversación intencionada",
-      "accepted_variations": [
-        "tergiversación intencionada",
-        "tergiversacion intencionada",
-        "la tergiversación intencionada",
-        "doping paralímpico",
-        "doping paralimpico",
-        "tergiversación",
-        "tergiversacion"
+      "type": "multiple_choice",
+      "question": "La infracción ética donde un atleta distorsiona intencionadamente su deficiencia frente a los evaluadores médicos para obtener una clase funcional más ventajosa se denomina ____.",
+      "options": [
+        "optimización paramétrica",
+        "clasificación estratégica",
+        "tergiversación intencionada"
       ],
+      "correct_answer": "tergiversación intencionada",
       "feedback": "Esta práctica, también conocida coloquialmente como 'doping paralímpico', supone un fraude sistémico. El atleta finge limitaciones biomecánicas o sensitivas inexistentes para ser emparejado en competición contra rivales con una capacidad funcional real menor, rompiendo el principio de equidad competitiva."
     },
     {
@@ -50,42 +43,37 @@
       "type": "multiple_choice",
       "question": "¿Qué factor neuro-motriz y psicológico define principalmente la progresión deportiva inicial de un atleta que adquiere una discapacidad motora grave en edad adulta, en contraste con una discapacidad congénita?",
       "options": [
-        "Una atrofia irreversible de las conexiones neuromusculares remanentes al focalizarse excesivamente en los protocolos médicos de rehabilitación.",
-        "La transferencia transversal de hábitos de entrenamiento previos y una infraestructura de cultura deportiva ya consolidada.",
-        "Una dependencia crónica de la exploración multideportiva, dado que su esquema corporal ha sido completamente reseteado.",
-        "Un estancamiento prematuro causado por esquemas motores obsoletos que resultan totalmente incompatibles con las nuevas palancas mecánicas."
+        "Una atrofia irreversible de las conexiones neuromusculares remanentes al focalizarse exclusivamente en los protocolos médicos pasivos de rehabilitación hospitalaria.",
+        "La transferencia transversal de su cultura deportiva y hábitos previos.",
+        "Una dependencia crónica de la exploración multideportiva básica, dado que su esquema corporal ha sido completamente reseteado a nivel propioceptivo profundo.",
+        "Un estancamiento prematuro causado de forma irremediable por esquemas motores obsoletos que resultan totalmente incompatibles con las nuevas palancas mecánicas."
       ],
-      "correct_answer": "La transferencia transversal de hábitos de entrenamiento previos y una infraestructura de cultura deportiva ya consolidada.",
-      "accepted_variations": null,
+      "correct_answer": "La transferencia transversal de su cultura deportiva y hábitos previos.",
       "feedback": "A diferencia de las discapacidades congénitas (que exigen una construcción motriz desde la infancia), la persona que adquiere la deficiencia en edad adulta y ya practicaba deporte posee una sólida cultura atlética y de esfuerzo. Esto facilita una progresión inicial altísima por transferencia transversal, exigiendo al técnico enfocarse primariamente en reconstruir la nueva identidad deportiva del atleta."
     },
     {
       "id": 5,
-      "type": "keyword",
-      "question": "En el entrenamiento de deportistas con discapacidad visual o intelectual, la principal herramienta pedagógica para disipar la incertidumbre cognitiva, salvaguardar la autonomía y estabilizar el rendimiento es la estandarización de _______________.",
-      "options": null,
-      "correct_answer": "rutinas",
-      "accepted_variations": [
-        "rutinas",
-        "las rutinas",
-        "rutina",
-        "la rutina",
-        "una rutina"
+      "type": "multiple_choice",
+      "question": "En el entrenamiento de deportistas con discapacidad intelectual, la principal herramienta pedagógica para disipar la incertidumbre cognitiva y salvaguardar la autonomía es estandarizar ____.",
+      "options": [
+        "unas rutinas",
+        "el entorno táctico",
+        "la técnica vocal"
       ],
+      "correct_answer": "unas rutinas",
       "feedback": "Ante el déficit de información perimetral (visión) o la dificultad en el procesamiento y abstracción ejecutiva (intelectual), la implementación de rutinas estables neutraliza las variables impredecibles. Esto reduce la ansiedad ambiental, permitiendo al deportista destinar todo su ancho de banda atencional exclusivamente a la ejecución del gesto técnico y táctico."
     },
     {
       "id": 6,
       "type": "multiple_choice",
-      "question": "¿Qué indicador fisiológico y de rendimiento dicta objetivamente que el aumento de la carga en un microciclo ha sido asimilado de forma exitosa por un atleta con discapacidad severa?",
+      "question": "¿Qué indicador fisiológico dicta objetivamente que el aumento de la carga en un microciclo ha sido asimilado de forma exitosa por un atleta con discapacidad severa?",
       "options": [
-        "La capacidad que posee el atleta de tolerar neuro-funcionalmente el esfuerzo y repetir el rendimiento con calidad al día siguiente.",
-        "La finalización estricta del volumen total programado en la sesión sin que la frecuencia cardíaca sobrepase el segundo umbral.",
-        "La aparición de picos agudos de hipertonía compensatoria que certifican la activación del sistema nervioso central.",
-        "El aplanamiento inmediato de la curva de lactato sanguíneo a los 10 minutos de finalizar los intervalos intensivos."
+        "La finalización estricta del volumen total programado en la sesión sin que la frecuencia cardíaca sobrepase el segundo umbral bajo ninguna circunstancia.",
+        "La aparición de picos agudos de hipertonía compensatoria que certifican biomecánicamente la activación del sistema nervioso central.",
+        "Su tolerancia neuro-funcional y rendimiento real al día siguiente.",
+        "El aplanamiento inmediato y absoluto de la curva de lactato sanguíneo a los 10 minutos de finalizar los intervalos intensivos programados."
       ],
-      "correct_answer": "La capacidad que posee el atleta de tolerar neuro-funcionalmente el esfuerzo y repetir el rendimiento con calidad al día siguiente.",
-      "accepted_variations": null,
+      "correct_answer": "Su tolerancia neuro-funcional y rendimiento real al día siguiente.",
       "feedback": "En el deporte adaptado, completar mecánicamente la sesión no significa haber tolerado el estímulo correctamente. El costo real es diferido e impredecible; por tanto, la asimilación exitosa se verifica evaluando cómo responde sistémicamente el atleta (calidad del sueño, nivel de espasticidad, autonomía conservada y dolor neuropático) a las 24 o 48 horas posteriores."
     },
     {
@@ -97,252 +85,228 @@
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
       "feedback": "Constituye un error conceptual frecuente. 'Deporte Adaptado' engloba universalmente todas las disciplinas ajustadas a personas con discapacidad (sean de base, lúdicas o de élite no olímpica). 'Deporte Paralímpico' es un sello exclusivo y excluyente, referente únicamente a aquellas modalidades ratificadas y presentes en el calendario competitivo de los Juegos Paralímpicos gestionados por el IPC."
     },
     {
       "id": 8,
-      "type": "keyword",
-      "question": "En lesiones medulares altas, debido a la discrepancia entre la fatiga periférica y la compensación postural, resulta de vital importancia clínica registrar, además de la RPE global y muscular, la RPE _______________.",
-      "options": null,
-      "correct_answer": "respiratoria",
-      "accepted_variations": [
+      "type": "multiple_choice",
+      "question": "En lesiones medulares altas, debido a la discrepancia masiva entre la fatiga periférica y la compensación postural, resulta de vital importancia clínica registrar la RPE muscular y la RPE ____.",
+      "options": [
         "respiratoria",
-        "la respiratoria",
-        "rpe respiratoria"
+        "cognitiva",
+        "articular"
       ],
+      "correct_answer": "respiratoria",
       "feedback": "La masa muscular reducida y las posturas forzadas provocan que la musculatura accesoria se sature aceleradamente, escalando la fatiga ventilatoria de manera totalmente desproporcionada respecto a la fatiga metabólica de los miembros ejecutores. Disgregar esta métrica subjetiva permite identificar el colapso diafragmático antes del fracaso metabólico global."
     },
     {
       "id": 9,
       "type": "multiple_choice",
-      "question": "En el sistema de clasificación funcional de la natación, ¿cuál es la justificación técnica estricta por la que un nadador amputado y un nadador con lesión medular pueden ser emparejados para competir en la misma clase?",
+      "question": "En el sistema de clasificación funcional de la natación, ¿cuál es la justificación técnica por la que un nadador amputado y un nadador con lesión medular pueden ser emparejados en la misma clase?",
       "options": [
-        "Sus diferentes diagnósticos clínicos generan un impacto funcional comparable frente a las demandas hidrodinámicas e impulsoras concretas de la modalidad.",
-        "Se prioriza la agrupación rápida para asegurar un quórum competitivo comercial, ignorando las asimetrías biomecánicas estructurales.",
-        "La natación penaliza sistemáticamente la hipertrofia compensatoria, por lo que perfiles carentes de masa inferior siempre se agrupan de manera residual.",
-        "Ambos perfiles exhiben siempre idénticos niveles absolutos de consumo de oxígeno y producción láctica en los test de laboratorio previos."
+        "Se prioriza la agrupación rápida para asegurar un quórum competitivo comercial, ignorando deliberadamente las asimetrías biomecánicas estructurales para nutrir el espectáculo.",
+        "Generan un impacto biomecánico y de arrastre comparable en el agua.",
+        "La natación penaliza sistemáticamente la hipertrofia compensatoria, por lo que perfiles carentes de masa inferior siempre se agrupan de manera residual en las categorías bajas.",
+        "Ambos perfiles exhiben sistemáticamente idénticos niveles absolutos de consumo de oxígeno y producción láctica en los test de esfuerzo máximos de laboratorio previos a la competición."
       ],
-      "correct_answer": "Sus diferentes diagnósticos clínicos generan un impacto funcional comparable frente a las demandas hidrodinámicas e impulsoras concretas de la modalidad.",
-      "accepted_variations": null,
-      "feedback": "El proceso de clasificación rechaza el enfoque clínico aislado y se basa en el impacto. A pesar de padecer patologías etiológicamente opuestas (amputación vs lesión medular), el sistema los integra en la misma clase porque la merma que sufren en la producción de fuerza de propulsión, el equilibrio en el agua y el arrastre hidrodinámico resultan estadísticamente equivalentes."
+      "correct_answer": "Generan un impacto biomecánico y de arrastre comparable en el agua.",
+      "feedback": "El proceso de clasificación rechaza el enfoque clínico aislado y se basa en el impacto funcional real. A pesar de padecer patologías etiológicamente opuestas (amputación vs lesión medular), el sistema los integra en la misma clase porque la merma que sufren en la producción de fuerza de propulsión, el equilibrio rotacional y el arrastre hidrodinámico resultan estadísticamente equivalentes en esa disciplina."
     },
     {
       "id": 10,
       "type": "multiple_choice",
-      "question": "Al aplicar ajustes de progresión en las variables de carga (volumen, densidad, intensidad) de un atleta adaptado severo, ¿qué norma metodológica es imperativa para garantizar el control sistémico y mitigar lesiones?",
+      "question": "Al aplicar ajustes de progresión en las variables de carga en un atleta adaptado severo, ¿qué norma metodológica es imperativa para mitigar lesiones y sobreentrenamiento?",
       "options": [
-        "Saturar el sistema nervioso modificando siempre múltiples vectores de entrenamiento por sesión para inducir neuroplasticidad veloz.",
-        "Aumentar simultáneamente el volumen y la intensidad siempre que el lactato sanguíneo permanezca plano respecto a evaluaciones previas.",
-        "Modificar una única micro-variable por sesión y sostener cargas pequeñas, evaluando la asimilación sistémica a las 24/48 horas posteriores.",
-        "Asumir que finalizar la sesión prescrita sin claudicación motora autoriza matemáticamente a duplicar la densidad en el siguiente entrenamiento."
+        "Saturar el sistema nervioso modificando siempre múltiples vectores de entrenamiento por sesión para inducir neuroplasticidad veloz e hipertrofia estructural agresiva.",
+        "Modificar una única micro-variable por sesión y sostener cargas.",
+        "Aumentar simultánea y exponencialmente el volumen y la intensidad siempre que el lactato sanguíneo permanezca plano respecto a evaluaciones pasadas.",
+        "Asumir que finalizar la sesión prescrita sin claudicación motora autoriza matemáticamente y de forma inmediata a duplicar la densidad en el siguiente entrenamiento agendado."
       ],
-      "correct_answer": "Modificar una única micro-variable por sesión y sostener cargas pequeñas, evaluando la asimilación sistémica a las 24/48 horas posteriores.",
-      "accepted_variations": null,
+      "correct_answer": "Modificar una única micro-variable por sesión y sostener cargas.",
       "feedback": "Las pautas de progresión demandan cautela extrema. Al modificar varias métricas simultáneas resulta imposible rastrear qué factor específico desencadenó una sobrecarga, un aumento de espasticidad o una lesión por presión. El axioma exige aislar la variable modificada y validar el éxito a posteriori, basándose en la calidad de respuesta orgánica del día siguiente."
     },
     {
       "id": 11,
       "type": "true_false",
-      "question": "El entrenamiento de fuerza estructural máxima y neuromuscular profunda está médicamente contraindicado en atletas con parálisis cerebral, ya que el incremento de tensión intracelular aumenta irreversiblemente los episodios de espasticidad.",
+      "question": "El entrenamiento de fuerza estructural máxima y neuromuscular profunda está médicamente contraindicado en atletas con parálisis cerebral, ya que agrava irreversiblemente la espasticidad.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
       "feedback": "Es falso y constituye un mito arraigado. La evidencia clínica y deportiva demuestra una relación directa y positiva: el entrenamiento de fuerza útil y neuromuscular bien dosificado refuerza la estabilización articular y el control motor, lo cual actúa fisiológicamente reduciendo y atenuando significativamente la espasticidad y rigidez muscular a medio plazo."
     },
     {
       "id": 12,
-      "type": "keyword",
-      "question": "Para mitigar la fatiga prematura de la musculatura accesoria cervical y diafragmática, especialmente en parálisis cerebral o daño espinal severo, resulta obligatorio incluir protocolos de carga progresiva usando el dispositivo de entrenamiento inspiratorio llamado _______________.",
-      "options": null,
-      "correct_answer": "powerbreathe",
-      "accepted_variations": [
-        "powerbreathe",
-        "power breath",
-        "powerbreath",
-        "el powerbreathe",
-        "power-breathe"
+      "type": "multiple_choice",
+      "question": "Para mitigar la fatiga prematura diafragmática, especialmente en daño espinal severo o hipertonía, es obligatorio incluir protocolos de carga umbral progresiva usando ____.",
+      "options": [
+        "una máscara de hipoxia",
+        "un espirómetro pasivo",
+        "un powerbreathe"
       ],
+      "correct_answer": "un powerbreathe",
       "feedback": "El excesivo control postural forzado y el daño en las vías eferentes agotan rápidamente las celdas contráctiles del complejo torácico-cervical. Dispositivos de carga umbral inspiratoria como Powerbreathe aíslan esta musculatura, induciendo hipertrofia y eficiencia que retrasan el ahogo respiratorio y la fatiga sistémica."
     },
     {
       "id": 13,
       "type": "multiple_choice",
-      "question": "¿En qué contexto analítico es estrictamente obligatorio que el equipo clasificador oficial observe al atleta para poder confirmar y cerrar la asignación definitiva de su clase funcional deportiva?",
+      "question": "¿En qué contexto analítico es estrictamente obligatorio que el equipo clasificador oficial observe al atleta para poder confirmar la asignación definitiva de su clase funcional deportiva?",
       "options": [
-        "Durante evaluaciones clínicas pasivas en camilla controlando la fuerza isométrica y los rangos de goniometría.",
-        "En un laboratorio de alto rendimiento bajo protocolos continuos incrementales hasta la extenuación metabólica.",
-        "Durante una competición oficial, al ser el único contexto biológico y psicológico donde se garantiza la expresión del esfuerzo máximo real.",
-        "En concentraciones y microciclos privados del equipo nacional, para evitar la influencia estresante del público o rivales."
+        "Durante evaluaciones clínicas estáticas en camilla controlando la fuerza isométrica analítica y los rangos de goniometría de las articulaciones principales.",
+        "Exclusivamente durante una competición oficial.",
+        "En un laboratorio de alto rendimiento bajo protocolos continuos e incrementales sobre ergómetros de ciclo hasta alcanzar la extenuación metabólica total.",
+        "En concentraciones privadas y microciclos a puerta cerrada del equipo nacional, para evitar que la influencia estresante del público o rivales distorsione la técnica."
       ],
-      "correct_answer": "Durante una competición oficial, al ser el único contexto biológico y psicológico donde se garantiza la expresión del esfuerzo máximo real.",
-      "accepted_variations": null,
+      "correct_answer": "Exclusivamente durante una competición oficial.",
       "feedback": "El proceso clínico inicial y el test en campo cerrado carecen de la validez ecológica final. El clasificador debe certificar sus hallazgos en competición oficial, ya que el estrés competitivo obliga al atleta a desplegar todo su potencial sin reservas, desenmascarando el grado exacto en que la deficiencia impacta realmente en el máximo rendimiento bajo reglamento."
     },
     {
       "id": 14,
       "type": "multiple_choice",
-      "question": "¿Cuál es el riesgo fisiológico primario y limitante para el rendimiento al que se exponen los atletas con lesión medular alta durante competiciones aeróbicas outdoor en condiciones de estrés térmico?",
+      "question": "¿Cuál es el riesgo fisiológico primario al que se exponen los atletas con lesión medular alta durante competiciones aeróbicas outdoor en condiciones de calor extremo?",
       "options": [
-        "El shock anafiláctico secundario a la acumulación tóxica de ácido láctico intramuscular por agotamiento agudo del glucógeno circulante.",
-        "Una falla crítica en la disipación convectiva originada por la supresión de la sudoración, agravada por la incapacidad neurológica para percibir el sobrecalentamiento.",
-        "La hipoxia cerebral masiva inducida por el secuestro de sangre venosa en las extremidades inferiores insensibles, anulando el flujo simpático.",
-        "La fragilidad dermo-epidérmica ante radiación UV, detonando cascadas de dolor neuropático invalidante que cortan la orden motora voluntaria."
+        "El shock anafiláctico secundario a la acumulación tóxica e irreversible de ácido láctico intramuscular por el agotamiento agudo del glucógeno circulante.",
+        "La hipoxia cerebral masiva inducida por el secuestro de sangre venosa en extremidades inferiores insensibles, anulando por completo el flujo de retorno simpático.",
+        "Una falla térmica crítica por supresión de la sudoración y falta de sensibilidad.",
+        "La fragilidad dermo-epidérmica extrema ante radiación UV, detonando cascadas de dolor neuropático invalidante que cortan instantáneamente la orden motora voluntaria."
       ],
-      "correct_answer": "Una falla crítica en la disipación convectiva originada por la supresión de la sudoración, agravada por la incapacidad neurológica para percibir el sobrecalentamiento.",
-      "accepted_variations": null,
+      "correct_answer": "Una falla térmica crítica por supresión de la sudoración y falta de sensibilidad.",
       "feedback": "La lesión del cordón espinal inactiva el reflejo sudomotor por debajo del nivel de sección (ausencia total de sudor) y el atleta pierde su principal vía de termólisis. El riesgo extremo radica en que la pérdida de vías aferentes sensitivas le impide 'sentir' fisiológicamente el calor, exponiéndolo a un golpe de calor fulminante si no se aplican técnicas externas de per-cooling."
     },
     {
       "id": 15,
       "type": "true_false",
-      "question": "El estándar oro para garantizar la validez biomecánica y metabólica de los test de laboratorio en el deporte adaptado exige utilizar de forma rigurosa ergómetros genéricos clínicos con rampas de cadencia estandarizadas.",
+      "question": "Para garantizar la validez biomecánica y metabólica de los test de laboratorio en el deporte adaptado, el estándar oro exige utilizar ergómetros clínicos genéricos con rampas de cadencia estandarizadas.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
       "feedback": "Es categóricamente falso. Emplear ergómetros inespecíficos y cadencias rígidas de laboratorio contamina y desvirtúa los resultados en atletas adaptados. Para que un test sea válido, es obligatorio utilizar las interfaces reales de competición (sillas a medida, prótesis del atleta) e individualizar la duración e incremento de las cargas a la realidad estructural de su clase funcional."
     },
     {
       "id": 16,
-      "type": "keyword",
-      "question": "La base de datos interactiva o plataforma web sugerida para trazar, cruzar perfiles diagnósticos y comprender qué deficiencias físicas, visuales e intelectuales son elegibles según el reglamento de cada modalidad deportiva recibe el nombre de _______________.",
-      "options": null,
-      "correct_answer": "lexi",
-      "accepted_variations": [
+      "type": "multiple_choice",
+      "question": "La base de datos interactiva web sugerida para cruzar perfiles diagnósticos y comprender qué deficiencias físicas e intelectuales son elegibles según cada modalidad recibe el nombre de ____.",
+      "options": [
         "lexi",
-        "lexy",
-        "la herramienta lexi",
-        "plataforma lexi",
-        "la plataforma lexi"
+        "wada",
+        "paralympic-base"
       ],
-      "feedback": "La herramienta Lexi opera como un ecosistema visual avanzado que democratiza el entendimiento de las regulaciones del IPC. Permite a técnicos y evaluadores mapear cómo clasifica cada diagnóstico clínico en función de la matriz de requerimientos motores y sensoriales exigidos por cada deporte paralímpico."
+      "correct_answer": "lexi",
+      "feedback": "La herramienta Lexi opera como un ecosistema visual avanzado que democratiza el entendimiento de las complejas regulaciones del IPC. Permite a técnicos y evaluadores mapear cómo clasifica cada diagnóstico clínico en función de la matriz de requerimientos motores y sensoriales exigidos por cada deporte paralímpico."
     },
     {
       "id": 17,
       "type": "multiple_choice",
-      "question": "En el diseño de bloques de intensidad para un atleta con parálisis cerebral o daño neurológico adquirido, ¿cuál es el síntoma primario que indica claudicación y exige interrumpir la serie antes de llegar al fracaso sistémico total?",
+      "question": "En bloques de intensidad para atletas con parálisis cerebral o daño neurológico adquirido, ¿cuál es el síntoma primario que indica claudicación y exige interrumpir la serie?",
       "options": [
-        "El aumento brusco de la frecuencia cardíaca debido al colapso del nervio vago compensatorio.",
-        "La imposibilidad del sistema metabólico central de producir piruvato más allá del umbral láctico.",
-        "El deterioro evidente y veloz de la calidad técnica y la eficiencia del gesto motor.",
-        "La hipoglucemia profunda derivada del reclutamiento exclusivo de fibras rápidas hipertróficas."
+        "El aumento brusco y sostenido de la frecuencia cardíaca debido al colapso del nervio vago compensatorio que regula el sistema nervioso simpático.",
+        "La imposibilidad total del sistema metabólico central de seguir produciendo piruvato cuando el atleta sobrepasa ampliamente el segundo umbral láctico.",
+        "El deterioro evidente y veloz de la técnica.",
+        "La hipoglucemia profunda y mareos derivados del reclutamiento exclusivo e ineficiente de las fibras musculares rápidas hipertróficas."
       ],
-      "correct_answer": "El deterioro evidente y veloz de la calidad técnica y la eficiencia del gesto motor.",
-      "accepted_variations": null,
+      "correct_answer": "El deterioro evidente y veloz de la técnica.",
       "feedback": "En los perfiles con alteraciones del tono muscular (ataxia, espasticidad), la fatiga periférica afecta de inmediato al control motor y agudiza la hipertonía. Esto provoca que el engranaje del gesto técnico colapse y se vuelva extremadamente ineficiente (disparando el coste energético) mucho antes de que el motor cardiovascular o la potencia absoluta caigan."
     },
     {
       "id": 18,
-      "type": "keyword",
-      "question": "El estatus de clasificación funcional que exige por reglamento someter al atleta a una futura reevaluación temporal, frecuentemente asignado a perfiles juveniles inmaduros o adultos con patologías degenerativas, es denominado 'Revisión con fecha _______________'.",
-      "options": null,
-      "correct_answer": "fija",
-      "accepted_variations": [
+      "type": "multiple_choice",
+      "question": "El estatus de clasificación funcional que exige reglamentariamente reevaluar al atleta en el futuro, asignado frecuentemente a perfiles juveniles inmaduros o con patologías progresivas, se denomina revisión con fecha ____.",
+      "options": [
+        "abierta",
         "fija",
-        "fecha fija",
-        "fijas"
+        "clínica"
       ],
+      "correct_answer": "fija",
       "feedback": "Las patologías fluctuantes (daño cerebral en fase de mejora, condiciones degenerativas) o el proceso auxológico (crecimiento esquelético-muscular en jóvenes) modifican constantemente las palancas mecánicas y el impacto funcional. Otorgar el estatus de 'Revisión con Fecha Fija' garantiza que el atleta compita siempre en la clase justa para su estado anatómico actual."
     },
     {
       "id": 19,
       "type": "multiple_choice",
-      "question": "A nivel arquitectónico y conceptual, ¿qué postulado axiomático diferencia y define la razón de ser del paradigma del Deporte Adaptado en contraposición estricta al Deporte Convencional?",
+      "question": "A nivel conceptual, ¿qué postulado axiomático diferencia y define la razón de ser del paradigma del Deporte Adaptado en contraposición estricta al Deporte Convencional?",
       "options": [
-        "El deporte convencional garantiza la inclusión integradora sin clasificaciones restrictivas, mientras que el adaptado segrega y penaliza mediante clasificaciones etiológicas estrictas.",
-        "El deporte convencional busca la igualdad paramétrica asegurando condiciones iniciales idénticas, mientras que el adaptado diseña y ajusta el entorno normativo persiguiendo la equidad.",
-        "El modelo convencional clasifica fisiológicamente a los atletas por edad biológica, en tanto que el ecosistema adaptado los clasifica exclusivamente según su nivel adquisitivo ortopédico.",
-        "El deporte convencional persigue erradicar la asimetría, frente al adaptado, donde cualquier adaptación protésica compensatoria que supere las medias convencionales genera descalificación."
+        "El deporte convencional garantiza la inclusión integradora sin clasificaciones restrictivas previas, mientras que el adaptado segrega y penaliza mediante clasificaciones etiológicas y médicas estrictas.",
+        "Ajustar el entorno normativo buscando la equidad compensatoria.",
+        "El modelo convencional clasifica fisiológicamente a todos los atletas por su edad biológica, en tanto que el ecosistema adaptado los categoriza exclusivamente según el coste de su material tecnológico.",
+        "El deporte convencional persigue tenazmente erradicar toda asimetría de la técnica, frente al adaptado, donde cualquier adaptación protésica es duramente penalizada."
       ],
-      "correct_answer": "El deporte convencional busca la igualdad paramétrica asegurando condiciones iniciales idénticas, mientras que el adaptado diseña y ajusta el entorno normativo persiguiendo la equidad.",
-      "accepted_variations": null,
+      "correct_answer": "Ajustar el entorno normativo buscando la equidad compensatoria.",
       "feedback": "El núcleo del deporte estándar es la igualdad pura: mismas reglas irrestrictas para perfiles sanos idénticos. El deporte adaptado asume la desigualdad de base; por ello, ajusta el reglamento, la técnica y el equipo para garantizar la 'equidad': nivelar el impacto de las discapacidades para que el oro olímpico premie exclusivamente el nivel de excelencia técnica y fisiológica del atleta, y no la levedad de su patología."
     },
     {
       "id": 20,
       "type": "multiple_choice",
-      "question": "Al registrar variables para la cuantificación y periodización del volumen de cargas semanales en deportistas usuarios crónicos de silla de ruedas, ¿qué fuente de desgaste masivo pero silencioso se omite crónicamente provocando sobreentrenamiento?",
+      "question": "Al periodizar el volumen de cargas semanales en deportistas élite usuarios de silla de ruedas, ¿qué fuente de desgaste se omite crónicamente provocando estados ocultos de sobreentrenamiento?",
       "options": [
-        "La hipoxia celular focal originada al sostener posturas aerodinámicas hiperflectadas durante los tránsitos a altas velocidades en el velódromo o pista.",
-        "La elevada carga contextual derivada de la fricción biomecánica diaria: transferencias posturales manuales (cama-silla), transporte adaptado y la superación de barreras arquitectónicas.",
-        "El catabolismo proteico masivo inducido exclusivamente por las sesiones previas de hidroterapia con presiones isobáricas negativas.",
-        "El pico de estrés oxidativo por sobreuso excéntrico de las extremidades inferiores debido al dolor fantasma neuropático crónico."
+        "La hipoxia celular focal originada al sostener posturas aerodinámicas hiperflectadas durante los prolongados tránsitos de alta velocidad en el velódromo.",
+        "El catabolismo proteico masivo inducido exclusivamente por las sesiones previas de hidroterapia con presiones isobáricas negativas y contrastes térmicos.",
+        "La alta fatiga residual provocada por su logística diaria y transferencias físicas constantes.",
+        "El pico de estrés oxidativo por sobreuso excéntrico de las extremidades inferiores debido al dolor fantasma neuropático crónico en las amputaciones."
       ],
-      "correct_answer": "La elevada carga contextual derivada de la fricción biomecánica diaria: transferencias posturales manuales (cama-silla), transporte adaptado y la superación de barreras arquitectónicas.",
-      "accepted_variations": null,
-      "feedback": "El atleta de élite adaptado no comienza su desgaste al accionar el cronómetro en pista. La carga 'extradeportiva' es colosal: montar la logística de material, desplazarse superando infraestructuras no accesibles, o realizar decenas de transferencias mecánicas a pulso impactan directamente en la sobrecarga del tren superior. Omitir este 'estado de fatiga previo no neutro' rompe por completo la fiabilidad del microciclo."
+      "correct_answer": "La alta fatiga residual provocada por su logística diaria y transferencias físicas constantes.",
+      "feedback": "El atleta de élite adaptado no comienza su desgaste al accionar el cronómetro en pista. La carga 'extradeportiva' es colosal: montar la logística de material, desplazarse superando infraestructuras no accesibles, o realizar decenas de transferencias mecánicas a pulso (cama-silla-coche) impactan directamente en la sobrecarga del tren superior. Omitir este 'estado de fatiga previo no neutro' rompe por completo la fiabilidad del microciclo."
     },
     {
       "id": 21,
       "type": "true_false",
-      "question": "La edad cronológica en la cual un deportista sufre un accidente y adquiere su discapacidad, dictamina y limita de forma biológicamente irreversible el techo máximo de rendimiento deportivo que logrará alcanzar en su vida.",
+      "question": "La edad cronológica en la cual un deportista sufre un accidente y adquiere su discapacidad, dictamina y limita de forma fisiológicamente irreversible el techo máximo de rendimiento deportivo que podrá lograr.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
       "feedback": "Es falso. La edad de adquisición de la deficiencia no establece un techo fisiológico de cristal; simplemente redibuja y modifica el 'camino' de aprendizaje. De hecho, los perfiles adquiridos en la adultez que ya poseían bagaje competitivo cuentan con un suelo técnico, cultura de sacrificio y respuestas de supercompensación que catalizan una transferencia altísima y un progreso meteórico inicial."
     },
     {
       "id": 22,
       "type": "multiple_choice",
-      "question": "Al momento de cuantificar y comparar el pico de potencia generada y la fuerza hipertrófica en atletas de atletismo paralímpico con amputaciones transfemorales, ¿cuál es el error técnico analítico más severo que un preparador físico puede cometer?",
+      "question": "Al evaluar el pico de potencia generada y la fuerza estructural en atletas paralímpicos con amputaciones transfemorales, ¿cuál es el error analítico más grave que un preparador físico puede cometer?",
       "options": [
-        "Evaluar la mecánica del muñón asumiendo que el tejido blando cicatrizado actúa como un tendón elástico independiente almacenando energía cinética pasiva infinita.",
-        "Comparar de forma directa sus métricas absolutas contra las bases de datos y percentiles estandarizados de rendimiento obtenidos de atletas élite del deporte convencional.",
-        "Sobreestimar el rol del sistema nervioso central asumiendo que las motoneuronas del miembro amputado controlan la rigidez de la fibra de carbono.",
-        "Reducir en un 50% las cargas del miembro contralateral intacto para evitar un desequilibrio osteoarticular simétrico durante los levantamientos de potencia."
+        "Evaluar minuciosamente la mecánica del muñón asumiendo de manera incorrecta que el tejido blando cicatrizado actúa como un tendón elástico independiente acumulador de energía.",
+        "Sobreestimar el rol del sistema nervioso central asumiendo dogmáticamente que las motoneuronas del miembro amputado tienen control directo sobre la rigidez de la fibra de carbono.",
+        "Comparar sus métricas brutas directamente contra las bases de datos convencionales.",
+        "Reducir de forma sistémica y genérica en un 50% todas las cargas del miembro contralateral intacto con la única intención de evitar desequilibrios osteoarticulares a largo plazo."
       ],
-      "correct_answer": "Comparar de forma directa sus métricas absolutas contra las bases de datos y percentiles estandarizados de rendimiento obtenidos de atletas élite del deporte convencional.",
-      "accepted_variations": null,
+      "correct_answer": "Comparar sus métricas brutas directamente contra las bases de datos convencionales.",
       "feedback": "Cruzar datos biomecánicos crudos entre un atleta convencional y uno amputado es una aberración metodológica. Las amputaciones transforman la longitud de los brazos de palanca, reescriben los volúmenes de masa activa global de reclutamiento y generan asimetrías de fricción que interactúan con las leyes físicas del material protésico. Sus métricas deben contextualizarse exclusivamente intra-sujeto o intra-clase funcional."
     },
     {
       "id": 23,
       "type": "multiple_choice",
-      "question": "Dentro del ecosistema reglamentario adaptado, ¿qué excepción técnico-táctica ampara el reglamento de natación para evitar la penalización injusta de atletas con amputación unilateral de miembro superior que compiten en estilo braza?",
+      "question": "Dentro del ecosistema reglamentario adaptado, ¿qué excepción técnico-táctica ampara el reglamento de natación para evitar la penalización injusta de atletas con amputación unilateral de miembro superior en estilo braza?",
       "options": [
-        "Se les exime de respirar en cada ciclo propulsivo, permitiendo hipoxia mantenida prolongada sin restricción penal.",
-        "Se les autoriza a ejecutar un toque de pared final exclusivamente con un brazo sin ser descalificados, asumiendo que demuestren una llegada motriz intencional.",
-        "Quedan habilitados para portar un lastre inercial estabilizador en la zona contralateral, igualando de forma artificial su coeficiente de arrastre lateral.",
-        "Tienen el derecho de realizar la patada ondulatoria de estilo mariposa durante el subacuático prolongado para corregir su trayectoria de giro."
+        "Se les exime por completo de la obligatoriedad de respirar en cada ciclo propulsivo, permitiéndoles mantener estados de hipoxia prolongada sin recibir ninguna restricción penal.",
+        "Validar el toque en la pared con una sola mano si la llegada es claramente intencional.",
+        "Quedan habilitados de manera especial para portar un lastre inercial estabilizador en la zona anatómica contralateral, igualando de forma artificial su coeficiente de arrastre lateral.",
+        "Se les otorga el derecho de realizar la potente patada ondulatoria del estilo mariposa durante toda la fase del subacuático prolongado para corregir mecánicamente su trayectoria de giro."
       ],
-      "correct_answer": "Se les autoriza a ejecutar un toque de pared final exclusivamente con un brazo sin ser descalificados, asumiendo que demuestren una llegada motriz intencional.",
-      "accepted_variations": null,
+      "correct_answer": "Validar el toque en la pared con una sola mano si la llegada es claramente intencional.",
       "feedback": "El reglamento de natación convencional para braza obliga rígidamente al toque simultáneo y simétrico a dos manos en el muro. Para equilibrar equitativamente el terreno en clases con amputados severos (ej. carencia de antebrazo/brazo completo), el comité anula esta regla, dando validez legal a la llegada a una mano, siempre y cuando el nadador trace biomecánicamente un gesto de empuje claro e intencional."
     },
     {
       "id": 24,
-      "type": "keyword",
-      "question": "Mientras el deporte convencional persigue tenazmente garantizar una matriz de igualdad absoluta para todos, el paradigma filosófico central sobre el que se estructuran las leyes del Deporte Adaptado busca consagrar la _______________.",
-      "options": null,
-      "correct_answer": "equidad",
-      "accepted_variations": [
-        "equidad",
+      "type": "multiple_choice",
+      "question": "Mientras el deporte convencional persigue tenazmente garantizar una matriz paramétrica de igualdad absoluta, el paradigma filosófico central sobre el que se estructuran las leyes del Deporte Adaptado busca consagrar ____.",
+      "options": [
         "la equidad",
-        "equidad deportiva",
-        "la equidad deportiva"
+        "el elitismo",
+        "la integración"
       ],
-      "feedback": "La igualdad otorga a todos las mismas herramientas asumiendo idénticos contextos; pero en escenarios de discapacidad los contextos anatómicos son totalmente desiguales de base. El Deporte Adaptado aplica la equidad: da más herramientas (adaptaciones, agrupaciones fraccionadas) a quien posee una merma funcional mayor para balancear la ecuación, buscando que la única variable que decante la victoria sea el rendimiento deportivo, el esfuerzo y el sacrificio táctico-técnico real."
+      "correct_answer": "la equidad",
+      "feedback": "La igualdad otorga a todos las mismas herramientas asumiendo idénticos contextos; pero en escenarios de discapacidad los contextos anatómicos son totalmente desiguales de base. El Deporte Adaptado aplica la equidad: da más herramientas o agrupa inteligentemente a quien posee una merma funcional mayor para balancear la ecuación, buscando que la victoria la decante el talento y el esfuerzo deportivo, no la patología."
     },
     {
       "id": 25,
       "type": "true_false",
-      "question": "En competiciones oficiales de deporte paralímpico, el hecho de que dos atletas compartan de facto el mismo diagnóstico genético o etiqueta clínica médica obliga reglamentariamente a que el comité evaluador los incluya directamente en la misma clase deportiva funcional.",
+      "question": "En competiciones oficiales de deporte paralímpico, el hecho de que dos atletas compartan idéntico diagnóstico genético obliga por reglamento a que el comité evaluador los incluya en la misma clase deportiva.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Completamente falso. La clasificación paralímpica reniega categóricamente del 'diagnóstico clínico' como rector agrupador. Dos deportistas pueden padecer la misma parálisis o misma condición sistémica médica, pero poseer expresiones y limitaciones motoras radicalmente distintas. El jurado técnico evalúa estrictamente cómo esa enfermedad específica limita la función biomecánica vital (potencia, coordinación) de ese atleta en ese deporte particular, resultando habitual que acaben compitiendo en clases totalmente separadas."
+      "feedback": "Completamente falso. La clasificación paralímpica reniega categóricamente del 'diagnóstico médico' como rector agrupador. Dos deportistas pueden padecer la misma parálisis o condición sistémica, pero poseer expresiones y limitaciones motoras radicalmente distintas. El jurado evalúa estrictamente cómo la deficiencia impacta en el rendimiento deportivo específico (fuerza, técnica, aerodinámica), agrupándolos por 'impacto funcional comparable', no por nombre clínico."
     }
   ]
 }
