@@ -1,346 +1,276 @@
 {
-  "class_title": "Organización del entrenamiento en el fútbol profesional - PSS Certification",
-  "total_questions": 25,
+  "class_title": "Organización del Entrenamiento en el Fútbol Profesional - Certificación PSS",
+  "total_questions": 22,
   "questions": [
     {
       "id": 1,
       "type": "multiple_choice",
-      "question": "En el marco de la cuantificación del entrenamiento, ¿qué variables métricas y conceptuales diferencian operativamente a la 'especificidad de la tarea' de la 'especificidad del modelo de juego'?",
+      "question": "En la prescripción grupal de entrenamiento intermitente (ej. HIIT 30/15), ¿cuál es el mecanismo técnico principal para asegurar que todos los futbolistas trabajen a su intensidad fisiológica relativa sin romper la dinámica temporal del ejercicio colectivo?",
       "options": [
-        "La especificidad de la tarea evalúa el cumplimiento de las rotaciones tácticas ofensivas, mientras que la del modelo de juego mide únicamente el tiempo total de pie del atleta.",
-        "La especificidad de la tarea se calcula mediante la relación interjugador, interacción con el balón, espacio-tiempo y RPE, mientras que la del modelo de juego evalúa la adhesión a los principios y reglas de provocación del entrenador.",
-        "La especificidad de la tarea depende del porcentaje de frecuencia cardíaca máxima alcanzado (carga interna), y la del modelo de juego se basa puramente en la carga externa obtenida por GPS.",
-        "Ambas especificidades son sinónimos operativos dentro del Enfoque Sistémico y se miden exclusivamente a través del porcentaje de duelos ganados en zonas de finalización."
+        "Modificar los tiempos de recuperación para los jugadores con peor capacidad cardiovascular.",
+        "Imponer un ritmo submáximo estándar para garantizar la tolerancia tisular de toda la plantilla.",
+        "Asignar distancias de recorrido variables (ej. 77m vs 63m) parametrizadas mediante pruebas físicas previas.",
+        "Agrupar a los jugadores exclusivamente por sus demarcaciones tácticas o posiciones en el campo."
       ],
-      "correct_answer": "La especificidad de la tarea se calcula mediante la relación interjugador, interacción con el balón, espacio-tiempo y RPE, mientras que la del modelo de juego evalúa la adhesión a los principios y reglas de provocación del entrenador.",
-      "accepted_variations": null,
-      "feedback": "La diferenciación es clave en el alto rendimiento. La 'especificidad de la tarea' determina cuán parecida es la demanda física e interactiva del ejercicio al fútbol real (usando métricas de espacio, tiempo y percepción de esfuerzo). Por el contrario, la 'especificidad del modelo de juego' es un concepto táctico-cognitivo: mide si el ejercicio obliga al jugador a pensar y actuar según los principios colectivos y subprincipios (reglas de provocación) que exige la pizarra del cuerpo técnico."
+      "correct_answer": "Asignar distancias de recorrido variables (ej. 77m vs 63m) parametrizadas mediante pruebas físicas previas.",
+      "feedback": "La individualización grupal óptima del HIIT se logra manteniendo la densidad del trabajo-descanso (30s/15s) pero modulando la velocidad impuesta mediante la distancia objetivo. Los atletas con mayor rendimiento en el test deben cubrir distancias más largas (77m) que los de menor rendimiento (63m), garantizando así el mismo impacto y adaptación metabólica para todo el grupo."
     },
     {
       "id": 2,
+      "type": "multiple_choice_de_hueco",
+      "question": "Ante la disonancia entre la teoría académica de las ciencias del deporte y las fuertes limitaciones organizativas o económicas del alto rendimiento actual, la competencia fundamental que debe primar en el especialista es la ____.",
+      "options": [
+        "rigidez metodológica",
+        "adaptación y creatividad",
+        "terapia psicológica grupal"
+      ],
+      "correct_answer": "adaptación y creatividad",
+      "feedback": "El contexto real del alto rendimiento (denominado técnicamente como 'la triste realidad') exige apartarse ocasionalmente de los manuales ideales. La base científica debe moldearse mediante la adaptación y la creatividad para ajustarse a las limitaciones logísticas o económicas reales de los clubes, garantizando intervenciones prácticas y sostenibles."
+    },
+    {
+      "id": 3,
       "type": "true_false",
-      "question": "Para maximizar el reclutamiento de unidades motoras en el entrenamiento de fuerza máxima en futbolistas, es obligatorio el uso de levantamientos libres dinámicos con fase excéntrica pesada, descartando los ejercicios estáticos por su ineficacia neural.",
+      "question": "La principal ventaja operativa de la Periodización Táctica es que estructura de manera predictiva y óptima el trabajo analítico descontextualizado para maximizar el desarrollo muscular base.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es absolutamente falso. Para abordar el extremo superior de la curva fuerza-velocidad (Fuerza Máxima), el criterio técnico expuesto prioriza las isometrías máximas (bilaterales y unilaterales). Los ejercicios estáticos permiten alcanzar umbrales extremos de tensión muscular y reclutamiento del sistema nervioso central ofreciendo un margen de seguridad articular infinitamente mayor al no exponer al atleta a la inercia de una fase excéntrica con cargas máximas libres."
-    },
-    {
-      "id": 3,
-      "type": "keyword",
-      "question": "Dentro de la dosificación del trabajo preventivo individualizado, el umbral clínico que justifica separar a un jugador del grupo para aplicarle microdosis correctoras es la detección de ________ biomecánicas funcionales superiores al 10-15%.",
-      "options": null,
-      "correct_answer": "asimetrías",
-      "accepted_variations": [
-        "asimetrías",
-        "asimetrias",
-        "descompensaciones",
-        "asimetría",
-        "asimetria"
-      ],
-      "feedback": "El trabajo preventivo individual no se prescribe al azar. Se fundamenta en evaluaciones objetivas (como perfiles de fuerza isométrica o saltos). Cuando un jugador presenta asimetrías entre hemisferios corporales mayores al 10% o 15%, su riesgo lesivo se dispara, requiriendo un abordaje clínico inmediato mediante microdosis aisladas antes de someterlo al estrés caótico del entrenamiento grupal."
+      "feedback": "Es absolutamente falso. Una de las mayores limitaciones operativas de la Periodización Táctica clásica es precisamente que, al estar todo subordinado al modelo de juego mediante la especificidad, carece de una estructura organizativa sólida para el trabajo descontextualizado, comprometiendo así el desarrollo físico fundamental que exige el alto rendimiento."
     },
     {
       "id": 4,
       "type": "multiple_choice",
-      "question": "Ante escenarios de altísima congestión y fatiga como la MLS, ¿qué hallazgo fisiológico objetivo respalda la implementación de rotaciones tácticas obligatorias entre los minutos 60 y 70 de partido?",
+      "question": "Durante la fase metodológica de 'Return to Sport', ¿qué progresión de tareas garantiza una correcta acumulación de carga crónica protegiendo al jugador de impactos prematuros?",
       "options": [
-        "Un incremento abrupto de los niveles de creatincinasa (CK) sistémica que paraliza la contracción rápida de las fibras tipo IIx.",
-        "Una caída drástica en los niveles de insulina y glucosa plasmática, correlacionada directamente con un desplome en la métrica de intensidad 'Metabolic Load Distance' (HMLD).",
-        "La supercompensación temprana del glucógeno hepático que genera letargo cognitivo temporal en los defensas centrales.",
-        "Una saturación de oxígeno a nivel muscular (SmO2) que impide a los mediocentros mantener un ratio trabajo-descanso de 1:1 en esfuerzos lineales."
+        "Integrarlo de inmediato a partidos amistosos 11v11 limitando su participación exclusivamente a 15 minutos.",
+        "Iniciar con circuitos de pase sin oposición ni contacto, transicionando progresivamente hacia rondos y juegos reducidos con comodines.",
+        "Replicar la intensidad del modelo de juego aislando al jugador en ejercicios analíticos de fuerza máxima e isometría excéntrica.",
+        "Someter al atleta a sesiones de aceleraciones horizontales repetidas en campo abierto hasta igualar su HMLD (Metabolic Load Distance) previo a la lesión."
       ],
-      "correct_answer": "Una caída drástica en los niveles de insulina y glucosa plasmática, correlacionada directamente con un desplome en la métrica de intensidad 'Metabolic Load Distance' (HMLD).",
-      "accepted_variations": null,
-      "feedback": "El análisis interno cruzado con literatura biomédica demuestra que, cruzando la barrera del minuto 60, el entorno endocrino del atleta colapsa (pico negativo de insulina y glucosa). Esto se traduce mecánicamente en la incapacidad de mantener la 'Metabolic Load Distance' (HMLD). Rotar piezas en esta ventana temporal es una decisión técnica sustentada en data para abortar el descenso de la intensidad colectiva y blindar al jugador fatigado contra roturas fibrilares."
+      "correct_answer": "Iniciar con circuitos de pase sin oposición ni contacto, transicionando progresivamente hacia rondos y juegos reducidos con comodines.",
+      "feedback": "En la fase de Return to Sport (reintegración inicial al grupo), el jugador debe acumular carga crónica (técnica y cognitiva) de forma segura. La progresión biomecánicamente óptima inicia con tareas predecibles y sin impacto (circuitos mecánicos de pase), transicionando gradualmente hacia tareas de toma de decisión y menor previsibilidad espacial (rondos y comodines), blindando al tejido en remodelación de colisiones incontrolables."
     },
     {
       "id": 5,
-      "type": "multiple_choice",
-      "question": "¿Cuál es la principal carencia operativa de aplicar un dogma estricto de Periodización Táctica (Escuela Portuguesa) en el alto rendimiento moderno?",
+      "type": "multiple_choice_de_hueco",
+      "question": "La aplicación de fuerza específica empleada en acciones dinámicas impredecibles como las disputas corporales, las estabilizaciones unilaterales y los cambios de dirección, se clasifica neuromuscularmente dentro del vector ____.",
       "options": [
-        "Su excesiva fragmentación anatómica del jugador, dividiendo la semana en días de gimnasio puro sin contacto con el balón.",
-        "La subordinación absoluta de todos los estímulos al Modelo de Juego, dejando un vacío arquitectónico grave para programar y garantizar picos óptimos de desarrollo físico descontextualizado.",
-        "Su dependencia total de la tecnología de tracking GPS para justificar las reglas de provocación táctica durante los microciclos.",
-        "La prohibición de utilizar espacios reducidos (menores a 100 m² por jugador), lo cual elimina por completo el entrenamiento de la fuerza elástico-reactiva."
+        "vertical excéntrico",
+        "horizontal lineal",
+        "rotacional lateral"
       ],
-      "correct_answer": "La subordinación absoluta de todos los estímulos al Modelo de Juego, dejando un vacío arquitectónico grave para programar y garantizar picos óptimos de desarrollo físico descontextualizado.",
-      "accepted_variations": null,
-      "feedback": "La Periodización Táctica defiende que todo se entrena jugando. Su gran debilidad es que, al rechazar el trabajo analítico (fuerza máxima de gimnasio, progresiones lineales aisladas), no posee un marco metodológico para desarrollar las estructuras mecánicas de base. Si el sistema no se expone a cargas mecánicas superiores a las del propio juego (trabajo descontextualizado), el techo fisiológico del atleta merma, dejándolo desprotegido ante las demandas extremas del partido."
+      "correct_answer": "rotacional lateral",
+      "feedback": "El acondicionamiento de fuerza en fútbol de élite se divide geométricamente. El vector vertical domina en saltos; el horizontal en las fases de aceleración y sprint; y el vector rotacional lateral es el predominante indiscutible en las demandas de agilidad multidireccional, fintas y la fuerza de choque en las disputas, elementos críticos del perfil condicional del futbolista."
     },
     {
       "id": 6,
-      "type": "true_false",
-      "question": "Las tareas integradas desarrolladas en espacios amplios (cancha completa o superior a 250 m² por jugador) garantizan un predominio aeróbico puro, eliminando por completo la alta carga neuromuscular derivada de aceleraciones y desaceleraciones.",
+      "type": "multiple_choice",
+      "question": "Desde la perspectiva de la curva teórica de fuerza-velocidad, la elección de aplicar isometrías máximas para el desarrollo del componente de fuerza pura responde fisiológicamente a:",
       "options": [
-        "Verdadero",
-        "Falso"
+        "La necesidad imperativa de proteger el tejido musculoesquelético minimizando el daño excéntrico al soportar cargas supramáximas.",
+        "El objetivo exclusivo de hipertrofiar sarcoplasmáticamente las extremidades al maximizar el flujo sanguíneo articular constante.",
+        "La simulación cinética de las fases de aceleración de 0 a 10 metros en un contraataque a máxima intensidad.",
+        "La reducción del coste temporal de la sesión para priorizar la acumulación de resistencia aeróbica de baja intensidad."
       ],
-      "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es falso. Aunque el sentido común asocie los espacios amplios exclusivamente con el trabajo de resistencia y velocidad pico, la data de tracking (GPS) demuestra de forma paradójica que en grandes dimensiones también se registran volúmenes altísimos de aceleraciones y desaceleraciones (carga neuromuscular). Por tanto, es un error de diseño metodológico programar días consecutivos de espacios amplios asumiendo que no habrá fatiga mecánica o daño muscular excéntrico."
+      "correct_answer": "La necesidad imperativa de proteger el tejido musculoesquelético minimizando el daño excéntrico al soportar cargas supramáximas.",
+      "feedback": "Las isometrías máximas permiten al deportista alcanzar picos masivos de reclutamiento de unidades motoras de alto umbral. Al eliminar las fases excéntricas y concéntricas dinámicas en rangos de tensión crítica, se inhibe el daño estructural severo, aportando una inmensa seguridad mecánica para el desarrollo profundo de fuerza máxima pura."
     },
     {
       "id": 7,
-      "type": "keyword",
-      "question": "En el marco del Enfoque Sistémico, el principio metodológico que exige que una tarea analítica fluya orgánicamente hacia una tarea contextual, para culminar integrándose en el modelo de juego durante la misma sesión, se denomina Progresión ________.",
-      "options": null,
-      "correct_answer": "sistémica",
-      "accepted_variations": [
-        "sistémica",
-        "sistemica"
-      ],
-      "feedback": "La 'Progresión Sistémica' combate el entrenamiento fragmentado. Dictamina que el estímulo bioenergético aislado (analítico) carece de impacto si no se moldea coordinativamente (contextual) y no se somete finalmente a la presión cognitiva del caos del partido (organizado). Las tareas de una sesión deben estar encadenadas lógica y biológicamente para transferir el esfuerzo físico hacia la inteligencia de juego."
-    },
-    {
-      "id": 8,
-      "type": "multiple_choice",
-      "question": "Para evitar el desentrenamiento en calendarios congestionados, ¿qué protocolo fisiológico imperativo se debe aplicar a los jugadores suplentes (sin minutos) en el escenario pospartido o en el hotel de concentración?",
-      "options": [
-        "Sesiones extensivas de bicicleta estática durante 45 minutos para priorizar la oxidación de ácidos grasos y compensar el estrés psicológico del banquillo.",
-        "Inmersiones en crioterapia seguidas de trabajo postural y estiramientos pasivos, omitiendo el trabajo en campo para unificar el estado de frescura con los titulares.",
-        "Microdosis analíticas de 10 a 15 minutos enfocadas exclusivamente en High Speed Running (HSR) y Sprints, logrando replicar hasta un 60% de la carga mecánica de partido.",
-        "Protocolos aislados de fuerza isométrica máxima para el tren superior, asegurando el desarrollo de la estructura de choque sin causar fatiga en el tren inferior."
-      ],
-      "correct_answer": "Microdosis analíticas de 10 a 15 minutos enfocadas exclusivamente en High Speed Running (HSR) y Sprints, logrando replicar hasta un 60% de la carga mecánica de partido.",
-      "accepted_variations": null,
-      "feedback": "La omisión del sprint en los suplentes genera una ventana epidémica de lesiones (especialmente isquiosurales) cuando eventualmente les toca jugar. Al no recibir el estímulo del partido, deben ser expuestos obligatoriamente a microdosis compensatorias de altísima intensidad (HSR y Velocidad Máxima) pospartido. Apenas 10-15 minutos de intervenciones lineales logran simular gran parte del estrés mecánico de un partido completo, manteniendo intacta la 'armadura' elástica del tejido."
-    },
-    {
-      "id": 9,
       "type": "true_false",
-      "question": "Dentro de la jerarquía basada en evidencia para la regeneración tisular, el uso de cámaras hiperbáricas y prendas de compresión supera en importancia biológica a la reestructuración de la calidad del sueño profundo.",
-      "options": [
-        "Verdadero",
-        "Falso"
-      ],
-      "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es absolutamente falso. La pirámide de la recuperación establece al sueño (descanso) y a la nutrición/hidratación como la base biológica irremplazable del alto rendimiento. Las terapias complejas (cámaras de crioterapia, hiperbáricas, vibración) ocupan el vértice superior por tener una evidencia clínica mucho más limitada. Ninguna tecnología puede suplantar la limpieza de metabolitos y la secreción de hormona de crecimiento que ocurre exclusivamente durante la arquitectura del sueño nocturno."
-    },
-    {
-      "id": 10,
-      "type": "multiple_choice",
-      "question": "En el protocolo clínico de 'Return to Play', ¿cuál es el objetivo central y excluyente de la fase 'Return to Function'?",
-      "options": [
-        "Introducir al jugador a situaciones cognitivas de baja intensidad como rondos y circuitos de pase con oposición pasiva.",
-        "Lograr el alta biológica para el entrenamiento individual mediante trabajos metabólicos lineales guiados por GPS.",
-        "Reestablecer la bipedestación básica, suprimir el dolor, recuperar arcos articulares y lograr la marcha sin compensaciones en un entorno puramente clínico.",
-        "Desarrollar la carga crónica necesaria para soportar los choques y la fuerza isométrica demandada en duelos posicionales uno contra uno."
-      ],
-      "correct_answer": "Reestablecer la bipedestación básica, suprimir el dolor, recuperar arcos articulares y lograr la marcha sin compensaciones en un entorno puramente clínico.",
-      "accepted_variations": null,
-      "feedback": "El 'Return to Function' es la etapa primigenia post-lesión. Aquí, el deportista no entrena, se rehabilita. Está confinado a la camilla o al gimnasio clínico con un solo horizonte: recuperar la homeostasis básica humana (quitar dolor, desinflamar, recuperar grados de movilidad articular y poder caminar correctamente). No existe contacto con el balón ni demandas metabólicas de alto rendimiento."
-    },
-    {
-      "id": 11,
-      "type": "keyword",
-      "question": "La arquitectura metodológica del trabajo preventivo grupal fundamenta su diseño en la epidemiología del fútbol, otorgando un volumen prioritario de frenado excéntrico al grupo muscular de los ________.",
-      "options": null,
-      "correct_answer": "isquiosurales",
-      "accepted_variations": [
-        "isquiosurales",
-        "isquiotibiales",
-        "isquios",
-        "bíceps femoral",
-        "biceps femoral",
-        "los isquiosurales"
-      ],
-      "feedback": "El diseño preventivo no es democrático, es estadístico. La musculatura isquiosural (particularmente la cabeza larga del bíceps femoral) lidera la tasa de roturas miofibrilares en el fútbol debido al estrés mecánico extremo en la fase final de vuelo del sprint (frenado excéntrico). Por ello, el programa grupal debe estar fuertemente sesgado hacia la protección activa y el control motor de los dominantes de cadera."
-    },
-    {
-      "id": 12,
-      "type": "multiple_choice",
-      "question": "Al aplicar el Entrenamiento Basado en la Velocidad (VBT) en la zona de Potencia (0.30 - 0.50 m/s), ¿qué ventaja neurológica aporta la implementación del Método 'Cluster' frente a una serie tradicional?",
-      "options": [
-        "Genera un mayor pico de acidosis metabólica que desencadena la hipertrofia miofibrilar de las fibras lentas.",
-        "Obliga al músculo a trabajar bajo un entorno de hipoxia tisular prolongado, mejorando la resistencia aláctica.",
-        "Permite insertar micropausas intra-serie (ej. 10-15s) que disipan la fatiga periférica, garantizando que cada repetición se ejecute con máxima intencionalidad y velocidad real.",
-        "Reduce la necesidad de activar el sistema nervioso simpático, protegiendo las articulaciones de la sobrecarga del tendón rotuliano."
-      ],
-      "correct_answer": "Permite insertar micropausas intra-serie (ej. 10-15s) que disipan la fatiga periférica, garantizando que cada repetición se ejecute con máxima intencionalidad y velocidad real.",
-      "accepted_variations": null,
-      "feedback": "La potencia decae drásticamente a medida que los fosfágenos se agotan en una serie continua. El Método Cluster fracciona la serie (ej. 1 rep, descanso de 15s, 1 rep) brindando a la célula el respiro exacto para reciclar el ATP-PCr y al cerebro para resetear el impulso nervioso. El resultado es que el atleta empuja el peso a una velocidad punta en cada repetición, obteniendo adaptaciones de potencia puras, sin el efecto nocivo de la fatiga metabólica o la pérdida de técnica."
-    },
-    {
-      "id": 13,
-      "type": "multiple_choice",
-      "question": "En la gestión operativa de las cargas para la hipertrofia funcional en élite, ¿por qué resulta preferible programar el estrés mecánico usando 'Repeticiones en Reserva' (RIR) en lugar de usar porcentajes estrictos del 1RM?",
-      "options": [
-        "Porque el método RIR garantiza matemáticamente la conversión total de fibras tipo IIa en fibras tipo I oxidativas al final del mesociclo.",
-        "Porque el 1RM es una métrica fluctuante; el RIR se auto-ajusta orgánicamente a la fatiga neural diaria, la privación de sueño y el nivel real de 'Readiness' del jugador en ese instante.",
-        "Porque el RIR anula la fase excéntrica del movimiento, permitiendo hipertrofiar el cuádriceps sin generar agujetas (DOMS).",
-        "Porque el 1RM requiere invariablemente del uso de dispositivos isocinéticos inalcanzables operativamente en calendarios congestionados."
-      ],
-      "correct_answer": "Porque el 1RM es una métrica fluctuante; el RIR se auto-ajusta orgánicamente a la fatiga neural diaria, la privación de sueño y el nivel real de 'Readiness' del jugador en ese instante.",
-      "accepted_variations": null,
-      "feedback": "El 1RM de un atleta un martes post-viaje de 5 horas no es el mismo que su 1RM tras unas vacaciones. Obligar a levantar un 80% estricto basado en un test antiguo puede desencadenar lesiones si el SNC está agotado. Trabajar con RIR 2-3 (dejar 2 o 3 repeticiones en la recámara antes del fallo) permite que la carga absoluta suba o baje según cómo se sienta el músculo ese día, asegurando la adaptación hipertrófica estructural con un riesgo nulo."
-    },
-    {
-      "id": 14,
-      "type": "true_false",
-      "question": "Bajo la alta exigencia logística y climática de la MLS, los cuerpos técnicos implementan como estrategia vital cortar la semana otorgando el Match Day -3 como descanso absoluto para titulares, a fin de absorber el desgaste de los viajes transcontinentales.",
+      "question": "La planificación de microciclos compensatorios en la MLS exige una gestión logísticamente mucho más agresiva que el modelo europeo tradicional, dado que los desplazamientos promedio por partido alcanzan entre 1000 y 2400 kilómetros.",
       "options": [
         "Verdadero",
         "Falso"
       ],
       "correct_answer": "Verdadero",
-      "accepted_variations": null,
-      "feedback": "Es verdadero. La topografía brutal de Estados Unidos (vuelos de 2,000+ km, cambios de huso horario y climas) vuelve insostenible el microciclo europeo tradicional. Una praxis metodológica extendida es cortar la semana en el MD-3, dando el día libre a los titulares para frenar el estrés endocrino, y compensando con un MD-4 de mayor volumen para simular el impacto condicional de una semana de doble partido."
+      "feedback": "Es absolutamente verdadero. Mientras ligas como la Premier League promedian entre 160 y 320 kilómetros por desplazamiento, la inmensidad territorial de la MLS impone viajes de 1000 a 2400 kilómetros, cruzando múltiples franjas horarias y cambios climáticos extremos, lo que condiciona de forma absoluta la carga biológica, la logística de hotel y los protocolos de recuperación pospartido."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "En la ejecución práctica de la 'progresión sistémica' durante una sesión, ¿cómo debe estructurarse la continuidad del estímulo para garantizar la máxima transferencia al rendimiento?",
+      "options": [
+        "Las activaciones analíticas iniciales deben aislarse para evitar la fatiga y luego pasar bruscamente a situaciones competitivas abiertas.",
+        "El trabajo analítico debe cimentar las bases físicas que tendrán continuidad inmediata en tareas contextuales, culminando finalmente en tareas organizadas tácticas.",
+        "Se debe iniciar siempre con el modelo de juego organizado (11v11) y concluir la sesión con tareas analíticas de restauración para disminuir el RPE.",
+        "El componente contextual debe sustituir por completo al trabajo analítico en aquellas semanas donde la densidad competitiva supere los dos partidos oficiales."
+      ],
+      "correct_answer": "El trabajo analítico debe cimentar las bases físicas que tendrán continuidad inmediata en tareas contextuales, culminando finalmente en tareas organizadas tácticas.",
+      "feedback": "La progresión sistémica exige que las activaciones analíticas no operen como 'parches' aislados, sino con una intención preparatoria directa. El estímulo debe fluir orgánicamente del nivel analítico (despertar neuromuscular y estructural), tener continuidad obligatoria en lo contextual (componente técnico-coordinativo en espacios reducidos) y desembocar finalmente en lo organizado (componente cognitivo, táctico y orientado al modelo de juego)."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice_de_hueco",
+      "question": "Dentro del pilar de restauración post-esfuerzo, la reactivación muscular puede ser optimizada aplicando estrategias isométricas y propioceptivas, pero es fundamental que vayan acompañadas de metodologías avanzadas como la ____.",
+      "options": [
+        "restricción de flujo sanguíneo",
+        "cámaras hiperbáricas de alta presión",
+        "exposición continua a radiación infrarroja"
+      ],
+      "correct_answer": "restricción de flujo sanguíneo",
+      "feedback": "Dentro de la arquitectura de restauración post-esfuerzo, se avala explícitamente el uso de estrategias de restricción de flujo sanguíneo (BFR) en conjunto con isometrías y trabajo de core para la reactivación muscular. Estas intervenciones activas fomentan el lavado de metabolitos residuales mediante un estrés metabólico controlado, mostrando mayor efectividad comprobada a corto plazo frente a métodos puramente pasivos como las cámaras hiperbáricas."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Cinemática y fisiológicamente, las rotaciones estratégicas de jugadores planteadas alrededor de los minutos 60-70 en un partido de alto desgaste competitivo se justifican técnicamente debido a:",
+      "options": [
+        "La saturación inmediata de las reservas de fosfocreatina tras superar el primer cuarto de hora del segundo tiempo, invalidando la vía aláctica.",
+        "La caída fisiológica simultánea de glucosa e insulina, correlacionada a un declive comprobable en la variable de rendimiento de alta intensidad HMLD (Metabolic Load Distance).",
+        "El agotamiento prematuro del umbral respiratorio (VT2), el cual impide la toma de decisiones cognitivas correctas por falta de oxigenación cerebral en zonas corticales.",
+        "Una imposición táctica de la dirección deportiva diseñada meramente para equiparar los minutos disputados por los perfiles menos habituales de la plantilla."
+      ],
+      "correct_answer": "La caída fisiológica simultánea de glucosa e insulina, correlacionada a un declive comprobable en la variable de rendimiento de alta intensidad HMLD (Metabolic Load Distance).",
+      "feedback": "La monitorización mediante la métrica HMLD (High Metabolic Load Distance) revela que la intensidad de aceleraciones/desaceleraciones globales comienza a desplomarse irremediablemente alrededor de los minutos 60 y 70 del encuentro. La fisiología confirma que este colapso cinemático coincide de forma exacta con una caída aguda del perfil de insulina y glucosa capilar, evidenciando biológicamente la ventana óptima para refrescar la plantilla con sustituciones que prevengan lesiones tisulares."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "Al programar tareas integradas en formatos de espacios muy amplios (superiores a 250 m² por jugador), se inhibe de forma natural la producción de aceleraciones y desaceleraciones de alta demanda neuromuscular, promoviendo exclusivamente la capacidad aeróbica.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es una paradoja técnica crítica y peligrosa: aunque las tareas de formato muy amplio (como un 10v10 en dimensiones reales) están orientadas dominantemente a la resistencia y las distancias en HSR, los jugadores deben generar simultáneamente una inmensa carga neuromuscular en sus transiciones de juego para cubrir largos trayectos y, sobre todo, para lograr frenar el cuerpo tras alcanzar tan altas velocidades. Ignorar esto desencadena graves errores en la ondulación de la semana."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Al pautar el trabajo de potencia mecánica en rangos exactos de 0.30 - 0.50 m/s utilizando dispositivos de VBT (Entrenamiento Basado en la Velocidad), la ventaja fisiológica irrefutable de utilizar metodologías 'cluster' intrarrepetición es:",
+      "options": [
+        "Aumentar deliberadamente la hipoxia miocelular focalizada para inducir un mayor engrosamiento de las fibras musculares de contracción lenta.",
+        "Mantener un reclutamiento sostenido de la velocidad máxima de impulsión mediante pausas intra-serie que inhiben drásticamente la fatiga del sistema nervioso central.",
+        "Obligar a la placa motora a compensar el estímulo alargando exponencialmente el tiempo concéntrico de levantamiento (Time Under Tension).",
+        "Reducir el riesgo cardiovascular periférico al estandarizar de forma precisa el consumo volumétrico de oxígeno local del tejido intervenido."
+      ],
+      "correct_answer": "Mantener un reclutamiento sostenido de la velocidad máxima de impulsión mediante pausas intra-serie que inhiben drásticamente la fatiga del sistema nervioso central.",
+      "feedback": "El sofisticado método 'cluster' fracciona las series puras (ej. 1 rep, 10-15s pausa, 1 rep). Estas micropausas intra-serie logran una recuperación inmediata en la tasa de disparo de las motoneuronas del SNC. Esto asegura invariablemente que cada intento o vector de repetición alcance el pico absoluto de velocidad proyectada, evitando el declive y la degradación de potencia mecánica que genera el ácido láctico en las series continuas tradicionales."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice_de_hueco",
+      "question": "Como criterio de evaluación para protocolizar un trabajo preventivo de corte individual, es obligatorio instaurar prescripciones analíticas directas ante perfiles que evidencien asimetrías articulares y de fuerza que superen el umbral límite del ____.",
+      "options": [
+        "10 o 15 %",
+        "20 o 25 %",
+        "30 o 35 %"
+      ],
+      "correct_answer": "10 o 15 %",
+      "feedback": "En el deporte de élite se aplica un margen predictivo riguroso y respaldado por la evidencia biomecánica de un 10-15% en las variaciones del perfil asimétrico bilateral. Traspasar o igualar este umbral clínico indica una disparidad severa en la producción de fuerza reactiva o en la absorción excéntrica articular, incrementando radicalmente la susceptibilidad de rotura muscular, exigiendo intervención preventiva individual forzosa."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "Una práctica habitual durante las pretemporadas de la MLS consiste en trasladar a las plantillas a regiones cálidas como California exclusivamente para evitar el impacto fisiológico de la altitud en los primeros microciclos de adaptación.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Aunque diversas franquicias viajan estratégicamente a zonas de California (por ejemplo, equipos con entornos hostiles como Minnesota), el objetivo macro no es evitar la altitud per se, sino esquivar condiciones climáticas extremas y limitantes de infraestructura (frío severo, nieve). Fundamentalmente, esta migración busca facilitar y centralizar la logística táctica permitiendo organizar partidos de pretemporada con múltiples equipos de la liga, elevando además la cohesión socioafectiva."
     },
     {
       "id": 15,
-      "type": "keyword",
-      "question": "En el diseño de tareas intermitentes grupales de predominio aeróbico (como el HIIT 30/15), la individualización fisiológica perfecta se logra alterando mecánicamente la ________ de retorno asignada a cada subgrupo de rendimiento.",
-      "options": null,
-      "correct_answer": "distancia",
-      "accepted_variations": [
-        "distancia",
-        "la distancia",
-        "distancias",
-        "metros",
-        "los metros"
+      "type": "multiple_choice",
+      "question": "En la orquestación del microciclo clásico en una semana típica de un solo encuentro oficial, el proceso de 'tapering' tiene su instauración fundamental en el Match Day -2 (MD-2). ¿Bajo qué requerimiento técnico neurobiológico debe ejecutarse esa descarga?",
+      "options": [
+        "Disminuir asincrónicamente el volumen de trabajo al mínimo, mientras se preserva inalterable el estímulo de alta intensidad de juego para asegurar la reactividad máxima del sistema nervioso central.",
+        "Suprimir de forma radical el nivel de intensidad muscular induciendo exclusivamente ejercicios que superen los umbrales ventilatorios aeróbicos para inducir agotamiento protector.",
+        "Elevar exponencialmente las cargas organizadas y el volumen cognitivo, compensando la eliminación total de la preparación física o condicional con el balón.",
+        "Implementar largas e ininterrumpidas sesiones lineales sub-aeróbicas desvinculando drásticamente cualquier manifestación de fuerza explosiva al acercarse a la ventana competitiva."
       ],
-      "feedback": "El genio logístico del HIIT grupal recae en la modulación mecánica del espacio. Si tienes un grupo rápido y uno lento trabajando en los mismos 30 segundos, la única forma de que ambos reciban su estímulo máximo relativo (su Velocidad Máxima Aeróbica) es manipular la distancia de la pista. El grupo top retornará recorriendo 77 metros, y el de menor perfil recorrerá 63 metros, agotando a ambos por igual en el mismo marco temporal."
+      "correct_answer": "Disminuir asincrónicamente el volumen de trabajo al mínimo, mientras se preserva inalterable el estímulo de alta intensidad de juego para asegurar la reactividad máxima del sistema nervioso central.",
+      "feedback": "El objetivo profundo del 'tapering' competitivo no es vaciar de tono mecánico al atleta. Fisiológicamente se requiere de una drástica caída del volumen (reducción radical de la duración temporal de las tareas y distancias globales) para purgar la fatiga residual sistémica. No obstante, en paralelo es obligatorio mantener picos de intensidad sumamente elevados (sprints cortos, estímulos vivos y transiciones explosivas) para impedir un letargo del SNC y garantizar la chispa de reactividad al día del encuentro."
     },
     {
       "id": 16,
       "type": "multiple_choice",
-      "question": "Durante el tramo final del 'Return to Play', el jugador abandona el aislamiento y entra en la subfase de 'Return to Sport'. ¿Cuál es el objetivo biológico y operativo de esta inmersión progresiva?",
+      "question": "Para cuantificar integralmente la 'unidad de carga específica' basada en el nivel de especificidad de las tareas propuestas por el modelo contextual de Ismael, es metodológicamente imperativo cruzar operativamente dos variables medibles. ¿Cuáles son?",
       "options": [
-        "Someter al atleta a niveles máximos de lactato mediante pasadas de 400 metros lisos para asegurar la limpieza mitocondrial de la cicatriz.",
-        "Generar una carga crónica progresiva exponiendo al sistema a la toma de decisiones, estímulos cognitivos pasivos y caóticos (circuitos, comodines, rondos) sin someterlo aún a duelos sin restricción.",
-        "Aislar por completo la estructura emotivo-volitiva, bloqueando su interacción socioafectiva hasta que la resonancia magnética indique proliferación celular nula.",
-        "Implementar la rotación táctica del jugador en el minuto 60 de un partido oficial de máxima exigencia para evaluar la simetría de su pisada bajo fatiga."
+        "El número total de aceleraciones máximas y la densidad algorítmica de jugadores por metro cuadrado.",
+        "La duración temporal absoluta de cada tarea en la sesión cruzada con la carga interna fisiológica medida mediante la percepción subjetiva del esfuerzo (RPE).",
+        "El porcentaje analítico de repetición máxima (1RM) y el volumen bruto de kilómetros recorridos a muy alta velocidad (HSR).",
+        "El índice de asimetría dinámica bilateral en los isquiosurales frente a la concentración de lactato en sangre capilar tras la sesión."
       ],
-      "correct_answer": "Generar una carga crónica progresiva exponiendo al sistema a la toma de decisiones, estímulos cognitivos pasivos y caóticos (circuitos, comodines, rondos) sin someterlo aún a duelos sin restricción.",
-      "accepted_variations": null,
-      "feedback": "El 'Return to Sport' es el puente sagrado entre entrenar solo y jugar. Biológicamente (fase de remodelación), el tejido ya tolera la carga mecánica analítica, pero el cerebro no está listo para la agresión táctica pura. Se reintroduce al atleta al caos con 'paracaídas': comodines exteriores, rondos a dos toques, donde procesa información perceptiva y genera carga crónica en su organismo, protegiéndolo de colisiones impredecibles."
+      "correct_answer": "La duración temporal absoluta de cada tarea en la sesión cruzada con la carga interna fisiológica medida mediante la percepción subjetiva del esfuerzo (RPE).",
+      "feedback": "La especificidad táctica de la tarea, a diferencia de la especificidad holística del modelo de juego, parametriza la intervención calculando matemáticamente la 'unidad de carga específica'. Esto se obtiene de manera práctica ponderando el volumen externo temporal (la duración en minutos de cada tarea en cancha) frente a la respuesta o peaje fisiológico interno que sufre el deportista, representada habitualmente a través de la escala de Percepción Subjetiva del Esfuerzo (RPE)."
     },
     {
       "id": 17,
+      "type": "multiple_choice_de_hueco",
+      "question": "La instauración de rutinas de fuerza preventiva a nivel grupal se basa rígidamente en la epidemiología observacional del fútbol, demandando la aplicación prioritaria de mayor carga protectora concéntrica-excéntrica sobre el tejido biarticular de los ____, al liderar las estadísticas de lesión.",
+      "options": [
+        "gastronemios y sóleos",
+        "ligamentos cruzados",
+        "isquiosurales"
+      ],
+      "correct_answer": "isquiosurales",
+      "feedback": "Con atención absolutamente crítica a la cabeza larga del bíceps femoral durante las fases de swing en los sprints a máxima velocidad, el complejo de los isquiosurales es el principal afectado. Al ser músculos biarticulares y dominantes de cadera en deceleraciones severas, la literatura médica del fútbol los identifica de forma unánime como el vector primario de incidencia lesional, obligando a priorizar el plano posterior en el trabajo de fuerza grupal."
+    },
+    {
+      "id": 18,
       "type": "true_false",
-      "question": "Según el modelo teórico puro de la Periodización Táctica, las dimensiones físicas, técnicas y psicológicas deben ser fragmentadas metódicamente y entrenadas de forma aislada en diferentes días del microciclo para evitar interferencias.",
+      "question": "Las rutinas compensatorias de microdosis pospartido dirigidas a jugadores suplentes, focalizadas en el entrenamiento analítico del sprint con una duración extremadamente breve de apenas 10 a 15 minutos, son capaces de simular hasta un 60% de los requisitos neuromusculares de alta intensidad (HSR) que exige un partido oficial.",
       "options": [
         "Verdadero",
         "Falso"
       ],
-      "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es todo lo opuesto y representa una afirmación falsa. El postulado innegociable de la Periodización Táctica (de Víctor Frade) es la globalidad inquebrantable. Las dimensiones físicas, cognitivas y técnicas jamás se separan; se desarrollan simultáneamente y siempre a través de situaciones integradas dictadas por el Modelo de Juego (con el balón y decisiones tácticas), gestionando la carga mediante la 'Alternancia Horizontal'."
-    },
-    {
-      "id": 18,
-      "type": "multiple_choice",
-      "question": "A nivel de análisis biomecánico en el fútbol moderno, ¿qué acciones mecánicas dominan y perfilan al vector de fuerza rotacional-lateral?",
-      "options": [
-        "El impulso rectilíneo durante los primeros cinco metros de aceleración concéntrica pura frente al portero.",
-        "Las contracciones isométricas mantenidas durante el vuelo en los saltos de cabeceo ofensivo (vector anti-gravedad).",
-        "Las absorciones de inercia en frenadas excéntricas vinculadas a cambios de dirección agresivos, así como la tensión isométrica en disputas y protección de balón.",
-        "La ejecución cíclica y rítmica del tríceps sural durante los trotes regenerativos de baja densidad aeróbica."
-      ],
-      "correct_answer": "Las absorciones de inercia en frenadas excéntricas vinculadas a cambios de dirección agresivos, así como la tensión isométrica en disputas y protección de balón.",
-      "accepted_variations": null,
-      "feedback": "El vector rotacional-lateral captura la verdadera esencia caótica y de colisión del deporte de invasión. No se trata de correr rápido hacia adelante (vector horizontal) o saltar (vertical). Se trata de la fuerza brutal necesaria para anclar la pierna, absorber inercia de costado, cambiar de plano evasivamente (agilidad), soportar la carga (choque) del rival sobre el torso y girar con la pelota, requiriendo altísima estabilidad pélvico-lumbar."
+      "correct_answer": "Verdadero",
+      "feedback": "Es plenamente verdadero. Se comprueba estadística y biomecánicamente que sesiones analíticas cortas pero ultraintensas (10-15 minutos) tras el pitido final consiguen acumular aproximadamente el 60% del estímulo requerido de High Speed Running y velocidad máxima. Este proceso es insustituible para vaciar el glucógeno de las fibras IIb en los suplentes, blindando de este modo la activación excéntrica del bíceps femoral de cara a la prevención de lesiones en futuros microciclos."
     },
     {
       "id": 19,
-      "type": "keyword",
-      "question": "En el 'Return to Sport', el objetivo de exponer al jugador progresivamente a rondos y tareas de mayor demanda cognitiva es lograr consolidar una adaptación de los tejidos y del sistema nervioso conocida como carga ________, previa a la alta competitiva.",
-      "options": null,
-      "correct_answer": "crónica",
-      "accepted_variations": [
-        "crónica",
-        "cronica",
-        "carga crónica",
-        "la carga crónica",
-        "carga cronica"
+      "type": "multiple_choice",
+      "question": "En la planificación de bloques estructurales de acondicionamiento dirigidos a la hipertrofia funcional en futbolistas (movilizando cargas del 60-80% del 1RM), ¿cuál es el mecanismo autorregulador más eficiente para evitar el agotamiento residual limitante propio de las metodologías convencionales?",
+      "options": [
+        "Determinar rangos de repeticiones inflexibles, garantizando el arribo estricto al fallo muscular concéntrico en el bloque final de cada sesión.",
+        "Ejecutar los levantamientos limitando constantemente el techo del esfuerzo interno mediante el protocolo de dejar de 2 a 3 Repeticiones en Reserva (RIR).",
+        "Inhibir totalmente el desarrollo excéntrico enfocando el reclutamiento muscular de manera exclusiva en contracciones isométricas mantenidas hasta el colapso láctico.",
+        "Inyectar fatiga forzada de corte aeróbico en el descanso para garantizar un vaciado severo de los depósitos de glucógeno entre cada serie pesada."
       ],
-      "feedback": "Para que un tejido sobreviva al alta competitiva, no basta con picos aislados de esfuerzo (carga aguda). Requiere una densificación y adaptación acumulada en el tiempo: la carga crónica. Esta se construye semana a semana, permitiendo que la matriz de colágeno, los tendones y las respuestas neuromusculares se endurezcan hasta soportar los volúmenes totales de un partido profesional."
+      "correct_answer": "Ejecutar los levantamientos limitando constantemente el techo del esfuerzo interno mediante el protocolo de dejar de 2 a 3 Repeticiones en Reserva (RIR).",
+      "feedback": "El control autorregulador intrínseco a través del protocolo RIR (Repeticiones en Reserva) resulta crucial. Permite asegurar de forma individualizada que el estímulo se asiente en la zona óptima (60-80% de intensidad mecánica) sin forzar las uniones neuromusculares a un deterioro de recuperación prolongada (fallo muscular). Detener el movimiento a 2 o 3 repeticiones del colapso inyecta el volumen mecanotransductor exacto preservando la frescura del sistema nervioso central para el posterior trabajo técnico-táctico en césped."
     },
     {
       "id": 20,
-      "type": "multiple_choice",
-      "question": "Utilizando la fórmula de densidad métrica por jugador, ¿qué diseño de tarea induce invariablemente una sobrecarga mecánica con predominio orientado hacia la 'Fuerza' (aceleración, frenado, giros)?",
+      "type": "multiple_choice_de_hueco",
+      "question": "En contextos de altísima congestión de calendario y fatiga acumulada por viajes transcontinentales (como se vive en la MLS), una estrategia modificada clave para disipar la carga crónica consiste en 'cortar el microciclo' otorgando excepcionalmente el día libre a la base titular en el ____.",
       "options": [
-        "Partidos formales condicionados de 10 vs 10 utilizando más de 250 metros cuadrados por jugador.",
-        "Juegos de transición en espacios amplios (180 a 200 m² por jugador) que ofrezcan carriles largos de ataque.",
-        "Juegos Reducidos (SSG) de alta densidad y presión, confinando de 50 a un máximo de 100 metros cuadrados por jugador (ej. 5 vs 5 en un cuadrante de 25x25m).",
-        "Rondos analíticos pasivos de 3 vs 1 a un toque en un espacio estático inferior a 15 metros cuadrados totales."
+        "MD-4",
+        "MD-3",
+        "MD-2"
       ],
-      "correct_answer": "Juegos Reducidos (SSG) de alta densidad y presión, confinando de 50 a un máximo de 100 metros cuadrados por jugador (ej. 5 vs 5 en un cuadrante de 25x25m).",
-      "accepted_variations": null,
-      "feedback": "La matemática del diseño dicta el estímulo. Al encerrar a 10 jugadores en 625 m² (62 m² per cápita), se estrangula la posibilidad de alcanzar velocidades máximas o mantener carreras lineales. El entorno se vuelve un campo minado de colisiones, obligando al sistema neuromuscular a frenar en seco, arrancar y rotar continuamente, desatando una tormenta de contracciones excéntricas y concéntricas que perfilan una alta demanda de 'Fuerza' específica."
+      "correct_answer": "MD-3",
+      "feedback": "La estrategia de interrumpir o 'cortar la semana' dando reposo total en el Match Day -3 es una intervención clave en los cuerpos técnicos sometidos a gran desgaste logístico. Este abordaje provee un descanso metabólico profundo tras una altísima carga de adquisición neuromuscular del MD-4, replicando los ratios de fatiga-recuperación de una semana exigente de doble partido, y salvaguardando al núcleo titular del equipo."
     },
     {
       "id": 21,
       "type": "multiple_choice",
-      "question": "Dentro del andamiaje del Modelo Estructurado español de Paco Seirulo, ¿qué función estratégica cumple de forma exclusiva el Entrenamiento Coadyuvante?",
+      "question": "Al diseñar y secuenciar una matriz neuro-mecánica de intervención de Fuerza y Potencia para futbolistas élite, ¿cuál es la línea de demarcación fisiológica que permite clasificar un ejercicio como 'fundamental' en severa oposición a un ejercicio de 'aplicación'?",
       "options": [
-        "Replicar idénticamente el estrés biomecánico del partido mediante duelos situacionales para elevar la especificidad del Modelo de Juego.",
-        "Edificar, proteger y sanear las estructuras biológicas de soporte del jugador (prevención, restauración, estructural) creando la armadura fisiológica que le permitirá tolerar el entrenamiento competitivo.",
-        "Inducir crisis socioafectivas a través de reglas de provocación para desarrollar la estructura mental resiliente de los líderes del vestuario.",
-        "Automatizar las respuestas tácticas del jugador en las zonas de transición defensiva sin mediar carga metabólica aparente."
+        "El ejercicio fundamental se limita a hipertrofiar la musculatura lenta (Tipo I) de estabilización del core, mientras el de aplicación potencia mecánicamente la flexibilidad elástica del sistema ligamentoso cruzado.",
+        "El ejercicio fundamental es de carácter multiarticular, orientado a maximizar agresivamente el reclutamiento motor masivo en el SNC; en contraste, el ejercicio de aplicación transfiere de forma rápida y específica ese desarrollo al entorno de agilidad, coordinación y ángulos del deporte.",
+        "Los ejercicios fundamentales son ejercicios propioceptivos estáticos y rehabilitadores; los ejercicios de aplicación, por el contrario, ostentan una naturaleza puramente balística exigiendo resistencia anaeróbica isoinercial constante.",
+        "El fundamental induce invariablemente hipoxia y restricción vascular sobre extremidades inferiores, diferenciándose de los ejercicios de aplicación que simulan demandas aeróbicas de oxigenación capilar mantenida."
       ],
-      "correct_answer": "Edificar, proteger y sanear las estructuras biológicas de soporte del jugador (prevención, restauración, estructural) creando la armadura fisiológica que le permitirá tolerar el entrenamiento competitivo.",
-      "accepted_variations": null,
-      "feedback": "El Modelo Estructurado escinde sabiamente la preparación. El trabajo 'optimizador' prepara para competir simulando el juego. Pero el 'Coadyuvante' es el trabajo de base indispensable, oculto tras bambalinas. Es todo aquel esfuerzo aislado (hipertrofia profiláctica, movilidad, control motor excéntrico, rehabilitación tisular) que prepara la anatomía del ser humano para poder someterse, sin romperse, al salvaje nivel de agresión del trabajo optimizador."
+      "correct_answer": "El ejercicio fundamental es de carácter multiarticular, orientado a maximizar agresivamente el reclutamiento motor masivo en el SNC; en contraste, el ejercicio de aplicación transfiere de forma rápida y específica ese desarrollo al entorno de agilidad, coordinación y ángulos del deporte.",
+      "feedback": "La distinción se basa íntegramente en la correlación sobre la curva teórica de fuerza-velocidad. Los ejercicios catalogados como fundamentales (sentadillas máximas, isometrías límite, o tracciones pesadas) anclan su función en la zona de alta fuerza para forzar un reclutamiento sincrónico explosivo de las motoneuronas del cerebro. Los de 'aplicación' navegan en zonas más rápidas del espectro, trasladando (transfiriendo) esa fuerza bruta obtenida hacia movimientos veloces, angulados y multidireccionales íntimamente ligados a las demandas motrices del campo de juego."
     },
     {
       "id": 22,
-      "type": "true_false",
-      "question": "Al referirse a la 'Triste Realidad', el ponente advierte que el preparador físico de élite debe imponer dogmáticamente las planificaciones académicas de manual, ignorando por completo las limitaciones de presupuesto o restricciones logísticas impuestas por las ligas y directivas.",
-      "options": [
-        "Verdadero",
-        "Falso"
-      ],
-      "correct_answer": "Falso",
-      "accepted_variations": null,
-      "feedback": "Es absolutamente falso. La 'Triste Realidad' en el alto nivel expone que los ideales de la ciencia deportiva académica (presupuestos ilimitados, calendarios perfectos, descanso prístino) chocan de frente con presupuestos limitados, viajes atroces o entrenadores cambiantes. El profesional superior no impone dogmas; domina los principios fisiológicos para utilizar su 'creatividad' y 'adaptación', moldeando atajos científicos que rescaten el rendimiento biológico en medio del caos operativo real."
-    },
-    {
-      "id": 23,
-      "type": "keyword",
-      "question": "Según la lógica funcional de la intervención analítica, en contextos de readaptación clínica severa o para sentar las bases en futbolistas muy jóvenes, el pilar prioritario que debe instaurarse en primer lugar es el trabajo ________.",
-      "options": null,
-      "correct_answer": "estructural",
-      "accepted_variations": [
-        "estructural",
-        "el estructural",
-        "trabajo estructural"
-      ],
-      "feedback": "El diseño de adaptación biológica obedece a una arquitectura ineludible. Antes de exigir potencia (elasticidad) o resistencia (vías metabólicas extremas), el chasis debe estar reforzado. El trabajo estructural (adaptación anatómica osteoarticular, remodelación tendinosa, hipertrofia) es la prioridad cronológica cero. Engrosa los tejidos y mejora la densidad mecánica para soportar futuras cargas lesivas."
-    },
-    {
-      "id": 24,
       "type": "multiple_choice",
-      "question": "Dentro de la fase de Restauración Analítica post-esfuerzo, ¿qué abordaje define técnicamente a la 'Reactivación Muscular' moderna, diferenciándola del reposo pasivo tradicional?",
+      "question": "Analizando en profundidad la matriz conceptual del 'Enfoque Sistémico del Rendimiento', ¿qué nivel estructural de intervención operativa tiene como encomienda dominante incidir neurobiológicamente en la estructura cognitiva para desarrollar en plenitud el plano táctico colectivo del juego?",
       "options": [
-        "La inmersión crónica e ininterrumpida en hielo durante 24 horas para bloquear la vasodilatación capilar y anular la inflamación.",
-        "La utilización estratégica de micro-estímulos neurales protectores, incluyendo isometrías tendinosas, estabilidad del core y protocolos de Restricción del Flujo Sanguíneo (BFR) para inundar el sistema de hormonas anabólicas sin impacto articular.",
-        "El vaciado total de glucógeno periférico sometiendo al atleta a trotes continuos superiores a los 60 minutos en hipoxia simulada.",
-        "La aplicación exclusiva de estiramientos balísticos de gran amplitud en la cadena posterior para romper adherencias cicatriciales miofasciales de la fascia toracolumbar."
+        "La intervención analítica, enfocada exclusivamente a potenciar las vías metabólicas y los umbrales bioenergéticos condicionales.",
+        "La intervención terapéutica de restauración integral y neurodinámica reparadora sobre el tejido colágeno.",
+        "La intervención contextual, sustentada rígidamente en la depuración coordinativa segmentaria y las habilidades motrices cerradas con balón.",
+        "La intervención organizada, la cual se encuentra directamente vinculada a resolver en tiempo real las problemáticas de toma de decisión que demanda el modelo de juego táctico final."
       ],
-      "correct_answer": "La utilización estratégica de micro-estímulos neurales protectores, incluyendo isometrías short-duration, estabilidad del core y protocolos de Restricción del Flujo Sanguíneo (BFR) para inundar el sistema de hormonas anabólicas sin impacto articular.",
-      "accepted_variations": null,
-      "feedback": "La Reactivación Muscular repudia el sedentarismo post-partido. Busca un 'despertar' neurológico y metabólico del tejido dañado. Aplicando isometrías analgésicas o trampas hemodinámicas como el Blood Flow Restriction (BFR), se engaña al cerebro para segregar factores de crecimiento endógenos simulando un trabajo pesado, lavando desechos y reparando fibras sin someter a los cartílagos o ligamentos a ningún tipo de estrés de impacto."
-    },
-    {
-      "id": 25,
-      "type": "multiple_choice",
-      "question": "En la catalogación del desarrollo de fuerza-potencia, ¿cuál es el objetivo fisiológico rector que distingue a los 'ejercicios fundamentales' frente a los 'ejercicios de aplicación'?",
-      "options": [
-        "Los fundamentales operan exclusivamente en el extremo inferior de la curva fuerza-velocidad, moviendo altas velocidades sin carga y buscando agilidad técnica.",
-        "Los fundamentales se diseñan para imitar visualmente el gesto del pateo de balón o los saltos de cabeceo, asegurando la correlación específica en el plano biomecánico final.",
-        "Los fundamentales priorizan el desarrollo base de la capacidad neuromuscular, enfocándose en un reclutamiento masivo de unidades motoras y el SNC mediante el manejo de cargas pesadas multiarticulares.",
-        "Los fundamentales requieren obligatoriamente de elementos externos de desestabilización (bosu o fitball) para potenciar las respuestas reflejas del huso neuromuscular profundo."
-      ],
-      "correct_answer": "Los fundamentales priorizan el desarrollo base de la capacidad neuromuscular, enfocándose en un reclutamiento masivo de unidades motoras y el SNC mediante el manejo de cargas pesadas multiarticulares.",
-      "accepted_variations": null,
-      "feedback": "La dicotomía técnica en el diseño de fuerza es clara. Los 'fundamentales' (sentadillas pesadas, peso muerto, isometrías máximas) no buscan parecerse al fútbol; su misión es estrictamente sistémica: hiper-excitar al SNC, generar tensión límite y despertar masivamente a las unidades motoras adormecidas. Una vez construido este 'motor', los ejercicios de 'aplicación' toman esa energía bruta y la pulen, transformándola hacia un extremo más veloz de la curva o hacia vectores multidireccionales de transferencia deportiva."
+      "correct_answer": "La intervención organizada, la cual se encuentra directamente vinculada a resolver en tiempo real las problemáticas de toma de decisión que demanda el modelo de juego táctico final.",
+      "feedback": "El innovador enfoque sistémico triangula operativamente el entrenamiento en tres pilares de intervención no excluyentes. La 'Intervención Analítica' optimiza en aislamiento la estructura bioenergética y la fuerza base; la 'Intervención Contextual' acapara la depuración técnico-coordinativa en escenarios micro (relación sujeto-balón); y la 'Intervención Organizada', al operar íntegramente bajo la complejidad impredecible y holística del modelo de juego, representa el estímulo supremo para detonar, desarrollar y acoplar los esquemas cognitivo-tácticos superiores en los cerebros de los jugadores."
     }
   ]
 }
