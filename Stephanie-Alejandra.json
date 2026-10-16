@@ -1,0 +1,250 @@
+{
+  "class_title": "El rol del Performance Scientist: De la teoría a la práctica",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el punto de partida metodológico correcto antes de incorporar dispositivos tecnológicos de monitoreo en el alto rendimiento?",
+      "options": [
+        "Seleccionar la herramienta más innovadora del mercado",
+        "Definir la pregunta específica que se necesita responder",
+        "Monitorizar todas las variables fisiológicas posibles",
+        "Delegar el análisis de datos al cuerpo médico"
+      ],
+      "correct_answer": "Definir la pregunta específica que se necesita responder",
+      "feedback": "El uso crítico de la tecnología exige que el punto de partida jamás sea la herramienta en sí. Ante la saturación de datos, la tecnología debe seleccionarse en función de la duda deportiva o biológica que el cuerpo técnico necesita resolver. La herramienta facilita el dato, pero el criterio profesional define qué medir y cómo accionar."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "La necesidad de dominar la dinámica de un cuerpo técnico y la comunicación bajo presión son habilidades vitales en el día a día profesional que la literatura científica universitaria no enseña.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Aunque la biomecánica y la fisiología son la base innegociable, la verdadera transición al alto rendimiento exige habilidades prácticas ajenas a los libros, como interactuar, gestionar recursos limitados y adaptarse al ecosistema caótico del equipo."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "En el deporte de élite, la capacidad de transmitir información y recomendaciones de forma clara bajo presión de tiempo antes o durante un partido se considera estrictamente ____.",
+      "options": [
+        "una táctica motivacional",
+        "una habilidad técnica",
+        "un protocolo de emergencia"
+      ],
+      "correct_answer": "una habilidad técnica",
+      "feedback": "La comunicación clara y rápida se categoriza como una habilidad técnica esencial. En el alto rendimiento el tiempo es oro y las decisiones requieren inmediatez; estructurar y sintetizar el mensaje adecuado para que sea procesable es tan vital como el análisis fisiológico subyacente."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿Cuál es la función principal de la preparación física respecto a la idea de juego estructural de un equipo?",
+      "options": [
+        "Aislar las métricas de carga de los planteamientos puramente tácticos",
+        "Trabajar de forma individualizada para maximizar la fuerza máxima de cada jugador",
+        "Alinear los objetivos de rendimiento físico con las prioridades tácticas y competitivas",
+        "Sustituir el criterio de los entrenadores asistentes mediante el análisis de GPS"
+      ],
+      "correct_answer": "Alinear los objetivos de rendimiento físico con las prioridades tácticas y competitivas",
+      "feedback": "El preparador físico o científico del deporte no opera en un silo. Toda recomendación de carga, intensidad o volumen debe estar supeditada y servir al modelo de juego del director técnico, respondiendo directamente a las exigencias tácticas del contexto competitivo."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "Dentro de la dinámica interdisciplinar del alto rendimiento, la perspectiva logística operativa ('Team Administrator') se ignora al planificar la carga física porque carece de impacto fisiológico directo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Las operaciones y logística (calidad de instalaciones, tiempos de traslado, alojamiento) condicionan directamente los niveles de fatiga central y el estrés del deportista. Ignorar el organigrama operativo al prescribir cargas conduce a desadaptaciones sistémicas o incrementa el riesgo de lesión."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "En la mesa de toma de decisiones interdisciplinar, ¿cuál es la prioridad fundamental que defiende el área de 'Performance Medicine' frente al cuerpo técnico?",
+      "options": [
+        "Optimizar la preparación táctica del próximo encuentro",
+        "Mantener la disponibilidad continua del jugador para entrenamientos y partidos",
+        "Maximizar los picos de velocidad máxima en cada microciclo",
+        "Gestionar la operación logística de los viajes internacionales"
+      ],
+      "correct_answer": "Mantener la disponibilidad continua del jugador para entrenamientos y partidos",
+      "feedback": "Mientras el cuerpo técnico se enfoca en el rendimiento competitivo táctico, el departamento médico y de fisioterapia persigue la prevención y el tratamiento para asegurar que el atleta esté sano y disponible. El científico deportivo debe integrar estas visiones a menudo contrapuestas para tomar la decisión menos dañina y más efectiva."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "El objetivo final a largo plazo del staff de rendimiento respecto al deportista es evitar la dependencia perpetua y educarlo para fomentar ____.",
+      "options": [
+        "la hipertrofia muscular continua",
+        "su participación activa",
+        "el aislamiento táctico"
+      ],
+      "correct_answer": "su participación activa",
+      "feedback": "Fomentar el paradigma del 'jugador autónomo' implica educar al atleta para que comprenda el 'porqué' de sus procesos. Cuando asimila esta información, no solo gana independencia a lo largo de su carrera, sino que eleva radicalmente su adherencia y toma de decisiones en su día a día extradeportivo."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "¿Por qué la recopilación de información cualitativa mediante la conversación directa a menudo supera el valor de los datos objetivos de sensores tecnológicos?",
+      "options": [
+        "Porque los sistemas de seguimiento y telemetría presentan grandes márgenes de error estadístico.",
+        "Porque expone el contexto personal, el estado emocional y las respuestas individuales al estrés que la biomecánica omite.",
+        "Porque la mayoría del cuerpo técnico carece de la formación matemática para interpretar gráficas de carga.",
+        "Porque las plataformas de medición de fuerza tienen menor validez que la percepción del esfuerzo."
+      ],
+      "correct_answer": "Porque expone el contexto personal, el estado emocional y las respuestas individuales al estrés que la biomecánica omite.",
+      "feedback": "El deportista es un ser humano biopsicosocial. Las conversaciones honestas y la observación de su lenguaje corporal revelan variables de fatiga mental, problemas extradeportivos y rasgos de personalidad que los dispositivos no pueden leer, permitiendo una contextualización superior del dato puro."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "A diferencia del entorno relativamente estable que ofrece un club durante la temporada, el ecosistema de las selecciones nacionales se caracteriza por una volatilidad extrema en logística, climas y husos horarios.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Las selecciones imponen un ecosistema sumamente inestable: viajes internacionales constantes, variabilidad térmica drástica y alternancia en la calidad de la infraestructura deportiva, lo que obliga a recalcular las cargas físicas de manera permanente frente a la rutina predecible de un club."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Al disponer de un amplio abanico de plataformas tecnológicas (GPS, termografía, fuerza) en una concentración con tiempo limitado, ¿qué criterio primario define la inclusión de una prueba específica?",
+      "options": [
+        "La capacidad de la herramienta para generar el mayor volumen de métricas en poco tiempo",
+        "La popularidad y el aval del dispositivo en la literatura científica actual",
+        "La respuesta accionable que proporciona frente a la pregunta central de la sesión",
+        "El nivel de automatización algorítmica que ofrezca para evitar el análisis manual"
+      ],
+      "correct_answer": "La respuesta accionable que proporciona frente a la pregunta central de la sesión",
+      "feedback": "La saturación de datos sin propósito es un error metodológico crítico. La tecnología no debe elegirse por moda o volumen de datos, sino determinando primero qué problema de rendimiento se necesita resolver y asegurando que la métrica generada habilite una acción correctiva en el campo."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "Las 'limitaciones dinámicas' en el entorno del alto rendimiento se refieren de manera exclusiva a los imprevistos de carácter táctico que impone el esquema del entrenador rival durante el partido.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Las limitaciones dinámicas abarcan una amplia red de variables incontrolables del contexto externo e interno, tales como las asimetrías en la fase de temporada de cada jugador convocado, las contingencias climáticas o las cancelaciones logísticas, trascendiendo puramente el plano táctico."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Las alteraciones climáticas, el ritmo competitivo disímil con el que llegan los convocados y las modificaciones de última hora se agrupan técnicamente bajo el concepto de ____.",
+      "options": [
+        "ciclos de adaptación",
+        "errores logísticos",
+        "restricciones dinámicas"
+      ],
+      "correct_answer": "restricciones dinámicas",
+      "feedback": "Denominadas en el sector como 'dynamic constraints', agrupan a todas las variables impredecibles del entorno real de alto rendimiento (estado de forma asimétrico, clima, imprevistos logísticos) que exigen plasticidad y adaptabilidad permanente en la periodización."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Frente a una racha negativa de resultados o en un pico de tensión aguda en un entrenamiento, ¿qué rol comunicativo estratégico debe adoptar el área de rendimiento físico?",
+      "options": [
+        "Delegar cualquier comunicación interpersonal de inmediato al psicólogo deportivo",
+        "Imponer un incremento drástico en las exigencias neuromusculares como medida de choque",
+        "Operar como un ancla de calma y regulación emocional para la plantilla",
+        "Aislarse del terreno de juego para centrarse exclusivamente en el monitoreo de métricas"
+      ],
+      "correct_answer": "Operar como un ancla de calma y regulación emocional para la plantilla",
+      "feedback": "El tono de voz y el enfoque del staff son herramientas de liderazgo situacional. En contextos donde el estrés competitivo sobrepasa al jugador, el especialista en rendimiento debe abandonar temporalmente la corrección estricta para convertirse en un estabilizador emocional que devuelva el balance psicológico al grupo."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "Aunque las concentraciones internacionales están sujetas a innumerables modificaciones imprevistas, estructurar una planificación teórica previa sigue siendo un paso vital indispensable.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La utilidad de un plan estructurado en un entorno caótico no es cumplirlo de forma dogmática, sino disponer de un mapa base. Poseer este andamiaje permite al cuerpo técnico evaluar el desvío, pivotar velozmente y no paralizarse frente a la incertidumbre."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "¿Qué área NO forma parte de los cinco pilares operativos del rol híbrido de un Performance Scientist en selecciones?",
+      "options": [
+        "Las estrategias algorítmicas de scouting ofensivo",
+        "La programación de la preparación física general",
+        "La planificación estructural nutricional",
+        "El monitoreo diario de la respuesta fisiológica"
+      ],
+      "correct_answer": "Las estrategias algorítmicas de scouting ofensivo",
+      "feedback": "El rol híbrido se sostiene sobre la planificación general, las estrategias de periodización, la programación en campo/gimnasio, la coordinación nutricional y el monitoreo diario de estrés. El scouting táctico ofensivo recae en los analistas de video y el cuerpo técnico principal."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "En el marco de una selección nacional, ¿cuál es el motivo principal para establecer una red de comunicación bidireccional permanente con los clubes de origen de los convocados?",
+      "options": [
+        "Asegurar la cesión de derechos de imagen y televisivos para los torneos oficiales",
+        "Garantizar la transición y continuidad de la carga física frente a los escasos periodos de concentración",
+        "Intervenir activamente en las decisiones tácticas que los jugadores asumen en sus ligas locales",
+        "Fiscalizar económicamente las primas deportivas de los atletas"
+      ],
+      "correct_answer": "Garantizar la transición y continuidad de la carga física frente a los escasos periodos de concentración",
+      "feedback": "Dado que el staff internacional solo dispone de los atletas breves ventanas al año, cruzar bases de datos de carga, picos de velocidad e historiales lesionales con los clubes evita someter al jugador a estresores articulares desproporcionados o a desadaptaciones por falta de estímulo."
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "question": "El cenit de la optimización del rendimiento en élite sucede cuando los departamentos tácticos, médicos y nutricionales toman decisiones de forma estrictamente aislada para no contaminar sus datos empíricos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. El paradigma científico actual rechaza categóricamente el trabajo en 'silos' departamentales. Una decisión deportiva óptima requiere integrar la disponibilidad médica, el soporte nutricional, el análisis de carga física y la exigencia táctica en una sola respuesta colegiada."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "La formación académica universitaria proporciona una base fisiológica innegociable, pero su principal carencia al enfrentar el fútbol profesional radica en la omisión de ____.",
+      "options": [
+        "habilidades prácticas y dinámica de grupo",
+        "protocolos de hipertrofia sarcomérica",
+        "las leyes físicas de la termodinámica"
+      ],
+      "correct_answer": "habilidades prácticas y dinámica de grupo",
+      "feedback": "La universidad prepara para diseñar ciclos en escenarios controlados e ideales, pero excluye las 'soft skills' necesarias para sobrevivir al alto rendimiento: saber comunicar una idea impopular al técnico, conciliar egos en el vestuario y accionar eficientemente con datos incompletos."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "¿De qué manera incide el análisis previo de los itinerarios de viaje en la prescripción del entrenamiento durante el primer día de una ventana internacional?",
+      "options": [
+        "Define automáticamente el esquema táctico que se utilizará en el debut competitivo",
+        "Condiciona el margen de la ventana de recuperación fisiológica previa a la exigencia neuromuscular",
+        "Determina la rotación de los guardametas en función de la fatiga visual",
+        "Afecta el criterio de selección en procesos de identificación de talento emergente"
+      ],
+      "correct_answer": "Condiciona el margen de la ventana de recuperación fisiológica previa a la exigencia neuromuscular",
+      "feedback": "La logística manda sobre la fisiología inicial. Las horas de vuelo, las escalas y los husos horarios dictaminan el grado de fatiga residual del sistema nervioso central; ignorar este desgaste y programar cargas altas inmediatas dispararía exponencialmente el riesgo de lesión muscular aguda."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "¿Qué aspecto clave debe abarcar la filosofía de desarrollo en el deporte formativo de alto rendimiento, trascendiendo las métricas condicionales tradicionales?",
+      "options": [
+        "La optimización exclusiva del pico de velocidad máxima en cada mesociclo",
+        "La hiper-especialización táctica del adolescente en perfiles posicionales rígidos",
+        "El empoderamiento cognitivo y humano para la correcta toma de decisiones intra y extradeportivas",
+        "La sumisión incondicional del deportista ante los parámetros dictados por el GPS"
+      ],
+      "correct_answer": "El empoderamiento cognitivo y humano para la correcta toma de decisiones intra y extradeportivas",
+      "feedback": "El alcance ético y profesional de un Performance Scientist involucra el ecosistema completo del atleta. Desarrollar su autogestión, sus habilidades interpersonales y su capacidad crítica asegura no solo un jugador más inteligente en el campo, sino un individuo funcional para su vida post-retiro."
+    }
+  ]
+}
