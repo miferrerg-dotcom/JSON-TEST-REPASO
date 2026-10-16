@@ -1,0 +1,370 @@
+{
+  "class_title": "El rol del preparador físico del fútbol en la actualidad (PSS Certification)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Bajo el modelo integrado de rendimiento, si un mediocentro y un delantero centro acumulan la misma cantidad de metros a alta intensidad durante un partido, el impacto adaptativo será radicalmente distinto debido a que ____.",
+      "options": [
+        "el delantero alcanza umbrales de frecuencia cardíaca basal significativamente inferiores.",
+        "los esfuerzos responden a contextos táctico-espaciales diferentes, como desmarques frente a coberturas defensivas.",
+        "el mediocentro experimenta una mayor degradación sistemática de fibras musculares lentas.",
+        "las métricas de acelerometría y el Player Load siempre se invierten en las segundas partes de los encuentros."
+      ],
+      "correct_answer": "los esfuerzos responden a contextos táctico-espaciales diferentes, como desmarques frente a coberturas defensivas.",
+      "feedback": "El modelo integrado demuestra que analizar aisladamente la métrica física (metros recorridos) es insuficiente. Los 1000 metros a alta intensidad de un mediocentro suelen darse realizando coberturas a sus compañeros, mientras que el delantero los ejecuta desmarcándose a la espalda de la defensa defensiva, lo que añade una coordinación constante con un adversario y unas demandas espacio-temporales y cognitivas completamente diferentes."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "Según el análisis condicional de LaLiga y Segunda División, existe una correlación directa y proporcional entre ocupar las primeras plazas de la clasificación y registrar el mayor volumen de distancia total recorrida por partido.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La evidencia muestra que no existe una correlación directa entre correr más y ganar. De hecho, los equipos de la parte baja de la tabla suelen exponerse mucho más a nivel condicional porque el resultado adverso les obliga a buscar la portería contraria de forma constante, desmitificando que un mayor volumen de metros recorridos sea un indicador absoluto de éxito deportivo."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Al evaluar a un jugador que ha registrado un 'Worst Case Scenario' absoluto en el partido, pero cuyos tests de 'Readiness' diarios reflejan una tolerancia excelente a la carga, la decisión técnica más coherente en la sesión posterior es ____.",
+      "options": [
+        "mantener los niveles de trabajo",
+        "aislarlo con trabajo puramente concéntrico",
+        "aplicar un protocolo regenerativo pasivo"
+      ],
+      "correct_answer": "mantener los niveles de trabajo",
+      "feedback": "El sistema dinámico de toma de decisiones establece que, si un jugador sufre un alto impacto externo pero su estado de 'wellness' refleja una excelente recuperación (buena tolerancia a la carga), el proceso adaptativo está siendo exitoso. Por tanto, no se debe intervenir disminuyendo la carga innecesariamente, sino que se pueden mantener los estímulos planificados en función de los objetivos individuales."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Al analizar un sistema dinámico de cuadrantes post-partido, si la plantilla presenta un nivel de fatiga sistémica altísimo tras un encuentro muy complejo y el tiempo disponible hasta el siguiente compromiso competitivo es crítico (muy corto), la prioridad absoluta de la planificación debe ser ____.",
+      "options": [
+        "compensar con tareas intermitentes de espacios reducidos.",
+        "asimilar conceptos tácticos mediante el método sistémico.",
+        "revertir la situación de fatiga y recuperar.",
+        "generar adaptaciones de fuerza mediante multivectorialidad."
+      ],
+      "correct_answer": "revertir la situación de fatiga y recuperar.",
+      "feedback": "En el marco de la toma de decisiones por cuadrantes, el cruce entre una fatiga extrema y una alta densidad competitiva (poco tiempo) elimina cualquier posibilidad de optimización condicional o asimilación táctica densa. El único objetivo viable es emplear todos los esfuerzos del cuerpo técnico en la regeneración para maximizar la disponibilidad de cara a la competición."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "A la hora de diseñar tareas de entrenamiento, si el objetivo condicional del preparador físico es maximizar la densidad de esfuerzos, provocando continuas aceleraciones y deceleraciones sin que los jugadores alcancen su velocidad máxima pico, la estructura idónea será plantear ____.",
+      "options": [
+        "transiciones completas de área a área.",
+        "juegos de posición en espacios reducidos con pocos jugadores.",
+        "tareas analíticas lineales en espacios superiores a 60 metros.",
+        "circuitos preventivos de fuerza isométrica."
+      ],
+      "correct_answer": "juegos de posición en espacios reducidos con pocos jugadores.",
+      "feedback": "La modificación de las dimensiones y el número de jugadores altera drásticamente la demanda metabólica y mecánica. Los espacios reducidos limitan el espacio necesario para acelerar hasta velocidades máximas, forzando en su lugar una alta densidad de cambios de dirección, frenadas (deceleraciones) y arranques (aceleraciones), lo cual eleva el impacto neuromuscular."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "La calidad y fluidez de la comunicación interna entre los distintos departamentos de un staff técnico (fisioterapeutas, preparadores físicos, médicos y entrenador) presenta una correlación directa e inversamente proporcional con la tasa de lesiones de la plantilla.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "La literatura científica confirma que gestionar un equipo como un sistema complejo exige sinergias impecables. Los clubes con un 'Head of Performance' que logra centralizar y coordinar la comunicación entre los departamentos de salud y rendimiento ven reducida significativamente la epidemiología lesional y aumentada la asistencia a entrenamientos."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Desde la perspectiva epidemiológica y del rendimiento a largo plazo, resulta estratégicamente más beneficioso para el éxito del equipo mantener a los jugadores habitualmente disponibles al 85-90% de su estado de forma que ____.",
+      "options": [
+        "tenerlos un solo día al 100%",
+        "implementar una microdosificación diaria",
+        "someterlos a un método integrado"
+      ],
+      "correct_answer": "tenerlos un solo día al 100%",
+      "feedback": "La regularidad en la disponibilidad es el factor más correlacionado con el éxito en las grandes ligas. Exprimir a un jugador al 100% comprometiendo su integridad física y perdiéndolo para el resto del calendario afecta negativamente a las alternativas del entrenador. La clave está en minimizar los días de baja médica."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Cuando un sistema automatizado de análisis (Big Data) cruza una 'High Metabolic Load Distance' extrema con una Percepción Subjetiva del Esfuerzo (RPE) reportada por el jugador como muy elevada (Oye, estoy muy cansado), el sistema califica esta reacción como ____.",
+      "options": [
+        "una respuesta desadaptativa que requiere cese de entrenamiento.",
+        "una lectura nula por contaminación de factores psicológicos.",
+        "una respuesta lógica y coherente ante la demanda.",
+        "un exceso de infoxicación por solapamiento de umbrales."
+      ],
+      "correct_answer": "una respuesta lógica y coherente ante la demanda.",
+      "feedback": "El uso de cuadrantes que relacionan la carga interna (RPE) con la carga externa compleja (High Metabolic Load Distance o Player Load) permite validar la coherencia del estado del atleta. Si el desgaste mecánico y metabólico ha sido extremo, es perfectamente biológico y predecible que la percepción subjetiva de fatiga sea máxima, catalogándose como una respuesta lógica."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "El método de entrenamiento sistémico garantiza la estimulación condicional individualizada y máxima de todos los jugadores de la plantilla mediante la subordinación absoluta al modelo de juego del entrenador.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Aunque el método sistémico prioriza el modelo de juego y es excelente para la toma de decisiones y la especificidad táctica, se cuestiona profundamente su capacidad para alcanzar los umbrales condicionales máximos a nivel individual, ya que el contexto grupal y el rol diluyen o limitan los picos de intensidad físicos de ciertos jugadores."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Al analizar la relación entre la carga ejecutada y el perfil base histórico de un jugador, el sistema de alertas de rendimiento debe saltar de forma prioritaria cuando se detecta que ____.",
+      "options": [
+        "el entrenamiento ejecutado difiere ligeramente de la planificación sin afectar al readiness.",
+        "el jugador iguala sistemáticamente sus propios picos de alta intensidad históricos.",
+        "la sesión iguala los parámetros de volumen promedio del último microciclo.",
+        "se aplica un estímulo que le exige mucho físicamente y además es biomecánicamente muy diferente a lo habitual."
+      ],
+      "correct_answer": "se aplica un estímulo que le exige mucho físicamente y además es biomecánicamente muy diferente a lo habitual.",
+      "feedback": "El riesgo de lesión aumenta exponencialmente cuando confluyen un alto impacto condicional y una alta novedad motriz (variabilidad). Si se aplica una carga extrema en un plano o con una especificidad a la que el jugador no está expuesto regularmente en su perfil base, se produce una disrupción de los mecanismos de adaptación y protección, haciendo obligatoria una alarma."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "El verdadero valor del Sport Scientist en el fútbol del futuro no residirá en su capacidad técnica para almacenar volúmenes masivos de datos procedentes de GPS o radares, sino en su destreza para ____.",
+      "options": [
+        "delegar la responsabilidad de la carga",
+        "integrar toda la información",
+        "eliminar el uso de cuestionarios wellness"
+      ],
+      "correct_answer": "integrar toda la información",
+      "feedback": "La era de la recopilación y la infoxicación ha terminado. La evolución exige perfiles resolutivos capaces de dar sentido a múltiples flujos de datos dispares (médicos, subjetivos, biomecánicos y posicionales), centralizándolos para generar decisiones contundentes que reduzcan el riesgo de lesión y maximicen la disponibilidad."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Según estudios publicados sobre KPIs (Key Performance Indicators) cualitativos, cuando directivos, médicos y jugadores evalúan a un preparador físico de élite, el criterio que determinan como MÁS importante por encima del porcentaje de victorias es ____.",
+      "options": [
+        "su nivel de certificación académica en análisis de datos avanzados.",
+        "su carácter, comportamiento y habilidades interpersonales (soft skills).",
+        "el número exacto de lesiones musculares registradas durante la temporada.",
+        "su capacidad para programar y automatizar dashboards en tiempo real."
+      ],
+      "correct_answer": "su carácter, comportamiento y habilidades interpersonales (soft skills).",
+      "feedback": "Paradójicamente, en un mundo hipertecnificado, la literatura refleja que la parte humana del preparador físico (empatía, capacidad para generar relaciones de confianza, comunicación y flexibilidad) es el indicador de calidad más valorado por los expertos para definir la eficacia y el impacto real del departamento de rendimiento."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Para poder extraer conclusiones precisas de los llamados 'Worst Case Scenarios', el analista de rendimiento no debe limitarse a cuantificar el pico de metros por minuto de una franja aislada, sino que debe analizar obligatoriamente ____.",
+      "options": [
+        "los niveles de fuerza reactiva en el gimnasio el día previo al encuentro.",
+        "la marca comercial del dispositivo GPS utilizado durante el microciclo.",
+        "el contexto táctico subyacente, como una inferioridad numérica o un marcador en contra.",
+        "el índice de variabilidad de la frecuencia cardíaca registrado al despertar esa misma mañana."
+      ],
+      "correct_answer": "el contexto táctico subyacente, como una inferioridad numérica o un marcador en contra.",
+      "feedback": "Las demandas extremas de la competición no ocurren en un vacío. Un pico de exigencia metabólica o locomotora cobra su verdadero significado cuando se cruza con el estrés psicológico y espacial del juego. Ir perdiendo o jugar con diez hombres exige un sobreesfuerzo que agrava drásticamente el impacto real sobre el jugador."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "Un estudio científico realizado durante una pretemporada utilizando tecnología GPS evidenció que los equipos lograron un 6% más de sincronización táctica recorriendo paralelamente una menor distancia física absoluta por minuto.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "El estudio cuestiona la interpretación tradicional de los datos de volumen, demostrando que con el entrenamiento, los jugadores se vuelven más eficientes y sincronizados. Son capaces de resolver los problemas y cumplir los objetivos tácticos exponiéndose a menores picos de desgaste físico inútil."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "En el flujo metódico de toma de decisiones diarias de un club élite, la reunión de 'pre-performance' tiene como objetivo vital y principal ____.",
+      "options": [
+        "analizar exclusivamente el mapa de calor del equipo contrario de cara al fin de semana.",
+        "cruzar el parte médico con el wellness para aplicar microdosificaciones individualizadas antes de pisar el campo.",
+        "debatir la reestructuración financiera de los complementos nutricionales del equipo.",
+        "evaluar la fuerza de la cadena posterior de los titulares en plataformas de fuerza isométricas."
+      ],
+      "correct_answer": "cruzar el parte médico con el wellness para aplicar microdosificaciones individualizadas antes de pisar el campo.",
+      "feedback": "El 'arte de entrenar' se plasma en las reuniones de staff tempranas. Sincronizar el dolor residual (fisioterapia) con la fatiga subjetiva (wellness) permite dictaminar si un jugador actuará de comodín, si reducirá su volumen al 80% o si precisa una activación de glúteo específica, sin romper la dinámica del entrenamiento colectivo."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Para gestionar la complejidad del fútbol moderno y comprender de manera profunda las limitaciones sistémicas del entorno de trabajo, el preparador físico debe desarrollar una actitud empática que incluye ____.",
+      "options": [
+        "escuchar y aprender de otros empleados como utilleros o médicos",
+        "imponer su filosofía por encima de la dinámica del vestuario",
+        "centralizar absolutamente toda la toma de decisiones médicas"
+      ],
+      "correct_answer": "escuchar y aprender de otros empleados como utilleros o médicos",
+      "feedback": "Aunque el preparador físico posea las 'hard skills' analíticas, el contexto cultural de un club suele ser dominado por el personal histórico (utilleros, doctores veteranos). Ignorar su experiencia vital lleva al fracaso de intervenciones que teóricamente son perfectas, pero que chocan con la idiosincrasia real del equipo."
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "question": "La fatiga es considerada un subproducto tóxico y un indicador de fracaso metodológico que debe erradicarse a toda costa durante la preparación del futbolista profesional.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Todo lo contrario. La fatiga es conceptualizada como 'uno de los mejores inventos', ya que representa un chivato biológico insustituible. Otorga información directa, objetiva y multifactorial sobre cómo está procesando el deportista la dosis de entrenamiento, permitiendo calibrar con exactitud los siguientes pasos del proceso."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "El análisis longitudinal del rendimiento condicional en competiciones de alto nivel, como LaLiga española, ha revelado que en la actualidad los jugadores presentan una tendencia clara orientada hacia ____.",
+      "options": [
+        "un aumento indiscriminado de la distancia total cubierta a velocidades submáximas.",
+        "una reducción de la distancia total recorrida, cediendo todo el protagonismo a la densidad de acciones a alta velocidad y sprints.",
+        "una involución hacia perfiles atléticos generalistas sin diferenciación posicional clara.",
+        "el abandono progresivo de las entradas y despejes en favor de picos anaeróbicos lácticos superiores a 15 minutos."
+      ],
+      "correct_answer": "una reducción de la distancia total recorrida, cediendo todo el protagonismo a la densidad de acciones a alta velocidad y sprints.",
+      "feedback": "Los datos desde 2012 demuestran que el jugador corre menos metros globales para obtener el resultado, pero los esfuerzos son inmensamente más determinantes. La velocidad a la que circula el balón, los sprints explosivos y las distancias a alta intensidad deciden la élite, exigiendo un condicionamiento ultraespecífico hacia la potencia intermitente."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Frente a la sobrecarga de datos y la incapacidad de controlar el caos intrínseco del juego, la pregunta fundamental que el especialista en rendimiento debe plantearse cruzando datos cualitativos y cuantitativos para optimizar la intervención es cómo conseguir ____.",
+      "options": [
+        "disminuir la variabilidad táctica",
+        "más adaptaciones haciendo menos impacto",
+        "mayor volumen de fuerza máxima"
+      ],
+      "correct_answer": "más adaptaciones haciendo menos impacto",
+      "feedback": "Reducir la exposición física minimiza el estrés mecánico sobre ligamentos y tendones (reduciendo lesiones), pero para no mermar el rendimiento, el estímulo debe ser exquisitamente preciso. El objetivo maestro del entrenamiento condicional contemporáneo es desencadenar potentes supercompensaciones biológicas con la menor dosis residual posible."
+    },
+    {
+      "id": 20,
+      "type": "true_false",
+      "question": "El diseño de un método de entrenamiento tradicional o puramente analítico ha quedado completamente obsoleto en la élite y es totalmente desaconsejable para generar adaptaciones físicas concretas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Se han rescatado tendencias que parecían obsoletas. El método tradicional es inmensamente útil cuando la prioridad es generar una adaptación específica (ej. un umbral físico) sin que intervengan factores técnicos o tácticos que ensucien o interfieran neurológicamente con la asimilación del estímulo principal."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Las corrientes modernas del entrenamiento de la fuerza en el fútbol han superado el dogma de los ejercicios monoaxiales pesados buscando una génesis real de la motricidad. Estas nuevas tendencias pivotan en torno a la variabilidad de las acciones y ____.",
+      "options": [
+        "la unilateralidad y la multivectorialidad.",
+        "el aislamiento estricto de las fibras lentas.",
+        "la inhibición del Rate of Force Development (RFD).",
+        "la sincronización concéntrica en máquinas guiadas bidimensionales."
+      ],
+      "correct_answer": "la unilateralidad y la multivectorialidad.",
+      "feedback": "Guiados por autores como Julio Tous, el condicionamiento de fuerza ha evolucionado hacia la especificidad biomecánica. El fútbol es asimétrico, explosivo y caótico. Desafiar al sistema nervioso con resistencias en diferentes planos (multivectorial) y trabajando apoyos asimétricos (unilateral) maximiza la transferencia funcional a los desplazamientos del campo."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "El concepto de 'traje a medida' defendido por el Head of Performance exige establecer un Sistema de Rendimiento de 360 grados, cuya finalidad operativa central consiste en ____.",
+      "options": [
+        "uniformar biológicamente a todos los componentes del grupo para que respondan igual a la misma carga.",
+        "aislar el rendimiento táctico del entrenador de las métricas fisiológicas para evitar sesgos.",
+        "sincronizar el trabajo de diferentes especialistas para manipular el entorno y minimizar el efecto destructivo de la competición.",
+        "eliminar drásticamente cualquier ejercicio analítico y basar todo el desarrollo en macro-juegos de posesión."
+      ],
+      "correct_answer": "sincronizar el trabajo de diferentes especialistas para manipular el entorno y minimizar el efecto destructivo de la competición.",
+      "feedback": "Ganar produce desgaste crónico. El traje a medida implica que, para cada jugador, el impacto negativo de jugar (daño tisular, estrés metabólico) debe compensarse coordinando a nutricionistas, médicos y fisioterapeutas en tiempo real, garantizando una intervención milimétrica que proteja el rendimiento individual y respete el ritmo orgánico de recuperación de cada atleta."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Pese al avance vertiginoso en herramientas predictivas y protocolos preventivos, la incidencia de lesiones isquiotibiales en el fútbol de élite en las últimas dos décadas se ha caracterizado por ____.",
+      "options": [
+        "su inalterabilidad a lo largo del tiempo",
+        "un aumento estadístico del 12% al 24%",
+        "su erradicación en escenarios tácticos cerrados"
+      ],
+      "correct_answer": "un aumento estadístico del 12% al 24%",
+      "feedback": "Los estudios de Ekstrand y el Grupo de la UEFA son contundentes: a pesar de tener más staff, más GPS y mejores instalaciones, el aumento del estrés competitivo, los calendarios congestionados y la velocidad del juego han disparado las roturas isquiotibiales (fundamentalmente al esprintar en los tramos finales de los partidos), demostrando que no van a desaparecer."
+    },
+    {
+      "id": 24,
+      "type": "true_false",
+      "question": "El ritmo de generación de conocimiento de la literatura científica deportiva permite al preparador físico extraer soluciones aplicables de forma inmediata y contextualizada para los problemas de su día a día.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Existe una 'brecha enorme' (36.000 km, metafóricamente). Desde que el profesional se hace una pregunta hasta que el mundo académico diseña el estudio, recopila datos, aprueba el paper y lo difunde, pasan años. El preparador físico debe aplicar sentido crítico para extraer 'lo menos malo' adaptando esos hallazgos a las particularidades de su contexto vivo."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Un mismo volumen y dosis de entrenamiento físico no genera las mismas adaptaciones condicionales en dos futbolistas diferentes de una misma plantilla debido fundamentalmente a que la clave fisiológica no reside en la carga planificada sino en ____.",
+      "options": [
+        "la calibración tecnológica de los dispositivos inerciales",
+        "la simetría morfológica de ambos jugadores",
+        "la respuesta individual de sus organismos"
+      ],
+      "correct_answer": "la respuesta individual de sus organismos",
+      "feedback": "El principio de individualidad rige la adaptación. Cinco kilómetros para un jugador de perfil elástico sin base de resistencia suponen un estrés agudo y depletivo, mientras que para su compañero con alto umbral ventilatorio es apenas un calentamiento metabólico. El problema y la solución no radican en el 'cuánto se hace' (dosis), sino en 'cómo impacta' (respuesta)."
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "En relación al comportamiento colectivo frente a la aparición progresiva de la fatiga a lo largo del encuentro, los estudios de análisis de la complejidad evidencian que el equipo reacciona mediante ____.",
+      "options": [
+        "una total descoordinación de las líneas y pérdida absoluta de la distancia interpersonal.",
+        "una transición forzada hacia un juego sistémico de inspiración militar pura.",
+        "una sincronización táctica efectiva sostenida, pero ejecutada progresivamente a velocidades mucho más bajas.",
+        "un incremento agudo del porcentaje de sprints para suplir la falta de fluidez en los pases cortos."
+      ],
+      "correct_answer": "una sincronización táctica efectiva sostenida, pero ejecutada progresivamente a velocidades mucho más bajas.",
+      "feedback": "El jugador de fútbol rara vez llega al final de un partido hasta su límite fisiológico absoluto (el agotamiento límite real). La inteligencia del propio juego, las reglas de cooperación y la experiencia táctica hacen que el equipo regule la intensidad, manteniendo la forma y el objetivo pero trasladando sus movimientos coordinados a un espectro de velocidad submáxima para compensar el deterioro de la fatiga."
+    },
+    {
+      "id": 27,
+      "type": "true_false",
+      "question": "En el marco de un ciclo de prevención y optimización, realizar intervenciones de fuerza estructural o acondicionamiento preventivo está totalmente disociado metodológicamente de las tareas encaminadas a maximizar el rendimiento máximo del deportista.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Ambas esferas son simbióticas y bidireccionales. Lo que previne lesiones optimiza biológicamente los tejidos, dotándolos de mayor tolerancia elástica, y, a su vez, la supercompensación orientada a mejorar el rendimiento crea una robustez o 'efecto protector' que previene la claudicación de ligamentos y tendones bajo las demandas específicas del partido."
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "Para determinar la distancia recorrida y el impacto biomecánico de un jugador, cruzar variables métricas tradicionales de forma aislada (ej. kilómetros totales + metros por encima de 24km/h) resulta insuficiente y vacío porque omite sistemáticamente ____.",
+      "options": [
+        "el índice térmico corporal registrado durante el calentamiento.",
+        "la cantidad y densidad de acciones complejas como saltos, cambios de dirección o golpeos intermedios.",
+        "la respuesta psicológica de los preparadores frente al 'Worst Case Scenario'.",
+        "el algoritmo interno de los chalecos GPS que discrimina los vectores de fuerza isocinética."
+      ],
+      "correct_answer": "la cantidad y densidad de acciones complejas como saltos, cambios de dirección o golpeos intermedios.",
+      "feedback": "El daño tisular en el fútbol no se deriva solo del desplazamiento lineal. Es una falacia biomecánica igualar una carrera de 1000m en pista a 1000m de juego. La segunda incorpora impactos severos sobre las articulaciones a través de frenadas, arrancadas con el balón, forcejeos y saltos. Solo relacionando la variable metabólica con la exigencia neuromuscular se obtiene una lectura veraz del daño."
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "La actitud dogmática de intentar controlar el resultado de un partido de fútbol a través de la monitorización exhaustiva de variables físicas representa una falacia, ya que exige a los técnicos eliminar su intolerancia a la frustración y asumir que actúan sobre ____.",
+      "options": [
+        "un sistema impredecible regulado por ciencias de la complejidad",
+        "un modelo estrictamente conductista predecible",
+        "una metodología estandarizada del alto rendimiento"
+      ],
+      "correct_answer": "un sistema impredecible regulado por ciencias de la complejidad",
+      "feedback": "El fútbol es un entorno caótico moldeado por la autoorganización y factores contextuales no lineales que escapan a la medición algorítmica estricta. Entender el club y al atleta bajo el paradigma de las Ciencias de la Complejidad erradica la 'creencia limitante' de que si controlamos los datos físicos controlamos las victorias, liberando al técnico para intervenir en lo que es realmente modificable."
+    },
+    {
+      "id": 30,
+      "type": "true_false",
+      "question": "Aunque la cantidad de tiempo útil de juego en el fútbol moderno haya tendido a disminuir ligeramente o estancarse en las últimas competiciones, el porcentaje y densidad de acciones explosivas y sprints ejecutados durante ese tiempo no ha dejado de descender en sintonía con dicho volumen.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La relación es diametralmente opuesta. El fútbol moderno se caracteriza por un menor volumen de tiempo útil efectivo pero con una explosividad superlativa. La evidencia de campeonatos mundiales y Premier League refleja que, aunque se juegue menos tiempo efectivo, los sprints y los esfuerzos a alta intensidad se han incrementado entre un 25% y un 50% respecto a décadas previas."
+    }
+  ]
+}
