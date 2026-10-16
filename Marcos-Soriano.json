@@ -1,0 +1,227 @@
+{
+  "class_title": "Aplicación de la halterofilia para mejorar el rendimiento deportivo",
+  "total_questions": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Al analizar el levantamiento olímpico en plataformas de fuerza, se observa un incremento abrupto en la tasa de desarrollo de fuerza (RFD). ¿En qué fase cinemática específica ocurre este pico máximo de producción de fuerza?",
+      "options": [
+        "Durante el despegue inicial de la barra desde el suelo",
+        "Al superar las rodillas y ejecutar la triple extensión",
+        "En el preciso instante de fijar la barra en la recepción",
+        "Durante la fase de transición o pase de rodillas"
+      ],
+      "correct_answer": "Al superar las rodillas y ejecutar la triple extensión",
+      "feedback": "El análisis cinético demuestra que tras el primer tirón y una ligera estabilización de la fuerza (fase de transición al pasar las rodillas), se produce un incremento abrupto en el RFD al iniciar el segundo tirón, momento biomecánico donde se exige la máxima propulsión para otorgar altura a la barra."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Contrario a la creencia popular que asocia el levantamiento pesado con elevados niveles de adiposidad, el somatotipo morfológico que impera en la halterofilia de alto rendimiento es ____.",
+      "options": [
+        "el endomorfo",
+        "el ectomorfo",
+        "el mesomorfo"
+      ],
+      "correct_answer": "el mesomorfo",
+      "feedback": "Los atletas de élite presentan una composición predominantemente mesomorfa con porcentajes de grasa muy bajos (5-10% en hombres). Esto responde a la necesidad mecánica y competitiva de maximizar la masa magra funcional dentro de los límites estrictos de cada categoría de peso corporal."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "En el entrenamiento de fuerza y halterofilia, las adaptaciones neurales se estabilizan tempranamente tras las fases iniciales del plan, haciendo que la ganancia de fuerza dependa casi en su totalidad del incremento del área de sección transversal.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La literatura científica moderna desmiente las antiguas proyecciones que sugerían un estancamiento neural rápido. La coordinación intermuscular y el refinamiento del impulso nervioso continúan perfeccionándose a muy largo plazo debido a la exigencia técnica de aplicar máxima fuerza a altísimas velocidades."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Al estudiar derivados olímpicos como el Power Clean, la producción absoluta de vatios de potencia aumenta progresivamente conforme se incrementa la carga levantada. ¿Cuál es la justificación biomecánica directa de este comportamiento?",
+      "options": [
+        "La masa adicional aumenta la fricción articular obligando al sistema a reclutar unidades motoras lentas",
+        "La velocidad de ejecución no decae drásticamente y se mantiene por encima de 1 m/s frente a mayores pesos",
+        "El aumento de la inercia reduce el tiempo de vuelo exigiendo un frenado excéntrico de alta potencia",
+        "Se estimula de forma compensatoria el sistema de fosfágenos por compresión torácica"
+      ],
+      "correct_answer": "La velocidad de ejecución no decae drásticamente y se mantiene por encima de 1 m/s frente a mayores pesos",
+      "feedback": "Partiendo de la ecuación Potencia = Fuerza x Velocidad, si se incrementa la carga (fuerza) sin que la velocidad sufra una caída sustancial (manteniéndose balística, superior a 1 m/s), el producto resultante es una producción de vatios significativamente mayor, maximizando la transferencia atlética."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Sustituir de manera sistemática los levantamientos olímpicos tradicionales con barra por variaciones unilaterales pesadas (ej. arrancada con mancuerna) provoca inevitablemente una subestimulación de ____.",
+      "options": [
+        "la fuerza máxima propulsiva de las piernas",
+        "la coactivación de la cintura escapulohumeral",
+        "la estabilidad estática del núcleo abdominal"
+      ],
+      "correct_answer": "la fuerza máxima propulsiva de las piernas",
+      "feedback": "Aunque levantar una mancuerna pesada de forma unilateral (ej. 40kg) desafía la estabilización del complejo del hombro, representa una carga infráxima para el tren inferior comparado con los >100kg que el mismo deportista desplazaría empleando una barra, coartando así la principal adaptación mecánica buscada."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "En la integración metodológica de la cargada (clean) para un atleta carente de experiencia, la estrategia de instrucción técnica más eficiente y segura se vertebra sobre:",
+      "options": [
+        "Un modelo de cadena anterógrada focalizado en el despegue inicial",
+        "Un modelo de segmentación isométrica con pausas de cinco segundos",
+        "Un modelo de sobrecarga excéntrica desde el primer contacto",
+        "Un modelo de cadena reversa iniciando desde la posición final"
+      ],
+      "correct_answer": "Un modelo de cadena reversa iniciando desde la posición final",
+      "feedback": "La progresión técnica óptima emplea la cadena reversa, enseñando el gesto desde el final hacia el principio. Al asegurar una correcta asimilación de la postura de recepción (front rack), se establecen cimientos motrices sólidos que previenen compensaciones cuando la barra desciende a posiciones articulares más demandantes (rodilla y suelo)."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "La ejecución de derivados olímpicos y entrenamiento de fuerza en sujetos prepuberales, cuando está correctamente dosificada, favorece la osteogénesis y el desarrollo de la densidad mineral ósea sin afectar negativamente el crecimiento.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. El entrenamiento de fuerza correctamente dosificado en etapas de formación presenta tasas de lesión inferiores a deportes sin contacto y favorece la osteogénesis (desarrollo de densidad mineral ósea), potenciando el crecimiento sano en lugar de inhibirlo."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Para asegurar la mejora del rendimiento manteniendo la precisión milimétrica del gesto técnico, el volumen por serie en los movimientos competitivos de halterofilia se restringe habitualmente a:",
+      "options": [
+        "De 1 a 3 repeticiones, priorizando los clústers de 2 repeticiones",
+        "De 8 a 10 repeticiones para potenciar el metabolismo anaeróbico láctico",
+        "De 4 a 6 repeticiones para garantizar un adecuado tiempo bajo tensión",
+        "De 5 a 8 repeticiones orientadas a la hipertrofia miofibrilar específica"
+      ],
+      "correct_answer": "De 1 a 3 repeticiones, priorizando los clústers de 2 repeticiones",
+      "feedback": "La altísima complejidad y la monumental demanda neuromuscular y neural de estos levantamientos implican que rebasar las 3 o 4 repeticiones desencadena una fatiga aguda que desvirtúa totalmente la técnica (ley no escrita: 'más de 3 reps es cardio'). Se busca calidad mecánica máxima en lugar de cantidad."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Ante deportistas de gran tonelaje o con profundas restricciones de movilidad isquiosural que se ven imposibilitados para traccionar desde el suelo de forma eficiente, la herramienta correctiva prioritaria es ____.",
+      "options": [
+        "aplicar ejercicios derivados como el Hang High Pull",
+        "introducir obligatoriamente la sentadilla Sissy profunda",
+        "eliminar todo el trabajo del tren inferior temporalmente"
+      ],
+      "correct_answer": "aplicar ejercicios derivados como el Hang High Pull",
+      "feedback": "Para sortear el déficit de movilidad estructural (frecuente en perfiles como jugadores de rugby), se prescinde del movimiento completo y se aplican derivados partiendo desde la cadera. Esto elimina la barrera técnica inicial permitiendo sobrecargar el potente patrón de triple extensión de forma inmediata y segura."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Dentro del perfil fuerza-velocidad de la prescripción del entrenamiento, los movimientos olímpicos ocupan un espectro diferenciado y crítico. Su principal virtud frente a métodos tradicionales y balísticos puros reside en:",
+      "options": [
+        "El desarrollo simultáneo de altísimas producciones de fuerza a elevadas velocidades de contracción",
+        "La minimización absoluta de las demandas de frenado excéntrico en la cadena posterior",
+        "La optimización exclusiva de las unidades motoras lentas (fibras Tipo I) por la tensión sostenida",
+        "La capacidad de aplicar cargas máximas en rangos articulares estáticos prolongados"
+      ],
+      "correct_answer": "El desarrollo simultáneo de altísimas producciones de fuerza a elevadas velocidades de contracción",
+      "feedback": "Los ejercicios puros de fuerza (ej. peso muerto) mueven grandes cargas a baja velocidad y los pliométricos alcanzan alta velocidad con escasa carga. Los derivados olímpicos se sitúan en el vértice ideal: movilizan pesajes superlativos sin permitir que la barra viaje a menos de 1 m/s, desatando ratios excepcionales de potencia (Power = Force x Velocity)."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "Disponer de rangos de movimiento (ROM) óptimos en dorsiflexión y movilidad torácica representa una ventaja mecánica crítica, ya que acorta la altura a la que se debe impulsar la barra permitiendo recepciones mucho más profundas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Una movilidad superior permite al atleta realizar una recepción mucho más profunda, lo cual acorta significativamente la altura a la que se debe impulsar la barra (trabajo neto menor). Esto posibilita levantar pesos que de otra forma serían inalcanzables."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "La prescripción de metodologías 'Cluster' (series con descanso inter-repetición redistribuido) en bloques de levantamientos derivados se justifica fisiológica y biomecánicamente para:",
+      "options": [
+        "Garantizar el sostenimiento de los outputs mecánicos mitigando la fatiga neuromuscular",
+        "Forzar la aparición del fallo muscular concéntrico de forma más rápida",
+        "Disminuir drásticamente el tono simpático y favorecer la relajación del atleta",
+        "Producir una congestión vascular severa que maximice el estrés metabólico celular"
+      ],
+      "correct_answer": "Garantizar el sostenimiento de los outputs mecánicos mitigando la fatiga neuromuscular",
+      "feedback": "Fraccionar una serie (por ejemplo de 6 repeticiones, dividiéndola en microbloques de 2 repeticiones con descansos de 45s) evita la caída en picado de la curva de potencia. Redistribuir la pausa preserva la velocidad de ejecución y la técnica intachable ante pesos elevados (80-100% RM)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Forzar una adaptación implementando una triple extensión que aterriza o finaliza de manera deliberada en una postura inestable de zancada o split genera inherentemente ____.",
+      "options": [
+        "un patrón motor antinatural y mecánicamente ineficaz",
+        "un incremento agudo en la eficiencia elástico-reactiva",
+        "una co-contracción sinérgica altamente transferible"
+      ],
+      "correct_answer": "un patrón motor antinatural y mecánicamente ineficaz",
+      "feedback": "Al combinar una extensión explosiva partiendo del suelo para aterrizar en zancada, la disipación de estabilidad anula la fuerza de empuje inferior. El deportista se ve forzado a levantar de manera ineficaz la barra tirando con los brazos, sacrificando los verdaderos beneficios de la aplicación de fuerza."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Evaluada desde el paradigma estricto de la física del movimiento deportivo, la técnica perfecta en la halterofilia puede definirse objetivamente como:",
+      "options": [
+        "La alineación ininterrumpida del centro de gravedad sobre el tercio posterior del calcáneo",
+        "La sincronía respiratoria intra-abdominal sostenida durante toda la fase aérea",
+        "La gestión de picos de tensión isométrica para retrasar el inicio de la fase propulsiva",
+        "La correcta aplicación de fuerzas como magnitud vectorial controlando dirección, sentido y aplicación"
+      ],
+      "correct_answer": "La correcta aplicación de fuerzas como magnitud vectorial controlando dirección, sentido y aplicación",
+      "feedback": "La técnica no es más que la física en acción: es la capacidad excepcional del atleta para generar una fuerza bruta y orientar ese vector con un sentido, dirección, módulo y punto de aplicación impecables, logrando así que una masa inerte se desplace hacia la zona anatómica exacta que permite su estabilización."
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "question": "Para consolidar los beneficios de potencia de la halterofilia de forma progresiva, un atleta debe evitar exponerse a cargas altas durante las primeras fases temporales, priorizando infinitamente el trabajo técnico con barras ligeras.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Aunque la cimentación de la técnica inicial requiere un bajo peso de aprendizaje, mantener una reticencia eterna hacia la sobrecarga estanca el progreso. El patrón de carga es indispensable; si no se sube el peso, es imposible aplicar máximas velocidades intencionales sin lanzar literalmente la barra al techo, perdiendo así las adaptaciones de potencia reales."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "El principio de correspondencia dinámica sustenta la alta capacidad de transferencia de los ejercicios olímpicos hacia acciones competitivas multidireccionales. ¿Qué componente garantiza esta compatibilidad cinemática?",
+      "options": [
+        "El ciclo de amortiguación profunda exclusivo de la articulación patelofemoral",
+        "La extensión simultánea y explosiva del complejo tobillo, rodilla y cadera bajo tensión",
+        "El acoplamiento isométrico de la zona central contrarrestando vectores de cizalla",
+        "La activación sostenida del metabolismo glucolítico en los primeros diez segundos"
+      ],
+      "correct_answer": "La extensión simultánea y explosiva del complejo tobillo, rodilla y cadera bajo tensión",
+      "feedback": "Sprints, saltos máximos o aceleraciones abruptas comparten una huella biomecánica común: la triple extensión articular. Realizar este exacto gesto mecánico ante una sobrecarga (barra) produce una transferencia dinámica directa y altamente eficiente hacia el gesto deportivo base."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Diseñar 'entrenamientos complex' en la fase de asimilación uniendo derivados como el jump shrug con tirones pesados proporciona al programa una óptima estimulación del tejido muscular y a su vez induce ____.",
+      "options": [
+        "una acentuada hipertrofia asimétrica compensatoria",
+        "una reducción severa del índice de fuerza reactiva",
+        "una mayor riqueza motriz y exigencia cognitiva"
+      ],
+      "correct_answer": "una mayor riqueza motriz y exigencia cognitiva",
+      "feedback": "Ejecutar variaciones de un mismo patrón motor con propósitos mecánicos sutilmente distintos en una misma secuencia (fuerza vs. velocidad con cargas moderadas al 70-85%) enriquece el acervo motor del deportista. Además, impone un reto cognitivo que anula la monotonía propia de repetir idénticos gestos, maximizando la concentración técnica."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Al desglosar las fases de transición durante el despegue inicial (del suelo hacia la cadera), ¿qué error de compensación anatómica debe corregir imperativamente el entrenador al sobrepasar la línea de las rodillas?",
+      "options": [
+        "La flexión palmar excesiva en el agarre al generar tensión",
+        "El desplazamiento posterior del eje de los hombros antes del empuje central",
+        "El abuso biomecánico y tensional sobre la musculatura de la espalda baja",
+        "La hiperflexión del cuello en un intento de reclutar trapecios superiores"
+      ],
+      "correct_answer": "El abuso biomecánico y tensional sobre la musculatura de la espalda baja",
+      "feedback": "Cargar o transitar la barra desde por debajo de la rodilla incrementa las palancas de estrés mecánico. Sin una postura sólida pre-construida (cadena reversa), los deportistas noveles renuncian rápidamente al empuje eficiente de piernas y adoptan la tendencia nociva de 'traccionar o tirar' la carga forzando exclusivamente la musculatura lumbar baja."
+    }
+  ]
+}
