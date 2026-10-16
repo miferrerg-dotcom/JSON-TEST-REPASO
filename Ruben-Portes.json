@@ -1,0 +1,289 @@
+{
+  "class_title": "Fuerza en Euroliga: Planificación o reacción",
+  "total_questions": 23,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "¿Cuál de las siguientes acciones físicas en pista representa la mayor demanda mecánica al someter al deportista a impactos cercanos a seis veces su peso corporal?",
+      "options": [
+        "Las aceleraciones máximas lineales",
+        "Los aterrizajes tras salto vertical",
+        "Las desaceleraciones",
+        "Los cambios de dirección en estático"
+      ],
+      "correct_answer": "Las desaceleraciones",
+      "feedback": "El análisis biomecánico de las demandas del juego indica que la desaceleración es la acción física más agresiva, alcanzando picos de 6 veces el peso corporal (superando las 135 repeticiones por partido a más de 8g). Esto exige un trabajo de fuerza específico que genere tolerancia tisular para proteger las estructuras articulares y musculares del atleta ante la fatiga inducida hacia el final del partido."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Durante periodos de máxima densidad competitiva, el estímulo de fuerza no debe frenarse, pero sí debe adaptarse individualmente; por ejemplo, evitando prescribir tracciones pesadas con barra hexagonal en jugadores sensibles para no ____.",
+      "options": [
+        "comprometer la dorsiflexión del tobillo",
+        "acumular tensión en la zona lumbar",
+        "disminuir la velocidad de contracción"
+      ],
+      "correct_answer": "acumular tensión en la zona lumbar",
+      "feedback": "La densidad competitiva impone un altísimo estrés mecánico continuo. Evaluar el contexto constantemente implica retirar temporalmente ejercicios que generen sobrecarga acumulativa en zonas propensas a la rigidez. Evitar la barra hexagonal en perfiles con sobrecarga lumbar previene episodios agudos, permitiendo sustituir el patrón de movimiento por variantes articulares más seguras sin perder el estímulo de fuerza base."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "La implementación táctica de rotaciones de juego ultra cortas (3 a 4 minutos) exige que el jugador vacíe su sistema energético a máxima explosividad, lo que genera una alta exposición neuromuscular que resulta altamente homogénea en toda la rotación.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Las métricas avanzadas demuestran que las rotaciones exprés combinadas con un Pace alto aseguran que el deportista deba vaciar su sistema energético a máxima explosividad de forma repetida. Esto, lejos de crear desequilibrios, homogeneíza extraordinariamente el daño y la exposición neuromuscular en todos los jugadores que entran a la cancha, atenuando asimetrías de carga interna."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "La prevención de lesiones del ligamento cruzado anterior (LCA) mediante el entrenamiento de fuerza depende de la rapidez para activar la musculatura estabilizadora ante demandas extremas. El lapso temporal crítico donde se precipita esta lesión biomecánica por valgo se sitúa en los primeros:",
+      "options": [
+        "15 milisegundos tras el contacto inicial",
+        "33 milisegundos tras el contacto inicial",
+        "55 milisegundos tras el contacto inicial",
+        "100 milisegundos tras el contacto inicial"
+      ],
+      "correct_answer": "33 milisegundos tras el contacto inicial",
+      "feedback": "La ventana de riesgo para la rotura del ligamento cruzado anterior es minúscula. La evidencia técnica determina que el incremento nocivo en el valgo de rodilla ocurre exactamente entre el contacto inicial y los siguientes 33 milisegundos. El propósito de un programa de fuerza eficaz es desplazar la curva fuerza-velocidad hacia la izquierda, logrando que la contracción muscular reactiva ocurra dentro de esa ventana de 33 ms para fijar la articulación antes de que colapse."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "En el trabajo de movilidad previo a la sesión técnica, la estrategia de reducir la resistencia o la carga del ejercicio permite específicamente ____.",
+      "options": [
+        "aumentar el rango de movimiento inusual",
+        "elevar el pico de lactato en sangre",
+        "generar hipertrofia sarcoplasmática"
+      ],
+      "correct_answer": "aumentar el rango de movimiento inusual",
+      "feedback": "Al disminuir la carga de manera intencional, el deportista puede explorar y estabilizar rangos articulares profundos y no habituales que la altísima tensión del trabajo de fuerza puro no le permite alcanzar, optimizando así la movilidad sin acumular fatiga central previa a la pista."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "En el diseño de la sesión postpartido para un jugador que ha soportado una alta carga competitiva recurrente (superando la línea base de 12 minutos), la prescripción de fuerza óptima se enfoca en:",
+      "options": [
+        "Movimientos unilaterales explosivos a RPE 6 con énfasis en el CEA",
+        "Sobrecargas excéntricas con alto volumen para generar hipertrofia sarcomérica",
+        "Movimientos bilaterales lentos en torno a RPE 8 para preparar los tejidos",
+        "Circuitos pliométricos de alta intensidad para maximizar el consumo de EPOC"
+      ],
+      "correct_answer": "Movimientos bilaterales lentos en torno a RPE 8 para preparar los tejidos",
+      "feedback": "Para los perfiles con alta carga competitiva repetida, el estímulo neuromuscular y metabólico ya se ha alcanzado en pista. El objetivo postpartido se basa en un componente puramente mecánico: ejecutar movimientos bilaterales lentos a intensidades submáximas (80% del 1RM o RPE 8) con un volumen muy bajo. Esto asegura el tiempo bajo tensión estructural necesario para reacondicionar los tendones y músculos sin agotar el sistema nervioso central."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "El incremento crónico del ritmo de juego (Pace) en competiciones europeas hacia las 3,5 - 4 posesiones por minuto reduce el impacto lesivo en los tejidos blandos debido a la mejora natural de la condición física.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es absolutamente falso. La evidencia muestra una correlación directa y opuesta: el aumento del Pace (mayor número de desplazamientos a alta velocidad, aceleraciones y transiciones rápidas) incrementa drásticamente el número de lesiones de tejidos blandos (soft tissue). Esto sucede porque las estructuras musculares sufren un elevado estrés mecánico durante un complejo periodo de adaptación biológica hacia un arquetipo atlético más delgado y rápido."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Al prescribir trabajo de fuerza para los perfiles no convocados o descartes de rotación, ¿qué estrategia de balance biomecánico se implementa para contrarrestar los déficits posturales por la falta de competición?",
+      "options": [
+        "Equilibrar exactamente el ratio de empuje y tracción a un 1:1 estricto",
+        "Desequilibrar el ratio favoreciendo un mayor volumen de tracciones frente a empujes",
+        "Priorizar ejercicios de empuje horizontal pesado para simular las colisiones en defensa",
+        "Suprimir las tracciones verticales para no sobrecargar el complejo acromioclavicular"
+      ],
+      "correct_answer": "Desequilibrar el ratio favoreciendo un mayor volumen de tracciones frente a empujes",
+      "feedback": "La ausencia prolongada de carga competitiva debilita la cadena posterior y arruina las adaptaciones posturales dinámicas del atleta. La estrategia técnica exige alterar el balance prescribiendo dos ejercicios de tracción (vertical y horizontal) por cada ejercicio de empuje superior. Este desequilibrio intencional fuerza una reorientación postural reactiva y mejora la estabilización de las escápulas bajo fatiga."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Al diferenciar las orientaciones del trabajo off-court, el componente neuromuscular se aleja de la tolerancia tisular priorizando contracciones muy veloces, lo que exige inherentemente aplicar ____.",
+      "options": [
+        "un menor tiempo bajo tensión",
+        "un mayor estrés glucolítico",
+        "una carga mantenida por encima del 90% del RM"
+      ],
+      "correct_answer": "un menor tiempo bajo tensión",
+      "feedback": "El enfoque neuromuscular prioriza la velocidad de reclutamiento de unidades motoras rápidas y la explosividad de la contracción. Para lograr este objetivo sin caer en un trabajo de resistencia a la fuerza o acumulación de fatiga de hipertrofia, se debe aplicar una carga menor ejecutada a máxima velocidad, lo que reduce drásticamente el tiempo bajo tensión en comparación con el entrenamiento de componente puramente mecánico."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Según los fundamentos teóricos del 'Functional Movement' (Gray Cook y Michael Boyle), el desarrollo de capacidades físicas para asegurar la transferencia atlética en pista debe respetar una progresión innegociable. ¿Cuál es este marco secuencial?",
+      "options": [
+        "Potencia -> Fuerza -> Movimiento -> Condición",
+        "Condición -> Movimiento -> Potencia -> Fuerza",
+        "Fuerza -> Potencia -> Condición -> Movimiento",
+        "Movimiento -> Fuerza -> Potencia -> Condición"
+      ],
+      "correct_answer": "Movimiento -> Fuerza -> Potencia -> Condición",
+      "feedback": "La analogía de los cubos establece que la funcionalidad motriz es jerárquica. El cimiento absoluto es 'moverse bien' (movilidad y estabilidad articular libre de restricciones). Solo sobre un movimiento biomecánicamente limpio se debe cargar estrés para ganar 'fuerza'. Posteriormente, esa fuerza pura se comprime en el tiempo para generar 'potencia' (necesaria en la agresión de la pista). Por último, esa potencia debe poder expresarse repetidamente sin decaimiento (condición metabólica)."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "Las sesiones de testeo de fuerza isométrica, además de cuantificar asimetrías, pueden utilizarse estratégicamente como un estímulo de activación neuromuscular de altísima calidad prepartido debido a su nula fatiga metabólica.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Los testeos isométricos son herramientas duales sumamente eficientes. Al movilizar vectores de flexión, extensión y abducción, logran un reclutamiento muscular limpio e intenso. Funcionan excepcionalmente como activaciones musculares prepartido o como abordaje analgésico sin acumular el estrés metabólico perjudicial que restaría rendimiento en la pista."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "En las sesiones compensatorias para perfiles con baja exposición a minutos, la prescripción obligatoria de ejercicios de transporte de carga pesada dinámica (Farmer Carry) persigue fundamentalmente:",
+      "options": [
+        "La sobrecarga metabólica del deltoides para ganar peso magro",
+        "La mejora sustancial de la reorientación postural y el control intramuscular en los apoyos del pie",
+        "El incremento inmediato del pico de potencia en el salto de contraataque",
+        "El aumento de la densidad mineral ósea del radio y cúbito por tracción gravitatoria"
+      ],
+      "correct_answer": "La mejora sustancial de la reorientación postural y el control intramuscular en los apoyos del pie",
+      "feedback": "Los perfiles de baja carga pierden adaptaciones finas de contacto y estabilización axial originadas por la imprevisibilidad del partido. Integrar patrones unilaterales o bilaterales asimétricos de marcha bajo carga somete al núcleo pélvico-espinal a un reto anti-flexión, reorientando activamente la postura y exigiendo respuestas propioceptivas subcorticales. Esto afina drásticamente la coordinación intramuscular y la mecánica de apoyo del pie."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "A diferencia de los titulares, los jugadores descartados en las convocatorias sí deben absorber un impacto mecánico severo mediante ejercicios de alta agresividad como la pliometría, ya que necesitan obligatoriamente suplir ____.",
+      "options": [
+        "el déficit celular de hipertrofia sarcoplasmática",
+        "el estímulo neuromuscular extremo que no reciben en el partido",
+        "la pérdida de resistencia cardiovascular en fase estable"
+      ],
+      "correct_answer": "el estímulo neuromuscular extremo que no reciben en el partido",
+      "feedback": "La pliometría real se evita sistemáticamente en los titulares recurrentes porque agota su umbral de tolerancia competitiva (margen de error neural). En contraposición, los descartes de convocatoria pierden los rebotes, frenazos y colisiones reales del partido; por ello, es innegociable someterlos a pliometría y volúmenes neuromusculares masivos para forzar el estímulo mecánico necesario que los iguale al nivel de durabilidad del grupo titular."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Al auditar el contexto colectivo de una plantilla de Euroliga (como el caso expuesto del Valencia Basket), ¿qué métrica estructural justifica prescindir de grandes volúmenes de trabajo compensatorio para los suplentes?",
+      "options": [
+        "La media de anotación y minutos del banquillo es notablemente superior a la media de los banquillos del resto de la liga",
+        "Los titulares absorben de manera sistemática más del 80% de las posesiones en los últimos cuartos",
+        "El cuerpo técnico aplica sistemas de ataque estático que extienden las posesiones hasta el límite de 24 segundos",
+        "El uso de rotaciones largas permite a los suplentes mantener un estado fisiológico de reposo total durante la primera mitad"
+      ],
+      "correct_answer": "La media de anotación y minutos del banquillo es notablemente superior a la media de los banquillos del resto de la liga",
+      "feedback": "El análisis de datos colectivos revela una gran paridad de roles: los titulares promedian menor desgaste extremo y los suplentes tienen mayor participación que la media de la liga. Esta homogeneidad asegura que la carga neuromuscular se reparta en pista de forma equitativa, atenuando radicalmente la necesidad de aplicar sesiones compensatorias volumétricas masivas a los teóricos suplentes."
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "question": "En el uso de plataformas de fuerza para monitorizar saltos CMJ y Drop Landings, un aumento progresivo en el tiempo de estabilización en jugadores de carga intermitente indica que la intervención prioritaria debe centrarse en la hipertrofia estructural.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es completamente falso. Un empeoramiento (aumento) en los tiempos de estabilización en aterrizajes señala un déficit en la eficiencia excéntrica y de absorción. La intervención correcta exige orientar el trabajo compensatorio hacia el componente neuromuscular (reactividad, coordinación intramuscular y velocidad de ejecución), no hacia la hipertrofia, para acortar el tiempo de respuesta nerviosa y estabilizar la estructura rápidamente."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Para optimizar las activaciones off-court previas a una sesión técnica de baloncesto, la estructura debe mitigar la rigidez sin inducir fatiga. ¿Qué secuencia articula correctamente esta pre-activación?",
+      "options": [
+        "Movilidad dinámica agresiva seguida de sprints submáximos",
+        "Activación neurocognitiva seguida de movimientos lentos bilaterales hacia rangos inusuales",
+        "Estiramiento estático pasivo seguido de pliometría de contacto al 100% de intensidad",
+        "Isometría excéntrica supra-máxima combinada con liberación fascial de impacto"
+      ],
+      "correct_answer": "Activación neurocognitiva seguida de movimientos lentos bilaterales hacia rangos inusuales",
+      "feedback": "La activación óptima arranca modulando el sistema nervioso central a través de tareas neurocognitivas suaves para reducir el 'estado de alerta' crónico del deportista. Inmediatamente después, bajo cargas ínfimas, se ejecutan movimientos deliberadamente lentos (empezando bilaterales y transicionando a unilaterales) que fuerzan al jugador a explorar y estabilizar rangos de amplitud articular que sus gestos explosivos cotidianos no llegan a tocar."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "La sesión compensatoria para perfiles con baja participación en minutos mantiene volúmenes bajos por precaución táctica, pero vira drásticamente su intensidad hacia el RPE 7 introduciendo ____.",
+      "options": [
+        "sobrecargas excéntricas y aumento veloz de la fase concéntrica",
+        "bloques isométricos de contención en fatiga láctica",
+        "circuitos de movilidad balística prolongada"
+      ],
+      "correct_answer": "sobrecargas excéntricas y aumento veloz de la fase concéntrica",
+      "feedback": "A diferencia del jugador hiper-sometido a la pista (que recupera con RPE 8 y máxima lentitud biomecánica), el suplente necesita obligatoriamente engañar al cerebro recreando la violencia neural del partido. La estrategia radica en bajar la carga absoluta (RPE 7 o 60-70% 1RM) para obligar al atleta a imprimir máxima velocidad de disparo concéntrico y gestionar la absorción repentina en la sobrecarga excéntrica."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el justificante fisiológico por el que la fuerza es categorizada como la 'capacidad física reina', acaparando el escaso tiempo analítico disponible de los jugadores profesionales?",
+      "options": [
+        "Las adaptaciones de la fuerza hipertrófica sustituyen la necesidad de trabajo táctico en cancha",
+        "Los picos de testosterona derivados del entrenamiento pesado reducen el impacto del cortisol post-viaje",
+        "El desarrollo cualitativo de la fuerza mejora por sí mismo los rangos de movilidad articular y apuntala la condición física base",
+        "El trabajo con cargas excéntricas es el único medio neurofisiológico aceptado para reparar el tejido conectivo dañado"
+      ],
+      "correct_answer": "El desarrollo cualitativo de la fuerza mejora por sí mismo los rangos de movilidad articular y apuntala la condición física base",
+      "feedback": "En el elitismo europeo, las ventanas temporales para la condición física puramente analítica no existen. Se escoge la fuerza como base innegociable porque la aplicación de tensión muscular en rangos completos reescribe las restricciones miofasciales (mejora movilidad intrínseca). Además, soportar tensión de alta calidad provee una economía estructural superior, elevando indirectamente pero de forma radical la condición aeróbico-láctica del jugador en la cancha."
+    },
+    {
+      "id": 19,
+      "type": "true_false",
+      "question": "La rigidez metodológica es el pilar de la periodización élite; consecuentemente, anular una sesión compensatoria bajo excusa de 'fatiga mental' del atleta compromete irreparablemente las adaptaciones del macrociclo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La máxima del diseño instruccional resalta que 'la programación está para romperse'. Obligar a levantar altas cargas a un jugador con el sistema nervioso central deprimido o abrumado cognitivamente destruye la respuesta motora y acelera el riesgo de roturas musculares. Ejercer adaptabilidad real (Planificación vs. Reacción) y reprogramar sesiones previene lesiones y cementa una inquebrantable cultura de adherencia al plan de fuerza."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Dentro de la toma de decisiones basada en marcadores de rendimiento (como el Drop Landing), ¿cómo debe interpretar y actuar el preparador físico ante un jugador de alta carga competitiva que logra mantener idénticos sus tiempos de estabilización a lo largo de las semanas?",
+      "options": [
+        "Debe interpretarlo como una victoria del programa de fuerza y mantener la prescripción sin realizar cambios disruptivos",
+        "Debe interpretarlo como un estancamiento neuromuscular e introducir de inmediato protocolos de pliometría de impacto",
+        "Debe suspender el estímulo mecánico de fuerza máxima para prevenir una inminente rotura de ligamento cruzado",
+        "Debe derivar al jugador a sesiones exclusivas de resistencia aeróbica para mejorar su eficiencia metabólica"
+      ],
+      "correct_answer": "Debe interpretarlo como una victoria del programa de fuerza y mantener la prescripción sin realizar cambios disruptivos",
+      "feedback": "En el hostil calendario de Euroliga, que un jugador sometido a altísima fatiga recurrente logre mantener sus valores de absorción de fuerza y estabilización sin empeorar es un auténtico éxito biológico. La directriz técnica es mantener el rumbo y evitar cualquier modificación brusca del estímulo que pueda desequilibrar esa adaptación estructural ya lograda."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Aplicando el principio de economía del esfuerzo y dominio del entorno, mantener al jugador con alta disponibilidad y acumulación de minutos en cancha es prioritario porque al volverse un experto técnico-táctico en la tarea logra ____.",
+      "options": [
+        "disminuir sus demandas de energía",
+        "aumentar su fuerza máxima isométrica",
+        "reducir el tiempo de estabilización articular"
+      ],
+      "correct_answer": "disminuir sus demandas de energía",
+      "feedback": "A mayor tiempo de exposición a los patrones específicos del baloncesto, el sistema nervioso del atleta consolida engramas motores altamente eficientes. Esta pericia motriz y táctica reduce drásticamente el coste metabólico y la demanda de energía para las mismas acciones, previniendo la fatiga temprana y reforzando su resistencia pasiva a las lesiones por estrés sostenido."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Al auditar el contexto individual extradeportivo, dos jugadores titulares con idéntico desgaste pueden asimilar las cargas tras un vuelo internacional de manera contraria. Un 'perfil de viaje negativo' que alterará el rendimiento suele vincularse a:",
+      "options": [
+        "Un jugador veterano con familia numerosa donde el viaje le suma responsabilidades físicas inasumibles",
+        "Un jugador sin compromisos familiares al que el viaje le interrumpe su entorno rutinario y aislado de descanso en el domicilio",
+        "Un jugador propenso a sufrir cinetosis que eleva crónicamente su cortisol post-aterrizaje",
+        "Un jugador alto que reporta acortamientos fasciales pélvicos al no poder reclinar los asientos del chárter de equipo"
+      ],
+      "correct_answer": "Un jugador sin compromisos familiares al que el viaje le interrumpe su entorno rutinario y aislado de descanso en el domicilio",
+      "feedback": "El perfil de viaje expone el contexto individual encubierto. Curiosamente, para un veterano con obligaciones paternas, el aislamiento del hotel es un oasis de recuperación (perfil positivo). Por el contrario, un deportista soltero goza de condiciones perfectas de descanso en su propia casa; obligarlo a viajar e imponerle cronogramas grupales deteriora drásticamente sus parámetros de sueño, consolidando un perfil negativo que exige vigilar su recuperación."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Ante el colapso absoluto del calendario continental europeo (Múltiples jornadas y transiciones aéreas constantes), la estructuración temporal más sostenible para asegurar las métricas de fuerza muscular radica en:",
+      "options": [
+        "Concentrar toda la periodización compensatoria en una única megasesión de alta intensidad en los días libres",
+        "Sustituir el trabajo de fuerza contrarresistencia por adaptaciones cardiovasculares estáticas en piscina",
+        "Distribuir micro-sesiones recurrentes de fuerza aplicando protocolos de tiempo bajo tensión en cualquier contexto extra-deportivo",
+        "Suspender el trabajo de hipertrofia y enfocar el esfuerzo en aplicar fuerzas submáximas intra-partido"
+      ],
+      "correct_answer": "Distribuir micro-sesiones recurrentes de fuerza aplicando protocolos de tiempo bajo tensión en cualquier contexto extra-deportivo",
+      "feedback": "Las grandes ventanas temporales limpias de fatiga son inexistentes en élite. Concentrar todo en sesiones monumentales incrementa exponencialmente el riesgo de inasistencia por sobrecargas. La ciencia del rendimiento defiende la alta frecuencia mediante dosis mínimas efectivas (MED): el uso de plataformas portátiles de isometría en pasillos u hoteles garantiza inyecciones seguras y breves de tiempo bajo tensión, blindando los niveles básicos de fuerza mecánica sin generar una deuda de fatiga inasumible."
+    }
+  ]
+}
