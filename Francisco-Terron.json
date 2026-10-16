@@ -1,0 +1,275 @@
+{
+  "class_title": "Preparación Física en la NBA G League: Certificación PSS",
+  "total_questions": 22,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Un atleta con actitud disruptiva que entrena la fuerza de manera constante por su cuenta, pero que desconfía orgánicamente de la metodología impuesta por el staff, encaja en el perfil psicológico 'Solitario', cuya intervención metodológica maestra exige ____.",
+      "options": [
+        "conectar con él",
+        "insistirle diariamente",
+        "imponer la disciplina"
+      ],
+      "correct_answer": "conectar con él",
+      "feedback": "El perfil 'Solitario' no cree en el mensaje pero es un ejecutor compulsivo del entrenamiento. La estrategia con ellos no es castigarlos ni educarlos técnicamente, sino hallar la vía para conectar a nivel personal. Al construir ese vínculo psicosocial, su capacidad de trabajo se alinea con el sistema y se transforma en un poderoso aliado del vestuario."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el fundamento neurofisiológico subyacente para organizar las cargas de cancha y gimnasio mediante los cuadrantes de intensidad y volumen desarrollados por Daniel Boff?",
+      "options": [
+        "Evitar la fatiga continua provocada por estímulos de intensidad monótona, garantizando picos extremos de estrés y valles de recuperación profunda.",
+        "Sostener una adaptación elástica ininterrumpida manteniendo las variables de volumen e intensidad en un cuadrante medio estable durante toda la fase regular.",
+        "Acelerar la síntesis de glucógeno mediante la aplicación de intensidades moderadas exclusivamente en las ventanas de 48 horas post-partido.",
+        "Suprimir las métricas subjetivas de Wellness al poder correlacionar de forma predictiva la carga de Catapult con la hipertrofia miofibrilar."
+      ],
+      "correct_answer": "Evitar la fatiga continua provocada por estímulos de intensidad monótona, garantizando picos extremos de estrés y valles de recuperación profunda.",
+      "feedback": "El sistema nervioso no discrimina el origen del estrés fisiológico. Si se aplica una intensidad monótona de forma constante, la asimilación se bloquea y la fatiga se vuelve crónica. El modelo exige ondular la carga mediante la premisa 'match the intensity, match the volume', logrando que los días intensos sean extremadamente exigentes y los días suaves aseguren la restauración metabólica."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "En la estructura jerárquica de rendimiento de la NBA G League, la figura que centraliza toda la toma de decisiones clínicas y lidera la dosificación física es el Fisioterapeuta.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es absolutamente falso. En el modelo deportivo estadounidense (NBA y G League), la figura del fisioterapeuta clásico pierde jerarquía en favor del 'Athletic Trainer'. Este rol actúa como un híbrido altamente resolutivo entre readaptador funcional, gestor de entrenamiento y especialista en primeros auxilios, siendo la cabeza que canaliza todo el organigrama de rendimiento."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿Qué repercusiones neuromusculares y cinemáticas se evidencian al ejecutar una sesión de Priming pre-partido con cargas equivalentes al 70% del RM o isometrías de superación?",
+      "options": [
+        "Incremento significativo de la velocidad de despegue y altura del salto vertical, manteniendo inalterada la métrica de Readiness (MRSI).",
+        "Aumento agudo de la sección transversal muscular que ralentiza mecánicamente la transición excéntrica-concéntrica del ciclo estiramiento-acortamiento.",
+        "Depresión transitoria en la excitabilidad del huso neuromuscular disminuyendo la tasa de producción de fuerza en vectores laterales.",
+        "Caída inmediata superior al 15% en el índice de Readiness biológico debido al vaciamiento agudo de reservas de fosfágenos."
+      ],
+      "correct_answer": "Incremento significativo de la velocidad de despegue y altura del salto vertical, manteniendo inalterada la métrica de Readiness (MRSI).",
+      "feedback": "La aplicación de estímulos cortos con cargas pesadas o isometrías máximas en ventanas previas al partido propicia mejoras cinéticas en la altura del salto, velocidad de despegue y reducción del tiempo propulsivo. Al ejecutarlo con una intención máxima y un volumen ultra-reducido, la métrica de fatiga neuromuscular MRSI no sufre mermas significativas, preservando la frescura del atleta."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Para estimular la adaptación viscoelástica del tendón rotuliano sin incurrir en daño mecánico por impacto residual durante el 'post-game lift', la prescripción técnica idónea consiste en ____.",
+      "options": [
+        "saltos pliométricos asistidos",
+        "la isometría máxima sostenida",
+        "levantamientos olímpicos ligeros"
+      ],
+      "correct_answer": "la isometría máxima sostenida",
+      "feedback": "El tejido conectivo y tendinoso requiere un tipo de estrés direccional prolongado que las dinámicas caóticas y elípticas de la cancha no logran proveer. En contextos regenerativos posteriores al juego, prescribir isometrías estáticas sostenidas (como aguantar una Trap Bar pesada de 35 a 50 segundos) ataca directamente la salud estructural del tendón rotuliano sin generar fatiga residual por deformación de impacto."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "El reglamento operativo de la NBA G League permite la programación de un Training Camp extendido de 21 días, tiempo metodológicamente idóneo para generar adaptaciones estructurales crónicas de fuerza desde cero.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La normativa impone una restricción temporal extrema, limitando la duración del Training Camp a un máximo de 11 días. Debido a este cortísimo lapso y a la elevadísima fatiga concurrente de los entrenamientos en pista, es biológicamente imposible forjar capacidad pura o cambios estructurales desde cero; debiendo enfocarse puramente como un periodo de integración y puesta a punto."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "¿Cuál es la función neurofisiológica organizativa de implementar una sesión de levantamiento de fuerza ('post-game lift') de 20 a 25 minutos inmediatamente tras la conclusión de un partido?",
+      "options": [
+        "Potenciar el entorno hormonal catabólico para inducir una regeneración tisular acelerada del sistema nervioso periférico.",
+        "Aprovechar el estado de excitación neural agudo para agrupar todo el estrés mecánico en el mismo día, blindando logísticamente un descanso biológico real de 24 horas al día siguiente.",
+        "Deprimir la sobreactivación del sistema simpático a través de cargas excéntricas pesadas que induzcan somnolencia controlada para facilitar el descanso en vuelos nocturnos.",
+        "Oxidación masiva de lactato tisular previniendo la cristalización de metabolitos en el sarcolema que limitan el ROM articular."
+      ],
+      "correct_answer": "Aprovechar el estado de excitación neural agudo para agrupar todo el estrés mecánico en el mismo día, blindando logísticamente un descanso biológico real de 24 horas al día siguiente.",
+      "feedback": "El 'post-game lift' es una intervención pragmática y biológica para mitigar la densidad extrema de calendario. Dado que el deportista finaliza el partido altamente estimulado a nivel neuromuscular, se aprovecha esa excitación basal para introducir la carga de mantenimiento. Al condensar toda la disrupción física en esa ventana, se evita impartir estrés de fuerza la mañana siguiente, garantizando un día completo de descanso sin interferencias."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "La instauración conceptual del modelo organizativo 'Match Day' (MD) en microciclos con alta exposición a 'back-to-backs' permite a los departamentos de rendimiento:",
+      "options": [
+        "Sustituir de manera permanente la recolección de carga interna por algoritmos predictivos dependientes del calendario logístico.",
+        "Desensibilizar al atleta frente a fluctuaciones de volumen estandarizando sesiones de pesas fijas sin importar la proximidad competitiva.",
+        "Estandarizar operativamente la comunicación interdepartamental dictando magnitudes de volumen e intensidad relativas a la competición, relativizando por completo los días cronológicos de la semana.",
+        "Inhibir la variabilidad individual prescribiendo cargas nutricionales y físicas idénticas para la plantilla completa asumiendo una fatiga lineal."
+      ],
+      "correct_answer": "Estandarizar operativamente la comunicación interdepartamental dictando magnitudes de volumen e intensidad relativas a la competición, relativizando por completo los días cronológicos de la semana.",
+      "feedback": "En entornos donde la frecuencia de partidos hace inviable planificar con el modelo tradicional (lunes de fuerza, martes táctico), el 'Match Day' (MD) se alza como una escala referencial móvil centrada en la competición. Un escenario MD-1 comunica al segundo a todos los entrenadores qué perfiles de intensidad y volumen mecánicos son admisibles neurofisiológicamente, garantizando un criterio unificado de exposición."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "A diferencia del modelo coral europeo o FIBA, en el contexto estadounidense el circuito de 'Prehab' individualizado se ejecuta logísticamente tras tratar el tejido blando y justo antes de ____.",
+      "options": [
+        "acceder al shooting slot",
+        "la terapia miofascial pasiva",
+        "el visionado de scouting táctico"
+      ],
+      "correct_answer": "acceder al shooting slot",
+      "feedback": "El marco temporal estadounidense exige al jugador llegar horas antes a la arena. El itinerario biológico estricto dicta que el atleta aborda deficiencias funcionales privadas y asimetrías mediante una rutina 'Prehab' de fuerza o isometría disgregada en sala. Una vez reactivado el tono y corregido el déficit, accede a su 'shooting slot' parcializado en cancha con los asistentes tácticos."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "El cuestionario de percepción de recuperación (SRSS) exige una inversión temporal considerable diaria, ya que se compone de 10 ítems sobre percepción muscular subjetiva y 10 preguntas específicas sobre la arquitectura y calidad del sueño.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. El cuestionario Short Recovery and Stress Scale (SRSS) está diseñado algorítmicamente para no fatigar volitivamente al deportista. Destaca por su extremada brevedad funcional: se compone únicamente de 4 variables de recuperación basal y 4 de estrés psicológico/fisiológico. Esta economía permite cumplimentarlo con alta fiabilidad en un lapso de 10 a 20 segundos cada mañana."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "El origen metodológico del concepto 'Microdosing', adaptado por Cory Schlesinger, nace de la obligación biológica de preservar la frecuencia del trabajo de fuerza en calendarios densos induciendo una drástica reducción en ____.",
+      "options": [
+        "la activación simpática central",
+        "la tensión excéntrica supra-máxima",
+        "el volumen por exposición",
+        "la asimilación proteica sarcoplasmática"
+      ],
+      "correct_answer": "el volumen por exposición",
+      "feedback": "El 'Microdosing' ofrece una solución mecanicista al caos competitivo de la NBA. Como resulta inviable encajar sesiones convencionales de hipertrofia de 45 minutos debido a la disrupción de los viajes, se opta por elevar la frecuencia de los estímulos para no desadaptar al jugador, pero fragmentando y desplomando el volumen de cada exposición. Esto retiene el reclutamiento neural máximo sin inducir desgaste periférico."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Al intervenir metodológicamente sobre un atleta diagnosticado con un perfil 'Perezoso' —aquel que cree firmemente en la validez del sistema pero exhibe baja adherencia conductual— la instrucción debe centrarse invariablemente en ____.",
+      "options": [
+        "insistir sistemáticamente",
+        "conectar a nivel afectivo",
+        "educar sus conocimientos teóricos"
+      ],
+      "correct_answer": "insistir sistemáticamente",
+      "feedback": "En el cuadrante conductual, el 'Perezoso' cuenta con la convicción mental o el 'buy-in' (sabe que debe cuidarse y confía en los profesionales) pero falla en el aspecto volitivo de ejecutar las acciones. Dado que el terreno cognitivo ya está conquistado, la estrategia directiva del S&C coach se aparta de la educación para basarse en la insistencia diaria rigurosa, arrastrándolos por repetición hasta afianzar la ejecución del hábito."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "El 'conocimiento horizontal' en las ciencias del deporte define a aquel preparador físico que, sin necesidad de dominar el nivel ultratécnico de un nicho aislado, posee una alta capacidad holística para interconectar áreas como la fisioterapia, psicología y nutrición.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. A diferencia del conocimiento 'vertical' (donde el profesional es un experto hiper-especializado en un nicho pero no se comunica bien), el enfoque horizontal permite al coach leer la 'habitación', colaborar orgánicamente, delegar y cruzar datos con el cuerpo médico y nutricional. Esto lo convierte en el perfil ideal para gestionar staffs caóticos en la élite."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "En el diseño del protocolo fundacional del grupo de rendimiento, ¿cuál es el propósito clínico primario de auditar con extrema precisión las asimetrías de impulso en frenado (eccentric braking impulse) de un deportista sano?",
+      "options": [
+        "Implantar restricciones de minutaje preestablecidas prohibiendo acciones explosivas en bloqueos directos.",
+        "Calcular índices metabólicos que dicten las fluctuaciones en la ingesta intra-esfuerzo de hidratos de carbono.",
+        "Establecer una huella mecánica objetiva e individualizada que marque el umbral de alta médica en los plazos de Return to Play.",
+        "Detectar dominancias motoras para asignar posiciones técnico-tácticas inamovibles en la transición ofensiva."
+      ],
+      "correct_answer": "Establecer una huella mecánica objetiva e individualizada que marque el umbral de alta médica en los plazos de Return to Play.",
+      "feedback": "La captura de perfiles de fuerza asimétricos e isométricos forma el pilar evaluativo de prevención. Asegurar un registro basal del impulso de frenado en fase excéntrica con un atleta intacto elimina la subjetividad clínica. En caso de lesión, el cuerpo médico posee dianas cinéticas exactas y específicas para cuantificar la sanación de la estructura y pautar, paso a paso, la restitución o 'Return to Play' seguro."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "A nivel matemático visual dentro del Dashboard central de Looker Studio, la correlación perfecta que indica que un jugador ha alcanzado su cenit de 'Readiness' biológico se representa cuando la gráfica cruzada del SRSS muestra que ____.",
+      "options": [
+        "Las trayectorias métricas convergen en una meseta idéntica en la bisectriz temporal.",
+        "Los puntos de dispersión de recuperación y estrés divergen y se alejan máximamente.",
+        "La pendiente de la variable de estrés cruza transversalmente la media histórica móvil.",
+        "Ambas variables superan holgadamente la línea base logarítmica de hipertrofia."
+      ],
+      "correct_answer": "Los puntos de dispersión de recuperación y estrés divergen y se alejan máximamente.",
+      "feedback": "El mapeo del cuestionario de recuperación y estrés (SRSS) dibuja el estado alostático del sistema. El escenario bioquímico de frescura ideal se ilustra cuando la línea de recuperación (punto azul) escala hacia el máximo disponible, simultáneamente con el desplome de la percepción de estrés (punto amarillo). Esta separación total de los puntos vectoriales ratifica que el Readiness está en estado de pico óptimo."
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "question": "La métrica pura de la altura en el salto vertical ha demostrado poseer tantas debilidades metodológicas en el alto rendimiento que ha sido definitivamente erradicada de los cuadros de mando reportados a la gerencia deportiva.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Desde una perspectiva puramente biomecánica, el preparador físico admite que estimar rendimiento sólo por la altura del salto carece de profundidad técnica, ya que ignora las fuerzas que generan dicho despegue. Sin embargo, asume una realidad pragmática: su simplicidad la convierte en un lenguaje universal que agentes y General Managers comprenden y exigen, manteniéndola inamovible en los reportes habituales."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "La recopilación objetiva del índice mecánico MRSI (Modified Relative Strength Index) obliga a que el test CMJ diario no se evalúe en frío, ubicándose procedimentalmente justo al finalizar ____.",
+      "options": [
+        "el análisis de rivales en vídeo",
+        "la activación neural con pesas",
+        "el shooting slot en cancha"
+      ],
+      "correct_answer": "el shooting slot en cancha",
+      "feedback": "La captura del CMJ para determinar el Readiness carecería de pureza científica si se efectuara sobre un músculo no estimulado y tejido frío. Para reflejar una instantánea fidedigna del pico de excitabilidad neural actual del deportista, el protocolo exige medir en la plataforma Vald inmediatamente tras terminar su 'shooting slot' de calentamiento táctico en la pista pre-partido."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Basándose en la disrupción metabólica ligada a los minutos en pista, el árbol de decisión logística post-partido exige que un atleta que haya superado los 40 minutos de carga de competición deba ser excluido de la fuerza y orientado a ____.",
+      "options": [
+        "sesiones de isometría máxima sostenida",
+        "ejecuciones olímpicas de alta cadencia",
+        "terapia manual y recuperación pasiva",
+        "volúmenes moderados concéntricos de hipertrofia"
+      ],
+      "correct_answer": "terapia manual y recuperación pasiva",
+      "feedback": "El baloncesto estadounidense se define por partidos de 48 minutos. Rebasar los 40 minutos activos detona un estado de severo vaciamiento glucogénico y colapso de la excitabilidad central. La guía prohíbe taxativamente sumar estrés neural superpuesto a estos jugadores, ordenando que omitan el 'lift' de pesas para someterse exclusivamente a tratamientos de terapia manual descompresiva y recuperación."
+    },
+    {
+      "id": 19,
+      "type": "true_false",
+      "question": "La monitorización de la fatiga neuromuscular pre-partido dispara una alerta roja automática en el sistema central del equipo técnico siempre que el índice MRSI del jugador deprima sus valores en un 10% o más respecto a su nivel basal inter-evaluación.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. El procesamiento de datos del CMJ en la plataforma dual (Vald) integra un límite de seguridad en el Group Dashboard. Si el indicador Modified Relative Strength Index (MRSI) refleja un decremento igual o superior al 10%, el sistema eleva de forma inmediata una bandera roja. Esto expone una fatiga crítica y alerta al entrenador principal para regular y mitigar la exposición del atleta en minutos de juego."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Desde un enfoque cinemático restrictivo, la prescripción metodológica de rutinas de 'Priming' (activación pura de SNC) exige condicionar la selección de ejercicios multiarticulares con directrices que prioricen ____.",
+      "options": [
+        "Tiempos bajo tensión prolongados y excéntricas de alta cadencia para distender el tejido fascial profundo.",
+        "Máxima intención de velocidad y un volumen absolutamente mínimo para impulsar la RFD sin originar acumulación de lactato.",
+        "Trabajo aeróbico intermitente focalizado en mantener el pulso cardíaco parasimpático en equilibrio inferior a 110 lpm.",
+        "Sobrecarga isométrica cedente extrema para atenuar de forma radical la conductancia nerviosa espinal frente al estrés precompetitivo."
+      ],
+      "correct_answer": "Máxima intención de velocidad y un volumen absolutamente mínimo para impulsar la RFD sin originar acumulación de lactato.",
+      "feedback": "El 'Priming' persigue como único objetivo incrementar de modo violento la Tasa de Desarrollo de Fuerza (RFD) sin originar fatiga periférica o metabólica. Esta adaptación se concreta utilizando movimientos rápidos (saltos o derivados de halterofilia al 60-70% del RM) con extrema intención propulsiva y un límite restrictivo de volumen (dos o tres series cortas) para anular el estrés periférico muscular."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "En un entorno deportivo sumido en el estrés de los vuelos comerciales y calendarios hiper-densos (50 juegos en 5 meses), la impericia o el error de coordinación del departamento de Operaciones Logistics impacta de forma letal alterando ____.",
+      "options": [
+        "La precisión satelital cinemática extraída de los micro-acelerómetros incrustados en los dispositivos Catapult.",
+        "La rigurosidad en los cálculos isocinéticos excéntricos obtenidos mediante el dinamómetro en evaluaciones de Return to Play.",
+        "Las escasas ventanas fisiológicas y orgánicas designadas para la asimilación nutricional, sueño y recuperación de la plantilla.",
+        "La capacidad de los fisioterapeutas para ejecutar abordajes ecoguiados por carencia técnica en protocolos prehab."
+      ],
+      "correct_answer": "Las escasas ventanas fisiológicas y orgánicas designadas para la asimilación nutricional, sueño y recuperación de la plantilla.",
+      "feedback": "Operaciones conforma la bóveda logística de un equipo itinerante de baloncesto. Frente a una cadencia de traslados aéreos continuos de madrugadas sin chárters privados, un leve desajuste logístico en transportes u hoteles desestabiliza y devora inmediatamente las exiguas franjas de tiempo vital que posee el cuerpo biológico del atleta para digerir alimentos clave, consolidar ciclos de sueño REM y recuperarse."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Dadas las restricciones estructurales y biológicas del baloncesto profesional, ¿en qué bloque macrociclo recae obligatoriamente la responsabilidad de generar adaptaciones de supercompensación anatómica y forjar niveles máximos de fuerza absoluta?",
+      "options": [
+        "En la ventana microciclo correspondiente al parón de invierno o ecuador estadístico de la temporada regular.",
+        "En la quincena crítica estructurada como 'Training Camp' con sesiones diarias doble turno de índole catabólica.",
+        "En el periodo puramente estival de 'Off-season', limitando la pretemporada a una mera calibración o puesta a punto.",
+        "Aprovechando los repuntes endocrinos generados exclusivamente tras las victorias orgánicas de los partidos back-to-back."
+      ],
+      "correct_answer": "En el periodo puramente estival de 'Off-season', limitando la pretemporada a una mera calibración o puesta a punto.",
+      "feedback": "La fisiología del ejercicio establece que forjar capacidad muscular neta demanda periodos extendidos libres de fatiga competitiva concurrente extrema. Una pretemporada de apenas 11 días imposibilita biológicamente la supercompensación morfológica, dictaminando que la autoexigencia profesional de construir el armazón físico y la fuerza máxima base queda enclavada incondicionalmente en el periodo estival del off-season."
+    }
+  ]
+}
