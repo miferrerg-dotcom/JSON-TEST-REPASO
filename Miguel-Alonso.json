@@ -1,0 +1,349 @@
+{
+  "class_title": "Certificación PSS - Entrenamiento de Fuerza y Potencia en Edad Infantil",
+  "total_questions": 28,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Durante la fase del Pico de Velocidad de Crecimiento (PHV), se instaura un caos motriz agudo que multiplica la incidencia lesional. Biomecánicamente, el factor primario que desencadena esta pérdida repentina de control es ____.",
+      "options": [
+        "El cambio acelerado en la longitud de las palancas óseas.",
+        "El estancamiento de la producción de líquido sinovial articular.",
+        "La calcificación prematura de las placas epifisarias.",
+        "La reducción aguda de la rigidez tendinosa basal."
+      ],
+      "correct_answer": "El cambio acelerado en la longitud de las palancas óseas.",
+      "feedback": "El pico máximo de velocidad en altura conlleva que los huesos longitudinales crezcan de manera acelerada. Esto genera un súbito y radical cambio en las palancas corporales, desajustando por completo los patrones motores que la corteza dominaba previamente, lo que ocasiona movimientos aberrantes, torpeza transitoria y vulnerabilidad biomecánica."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "Ejecutar un cambio de dirección agresivo exige niveles óptimos de fuerza excéntrica para lograr descender velozmente el centro de masa y controlar la inercia antes de la fase propulsiva.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Realizar un cambio de dirección eficaz y sin daño articular requiere frenar y reorientar bruscamente el vector cinético. Unos niveles óptimos de fuerza excéntrica capacitan al atleta para amortiguar el movimiento, descendiendo rápida y profundamente su centro de gravedad para controlar la inercia antes de disparar la nueva propulsión."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Para maximizar las adaptaciones del ciclo estiramiento-acortamiento y proteger el sistema musculoesquelético infantil, las sesiones de pliometría formativa deben configurarse mediante microdosis que oscilen entre ____.",
+      "options": [
+        "los 10 y 12 minutos por sesión",
+        "los 40 y 45 minutos continuos",
+        "los 2 y 3 minutos de duración"
+      ],
+      "correct_answer": "los 10 y 12 minutos por sesión",
+      "feedback": "La fisiología del esfuerzo infantil establece que los programas pliométricos deben ejecutarse en bloques de 400 a 600 minutos totales divididos en frecuencias de 2 a 3 días por semana para evitar la sobrecarga excéntrica. Esta dosificación óptima equivale a intervenciones concentradas o microdosis de máximo 10 a 12 minutos netos por sesión."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Al prescribir cargas gravitatorias en sujetos prepuberales (pre-PHV), los espectaculares incrementos en la capacidad de aplicar fuerza útil se justifican fisiológicamente a través de ____.",
+      "options": [
+        "una adaptación neural y coordinativa intramuscular",
+        "la secreción aguda de testosterona circulante",
+        "el incremento transversal de la fibra tipo IIx",
+        "una mayor densidad capilar periférica"
+      ],
+      "correct_answer": "una adaptación neural y coordinativa intramuscular",
+      "feedback": "En etapas pre-PHV, el organismo carece del perfil de hormonas anabólicas circulantes necesario para inducir cambios estructurales y aumento del área transversal muscular (hipertrofia). Las marcadas mejoras en la aplicación neta de fuerza derivan enteramente de la extrema plasticidad del sistema nervioso central, la optimización en el reclutamiento de unidades motoras y la sincronización intramuscular."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Al programar pliometría en jugadoras que han superado el Pico de Velocidad de Crecimiento (Post-PHV), la intervención debe centrarse exhaustivamente en la técnica de aterrizaje para neutralizar el riesgo de rotura de ligamento cruzado anterior derivado de ____.",
+      "options": [
+        "la aparición de un valgo dinámico de rodilla",
+        "un incremento de flexibilidad en la cadena posterior",
+        "una disminución del 'stiffness' tendinoso",
+        "un déficit en la producción láctica mitocondrial"
+      ],
+      "correct_answer": "la aparición de un valgo dinámico de rodilla",
+      "feedback": "Tras superar la barrera del crecimiento acelerado, la anatomía del tren inferior en las mujeres jóvenes experimenta un ensanchamiento pélvico y un incremento de la rigidez tendinosa, propiciando un marcado déficit en la estabilización frontal. Sin una técnica excéntrica impecable, la articulación colapsa medialmente conformando el valgo dinámico, un mecanismo de disección directa para los ligamentos cruzados."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "Un tiempo de contacto con el suelo excepcionalmente reducido durante una acción de agilidad reactiva otorga al deportista un lapso de tiempo cronológico mucho mayor para procesar el entorno táctico.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El principio biomecánico dicta lo contrario. Al incrementar la eficiencia neuromuscular reduciendo el tiempo de contacto con el suelo, la transición entre frenada y propulsión se vuelve supersónica. Por tanto, el deportista interactúa con el entorno a tal velocidad que el cerebro experimenta una drástica reducción en la ventana temporal real disponible para completar la fase de percepción y toma de decisión."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "El mecanismo biomecánico central mediante el cual la pliometría transfiere directamente sus adaptaciones al sprint lineal se fundamenta en un incremento notable de ____.",
+      "options": [
+        "la rigidez articular del tobillo",
+        "la hipertrofia de la cadena posterior",
+        "la asimetría sagital de la zancada"
+      ],
+      "correct_answer": "la rigidez articular del tobillo",
+      "feedback": "El trabajo pliométrico moldea el 'stiffness' conectivo, mejorando exponencialmente la rigidez de todo el complejo del tobillo. Esta consolidación mecánica evita el colapso blando contra el suelo, capacitando al tendón de Aquiles para almacenar masivamente energía elástica durante el choque e impulsarla con reactividad balística en la aceleración horizontal."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "A diferencia de los estándares de reactividad en el alto rendimiento adulto, la selección de la superficie para el entrenamiento pliométrico formativo exige evitar impactos excesivamente secos, recomendándose clínicamente el trabajo ____.",
+      "options": [
+        "descalzo en entornos controlados",
+        "con calzado de cámara de aire",
+        "sobre arena profunda de playa",
+        "en camas elásticas de alta tensión"
+      ],
+      "correct_answer": "descalzo en entornos controlados",
+      "feedback": "En el adulto la superficie extremadamente dura estimula al máximo el RSI y recorta el tiempo de contacto, pero exponer la inmadurez cartilaginosa y las placas epifisarias infantiles a impactos secos genera un estrés articular destructivo. Por prevención anatómica y enriquecimiento propioceptivo de las fascias plantares, se prescriben entornos limpios donde se pueda aterrizar descalzo con total seguridad."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "Los programas infantiles sustentados puramente en la fuerza igualan o superan los beneficios de la prescripción aeróbica estandarizada en parámetros de salud cardiometabólica, densidad mineral ósea y bienestar psicosocial.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "La literatura médica y deportiva contemporánea certifica que los programas de fuerza impactan con igual o mayor contundencia en la salud metabólica, cognitiva, psicosocial, ósea y articular del infante frente al ejercicio de resistencia tradicional. El único componente exclusivo donde el bloque aeróbico ostenta superioridad es en el desarrollo del fitness puramente cardiorrespiratorio."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "La fase excéntrica de un aterrizaje exige una sinergia flexora. Si la flexión coordinada de cadera y tobillo fracasa al disipar la inercia gravitatoria, el vector de fuerza destructiva recaerá obligatoriamente sobre ____.",
+      "options": [
+        "la articulación de la rodilla",
+        "la musculatura isquiosural",
+        "la región lumbar y torácica"
+      ],
+      "correct_answer": "la articulación de la rodilla",
+      "feedback": "Aterrizar es un proceso puro de absorción de fuerzas. Requiere la implicación activa del triple eje articular inferior. Si el tobillo (dorsiflexión) y la cadera (bisagra) no consiguen disipar su cuota de energía cinética, todo el remanente inercial colapsará sobre la estructura intermedia, multiplicando el estrés capsular y el riesgo de desgarro en la rodilla."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Durante la evaluación biomecánica de los apoyos en dinámicas de impacto (aterrizajes monopodales y bipodales), la ciencia establece que una asimetría de carga entre hemicuerpos representa un riesgo estructural inaceptable que exige intervenciones aisladas de urgencia cuando supera el ____.",
+      "options": [
+        "15%",
+        "5%",
+        "3%",
+        "25%"
+      ],
+      "correct_answer": "15%",
+      "feedback": "La distribución equitativa de la energía de choque es vital para la salud articular. Discrepancias ubicadas entre el 10% y el 15% marcan niveles de alerta que demandan vigilancia, pero traspasar la frontera del 15% de asimetría consolida un fallo neuromuscular y compensatorio tan grave que obliga a suspender la progresión elástica para aplicar trabajo correctivo unilateral estricto."
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "Las intervenciones de fuerza en jóvenes atletas de deportes de equipo son sesiones puramente accesorias, diseñadas para completar microciclos sin impacto real sobre la disponibilidad táctica en el campo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Se trata de un mito profundamente arraigado. En los deportes multidireccionales, la fuerza no es un añadido marginal, sino el cimiento bio-mecánico indispensable de cualquier acción técnica de juego. Una óptima capacidad contráctil asegura la eficiencia motriz ante la fatiga intermitente, reduciendo drásticamente las lesiones osteoarticulares y garantizando que el jugador esté sano y tácticamente disponible más tiempo."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "La revisión contemporánea de los modelos de desarrollo motor concluye que las ventanas de oportunidad neuromotora no se cierran de forma determinista por la edad cronológica, sino que son drásticamente moldeables gracias a ____.",
+      "options": [
+        "la experiencia motriz previa acumulada (training age)",
+        "el techo de crecimiento óseo longitudinal",
+        "el perfil somatotipo predominante heredado",
+        "la maduración prematura del sistema endocrino"
+      ],
+      "correct_answer": "la experiencia motriz previa acumulada (training age)",
+      "feedback": "La visión biológica moderna entierra el antiguo paradigma del 'tren perdido', que afirmaba que si una capacidad no se desarrollaba en una edad concreta, el atleta fracasaba para siempre. Las ventanas de sensibilidad son dependientes en gran medida de la Edad de Entrenamiento (Training Age): cuanto mayor y más rica sea la enciclopedia motriz previa del niño, más extensas y receptivas serán sus capacidades de asimilación futuras."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "En el estricto marco del Desarrollo Atlético a Largo Plazo, la meta filosófica innegociable al someter a un niño a intervenciones de fuerza es prepararlo estructuralmente para tolerar la edad adulta, evitando de forma sistemática ____.",
+      "options": [
+        "maximizar su rendimiento competitivo temprano",
+        "utilizar plataformas de fuerza concéntrica",
+        "estimular la vía metabólica aeróbica"
+      ],
+      "correct_answer": "maximizar su rendimiento competitivo temprano",
+      "feedback": "Las cargas mecánicas formativas operan bajo la premisa de ser microinversiones arquitectónicas. El error imperdonable de muchas academias es buscar la maximización atlética cortoplacista, exprimiendo el sistema fisiológico inmaduro para asegurar trofeos de fin de semana, hipotecando así el tejido conectivo en lugar de blindarlo gradualmente para que sobreviva a las demandas extremas del deporte profesional adulto."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Al prescribir entrenamiento formativo orientado a la agilidad deportiva, aislar de manera exclusiva la pliometría genera adaptaciones neuromusculares inferiores frente a protocolos que la combinan sinérgicamente con tareas de ____.",
+      "options": [
+        "estabilidad y equilibrio propioceptivo",
+        "flexibilidad pasiva de cadena posterior",
+        "hipertrofia sarcoplasmática con pesos libres",
+        "resistencia aeróbica de larga duración"
+      ],
+      "correct_answer": "estabilidad y equilibrio propioceptivo",
+      "feedback": "Diversos meta-análisis ratifican que los diseños de sesiones donde el estímulo elástico balístico coexiste con exigencias de estabilización propioceptiva generan adaptaciones más sólidas, eficientes y rápidas en los perfiles de cambio de dirección. La pliometría aislada únicamente demuestra cierta superioridad marginal si la evaluación se restringe a pruebas unidimensionales de saltos continuos como el triple hop test."
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "question": "Las pautas de desarrollo a largo plazo dictaminan que, antes de aplicar volúmenes y frecuencias elevadas de pliometría balística, se debe priorizar inexcusablemente el control motor y la alfabetización de los aterrizajes.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "El principio universal de seguridad fisiológica en el niño ordena progresar invariablemente desde el bajo impacto hacia la extrema intensidad. Solicitar ciclos veloces de estiramiento-acortamiento sin depurar previamente de forma exquisita la biomecánica de la absorción (fase excéntrica controlada sin colapsos estructurales) es el desencadenante directo de patologías tendinosas y articulares crónicas."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "El modelo metodológico contemporáneo de la aptitud física, como el referenciado por Faigenbaum, sitúa a la fuerza muscular como el engranaje central e innegociable que propulsa directamente ____.",
+      "options": [
+        "las habilidades fundamentales del movimiento",
+        "la capacidad anaeróbica láctica celular",
+        "el cierre prematuro de las diáfisis óseas",
+        "la hipertrofia sarcomérica por andrógenos"
+      ],
+      "correct_answer": "las habilidades fundamentales del movimiento",
+      "feedback": "La competencia muscular no actúa como un mero complemento periférico; es el cimiento nuclear del esquema neuromotor. Cuando los umbrales de fuerza intra e intermuscular son deficitarios, las habilidades primarias innatas e indispensables en todo escenario lúdico o competitivo, como son el acelerar, frenar, amortiguar caídas o cambiar de dirección, presentan severas fugas de eficiencia mecánica."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Al observar a un infante fracasar estrepitosamente en la ejecución de un patrón técnico complejo que dominaba a la perfección semanas atrás, el diagnóstico neuromuscular correcto interpreta este fenómeno como ____.",
+      "options": [
+        "una recalibración natural del sistema neuromotor que explora variabilidad",
+        "una sobrecarga articular crónica por exceso de impacto lineal",
+        "un fallo patológico en la mielinización de los tractos espinales",
+        "una fatiga central irreversible por falta de hidratación celular"
+      ],
+      "correct_answer": "una recalibración natural del sistema neuromotor que explora variabilidad",
+      "feedback": "El avance en la ontogénesis del aprendizaje motor infantil dista enormemente de una progresión matemática lineal. Durante picos de desarrollo o alteraciones agudas de fatiga tisular, las palancas se modifican y provocan involuciones técnicas transitorias. El sistema nervioso central emplea estos retrocesos de manera inteligente para explorar variabilidad motriz y recalibrar el programa eferente frente al nuevo escenario biomecánico."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Para un atleta prepúber (Pre-PHV), la dosificación óptima y segura en la exposición a impactos de baja intensidad para asentar la rítmica y la alfabetización elástica ronda un límite absoluto de ____.",
+      "options": [
+        "60 a 90 contactos semanales",
+        "250 a 300 contactos semanales",
+        "10 a 20 contactos semanales"
+      ],
+      "correct_answer": "60 a 90 contactos semanales",
+      "feedback": "En estadios previos a la explosión del estirón óseo, la pliometría no persigue adaptaciones estructurales pesadas ni reactividad extrema, sino potenciar la rítmica, la fluidez y la preactivación. La literatura científica y los protocolos de seguridad fijan una barrera altamente conservadora para no saturar las inserciones tendinosas inmaduras, estableciéndola en no más de 60 a 90 contactos netos por semana mediante saltos horizontales o pogos submáximos."
+    },
+    {
+      "id": 20,
+      "type": "true_false",
+      "question": "El método de evaluación somática mediante variables antropométricas longitudinales permite pronosticar el techo genético adulto y diagnosticar con exactitud el talento deportivo del atleta.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La predicción del maturity offset no posee la función de actuar como una bola de cristal para identificar talento o sentenciar el techo atlético definitivo del sujeto. Su auténtica utilidad clínica y metodológica radica en contextualizar la maduración presente para explicar fluctuaciones atípicas de rendimiento, identificar ventanas de riesgo de patología osteocondral y establecer grupos seguros para una dosificación homogénea de las cargas."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "En el control estricto de la carga volumétrica de un bloque pliométrico, se incurre en un riesgo agudo de patología tendinosa por sobreuso si la cuantía de impactos aumenta abruptamente por encima del ____.",
+      "options": [
+        "20% mensual",
+        "5% mensual",
+        "40% mensual",
+        "50% mensual"
+      ],
+      "correct_answer": "20% mensual",
+      "feedback": "El estrés mecánico aplicado al tejido conectivo exige cuantificación absoluta contando contacto contra el suelo por contacto. Disparar el volumen sumatorio de impactos superando la franja límite biológica del 10% al 20% mensual supera irreversiblemente la tasa de regeneración de colágeno, instaurando procesos inflamatorios tendinopáticos severos."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Las adaptaciones estructurales tangibles e incrementos significativos de área de sección transversal muscular (hipertrofia verdadera) se materializan fisiológicamente de forma óptima durante ____.",
+      "options": [
+        "el pico de velocidad en peso (PWV)",
+        "el pico máximo de velocidad de crecimiento (PHV)",
+        "el inicio del descenso de la rigidez articular basal",
+        "los meses previos a la segregación de testosterona"
+      ],
+      "correct_answer": "el pico de velocidad en peso (PWV)",
+      "feedback": "El silencio androgénico previo a la cascada puberal imposibilita fisiológicamente ganancias hipertróficas. La síntesis proteica de alta magnitud impulsada por la testosterona plasmática libre se alinea cronológicamente con la superación de la crisis ósea longitudinal, coincidiendo exactamente con el Pico de Velocidad en Peso (PWV), el cual se instaura biológicamente entre 6 y 18 meses después de haber dejado atrás el PHV."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Al identificar a un joven Sub-14 que biológicamente ya ha superado su PHV exhibiendo un perfil somático gigante, su promoción adelantada a la categoría Sub-16 para el trabajo físico solo será segura si ____.",
+      "options": [
+        "su solvencia motriz y dominio técnico soportan dicha demanda",
+        "sus niveles de testosterona superan el percentil noventa",
+        "ha completado el cierre definitivo de las epífisis distales"
+      ],
+      "correct_answer": "su solvencia motriz y dominio técnico soportan dicha demanda",
+      "feedback": "Poseer proporciones óseas colosales no implica de manera inherente que el hardware neuromotor del joven atleta se encuentre sincronizado o adaptado para estabilizar una carcasa tan masiva en movimiento. Aplicar protocolos de bio-banding ascendente para integrarlo en dinámicas cinéticas adultas sin confirmar primero su solvencia técnica desencadena irremediablemente traumatismos graves por falta de amortiguación propioceptiva."
+    },
+    {
+      "id": 24,
+      "type": "true_false",
+      "question": "Durante el pico máximo de velocidad de crecimiento (PHV), el hueso longitudinal puede alcanzar hasta el 92% de su longitud adulta careciendo aún de la densidad mineral definitiva, lo que dispara la vulnerabilidad estructural.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "El estirón biológico somete al esqueleto a un veloz crecimiento longitudinal, acercándolo a su talla final, pero el proceso de aposición y densidad mineral trabecular se retrasa temporalmente. Este desfase genera huesos largos pero porosos y frágiles que, combinados con las tracciones musculares de palancas desajustadas, crean una ventana clínica de alto riesgo frente a fracturas por estrés o apofisitis de tracción."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "La evaluación del éxito en un macrociclo de desarrollo físico infantil en sus etapas primarias jamás debe regirse por el volumen de kilos levantados, sino de forma exclusiva y prioritaria por ____.",
+      "options": [
+        "la calidad técnica y la variabilidad motriz adquirida",
+        "el aumento de la hipertrofia transversal total",
+        "el incremento neto del porcentaje de masa magra",
+        "la reducción directa de la frecuencia cardíaca basal"
+      ],
+      "correct_answer": "la calidad técnica y la variabilidad motriz adquirida",
+      "feedback": "Las métricas cuantitativas puras extraídas de la metodología adulta (RM, picos máximos de velocidad neta) carecen de validez diagnóstica en organismos inmaduros gobernados por la plasticidad neural. El triunfo de un programa base se constata evaluando la limpieza de los patrones biomecánicos, la estabilización de ejes corporales en el espacio y la riqueza de la enciclopedia motora que blinda las articulaciones ante la exigencia táctica."
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "Al diseñar planes preventivos, la inclusión indiscriminada y concurrente de múltiples métodos (fuerza, propiocepción, flexibilidad, agilidad) condensados en la misma sesión provoca fisiológicamente que ____.",
+      "options": [
+        "se diluya el estímulo primario, comprometiendo gravemente la eficacia protectora aislada de la fuerza",
+        "se potencie exponencialmente el efecto profiláctico hasta anular el riesgo de rotura fibrilar",
+        "se aumente la especificidad del tejido conectivo logrando una rigidez articular infranqueable",
+        "se induzca una sobrecompensación mitocondrial que blinda los ligamentos pasivos"
+      ],
+      "correct_answer": "se diluya el estímulo primario, comprometiendo gravemente la eficacia protectora aislada de la fuerza",
+      "feedback": "El enfoque analítico con fuerza pesada o pliometría específica ha demostrado aislar y consolidar de manera abismal la arquitectura de los tejidos blandos. Saturar el sistema nervioso periférico mezclando simultáneamente más de nueve variables o dominios físicos en una única sesión satura las vías eferentes, anula la sobrecarga progresiva y neutraliza por completo los índices estadísticos de profilaxis en el tren inferior."
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Siguiendo la ley de especificidad dinámica, para asegurar una transferencia máxima al rendimiento en deportes multidireccionales, el trabajo pliométrico avanzado debe focalizarse en vectores ____.",
+      "options": [
+        "horizontales y de naturaleza unilateral",
+        "verticales y de alta duración isométrica",
+        "axiales y con perturbación externa estática"
+      ],
+      "correct_answer": "horizontales y de naturaleza unilateral",
+      "feedback": "Los modelos competitivos de campo abierto no resuelven eliminatorias mediante saltos parabólicos estáticos con ambos pies. La mecánica implacable del juego real obliga a frenar, pivotar y acelerar el centro de masas en el plano sagital utilizando un solo apoyo. Priorizar los saltos monopodales y las proyecciones horizontales maximiza la eficacia biomecánica directa sobre el sprint y el cambio de dirección."
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "En la preadolescencia (10-12 años), los bloques de fuerza base tradicional generan mayores mejoras en la aceleración que el trabajo olímpico o pliométrico balístico porque, biológicamente, los atletas en esta fase carecen de ____.",
+      "options": [
+        "la fuerza, el equilibrio y la coordinación intermuscular previos indispensables para estabilizar el impacto",
+        "la densidad capilar periférica necesaria para oxigenar las fibras de contracción rápida",
+        "la testosterona libre en sangre requerida para activar el ciclo de estiramiento-acortamiento",
+        "la rigidez miofascial suficiente para amortiguar el descenso del centro de gravedad"
+      ],
+      "correct_answer": "la fuerza, el equilibrio y la coordinación intermuscular previos indispensables para estabilizar el impacto",
+      "feedback": "La base contráctil isométrica e isotónica rige el control de la inercia corporal. Sin la estabilización central y la fuerza de frenado aportada por los regímenes tradicionales, el inmaduro sistema nervioso prepúber no coordina eficientemente la absorción de altas magnitudes de energía cinética. Las adaptaciones reactivas se inhiben por el colapso posicional, neutralizando cualquier ventaja teórica derivada de los movimientos olímpicos."
+    }
+  ]
+}
