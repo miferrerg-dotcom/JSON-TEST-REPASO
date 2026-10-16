@@ -1,0 +1,191 @@
+{
+  "class_title": "Certificación PSS: Preparación Física y Gestión en Selecciones Nacionales",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Durante un microciclo de selección donde los jugadores arriban de forma escalonada, existe habitualmente un único día en el que el entrenador dispone del grupo completo. Desde el punto de vista del control de carga, ¿qué adaptación táctico-física se suele aplicar en esta sesión específica?",
+      "options": [
+        "Se reduce drásticamente el volumen general para asegurar que el segmento de atletas con menos horas de recuperación no sufra recaídas musculares.",
+        "El volumen de la sesión puede ser deliberadamente superior al de una jornada ordinaria de club para maximizar el acople colectivo y la asimilación del plan de partido.",
+        "Se enfoca de forma exclusiva en tareas de recuperación neuro-pasiva e integración táctica estática sin generar ningún impacto físico real.",
+        "Se fragmenta a la plantilla en dos burbujas aisladas para evitar descompensaciones severas en el ratio de carga aguda-crónica."
+      ],
+      "correct_answer": "El volumen de la sesión puede ser deliberadamente superior al de una jornada ordinaria de club para maximizar el acople colectivo y la asimilación del plan de partido.",
+      "feedback": "Al contar con un solo día de disponibilidad global (por ejemplo, un miércoles previo a competir el jueves), la periodización se modifica estructuralmente. El volumen suele elevarse ligeramente respecto a una semana regular en un club porque constituye la única ventana temporal viable para cohesionar la estrategia táctica colectiva en campo antes del choque internacional."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "Para la prescripción y control del entrenamiento de fuerza en gimnasio durante las ventanas de selección, el objetivo principal radica en inducir hipertrofia sarcomérica a través de series al fallo concéntrico, ignorando la cinética del movimiento.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El paradigma es totalmente opuesto. El trabajo de fuerza en tren inferior se monitorea bajo la metodología VBT (Velocity-Based Training), priorizando el control estricto de la velocidad de ejecución concéntrica para mantener umbrales neuromusculares de potencia, evitando así el daño estructural que menguaría el rendimiento pre-partido."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Cuando el análisis de termografía pospartido refleja un aumento significativo de temperatura local indicativo de daño estructural, la intervención fisioterapéutica primaria debe orientarse a ____.",
+      "options": [
+        "aplicar crioterapia",
+        "promover calor profundo",
+        "realizar estiramientos pasivos"
+      ],
+      "correct_answer": "aplicar crioterapia",
+      "feedback": "El perfil térmico dicta el abordaje biológico de recuperación. Un daño de naturaleza estructural que desencadena inflamación y elevación térmica focal responde favorablemente a la aplicación de baños de inmersión en agua fría (crioterapia). Por el contrario, un cuadro sistémico de fatiga metabólica requeriría estrategias enfocadas en elevar la temperatura tisular."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Al programar el itinerario aéreo de retorno de un jugador internacional tras competir en su respectiva liga, la estrategia de gestión logística más efectiva para catalizar su recuperación fisiológica temprana consiste en:",
+      "options": [
+        "Priorizar invariablemente el primer asiento comercial disponible para que inicie la atención fisioterapéutica en la sede nacional cuanto antes.",
+        "Demorar la salida varias horas si ello le proporciona una ventana ininterrumpida de sueño previo, o facilitar un vuelo nocturno en el que logre descansar.",
+        "Fragmentar el trayecto intercontinental en múltiples escalas cortas para prevenir el estancamiento venoso y la rigidez articular prolongada.",
+        "Agendar el desplazamiento obligatoriamente para el día calendario posterior, aislando la decisión del huso horario del país de origen."
+      ],
+      "correct_answer": "Demorar la salida varias horas si ello le proporciona una ventana ininterrumpida de sueño previo, o facilitar un vuelo nocturno en el que logre descansar.",
+      "feedback": "La inmediatez logística no siempre equivale a eficiencia biológica. Si retrasar el embarque concede al deportista la capacidad de consolidar un bloque de sueño reparador tras el estrés competitivo, el staff pondera este reposo como un vector de recuperación superior a la llegada acelerada al centro de concentración."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "En la concentración deportiva, la obtención de información cualitativa indispensable sobre el entorno afectivo, vida personal y fatiga volitiva del atleta a menudo proviene del cruce de alertas analíticas con las observaciones puntuales que recaban ____.",
+      "options": [
+        "los utileros y masajistas",
+        "los observadores arbitrales",
+        "los softwares predictivos"
+      ],
+      "correct_answer": "los utileros y masajistas",
+      "feedback": "El ecosistema interdisciplinario en una concentración funciona como una densa red de monitoreo interno. Frecuentemente, el entorno íntimo de la sala médica con el masajista, o el trato rutinario con la utilería propicia un clima de confianza que lleva al futbolista a externalizar cuotas de ansiedad oculta o estrés extradeportivo, datos cruciales para calibrar la gestión integral de la carga."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "A pesar del abrumador avance en la precisión de biomarcadores tecnológicos como la variabilidad de la frecuencia cardíaca (HRV) y la termografía, el diálogo directo y el testimonio subjetivo del futbolista en la entrevista de recepción se mantienen como el pilar fundamental del diagnóstico inicial.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La métrica no sustituye a la percepción en este nivel de élite. La charla directa con el atleta a su llegada se valora como el pilar absoluto del diagnóstico inicial. A pesar del acervo tecnológico a disposición, el individuo es el único receptor empírico de su propia fatiga y sensaciones, siendo el juez definitivo para modificar o validar la programación prevista de tareas."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Para nutrir el algoritmo de decisión del cuerpo técnico frente a una convocatoria, el modelado del minutaje competitivo de un posible seleccionado no se restringe a un acumulado bruto del año, sino que se disecciona obligatoriamente en cuartiles o semestres debido a que:",
+      "options": [
+        "Facilita la distribución equitativa de variables de rendimiento y bonos económicos regidos por el estatuto del jugador FIFA.",
+        "Permite mapear tendencias dinámicas y detectar picos de forma inminentes, descifrando la vigencia atlética contemporánea por encima de promedios estáticos.",
+        "Previene la saturación de bases de datos reduciendo la densidad métrica exportada por el sistema global de posicionamiento satelital de los clubes de origen.",
+        "Establece una restricción jurídica que impide el llamado de atletas cuyo índice de participación trimestral caiga de un umbral técnico específico."
+      ],
+      "correct_answer": "Permite mapear tendencias dinámicas y detectar picos de forma inminentes, descifrando la vigencia atlética contemporánea por encima de promedios estáticos.",
+      "feedback": "Examinar fracciones temporales (últimos doce meses, seis meses y el trimestre más reciente) elude el sesgo de la 'foto estática'. Un jugador puede exhibir un volumen global anual bajo pero arribar respaldado por una acumulación masiva de minutos en la fase trimestral final, lo cual conforma un indicador predictivo invaluable de su estado competitivo actual para encarar un certamen corto."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "En el contexto de un microciclo vertiginoso de selección, ¿cuál es el fundamento clínico subyacente para evaluar un salto CMJ o un perfil térmico puntual en un deportista recién ingresado tras acumular más de treinta horas de vuelos transcontinentales?",
+      "options": [
+        "El valor algorítmico bruto descarta de manera infalible la existencia de microrroturas silentes.",
+        "El procedimiento radica en el histórico de repetición: la robustez de mediciones longitudinales crea un pasaporte biológico capaz de discernir si ese hallazgo es un déficit patológico o simplemente la respuesta compensatoria natural pos-vuelo del jugador.",
+        "Facilita la proyección probabilística irrefutable respecto al volumen de metros a altísima intensidad que registrará en la segunda parte del partido oficial.",
+        "Suprime drásticamente los requerimientos de aplicar el cuestionario matutino tipo Wellness y la Escala de Esfuerzo Percibido."
+      ],
+      "correct_answer": "El procedimiento radica en el histórico de repetición: la robustez de mediciones longitudinales crea un pasaporte biológico capaz de discernir si ese hallazgo es un déficit patológico o simplemente la respuesta compensatoria natural pos-vuelo del jugador.",
+      "feedback": "Cualquier medición tecnológica aislada está sujeta a distorsión transitoria tras un estrés severo como un trayecto aéreo intercontinental. Únicamente repitiendo estas evaluaciones a lo largo de diversas convocatorias se consigue estructurar una 'línea base' o pasaporte para el jugador. Este referente histórico permite clarificar de inmediato si un registro adverso obedece a una anomalía estructural verdadera o si recae en el espectro normal de fatiga predecible para él."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Con el objetivo irrestricto de neutralizar variables de confusión en el monitoreo de carga interna posterior a las sesiones de campo, la captura de la Percepción Subjetiva del Esfuerzo (RPE) debe cristalizarse obligatoriamente ____.",
+      "options": [
+        "en riguroso estado de reposo",
+        "15 minutos terminado",
+        "durante el trote regenerativo"
+      ],
+      "correct_answer": "15 minutos terminado",
+      "feedback": "La confiabilidad de un parámetro subjetivo depende íntegramente de la homogeneidad procedimental con que se recaba. Anotar la RPE exigiéndose respetar un lapsus de 15 minutos transcurrida la finalización de la actividad evita el 'sesgo de recencia' (la alteración perceptual que domina si los últimos minutos del entrenamiento resultaron inusualmente intensos), asegurando una valoración del estrés sistémico ponderada y holística."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "El establecimiento sistemático de los módulos pre-competitivos iniciales en horario de tarde al interior de las selecciones sudamericanas solventa una encrucijada medular enfocada a:",
+      "options": [
+        "Evadir la incidencia de estrés por calor acumulativo provocado por la alta irradiación ultravioleta al mediodía en ciudades tropicales.",
+        "Alinearse con las crestas biológicas del ciclo circadiano que maximizan la expresión de torque y reclutamiento neuronal eferente hacia la musculatura fásica.",
+        "Capitalizar al máximo la dispersión de arribos aéreos transoceánicos para congregar a la mayor proporción de la plantilla en cancha, amortiguando la sangría de efectivos en las franjas matutinas.",
+        "Satisfacer a conveniencia la estricta calendarización de derechos audiovisuales impuesta por las entidades reguladoras para el acceso irrestricto de la prensa."
+      ],
+      "correct_answer": "Capitalizar al máximo la dispersión de arribos aéreos transoceánicos para congregar a la mayor proporción de la plantilla en cancha, amortiguando la sangría de efectivos en las franjas matutinas.",
+      "feedback": "La coyuntura principal es la congregación del recurso humano. Con deportistas élite desplazándose a contrarreloj a través de vastos husos horarios desde Europa o Asia, programar invariablemente las jornadas de campo en el segmento vespertino regala un intervalo crucial de recuperación y aterrizaje. Esto materializa la incorporación progresiva de jugadores que hubieran estado indisponibles si se hubiera impuesto un entrenamiento a primera hora del día."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "Resulta metodológicamente disfuncional y contraindicado conformar macrogrupos iniciales de entrenamiento en los que interactúen simultáneamente atletas en proceso activo de recuperación temprana (+2 días) junto a elementos que se hallan en plenitud exentos de carga aguda.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es todo lo contrario: constituye una estrategia integrativa primordial debido al escaso tiempo compartido en el microciclo. Iniciar las rutinas amalgamando de forma inteligente a ambos grupos permite que el ejercicio sea una modalidad de recuperación activa para los atletas fatigados y, simultáneamente, un calentamiento neuromuscular robusto de preparación para los perfiles que están listos para estímulos de alta intensidad subsecuentes en la segunda mitad de la práctica."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Sometido a un déficit crónico de tiempo con el plantel y a presiones logísticas extremas, el cuerpo de preparadores físicos internacionales asume como directriz inviolable frente a sus futbolistas convocados:",
+      "options": [
+        "Diseñar microciclos de disrupción que busquen reestructurar patrones de fibra a través de bloques de fatiga metabólica intencionada.",
+        "Mimetizar con precisión milimétrica las dinámicas de estrés semanal experimentadas en sus clubes franquicia para conservar la homeostasis, su disponibilidad y su fondo de forma.",
+        "Suprimir con contundencia cualquier sesión que involucre resistencia variable para evadir colisiones sinérgicas con el modelo cognitivo del cuerpo técnico.",
+        "Equiparar los marcadores de estrés interno induciendo sobrecargas volumétricas obligatorias en las reservas atléticas que permanecieron como suplentes."
+      ],
+      "correct_answer": "Mimetizar con precisión milimétrica las dinámicas de estrés semanal experimentadas en sus clubes franquicia para conservar la homeostasis, su disponibilidad y su fondo de forma.",
+      "feedback": "El tiempo a disposición es totalmente insuficiente para construir capacidades biológicas; la meta consiste en administrarlas. Mantener un diálogo abierto con los preparadores físicos de los clubes de origen facilita emular el estrés y la rutina habitual semanal. La no alteración metodológica asegura que el técnico reciba a los jugadores plenos, conservando el estado atlético basal en su máximo esplendor sin intervenciones experimentales que causen merma residual."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "El futbolista convocado a su equipo nacional suele desembarcar sumido en cuotas exacerbadas de estrés volitivo y una necesidad irrefrenable por alistarse, obviando en el proceso su propia merma física; para garantizar la eficacia del filtro profiláctico, se vuelve una necesidad imperativa ____.",
+      "options": [
+        "gestionar apercibimientos disciplinarios",
+        "explicarle el porqué",
+        "prohibir la suplementación"
+      ],
+      "correct_answer": "explicarle el porqué",
+      "feedback": "El componente psíquico a menudo anula la percepción biológica de agotamiento. En este clima de alto grado de estrés y ansiedad por rendir, proscribir el entrenamiento de modo autoritario es lesivo. El staff debe forjar su pericia haciéndolos partícipes de su propio resguardo; se logra una adherencia máxima al revelar la estructura analítica de cada decisión, cimentando en la psique del atleta que el reposo ordenado se ejecuta invariablemente como un recurso capitalizable a su beneficio y no como un castigo deportivo."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Inmediatamente después de arribar a la sede de operaciones, la rama de medicina deportiva segmenta a la delegación otorgándoles distintivos cromáticos inamovibles. Adjudicar una coloración visual roja sobre un perfil específico delata contundentemente que:",
+      "options": [
+        "Las baterías ecográficas de triage presumen una desinserción y se ejecuta su separación protocolar del contingente deportivo.",
+        "El atleta transita por su primer estadio regenerativo post-competición (Día +1) y tiene pautada una vasta e inexcusable red de requerimientos fisioterapéuticos.",
+        "Su termograma basal arroja una distorsión térmica masiva incompatible con la termorregulación de la corteza, excluyendo intervenciones de recuperación activa de baja frecuencia.",
+        "Evidencia un acople cinemático absoluto para digerir exigencias volumétricas y aceleraciones prolongadas esa misma tarde dentro de perímetros extensos."
+      ],
+      "correct_answer": "El atleta transita por su primer estadio regenerativo post-competición (Día +1) y tiene pautada una vasta e inexcusable red de requerimientos fisioterapéuticos.",
+      "feedback": "La estratificación por el código visual de semaforización minimiza demoras operativas. Estar marcado en franja roja especifica irrefutablemente un estado de extrema precariedad cronológica recuperativa ('más uno'). Esto le advierte al cuerpo de profesionales que dicho jugador permanece en una franja altamente suprimida por la fatiga mecánica pos-encuentro y debe absorber una cuantía notable de protocolos de rehabilitación clínica y medidas restauradoras sin dilación dentro del alojamiento."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Durante el ensamblaje de la sesión táctica de vigilia previa a un certamen (MD-1), es moneda corriente deponer el estrés conceptual denso para abrigar un repertorio lúdico sustentado en estimulaciones de velocidad de reacción eferente. ¿Cuál es el justificativo fisiológico superior detrás de esta práctica?",
+      "options": [
+        "Inhibir profundamente la vigilia cortico-adrenal suprimiendo de tajo al bloque colectivo de la ansiedad anticipatoria inminente.",
+        "Provocar vaciamientos controlados para agudizar los conductos enzimáticos oxidativos a horas precisas del evento.",
+        "Afianzar las dinámicas interpersonales de pertenencia y activar circuitos de encendido neuro-muscular expedito al margen de sobrecargas metabólicas tóxicas o daño estructural.",
+        "Filtrar y testear los tiempos de contracción sacádica y el rastreo retiniano que caracterizan las respuestas instintivas en guardametas titulares ante oscilaciones balísticas incontrolables."
+      ],
+      "correct_answer": "Afianzar las dinámicas interpersonales de pertenencia y activar circuitos de encendido neuro-muscular expedito al margen de sobrecargas metabólicas tóxicas o daño estructural.",
+      "feedback": "La utilización de elementos lúdicos no obedece a una relajación aleatoria, sino a una manipulación sofisticada del estado emocional eferente del colectivo. Inmersos en un microclima de elevada demanda y en los umbrales de la competencia (menos uno), el juego desintegra la toxicidad cognitiva del estrés táctico crónico. Asimismo, los ejercicios jugados de destello reaccional garantizan un pico máximo de excitación neuromuscular preparatoria sin vulnerar las reservas de glucógeno tisular o inflamar el tejido, forjando un estado competitivo pletórico."
+    }
+  ]
+}
