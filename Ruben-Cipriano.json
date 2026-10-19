@@ -1,0 +1,256 @@
+{
+  "class_title": "Performance Sport Specialist (PSS) - Readaptación de Lesiones y Control Neuromuscular",
+  "total_questions": 22,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "question": "Un deportista lesionado debe cesar por completo su actividad física sistemática para asegurar la recuperación metabólica de las estructuras adyacentes al foco del daño.",
+      "options": ["Verdadero", "Falso"],
+      "correct_answer": "Falso",
+      "feedback": "Un deportista lesionado no es inactivo, especialmente en el alto rendimiento. El tiempo de lesión es un periodo crítico que debe aprovecharse para optimizar zonas no afectadas, realizar trabajos de coordinación en descarga y mantener las adaptaciones fisiológicas generales sin comprometer el tejido dañado."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "El objetivo principal de la readaptación en el alto rendimiento va más allá de mitigar el dolor tisular. Para validar que una estructura lesionada soportará las máximas exigencias deportivas, la decisión de avance entre fases se sustenta de forma prioritaria en:",
+      "options": [
+        "El estricto cumplimiento cronológico de los plazos biológicos estándar de cicatrización",
+        "La confirmación radiológica de ausencia de edema mediante resonancia magnética",
+        "La recuperación de la capacidad de la función completa mediante criterios funcionales y monitorización de carga",
+        "La evaluación psicológica y la percepción subjetiva de ausencia de dolor por parte del deportista"
+      ],
+      "correct_answer": "La recuperación de la capacidad de la función completa mediante criterios funcionales y monitorización de carga",
+      "feedback": "Aunque la comprensión de los tiempos biológicos es fundamental para no agredir la cicatriz, la progresión real a fases superiores y al retorno deportivo se dicta por criterios funcionales medibles. El éxito reside en reconstruir la capacidad para realizar la función motora bajo las demandas específicas del deporte, no solo en la maduración pasiva del tejido temporalmente."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "En el diseño de una sesión de fuerza para un jugador en readaptación, al categorizar los objetivos fisiológicos y neuromusculares de la rutina, resulta metodológicamente imperativo establecer con claridad cuál es el ejercicio ____.",
+      "options": [
+        "de movilidad",
+        "diana",
+        "compensatorio"
+      ],
+      "correct_answer": "diana",
+      "feedback": "Definir el ejercicio diana permite enfocar el vector principal de la sesión directamente sobre la debilidad funcional o el objetivo principal de la readaptación, diferenciando estratégicamente la carga aplicada a este del volumen asignado a los ejercicios puramente compensatorios o complementarios."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "La clasificación anatómica BAMIC es determinante en el diagnóstico de lesiones musculotendinosas. Su principal valor clínico diferencial, que altera críticamente la planificación de las cargas excéntricas, es que permite:",
+      "options": [
+        "Cuantificar con precisión el volumen del hematoma intramuscular interfascial",
+        "Identificar específicamente la naturaleza del tejido implicado (miofascial, tendinoso o miotendinoso)",
+        "Establecer el déficit porcentual de fuerza isométrica inicial frente al miembro sano",
+        "Diferenciar de manera binaria entre roturas completas quirúrgicas y microrroturas conservadoras"
+      ],
+      "correct_answer": "Identificar específicamente la naturaleza del tejido implicado (miofascial, tendinoso o miotendinoso)",
+      "feedback": "La clasificación BAMIC resulta clave porque dictamina qué tejido exacto conforma la lesión. El tejido tendinoso (lesiones tipo C) tiene una densidad vascular drásticamente menor al tejido miofascial, exigiendo que las progresiones biomecánicas de tensión y velocidad se extiendan semanas o meses por encima de las lesiones musculares estándar."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "El entrenamiento que incorpora impacto mecánico progresivo debe evitarse a toda costa durante la fase final de consolidación de una fractura ósea para proteger el tejido reparador.",
+      "options": ["Verdadero", "Falso"],
+      "correct_answer": "Falso",
+      "feedback": "Durante la última fase biológica de una fractura ósea (semana 8 en adelante), la aplicación de impactos progresivos mediante trote o pliometría ligera es fisiológicamente indispensable, ya que la mecanotransducción estimula la mineralización final y favorece la consolidación estructural del callo óseo."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Al readaptar una rotura muscular pura sin afectación tendinosa, focalizar la programación exclusivamente en aumentar el grosor transversal y la fuerza concéntrica del músculo aislado provoca inevitablemente:",
+      "options": [
+        "Un aumento compensatorio en la producción de colágeno tipo III articular",
+        "La pérdida de la coordinación intermuscular, generando un alto riesgo de sobrecargas adyacentes",
+        "Una disminución patológica en el nivel de stiffness global de la extremidad distal",
+        "El retraso severo en la fase biológica de proliferación fibroblástica temprana"
+      ],
+      "correct_answer": "La pérdida de la coordinación intermuscular, generando un alto riesgo de sobrecargas adyacentes",
+      "feedback": "El aislamiento muscular omite el trabajo de la cadena cinética. Sin coordinación intermuscular (por ejemplo, sincronizar el glúteo mayor y los isquiotibiales en una extensión de cadera), el patrón motor queda alterado. La función global es deficiente, elevando drásticamente el riesgo de recaídas por compensaciones hipertróficas o sobreestimulación del foco dañado."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Ante una inmovilización aguda o una intervención quirúrgica temprana donde la carga axial es inviable, una estrategia neurofisiológica de élite para prevenir el desuso del córtex motor y mantener el reclutamiento de fibras musculares en la extremidad dañada es el ____.",
+      "options": [
+        "cross education",
+        "ciclo miotático",
+        "feedback isocinético"
+      ],
+      "correct_answer": "cross education",
+      "feedback": "El 'cross education' es el entrenamiento de fuerza sistemático del miembro contralateral sano. Este mecanismo aprovecha la transferencia neural interhemisférica para mitigar la atrofia cruzada, manteniendo vivas las conexiones neuromusculares de la extremidad lesionada aun en estricta descarga."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "A nivel neurofisiológico, la alteración de los mecanorreceptores post-lesión aumenta la dependencia del atleta hacia bucles de control motor reactivo (feedback) limitando su capacidad anticipatoria subconsciente.",
+      "options": ["Verdadero", "Falso"],
+      "correct_answer": "Verdadero",
+      "feedback": "Es una de las principales problemáticas neuromotoras. La lesión daña las vías sensoriales periféricas que alimentan al cerebelo, perdiendo el automatismo preparatorio ante perturbaciones (feedforward). El deportista pasa a depender del feedback reactivo consciente, que posee una latencia neurológica mucho mayor, haciéndolo ineficiente e inseguro ante el caos deportivo."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Las estructuras articulares no contráctiles asumen clásicamente un rol de restricción mecánica. Sin embargo, en el alto rendimiento, un déficit en su abordaje compromete toda la biomecánica porque estas estructuras funcionan biológicamente como:",
+      "options": [
+        "Un sistema amortiguador de metabolitos generados en las contracciones excéntricas máximas",
+        "Un órgano sensorial primario dotado de receptores que envían aferencias propioceptivas constantes",
+        "El núcleo principal para la síntesis proteica de colágeno fibrilar durante las recaídas tendinosas",
+        "Sistemas hidráulicos de estabilización dependientes de hipertrofia por fricción isocinética"
+      ],
+      "correct_answer": "Un órgano sensorial primario dotado de receptores que envían aferencias propioceptivas constantes",
+      "feedback": "Ligamentos, cápsulas y meniscos no son tejidos puramente mecánicos. Operan como complejos órganos sensoriales repletos de mecanorreceptores que modulan el control reflejo articular. Si la readaptación no reestablece la conductividad de esta información sensorial al sistema nervioso central, la estabilización refleja será errática provocando recidivas estructurales."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Entre los días 3 y 21 de una lesión musculotendinosa (fase aguda de alineamiento de colágeno), es lícito aplicar micro-cargas isométricas o de función secundaria estabilizadora, pero está terminantemente vetado ejecutar ____.",
+      "options": [
+        "trabajo aeróbico concurrente",
+        "activaciones propioceptivas",
+        "trabajo excéntrico a alta velocidad"
+      ],
+      "correct_answer": "trabajo excéntrico a alta velocidad",
+      "feedback": "Durante la ventana crítica hasta la tercera semana, la matriz de colágeno recién sintetizada es extremadamente lábil. Las tensiones masivas generadas por frenados excéntricos y la reactividad pliométrica superan invariablemente el umbral de ruptura de la cicatriz inmadura, destruyendo la progresión biológica tisular."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "En el contexto de la decisión de Return to Play, la integración de las capacidades en el cuadrante neurofuncional es crítica. Un jugador que expresa métricas de 'Alta Fuerza' pero 'Bajo Control Neuromuscular' evidencia:",
+      "options": [
+        "Un escenario normal de adaptación interina que la competición real corregirá rápidamente",
+        "Un perfil biomecánico dominante óptimo para deportes unidireccionales sin requerimientos reactivos",
+        "Un fracaso procedimental en el programa de readaptación con una transferencia deportiva casi nula y riesgo inminente de recidiva",
+        "La necesidad de reducir de inmediato las cargas excéntricas absolutas para priorizar ejercicios estabilizadores estáticos prolongados"
+      ],
+      "correct_answer": "Un fracaso procedimental en el programa de readaptación con una transferencia deportiva casi nula y riesgo inminente de recidiva",
+      "feedback": "La fuerza bruta sin control carece de aplicabilidad ante la incertidumbre deportiva. El ponente califica la combinación de alta producción de fuerza y bajo control neuromuscular como un error grave de diseño en el proceso de recuperación; el deportista es vulnerable porque carece de los engramas motores necesarios para gestionar esa fuerza muscular ante perturbaciones repentinas."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Para consolidar engramas automáticos durante el reentrenamiento del control dinámico unipodal en un atleta readaptado, el clínico induce neuro-plasticidad al desplazar intencionadamente la atención cortical a través de un ____.",
+      "options": [
+        "foco externo",
+        "plano inclinado",
+        "biofeedback isométrico"
+      ],
+      "correct_answer": "foco externo",
+      "feedback": "La inducción de un foco atencional externo evita la parálisis por análisis y la co-contracción antagonista patológica de las articulaciones. Permite que el control postural subcortical se organice de forma implícita y automatizada, imitando el procesamiento requerido durante la competencia libre y sin constreñimientos mecánicos conscientes."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "La remodelación del ligamento cruzado anterior y la ganancia de resistencia tensil a partir de la sexta semana post-lesión coincide biológicamente con la progresiva sustitución del colágeno inmaduro tipo III por colágeno tipo I.",
+      "options": ["Verdadero", "Falso"],
+      "correct_answer": "Verdadero",
+      "feedback": "A partir de la sexta semana, se activa de forma predominante la fase biológica de remodelación. El tejido conectivo desorganizado, caracterizado por colágeno tipo III, es reemplazado gradualmente por colágeno tipo I, que provee una arquitectura fibrilar mucho más densa, ordenada y resistente frente al vector de estrés tensional aplicado por la carga en la readaptación."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "El isquiotibial es un complejo biarticular. Si el tejido dañado asienta en la porción proximal del bíceps femoral de un velocista, el parámetro biomecánico central que el readaptador debe alterar continuamente durante los ejercicios de activación es:",
+      "options": [
+        "La angulación relativa articular para enfocar el torque mecánico predominantemente sobre el brazo de momento de la cadera o de la rodilla",
+        "La velocidad de transición estática hacia los componentes plicativos articulares",
+        "La eliminación de cualquier asistencia manual para evitar el síndrome de co-contracción estabilizadora",
+        "El porcentaje de masa reclutada en hipertrofia simétrica aislada para el semitendinoso adyacente"
+      ],
+      "correct_answer": "La angulación relativa articular para enfocar el torque mecánico predominantemente sobre el brazo de momento de la cadera o de la rodilla",
+      "feedback": "Al ser musculatura biarticular, la modificación de las angulaciones de cadera y rodilla redistribuye el estrés tensil intra-isquiotibial. El diseño avanzado de la readaptación demanda posicionar los segmentos óseos de tal forma que la porción dañada (dominante de cadera vs dominante de rodilla) reciba la dosis exacta de micro-trauma terapéutico necesario sin sobrecargar el resto del grupo muscular."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "La decisión clínica de someter a un deportista a una sutura meniscal en lugar de una meniscectomía parcial condiciona un cambio radical en la programación deportiva, obligando de forma estricta a:",
+      "options": [
+        "Retrasar la estimulación del vasto medial más de seis semanas por riesgo neurológico de hiperreflexia cruzada",
+        "Aplicar una restricción severa de apoyo con descarga completa durante un aproximado de seis semanas previendo la vascularización delicada",
+        "Promover rangos de hiperflexión de rodilla en fases tempranas para estimular las redes mecano-sensoriales silenciadas",
+        "Liberar tempranamente las cargas axiales limitando exclusivamente la carga lateral pura en cadena cinética abierta"
+      ],
+      "correct_answer": "Aplicar una restricción severa de apoyo con descarga completa durante un aproximado de seis semanas previendo la vascularización delicada",
+      "feedback": "El procedimiento de sutura busca preservar el tejido, pero al depender de una zona de baja vascularización, la costura quirúrgica es mecánicamente frágil. Requiere descarga total obligatoria (hasta 6 semanas sin apoyo) para evitar que la carga compresiva o de cizalla rompa el anclaje, en violenta contraposición con la meniscectomía, donde las cargas progresivas se habilitan cerca de la cuarta semana."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Inmediatamente después del trauma quirúgico por reconstrucción del Ligamento Cruzado Anterior (LCA), un desafío neurofisiológico ineludible radica en reactivar voluntariamente el complejo extensor, que suele sufrir una intensa ____.",
+      "options": [
+        "contracción excéntrica",
+        "inhibición recíproca",
+        "fatiga metabólica"
+      ],
+      "correct_answer": "inhibición recíproca",
+      "feedback": "El dolor y el masivo edema articular postquirúrgico inducen de forma refleja una falla central para reclutar las unidades motoras del cuádriceps (especialmente el vasto medial). Vencer esta inhibición mediante estimulación cortical y electroestimulación precoz es el primer hito fundamental para la protección de la plastia recién instalada."
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "question": "En la concepción integral del alto rendimiento moderno, la culminación satisfactoria de un proceso de readaptación se establece únicamente cuando las pruebas de ecografía o resonancia determinan la sanación y homogeneidad total del tejido celular.",
+      "options": ["Verdadero", "Falso"],
+      "correct_answer": "Falso",
+      "feedback": "La reparación puramente histológica no equivale a rendimiento asegurado. La readaptación moderna se define como la reconstrucción de la capacidad y el desempeño frente al entorno competitivo. El alta clínica (Return to Play) evalúa el control neuromuscular bajo fatiga, la función simétrica y la resiliencia al gesto que originó la lesión, excediendo con creces la mera imagen tisular."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "El principio biomecánico de 'especificidad del gesto lesivo' postula que en las estribaciones del Return to Play, la estructura intervenida debe someterse progresivamente y bajo un entorno controlado a:",
+      "options": [
+        "Un aislamiento absoluto en camilla, priorizando variables de contracción isométrica superior al 80% del 1RM articular",
+        "Una desconexión cognitiva del entorno caótico para garantizar la pureza hipertrófica en los fascículos previamente desgarrados",
+        "Las exactas condiciones vectoriales, de inercia, estrés excéntrico y fatiga del mecanismo desencadenante original que la rompió",
+        "Protocolos unidireccionales de cadena cinética abierta evitando deliberadamente cualquier exposición a torsiones y cizallas excéntricas"
+      ],
+      "correct_answer": "Las exactas condiciones vectoriales, de inercia, estrés excéntrico y fatiga del mecanismo desencadenante original que la rompió",
+      "feedback": "Si un ligamento o músculo cedió, por ejemplo, ante un sprint de alta intensidad o una deceleración agresiva en rotación con fatiga residual, el tejido cicatricial solo estará validado si puede replicar exitosamente ese exacto mecanismo biomecánico. Excluir el gesto traumático del diseño preventivo final genera una falsa seguridad e incrementa masivamente el riesgo de recaída ante un escenario idéntico."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "En etapas tempranas de control bipodal, se busca corregir asimetrías de carga mediante feedabck instantáneo consciente. La integración tecnológica de élite para observar y rectificar milimétricamente la desviación del centro de gravedad utiliza una ____.",
+      "options": [
+        "cámara isocinética",
+        "plataforma de fuerzas",
+        "cinta anti-gravedad"
+      ],
+      "correct_answer": "plataforma de fuerzas",
+      "feedback": "Las plataformas de fuerza recogen vectores y puntos de presión que se traducen en visualizaciones gráficas. Esto permite generar un bucle de aprendizaje sensoriomotor en tiempo real (biofeedback) donde el atleta percibe visualmente si su centro de masas está sesgado o desalineado y ejecuta las correcciones propioceptivas en carga simétrica antes de arriesgar el tejido en apoyos unipodales dinámicos."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Ante una tendinopatía aguda intratendinosa (Lesión de tipo C), la inducción de sobrecargas pliométricas de rebote o almacenamiento elástico masivo durante las tres primeras semanas generaría inexorablemente:",
+      "options": [
+        "Un aumento supercompensatorio del flujo microvascular colateral a la red tendinosa capilarizada",
+        "La destrucción de la delicada matriz regenerativa temprana dado el bajo suministro sanguíneo que retarda los tiempos biológicos del tejido",
+        "Un aceleramiento transitorio en la maduración estructural del colágeno III mediante el efecto directo del piezo-electricismo mecánico",
+        "La optimización simultánea del stiffness articular adyacente contrarrestando la laxitud inducida por factores de inflamación tempranos"
+      ],
+      "correct_answer": "La destrucción de la delicada matriz regenerativa temprana dado el bajo suministro sanguíneo que retarda los tiempos biológicos del tejido",
+      "feedback": "El tejido tendinoso se caracteriza por una pobre perfusión capilar. Acelerar mecánicamente la exposición al Ciclo de Estiramiento-Acortamiento (CEA) o cargas elásticas dinámicas durante el primer mes destruye el precarísimo andamiaje biológico. Es mandatario ser inmensamente más cauteloso y reservar el componente excéntrico dinámico avanzado para después de la octava semana de recuperación."
+    },
+    {
+      "id": 21,
+      "type": "true_false",
+      "question": "La incorporación temprana de herramientas externas como la oclusión vascular (BFR) en el tratamiento de lesiones agudas de ligamento sirve para reclutar fibras musculares estresando la vía metabólica mientras se protege biomecánicamente la articulación inmovilizada.",
+      "options": ["Verdadero", "Falso"],
+      "correct_answer": "Verdadero",
+      "feedback": "El Blood Flow Restriction (BFR) es una estrategia de alto rendimiento utilizada en contextos de descarga temprana. Al ocluir el flujo venoso, se genera un estrés isquémico-metabólico altísimo que recluta rápidamente fibras de contracción rápida utilizando cargas mecánicas bajísimas o puramente isométricas, evitando así agredir el ligamento de manera mecánica."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "La cúspide piramidal de las fases del control neuromuscular aplicado a la prevención y la transferencia deportiva se alcanza únicamente en el estadio en el que el deportista evidencia el dominio total sobre un procesamiento de carácter:",
+      "options": [
+        "Cortical consciente y aislado en entornos de estimulación sensorial altamente restrictiva",
+        "Simétrico y guiado por poleas donde predominan contracciones isométricas de larga latencia",
+        "Automático, anticipatorio (feedforward) y subconsciente ante estresores máximos de incertidumbre, toma de decisión libre y oposición",
+        "Voluntario enfocado secuencialmente en reclutar el eslabón miofascial de la cadena cinética sin participación propioceptiva central"
+      ],
+      "correct_answer": "Automático, anticipatorio (feedforward) y subconsciente ante estresores máximos de incertidumbre, toma de decisión libre y oposición",
+      "feedback": "La fase final del proceso no se evalúa en el gimnasio, sino en la exposición al caos del campo. El automatismo motor implica que las vías neurales reactivan programas estabilizadores protectores sin requerir procesamiento consciente, incluso ante perturbaciones mecánicas aleatorias, fatiga periférica acumulada o estresores neurocognitivos de competición libre."
+    }
+  ]
+}
