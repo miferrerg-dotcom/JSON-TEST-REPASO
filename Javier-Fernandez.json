@@ -1,0 +1,248 @@
+{
+  "class_title": "Certificación PSS: Readaptación, Biomecánica y Toma de Decisiones en el Tríceps Sural",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Biomecánicamente, la lesión aguda del gastrocnemio suele desencadenarse de forma simultánea bajo la siguiente combinación articular:",
+      "options": [
+        "Alta dorsiflexión de tobillo con extensión de rodilla",
+        "Flexión plantar máxima con rodilla flexionada",
+        "Dorsiflexión de tobillo con máxima flexión de cadera",
+        "Rotación tibial interna con flexión plantar aislada"
+      ],
+      "correct_answer": "Alta dorsiflexión de tobillo con extensión de rodilla",
+      "feedback": "Al ser un músculo biarticular, la máxima tensión excéntrica y el compromiso elástico en el gastrocnemio ocurren cuando se tensa desde ambos extremos articulares: el tobillo en dorsiflexión y la rodilla en extensión, patrón dominante en los gestos acelerativos (first step)."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Debido a la profundidad anatómica de sus fibras predominantemente lentas, la evidencia establece como técnica 'gold standard' para catalogar estructuralmente al sóleo ____.",
+      "options": [
+        "la ecografía funcional",
+        "la resonancia magnética",
+        "la dinamometría isométrica"
+      ],
+      "correct_answer": "la resonancia magnética",
+      "feedback": "A diferencia del gastrocnemio, que es superficial y fácilmente evaluable por ecografía, la profundidad del sóleo requiere resonancia magnética para una categorización clínica precisa de la afectación tisular (miofascial, miotendinosa o intratendinosa)."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "La edad cronológica es el factor de riesgo estadísticamente más determinante para sufrir una lesión en el tríceps sural.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. A través del coeficiente de correlación de Pearson, los estudios confirman que la edad se consolida como el factor intrínseco de mayor impacto lesional, acentuando la pérdida natural de stiffness y de propiedades de atenuación tisular."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "En fases tempranas donde la tolerancia a la carga es crítica, una alternativa eficiente para generar hipertrofia muscular sin arriesgar el tejido reparado es utilizar ____.",
+      "options": [
+        "blood flow restriction",
+        "pliometría atenuada",
+        "iso-hold submáximo"
+      ],
+      "correct_answer": "blood flow restriction",
+      "feedback": "El entrenamiento con restricción del flujo sanguíneo (BFR) genera un alto estrés metabólico y adaptaciones estructurales (hipertrofia) con cargas mecánicas mínimas, protegiendo así el tejido durante el 'early stage'."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "A la hora de diseñar la evaluación física para cimentar el alta deportiva, el abordaje metodológico correcto consiste en:",
+      "options": [
+        "Buscar la prueba global más exhaustiva y extraer todas sus variables posibles",
+        "Emplear un protocolo estandarizado inamovible para garantizar la comparativa intersujeto",
+        "Definir primero la métrica de interés y posteriormente seleccionar el test idóneo",
+        "Evaluar únicamente mediante contracciones isométricas dadas sus altas fiabilidades clínicas"
+      ],
+      "correct_answer": "Definir primero la métrica de interés y posteriormente seleccionar el test idóneo",
+      "feedback": "El test es un vehículo analítico, no el destino en sí mismo. El profesional riguroso debe identificar primero qué capacidad específica (métrica de fuerza rápida, estabilización, etc.) necesita contrastar antes de elegir la prueba física."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "A nivel de arquitectura muscular, ¿qué característica diferencial permite al sóleo ser un poderoso productor de fuerza mantenida frente al gastrocnemio?",
+      "options": [
+        "Su distribución bipeñada convergente al eje central tendinoso",
+        "La longitud extrema de sus fascículos diseñados para alta contracción elástica",
+        "Su estructura multipeaneada con una elevada área de sección transversal",
+        "Su predominancia fibrilar motora adaptada puramente a la fuerza explosiva"
+      ],
+      "correct_answer": "Su estructura multipeaneada con una elevada área de sección transversal",
+      "feedback": "El sóleo posee una arquitectura multipeaneada y un alto ángulo de peneación. Esto incrementa de forma masiva su área de sección transversal fisiológica, permitiendo producciones altísimas de fuerza sostenida en rangos articulares cortos."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "Durante la etapa inicial tras un daño miotendinoso de grado severo, prescribir inmovilización y reposo absoluto es la vía óptima para blindar la zona y estimular el recambio celular sin riesgos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La evidencia desecha el reposo absoluto. La carga precoz protege las propiedades mecánicas del tendón y la unión miotendinosa, previene la atrofia acelerada y orienta las líneas de tensión para una cicatrización del colágeno de alta calidad funcional."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Ante la falta de una línea base de rendimiento previo a la lesión, al emplear la pierna no afectada del atleta como comparativa, el especialista debe contemplar que:",
+      "options": [
+        "Igualar exactamente los perfiles de Newtons en ambos ejes es un criterio sine qua non para el RTP",
+        "Siempre existirá un déficit de compensación del 30% que el cerebro asume como natural al correr",
+        "Asumir una asimetría estructural de un 5-10% como normal no garantiza el éxito del alta clínica",
+        "El miembro no lesionado actuará como un patrón de simetría biométrica completamente inalterable"
+      ],
+      "correct_answer": "Asumir una asimetría estructural de un 5-10% como normal no garantiza el éxito del alta clínica",
+      "feedback": "La inhibición cruzada post-lesión y las demandas asimétricas de los deportes invalidan la regla tradicional del 5-10% como un dogma ciego. Ese margen de comparación es una referencia más, pero nunca una garantía determinante."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Para estimular la rapidez extrema en el reclutamiento de unidades motoras (RFD) con un isométrico, la indicación del entrenador debe obviar lo progresivo y exigir ____.",
+      "options": [
+        "soportar la mayor carga concéntrica",
+        "máxima velocidad intencional inicial",
+        "aislar los estabilizadores adyacentes"
+      ],
+      "correct_answer": "máxima velocidad intencional inicial",
+      "feedback": "El comando verbal y la intencionalidad definen la adaptación. Un 'iso-push' con consigna explosiva de generar fuerza inmediata cambia el patrón de reclutamiento desde la latencia neural, a diferencia del clásico 'iso-hold'."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Con respecto a la fuerza tensil tendinosa y a la actividad electromiográfica en sprint, ¿qué situación concreta supone una mayor agresividad de carga localizada para el vientre del sóleo?",
+      "options": [
+        "Desarrollar velocidades constantes de unos 7 m/s",
+        "Sostener transiciones aeróbicas de apenas 3 m/s",
+        "Tolerar sprints máximos en un rango de 9 m/s",
+        "Combinar apoyos continuos en estática sin desplazamiento"
+      ],
+      "correct_answer": "Desarrollar velocidades constantes de unos 7 m/s",
+      "feedback": "Paradójicamente, la evidencia muestra que el sóleo experimenta picos electromiográficos y de tensión mecánica drásticamente más altos alrededor de 7 m/s que al rebasar los 9 m/s, donde las dinámicas de zancada reclutan dominantemente otras cadenas propulsivas."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Para neutralizar los elevados índices de recidiva antes de la integración grupal final, el especialista debe exponer al deportista a demandas que estimulen:",
+      "options": [
+        "La optimización técnica en circuitos de agilidad analíticos sin oposición aparente",
+        "La máxima expresión aislada de los sistemas energéticos metabólicos",
+        "El caos abierto y la repetición sin repetición con escaneo del espacio",
+        "El fortalecimiento articular progresivo en rangos hipertróficos concéntricos cerrados"
+      ],
+      "correct_answer": "El caos abierto y la repetición sin repetición con escaneo del espacio",
+      "feedback": "Los deportes de equipo presentan un entorno de 'caos abierto'. El concepto de 'repetición sin repetición' obliga al atleta a reajustar los patrones motores bajo incertidumbre cognitiva y escaneo ambiental, un paso clave de readaptación perceptiva."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "La limitación condicional inicial del miembro de carga en la readaptación temprana debe abordarse siempre estratégicamente como una importante ventana de oportunidad para ____.",
+      "options": [
+        "potenciar otras capacidades sistémicas postergadas",
+        "deplecionar los niveles basales de estrés crónico",
+        "sedar el sistema neuromuscular hacia su regeneración"
+      ],
+      "correct_answer": "potenciar otras capacidades sistémicas postergadas",
+      "feedback": "El 'early stage' permite enfocar la energía en estabilización pilar, tren superior o adaptaciones tácticas que el denso calendario regular impide tratar. Además de lo físico, esto actúa como un poderoso salvavidas psicológico para la frustración del atleta."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "La fuerza isométrica máxima absoluta es el indicador universal definitivo para garantizar que un jugador será rápido reaccionando a las acciones imprevistas de un encuentro competitivo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. En entornos abiertos el tiempo manda. Una gran fuerza absoluta pierde su valor funcional si el atleta no tiene la capacidad técnica y neural para aplicarla en los escasos milisegundos (típicamente <250ms) de los que dispone en campo."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Al absorber la energía de un potente aterrizaje tras una disputa aérea, el sistema neuro-estructural del tríceps sural opera asumiendo predominantemente un ciclo biomecánico de:",
+      "options": [
+        "Conservación elástica de la energía isotérmica ascendente",
+        "Amplificación explosiva orientada al ciclo tendón-músculo",
+        "Desconexión reactiva de las vías somatosensoriales descendentes",
+        "Atenuación de la potencia actuando directamente como amortiguador"
+      ],
+      "correct_answer": "Atenuación de la potencia actuando directamente como amortiguador",
+      "feedback": "En mecánicas decelerativas intensas o de caída, ocurre el ciclo 'músculo-tendón-cuerpo'. El tendón y la unión miotendinosa absorben y disipan fuerzas masivas, previniendo lesiones articulares superiores y estabilizando el sistema global."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "¿Qué misión funcional de gran impacto preventivo ejerce el entramado de la fusión aponeurótica inferior al agrupar los vientres musculares del tríceps sural?",
+      "options": [
+        "Optimiza el balance térmico al aislar la matriz colagénica de la irrigación superficial local",
+        "Distribuir estratégicamente las tensiones mecánicas evitando puntos ciegos de picos de carga",
+        "Sistematizar la independencia fibrilar aislando el reclutamiento propulsivo del gastrocnemio lateral",
+        "Provocar una laxitud refleja natural para amortiguar los picos contráctiles involuntarios del tendón"
+      ],
+      "correct_answer": "Distribuir estratégicamente las tensiones mecánicas evitando puntos ciegos de picos de carga",
+      "feedback": "Las aponeurosis se tensionan y estiran bajo la contracción para distribuir la carga transmitida hacia el tendón central de Aquiles, previniendo concentraciones lesivas de fuerza focal e incrementando la eficiencia mecánica del conjunto elástico."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Para asegurar un análisis de fatiga robusto sin quebrar la dinámica habitual de la semana competitiva, el cuerpo técnico debe integrar la monitorización utilizando estrategias de ____.",
+      "options": [
+        "aislamiento perceptual del jugador base",
+        "testar de forma invisible sin testar",
+        "aplicación aleatoria de variables pasivas"
+      ],
+      "correct_answer": "testar de forma invisible sin testar",
+      "feedback": "Extraer métricas del propio flujo de entrenamiento diario (como velocidades en gimnasio, alturas superadas o rendimientos técnicos) brinda un control riguroso 'testando sin testar', sin añadir estrés añadido a nivel neuro-psicológico."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Afrontar la preparación metabólica para el 'worst case scenario' de un partido demanda un ajuste de intensidad que destierre categóricamente en sus fases maduras:",
+      "options": [
+        "Las cargas que comprometan la matriz excéntrica estructural de manera submáxima",
+        "El reclutamiento progresivo mediante ángulos profundos y cerrados de dorsiflexión",
+        "La inserción pautada de micropausas prolongadas de rescate para el atleta",
+        "La exigencia cognitiva basada en la toma de decisiones multidireccionales imprevistas"
+      ],
+      "correct_answer": "La inserción pautada de micropausas prolongadas de rescate para el atleta",
+      "feedback": "Los contextos competitivos exigen alta densidad intrasesión en bloques continuos donde la fatiga aplasta. Entrenar con tiempos de rescate idílicos impide forjar la neuro-resiliencia para aguantar ventanas de 45 minutos repitiendo alta intensidad sin parar."
+    },
+    {
+      "id": 18,
+      "type": "true_false",
+      "question": "Al planificar el tratamiento, la homogeneidad del modelo táctico garantiza que dos futbolistas con una lesión en el gastrocnemio y que operan en la misma demarcación afronten procesos y tiempos calcados.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Falso. La historia clínica, el perfil de biotipo, la proporción de fibras y la forma de resolver el juego exigen que hasta dos 'extremos' tengan demandas volumétricas (sprints lineales vs curvas) y metabólicas radicalmente diferentes. El abordaje nunca es intercambiable."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Desde un plano fisiológico profundo, si el fin readaptador busca fomentar adaptaciones centradas específicamente en el aumento de la longitud de los fascículos y engrosar la rigidez tendinosa, el estímulo dominante debe ser:",
+      "options": [
+        "Frenadas controladas de corte isométrico progresivo en ángulo neutral",
+        "Pliometría ascendente sin estímulo elástico amortiguador posterior",
+        "Activaciones electroestimuladas con contracción concéntrica sináptica",
+        "Selección de tareas con severo hincapié en la fase excéntrica resistida"
+      ],
+      "correct_answer": "Selección de tareas con severo hincapié en la fase excéntrica resistida",
+      "feedback": "El patrón excéntrico se traduce mecánicamente en sarcomerogénesis en serie (alargando funcionalmente el fascículo) y adaptaciones hipertróficas sobre la matriz conectiva, incrementando vitalmente el stiffness del complejo tendinoso lesionado."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "En las cribas clínicas de pase de fase inicial a campo, la asimetría biomecánica se penaliza, siendo innegociable igualar a la perfección ____.",
+      "options": [
+        "la activación simpática con el miembro opuesto",
+        "el pico de explosividad anaeróbica máxima",
+        "la dorsiflexión simétrica respecto al miembro sano"
+      ],
+      "correct_answer": "la
