@@ -1,0 +1,203 @@
+{
+  "class_title": "De la inhibición muscular a la fuerza. Claves de la activación neuromuscular en rehabilitación y su transferencia al entrenamiento",
+  "total_questions": 16,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "¿Qué mecanismo neurofisiológico explica la reducción del 'voluntary drive' o control motor durante un cuadro agudo de inhibición muscular artrogénica?",
+      "options": [
+        "Una lesión estructural primaria masiva en las motoneuronas del asta anterior de la médula espinal.",
+        "Un aumento del umbral de dolor local que desconecta anatómicamente el tejido tendinoso afectado.",
+        "Alteraciones en el control motor cortical que reducen la capacidad del cerebro para generar una activación eficiente.",
+        "El bloqueo mecánico total de la articulación que impide la transmisión bidireccional del impulso aferente."
+      ],
+      "correct_answer": "Alteraciones en el control motor cortical que reducen la capacidad del cerebro para generar una activación eficiente.",
+      "feedback": "El problema inhibitorio transciende la médula espinal e involucra niveles centrales. El 'voluntary drive' disminuye porque la señal ruidosa proveniente de los mecanorreceptores y nociceptores articulares altera la excitabilidad a nivel cerebral. Esto impone una limitación directa a la corteza motora, imposibilitando que el sistema orqueste y envíe una contracción voluntaria y completa hacia la periferia."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "La atrofia muscular secundaria es la principal y única responsable de la severa pérdida de fuerza que experimenta un atleta en las primeras 48 a 72 horas posteriores a una reconstrucción articular.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "En las fases agudas e iniciales postquirúrgicas, la pérdida radical de fuerza no se explica por la atrofia miocelular. Existe un componente neural inhibitorio primario donde el sistema nervioso activa un mecanismo reflejo de protección frente al dolor y el derrame, desconectando funcionalmente la comunicación motora con un músculo estructuralmente intacto."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "En la evaluación empírica y objetiva de la inhibición muscular artrogénica, el índice de investigación CAR (Central Activation Ratio) estima el déficit de reclutamiento comparando la fuerza voluntaria máxima generada por el paciente con ____.",
+      "options": [
+        "la fuerza adicional inducida por estimulación supramáxima",
+        "el pico de torque isométrico contralateral",
+        "la actividad eléctrica basal en reposo"
+      ],
+      "correct_answer": "la fuerza adicional inducida por estimulación supramáxima",
+      "feedback": "El índice CAR compara el pico de contracción puramente voluntaria frente a la fuerza combinada y máxima que se despliega cuando, en el ápice del esfuerzo, se aplica simultáneamente un estímulo eléctrico supramáximo. Si dicho pulso genera una cresta de fuerza adicional considerable, evidencia que el sistema nervioso central era neurofisiológicamente incapaz de movilizar voluntariamente el 100% de las unidades motoras latentes."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿Por qué basar el criterio clínico definitivo para autorizar el alta deportiva integral (Return to Performance) exclusivamente en métricas aisladas de simetría bilateral constituye un error metodológico crítico?",
+      "options": [
+        "Porque la asimetría funcional transitoria siempre facilita un efecto protector articular a largo plazo en extremidades operadas.",
+        "Porque la simetría es un número aislado que no refleja en absoluto el nivel de tolerancia a fatiga sistémica, toma rápida de decisiones o control del miedo al contacto.",
+        "Porque en atletas de élite el volumen muscular de la pierna lesionada generalmente debe hipertrofiarse un 20% más sobre la línea basal de la pierna sana.",
+        "Porque el análisis cinemático de fuerza simétrica es impreciso de cuantificar matemáticamente con dinamómetros fijos en isometría."
+      ],
+      "correct_answer": "Porque la simetría es un número aislado que no refleja en absoluto el nivel de tolerancia a fatiga sistémica, toma rápida de decisiones o control del miedo al contacto.",
+      "feedback": "Alcanzar una relación de fuerza 1:1 entre extremidades ocurre en ambientes clínicos estables y predecibles. Sin embargo, el deporte real demanda expresar picos de potencia bajo privación metabólica, exigencia cognitiva, perturbaciones por contacto y tolerancia a los sesgos de kinesiofobia; entornos caóticos donde la mera simetría estática pierde por completo su poder predictivo frente a la recaída."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Al aplicar el protocolo de restricción de flujo sanguíneo (BFR) para hipertrofia aguda con cargas bajas (20-30% RM), durante los periodos de descanso prescritos de 30 a 60 segundos entre series activas es vital ____.",
+      "options": [
+        "aumentar la oclusión parcial hasta un pico del 100%",
+        "mantener el manguito inflado",
+        "ejecutar tracciones balísticas fasciales"
+      ],
+      "correct_answer": "mantener el manguito inflado",
+      "feedback": "Durante el protocolo, mantener sostenida la presión arterial de restricción (típicamente al 40% evaluada con Doppler) sin liberar la válvula entre series garantiza la acumulación exponencial de metabolitos. Este pico crítico de estrés y asfixia celular es exactamente el mecanismo compensatorio que el sistema nervioso emplea para engañar a las unidades motoras de alto umbral y forzar su reclutamiento frente a cargas mecánicamente inocuas."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "¿Cuál de los siguientes escenarios biológicos y metodológicos NO representa uno de los cuatro factores primarios responsables del 'gap' de rendimiento entre la recuperación funcional clínica y el retorno de élite a la competición?",
+      "options": [
+        "Persistencia silenciosa de adaptaciones neurales incompletas o disfuncionales.",
+        "Fracaso crónico en alcanzar una hipertrofia muscular sarcoplasmática simétrica.",
+        "Déficit en la prescripción de altas velocidades y maximización en la tasa de desarrollo de fuerza.",
+        "Ausencia prolongada de exposición estructurada a estímulos reactivos e incertidumbre ambiental."
+      ],
+      "correct_answer": "Fracaso crónico en alcanzar una hipertrofia muscular sarcoplasmática simétrica.",
+      "feedback": "El volumen muscular estético (hipertrofia sarcoplasmática) no es un factor primario condicionante para cerrar el gap de rendimiento. Los cuatro pilares críticos identificados que sostienen esta ventana de vulnerabilidad lesional son: la ineficiencia neural subyacente, la bajísima especificidad cinemática de las cargas de camilla, el déficit extremo en perfiles de velocidad/RFD y el aislamiento perjudicial frente a las decisiones impredecibles del contexto competitivo real."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "¿Qué justificación mecanística valida de forma robusta la integración prioritaria de crioterapia local durante las primeras 72 horas tras sufrir un esguince agudo de tobillo grado II/III con compromiso estabilizador?",
+      "options": [
+        "Induce una vasodilatación reactiva que acelera masivamente la reconstrucción intrínseca del ligamento peroneo astragalino anterior.",
+        "Disminuye abruptamente la aferencia nociceptiva y controla el edema, suprimiendo la inhibición refleja y desbloqueando el reclutamiento voluntario del peroneo.",
+        "Inhibe de forma central el sistema simpático, generando un aumento transitorio de la rigidez tendinosa lateral de la mortaja.",
+        "Genera una desensibilización térmica focal profunda que bloquea por completo la retroalimentación de los receptores de Ruffini articulares."
+      ],
+      "correct_answer": "Disminuye abruptamente la aferencia nociceptiva y controla el edema, suprimiendo la inhibición refleja y desbloqueando el reclutamiento voluntario del peroneo.",
+      "feedback": "El dolor y la inflamación aguda disparan una cascada inhibitoria espinal que 'desconecta' mecánicamente la musculatura eversora protectora. El frío, al enmascarar velozmente el pico de señalización de los nociceptores articulares y limitar la expansión fluida intracapsular, elimina la barrera medular inhibitoria. Así, el cerebro recupera inmediatamente gran parte del permiso neural para disparar y contraer funcionalmente el peroneo lesionado."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "Lograr una reversión total de la inhibición muscular artrogénica (IMA) de forma que el atleta consiga contraer el tejido focal es evidencia clínica suficiente para determinar la recuperación integral de la función del músculo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La capacidad inicial de contraer un vientre muscular o 'activarlo' es, arquitectónicamente, solo el punto de partida biológico. Una respuesta contráctil basal no dota automáticamente al músculo de la rigidez mecánica esencial para aplicar vectores de fuerza útil, desacelerar cargas cinéticas articulares, u orquestar respuestas elásticas eficientes exigidas durante el caos del deporte."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Desde un enfoque neurodinámico y fisiopatológico, ¿qué fenómeno disfuncional ocurre con precisión microscópica a nivel de la médula espinal cuando el córtex intenta voluntariamente contraer una extremidad con grave edema interarticular?",
+      "options": [
+        "La orden eferente se fragmenta debido a una drástica reducción del potencial de excitabilidad nativa en la motoneurona alfa.",
+        "Surge un colapso eléctrico masivo que dispara en bucle reflejos osteotendinosos compensatorios incontrolables.",
+        "El fascículo propioceptivo aferente sufre interrupción estructural, causando un estado de bloqueo presináptico periférico reversible.",
+        "Se estimula de sobremanera la co-contracción antagonista desviando la orden hacia flexores profundos por neuroplasticidad inversa."
+      ],
+      "correct_answer": "La orden eferente se fragmenta debido a una drástica reducción del potencial de excitabilidad nativa en la motoneurona alfa.",
+      "feedback": "La modulación espinal refleja o inhibición refleja altera radicalmente el umbral de las motoneuronas. El continuo bombardeo aferente derivado del dolor o el propio edema hiperpolariza la motoneurona alfa en el asta anterior; en consecuencia, una porción masiva de la orden voluntaria consciente que desciende desde la vía piramidal jamás logra cruzar el umbral eléctrico sináptico ni propagarse hacia las fibras musculares diana."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Para facilitar cognitivamente el reclutamiento muy temprano del vasto medial en la semana inicial de una cirugía de ligamento cruzado anterior, es altamente recomendable emparejar la isometría a un poderoso estímulo táctil somatosensorial mediante ____.",
+      "options": [
+        "una toalla debajo de la rodilla",
+        "un impulso de alta frecuencia distal",
+        "un anclaje externo de compresión fascial"
+      ],
+      "correct_answer": "una toalla debajo de la rodilla",
+      "feedback": "El enriquecimiento de la matriz sensorial periférica facilita al cerebro superar la barrera inhibitoria aguda. Exigir al paciente que presione activa e intencionadamente hacia abajo contra un estímulo físico y palpable (como una toalla doblada bajo el hueco poplíteo actuando de feedback táctil/'botón'), incrementa la agudeza propioceptiva y mejora drásticamente el mapeo local y la conexión neuroeléctrica sobre las fibras atróficas del vasto medial."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "Un leve derrame articular incidental originado por errores en la dosificación precoz de carga mecánica diaria (como caminar prolongadamente), tiene la capacidad demostrada de volver a instaurar o agravar el circuito de inhibición neuromuscular.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "La neuroinhibición no emana de una falla estructural definitiva, sino que es un mecanismo transitorio altamente reactivo a variables periféricas volátiles. Independientemente del nivel de fuerza ganado, el incremento precipitado de cargas en una fase subaguda que derive en un micro derrame capsular elevará enseguida la presión articular, activando los receptores e instalando nuevamente de forma refleja un blindaje neural que frena la activación cuádriceps."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "En presencia de una inhibición severa provocada por sutura bursitis o daño masivo estructural del manguito rotador superior, ¿cuál es el mecanismo biomecánico de compensación nociva prevalente al requerir levantar el brazo?",
+      "options": [
+        "Un descenso forzado y sostenido del ángulo inferior escapular provocado por retracción del complejo dorsal ancho.",
+        "Una rotación interna hiperlaxa producto del fallo neural masivo en los vientres de estabilización profunda anterior.",
+        "Un ascenso cinemático de la glena o cabeza humeral, corrompiendo en cascada la integridad del control motor de la cintura escapular.",
+        "Un aleteo escapular pasivo que neutraliza completamente la actividad elástica de la cápsula posterior."
+      ],
+      "correct_answer": "Un ascenso cinemático de la glena o cabeza humeral, corrompiendo en cascada la integridad del control motor de la cintura escapular.",
+      "feedback": "Al desconectarse el supra e infraespinoso (cuya función depresora dinámica centra finamente la cabeza del húmero), el sistema neuromuscular sigue persiguiendo un objetivo de tarea básico. Esta necesidad funcional ineludible fuerza al trapecio superior y otros músculos elevadores compensatorios a dominar el rango biomecánico de tracción, provocando un impacto o ascenso indeseado y crónico de la glena bajo el acromion durante la flexo-elevación."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "A nivel de neurofisiología clínica en red neuronal extendida, ¿qué impacto directo justifica prescribir ejercicios visuales con biofeedback unilateral EMG enfocados en la extremidad contralateral sana?",
+      "options": [
+        "Desensibilizar la memoria de dolor neuropático crónico instaurada estructuralmente en la cicatriz de la zona quirúrgica afectada.",
+        "Explotar el principio de hiperemia cruzada para irrigar de forma retrógrada las fascies aponeuróticas isquémicas.",
+        "Potenciar las redes intracorticales de neuronas espejo, induciendo un desbordamiento del impulso excitatorio cruzado hacia la musculatura del miembro bloqueado.",
+        "Pre-fatigar deliberadamente la fuerza contráctil del miembro ileso para equipararlo de forma segura con la asimetría del miembro intervenido."
+      ],
+      "correct_answer": "Potenciar las redes intracorticales de neuronas espejo, induciendo un desbordamiento del impulso excitatorio cruzado hacia la musculatura del miembro bloqueado.",
+      "feedback": "El biofeedback mediado visualmente sobre la actividad muscular sana genera una potente ilusión motora. Esta representación cognitiva activa los complejos sistemas de interneuronas espejo corticales bilaterales. El incremento global en el drive motor inducido por visualizar el éxito del movimiento en la pierna buena fuerza una excitación en espejo subconsciente que rebosa hacia la vía piramidal descendente del hemisferio contralateral, mejorando sorpresivamente la activación del músculo afectado."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "En la readaptación neuromuscular clínica, la finalidad neurofisiológica estricta de instaurar una progresión agresiva de isometría en rango medio durante la ventana terapéutica es ____.",
+      "options": [
+        "aumentar el drive motor",
+        "promover adaptaciones elásticas tendinosas pasivas",
+        "generar fatiga inhibiendo aferencias medulares"
+      ],
+      "correct_answer": "aumentar el drive motor",
+      "feedback": "El entrenamiento isométrico en rango medio con foco interno atencional busca maximizar de forma intencionada la fuerza voluntaria máxima controlada. Obligar reiteradamente al paciente a reclutar unidades en isometría, fuerza adaptaciones plásticas a nivel de excitabilidad del sistema nervioso central, restaurando directamente la arquitectura del 'drive motor' cortical previamente inhibido."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "¿Cuál es la justificación principal para emplear intervenciones con Electroestimulación Neuromuscular directa (NMES) en las etapas tempranas de pacientes post-prótesis total sin capacidad alguna de control aferente?",
+      "options": [
+        "Dilatar la pared endotelial de la red capilar adyacente promoviendo la remoción linfática del edema residual.",
+        "Actuar a modo de 'puntero' exógeno que recluta selectivamente fascículos motores burlando de forma externa el bloqueo central reflejo.",
+        "Crear una densificación de colágeno peritendinoso hipertrófico alrededor del vasto que blinde la movilidad prematura de la rótula.",
+        "Sobreestimular la percepción térmica cutánea saturando las fibras C amielínicas como método primario de analgesia endógena epidérmica."
+      ],
+      "correct_answer": "Actuar a modo de 'puntero' exógeno que recluta selectivamente fascículos motores burlando de forma externa el bloqueo central reflejo.",
+      "feedback": "En postoperatorios muy agudos y agresivos el entorno inflamatorio y doloroso crea un blindaje de inhibición total en la médula, lo que hace inútil el intento voluntario cortical. La aplicación local de NMES puentea esta obstrucción de vías, actuando literalmente como un puntero eléctrico externo que despolariza a demanda los axones distales diana e induce reclutamiento espacial sin requerir autorización eferente desde el cerebro."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Para transicionar efectivamente del entrenamiento base hipertrófico al bloque especializado en fuerza aplicada orientada a la potencia/velocidad (Return to Performance), se persigue primordialmente ____.",
+      "options": [
+        "aumentar el estrés metabólico hipóxico intracelular crónico",
+        "aislar vectorialmente cadenas cinéticas simples predecibles",
+        "aumentar la velocidad y la capacidad elástico-reactiva en intervalos cortos"
+      ],
+      "correct_answer": "aumentar la velocidad y la capacidad elástico-reactiva en intervalos cortos",
+      "feedback": "La transferencia efectiva desde la fuerza absoluta hacia la potencia competitiva real exige adaptar el sistema neurológico y biomecánico a los tiempos constreñidos del deporte. El foco debe virar desde la mera producción de tensión máxima progresiva hacia el entrenamiento explosivo, la pliometría, el rebote reactivo, los cambios bruscos de dirección y el acortamiento vital en las métricas temporales de la tasa de desarrollo de la fuerza."
+    }
+  ]
+}
