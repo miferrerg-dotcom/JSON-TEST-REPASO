@@ -7,9 +7,9 @@
       "type": "multiple_choice",
       "question": "¿Qué parámetro de evaluación física estricto debe cumplir un lanzador de élite para aprobar el inicio de los lanzamientos a baja intensidad y proteger estructuralmente su codo?",
       "options": [
-        "Registrar una fuerza de agarre (grip strength) superior a 120 libras, garantizando la estabilización tendinosa local.",
         "Lograr un rango de movimiento pasivo simétrico en la rotación interna del manguito rotador, evaluado mediante goniometría.",
         "Demostrar una capacidad aeróbica base capaz de metabolizar el lactato generado en la primera fase del protocolo LOVE.",
+        "Registrar una fuerza de agarre (grip strength) superior a 120 libras, garantizando la estabilización tendinosa local.",
         "Completar una sesión de lanzamientos arrodillado a 180 pies manteniendo una secuencia cinemática libre de dolor."
       ],
       "correct_answer": "Registrar una fuerza de agarre (grip strength) superior a 120 libras, garantizando la estabilización tendinosa local.",
@@ -31,8 +31,8 @@
       "type": "multiple_choice",
       "question": "Durante la fase aguda inicial del protocolo LOVE, la intervención del preparador físico es metodológicamente secundaria, enfocándose en educar al atleta y velar rigurosamente para evitar ____.",
       "options": [
-        "sudar sobre las heridas",
         "el rango de movimiento activo",
+        "sudar sobre las heridas",
         "adherencias en la fascia"
       ],
       "correct_answer": "sudar sobre las heridas",
@@ -43,10 +43,10 @@
       "type": "multiple_choice",
       "question": "Al emplear implementos sobrecargados (pelotas 'plyos') para preparar la tolerancia balística del brazo, ¿cómo altera el aumento de masa la distribución del estrés en la arquitectura articular?",
       "options": [
-        "Disminuye el estrés en valgo sobre el codo, pero incrementa sustancialmente el estrés excéntrico sobre la rotación externa del hombro.",
         "Elimina la inestabilidad en la cápsula posterior, aislando el trabajo isométrico en el manguito rotador superior libre de fricción.",
         "Aumenta las fuerzas distractivas globales sobre el húmero al inhibir la contribución inercial y aceleración del tren inferior.",
-        "Atenúa las fuerzas de rotación externa, multiplicando a su vez las picos de torsión (75-90 Nm) sobre el ligamento colateral cubital."
+        "Atenúa las fuerzas de rotación externa, multiplicando a su vez las picos de torsión (75-90 Nm) sobre el ligamento colateral cubital.",
+        "Disminuye el estrés en valgo sobre el codo, pero incrementa sustancialmente el estrés excéntrico sobre la rotación externa del hombro."
       ],
       "correct_answer": "Disminuye el estrés en valgo sobre el codo, pero incrementa sustancialmente el estrés excéntrico sobre la rotación externa del hombro.",
       "feedback": "Aumentar el peso de la pelota genera una resistencia que ralentiza la aceleración angular terminal del brazo. Esta reducción en la velocidad final mitiga las críticas fuerzas en valgo (valgus stress) en el codo; sin embargo, ese peso adicional eleva drásticamente las demandas de tensión muscular para ejecutar y frenar la rotación externa a nivel del hombro."
@@ -67,8 +67,8 @@
       "type": "multiple_choice",
       "question": "En la ausencia total de un radar, se dosifica el programa combinando la distancia longitudinal con el esfuerzo (RPE). Bajo este formato analógico, ¿qué parámetros espaciales y perceptivos rigen una sesión de impacto 'moderado'?",
       "options": [
-        "Lanzamientos espaciados entre 120 y 180 pies, anclados a una percepción subjetiva de exigencia táctica de 6 a 7.",
         "Ejecuciones directas desde la placa del montículo (60.6 pies), forzando el reclutamiento del core con un nivel RPE de 8 a 9.",
+        "Lanzamientos espaciados entre 120 y 180 pies, anclados a una percepción subjetiva de exigencia táctica de 6 a 7.",
         "Tiros en postura de restricción (rodillas) a una distancia máxima de 90 pies, asegurando un estímulo regenerativo de nivel 2 o 3.",
         "Separaciones dinámicas superiores a 180 pies, siempre y cuando el marcador de dolor articular interno no exceda el umbral de 4 a 5."
       ],
@@ -80,9 +80,9 @@
       "type": "multiple_choice",
       "question": "Al superar la barrera del sexto mes postoperatorio tras una reconstrucción de codo, el diseño del programa aborda al atleta de manera global enfocándose exhaustivamente en el trabajo excéntrico para lograr ____.",
       "options": [
-        "adaptar y aumentar la capacidad elástica tendinosa",
         "detener la hemorragia focalizada en la fascia",
-        "suprimir las contracturas periféricas agudas"
+        "suprimir las contracturas periféricas agudas",
+        "adaptar y aumentar la capacidad elástica tendinosa"
       ],
       "correct_answer": "adaptar y aumentar la capacidad elástica tendinosa",
       "feedback": "En el sexto mes, la meta abandona lo puramente clínico y migra hacia la eficiencia deportiva real. La sobrecarga excéntrica es obligatoria porque fuerza la adaptación plástica del sistema tendinoso, enseñándole biológicamente al tejido cómo almacenar y liberar de golpe la inmensa energía elástica que exige el acto balístico del pitcheo."
@@ -105,9 +105,9 @@
       "type": "multiple_choice",
       "question": "Al desglosar estadísticamente la epidemiología lesiva del tren superior en el deporte élite actual, ¿cuál es la gran discrepancia biomecánica entre el perfil clínico de un lanzador (pitcher) y un jugador de campo interno (infielder)?",
       "options": [
-        "Los lanzadores acaparan daños críticos por estrés repetitivo (hasta 25%) en hombro y codo, mientras los infielders sufren habitualmente traumatismos por impacto directo en manos y muñecas.",
-        "Los lanzadores presentan predominancia de fisuras por compresión ósea en el carpo, mientras que los infielders rompen crónicamente sus ligamentos colaterales al fildear pelotas rodadas.",
         "Ambas posiciones sufren las mismas roturas del supraespinoso en proporción asimétrica, con la salvedad de que los pitchers requieren intervenciones posquirúrgicas más prolongadas.",
+        "Los lanzadores presentan predominancia de fisuras por compresión ósea en el carpo, mientras que los infielders rompen crónicamente sus ligamentos colaterales al fildear pelotas rodadas.",
+        "Los lanzadores acaparan daños críticos por estrés repetitivo (hasta 25%) en hombro y codo, mientras los infielders sufren habitualmente traumatismos por impacto directo en manos y muñecas.",
         "Los infielders desarrollan recurrentemente el síndrome de túnel cubital por el manejo brusco del guante, dejando a los lanzadores con un perfil aislado de tendinitis bicipital."
       ],
       "correct_answer": "Los lanzadores acaparan daños críticos por estrés repetitivo (hasta 25%) en hombro y codo, mientras los infielders sufren habitualmente traumatismos por impacto directo en manos y muñecas.",
@@ -129,8 +129,8 @@
       "type": "multiple_choice",
       "question": "En aras de evaluar que las estructuras musculares posteriores resistirán las devastadoras fuerzas distractivas de un lanzamiento oficial, el individuo debe poseer la fuerza base para dominar más de ocho ____.",
       "options": [
-        "dominadas estrictas (chin-ups)",
         "flexiones de cadena abierta",
+        "dominadas estrictas (chin-ups)",
         "rotaciones pasivas en camilla"
       ],
       "correct_answer": "dominadas estrictas (chin-ups)",
@@ -141,10 +141,10 @@
       "type": "multiple_choice",
       "question": "¿Qué sustento cinemático y anatómico explica el altísimo índice de rupturas totales en el ligamento colateral cubital (UCL) reportado en el béisbol moderno?",
       "options": [
-        "La articulación sufre picos de torsión extrema de 75 a 90 Nm, rebasando el límite de soporte estructural nato del ligamento que no supera los 34 Nm.",
-        "Las tracciones isométricas de separación en el codo alcanzan valores del 108% del peso corporal, arrancando literalmente el ligamento de su inserción superior.",
         "El arco de lanzamiento opera a 6200 grados por segundo, anulando la capacidad contráctil flexora del antebrazo y derivando el 100% de la fricción a la cápsula ulnar.",
-        "El entrenamiento precoz en fases tempranas satura de estrés por valgo a la musculatura epicondilar, transfiriendo carga muerta puramente tendinosa al codo."
+        "Las tracciones isométricas de separación en el codo alcanzan valores del 108% del peso corporal, arrancando literalmente el ligamento de su inserción superior.",
+        "El entrenamiento precoz en fases tempranas satura de estrés por valgo a la musculatura epicondilar, transfiriendo carga muerta puramente tendinosa al codo.",
+        "La articulación sufre picos de torsión extrema de 75 a 90 Nm, rebasando el límite de soporte estructural nato del ligamento que no supera los 34 Nm."
       ],
       "correct_answer": "La articulación sufre picos de torsión extrema de 75 a 90 Nm, rebasando el límite de soporte estructural nato del ligamento que no supera los 34 Nm.",
       "feedback": "Durante el brazo en máxima rotación externa, la mecánica genera una palanca de torsión en el codo de 75 a 90 Nm. Biológicamente, el ligamento colateral cubital falla de forma catastrófica al recibir tensiones superiores a los 32-34 Nm, dejándolo bajo una amenaza biomecánica inminente y dependiendo totalmente de que la musculatura aledaña absorba el resto del impacto."
@@ -154,8 +154,8 @@
       "type": "multiple_choice",
       "question": "Al contrastar el vertiginoso desarrollo del béisbol con la literatura clínica, ¿cuál es la gran falencia técnica o vacío metodológico que adolecen los clásicos programas de retorno?",
       "options": [
-        "Sus estructuras de intervalos y descanso permanecen estancadas científicamente desde 1995, sin abordar parámetros objetivos frente a las extremas velocidades contemporáneas.",
         "La integración obligatoria del modelo PEACE and LOVE generó un sesgo que eliminó completamente el trabajo isométrico en las organizaciones colegiales.",
+        "Sus estructuras de intervalos y descanso permanecen estancadas científicamente desde 1995, sin abordar parámetros objetivos frente a las extremas velocidades contemporáneas.",
         "Las regulaciones analíticas vigentes fuerzan ciclos de hipertrofia muscular precoz que contravienen las limitantes históricas de la biomecánica en cadetes.",
         "Los enfoques de preservación limitan el estímulo táctico de los lanzamientos quebrados, reservándolos arbitrariamente para las etapas de retiro deportivo."
       ],
@@ -178,9 +178,9 @@
       "type": "multiple_choice",
       "question": "Al adentrarse en la Fase 3, el Strength Coach domina el control absoluto de las cargas terapéuticas. Aparte del estímulo evidente de la fuerza y resistencia, ¿qué adaptación fisiológica vital recae bajo su completa responsabilidad?",
       "options": [
-        "La reactivación de los múltiples sistemas energéticos acoplados al deporte y el reajuste sensorial y fino de la propiocepción.",
         "La manipulación de los ciclos de deshidratación tisular controlada para disipar el edema residual del ligamento colateral.",
         "El aislamiento isométrico prolongado del tren inferior para evitar la fatiga periférica mientras ocurre la osteogénesis.",
+        "La reactivación de los múltiples sistemas energéticos acoplados al deporte y el reajuste sensorial y fino de la propiocepción.",
         "La administración protocolizada de las pautas pasivas de protección capsular prescritas por el terapeuta durante la inmovilización aguda."
       ],
       "correct_answer": "La reactivación de los múltiples sistemas energéticos acoplados al deporte y el reajuste sensorial y fino de la propiocepción.",
