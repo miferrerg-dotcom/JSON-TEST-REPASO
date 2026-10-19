@@ -1,0 +1,213 @@
+{
+  "class_title": "De la alta clínica a la readaptación deportiva. Criterios objetivos para la transferencia del deportista con lesión de rodilla",
+  "total_questions": 17,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Al interpretar la fuerza máxima a través de la dinamometría isocinética a 60°/s en un futbolista profesional, ¿qué magnitudes relativas son el estándar normativo mínimo de garantía estructural?",
+      "options": [
+        "3,5 N/kg para los cuádriceps y 2,5 N/kg para los isquiotibiales",
+        "2,5 N/kg para los cuádriceps y 1,5 N/kg para los isquiotibiales",
+        "4,0 N/kg para los cuádriceps y 3,0 N/kg para los isquiotibiales",
+        "3,0 N/kg para los cuádriceps y 2,0 N/kg para los isquiotibiales"
+      ],
+      "correct_answer": "3,5 N/kg para los cuádriceps y 2,5 N/kg para los isquiotibiales",
+      "feedback": "El alto rendimiento exige relativizar la fuerza al peso corporal del atleta. Alcanzar 3,5 N/kg en cuádriceps y 2,5 N/kg en isquiotibiales garantiza la tolerancia mecánica local para el juego y asegura una ratio agonista/antagonista (cercana a 2:1) biomecánicamente congruente y protectora ante altas velocidades."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Previo al diseño del programa rehabilitador, es ineludible integrar el contexto deportivo, el diagnóstico personal y un tercer nivel sistémico que dicta la presión externa del tratamiento, conocido como ____.",
+      "options": [
+        "contexto organizacional",
+        "modelo táctico",
+        "umbral aeróbico"
+      ],
+      "correct_answer": "contexto organizacional",
+      "feedback": "El ámbito del deporte profesional somete al proceso clínico a presiones externas ineludibles. Las condiciones contractuales, las inversiones del club y los intereses de representantes conforman el contexto organizacional, el cual modula drásticamente los ritmos y la tolerancia al riesgo en la toma de decisiones para el retorno."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Si un deportista en fase final de recuperación alcanza una altura óptima y un RSI modificado sobresaliente en el CMJ, se descarta automáticamente la presencia de estrategias motoras compensatorias.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Las métricas globales de rendimiento (altura o RSI modificado) ocultan desbalances biomecánicos críticos. Un salto excepcional puede encubrir una descarga de peso asimétrica severa en el aterrizaje (Peak Landing Force Asymmetry), originada por un reflejo de kinesiofobia que exige ser abordado urgentemente mediante biofeedback."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "En la readaptación temprana de campo, la transición en arena es útil porque absorbe el trabajo mecánico, reduciendo el impacto articular (ground reaction force) mientras aumenta masivamente ____.",
+      "options": [
+        "el trabajo metabólico",
+        "el retorno elástico",
+        "la eficiencia neural"
+      ],
+      "correct_answer": "el trabajo metabólico",
+      "feedback": "La deformación de la superficie de arena disipa la energía cinética, atenuando el pico de fuerza de reacción del suelo y protegiendo el cartílago en curación. Como contrapartida, la pérdida total del ciclo de estiramiento-acortamiento obliga al sistema neuromuscular a generar un esfuerzo puramente concéntrico, disparando el gasto metabólico de la sesión."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Para autorizar la integración progresiva a entrenamientos grupales parciales, el control de carga por GPS impone asimilar volúmenes estrictos respecto a la referencia de un partido (día -3). ¿Cuál es la exigencia metodológica requerida?",
+      "options": [
+        "90% del high speed running, 90% de high metabolic load y 65% de aceleraciones/deceleraciones",
+        "100% de la distancia total, 80% de aceleraciones bajas y 50% de sprints máximos",
+        "75% del high metabolic load, 60% de high speed running y 90% del volumen de aceleraciones",
+        "80% del top speed alcanzado repetidamente con una reducción de la carga metabólica al 30%"
+      ],
+      "correct_answer": "90% del high speed running, 90% de high metabolic load y 65% de aceleraciones/deceleraciones",
+      "feedback": "El paso al entorno de caos no admite lagunas condicionales. El tejido debe haber certificado su tolerancia empírica asimilando métricas casi competitivas: un 90% de carrera a alta velocidad (HSR) y carga metabólica (HML), junto al soporte de un 65% de la carga mecánica excéntrica propia de las aceleraciones y frenadas intensas."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Al desglosar la Tasa de Desarrollo de Fuerza (RFD), la magnitud tensional expresada en ventanas tardías que superan los 150 milisegundos está dictaminada primordialmente por ____.",
+      "options": [
+        "la fuerza máxima",
+        "el reflejo miotático",
+        "la rigidez pasiva"
+      ],
+      "correct_answer": "la fuerza máxima",
+      "feedback": "La producción explosiva de fuerza es tiempo-dependiente. Los primeros 50 milisegundos están dominados por la eficiencia neural y el reclutamiento balístico inicial. Sin embargo, al cruzar el umbral de los 150 milisegundos, la capacidad de seguir desarrollando tensión mecánica queda limitada por el techo estructural absoluto del atleta, es decir, su fuerza máxima dinámica."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "En la evaluación cualitativa de una gráfica isocinética concéntrica de rodilla, es un indicador biomecánico esencial verificar que la torsión de pico (peak torque) del cuádriceps se exprese anatómicamente cerca de los 60 a 65 grados.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Interpretar valores absolutos sin observar la curva es un error analítico grave. La morfología del trazado detalla la artrocinemática funcional; el cuádriceps debe originar su pico máximo de torque en la angulación natural de mayor ventaja mecánica (60-65°). Un pico fuertemente retrasado evidencia un patrón de reclutamiento lesivo e ineficiente."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Al evaluar progresivamente el componente reactivo postquirúrgico en el vector vertical, ¿qué ventaja biomecánica posiciona al 10-5 Repeated Hop Test por delante del clásico Drop Jump profundo?",
+      "options": [
+        "Exige tiempos de contacto inferiores y genera un impacto articular sustancialmente menor",
+        "Fuerza tiempos de amortización superiores a 300 ms aislando la absorción muscular",
+        "Minimiza la rigidez del tendón enfocándose exclusivamente en estabilizar la pelvis",
+        "Anula la contribución balística priorizando el control puramente concéntrico"
+      ],
+      "correct_answer": "Exige tiempos de contacto inferiores y genera un impacto articular sustancialmente menor",
+      "feedback": "El Drop Jump resulta en ocasiones destructivo para rodillas en rehabilitación debido a las colosales fuerzas de choque en caída libre, anclando los tiempos de contacto entre 150-250 ms. El Hop Test (pliometría extensiva repetida) es menos agresivo con el cartílago articular y, al exigir rebotes más fugaces, simula de forma más verídica la ventana de activación ultra-rápida de la carrera real."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "El trauma articular y el edema agudo postquirúrgico deben erradicarse tempranamente para frenar la cascada refleja que provoca, a nivel neurológico, una severa ____.",
+      "options": [
+        "inhibición artrogénica",
+        "fibrosis articular",
+        "restricción capsular"
+      ],
+      "correct_answer": "inhibición artrogénica",
+      "feedback": "La inflamación y distensión intraarticular emiten señales aferentes protectoras hacia la médula espinal que deprimen masivamente la excitabilidad de las motoneuronas del cuádriceps. Esta inhibición artrogénica (AMI) anula la capacidad de contracción voluntaria, bloqueando cualquier ganancia de control motor o hipertrofia en las fases tempranas."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Para aislar y evaluar objetivamente la fuerza máxima y el RFD en los vectores articulares exactos que dominan la carrera a alta velocidad, la batería diagnóstica de cadena cerrada de elección es ____.",
+      "options": [
+        "la rutina de Run Specific Iso Push",
+        "el test Single Leg Land and Hold",
+        "el Running T-test multidireccional",
+        "la isometría pura en Mid Thigh Pull"
+      ],
+      "correct_answer": "la rutina de Run Specific Iso Push",
+      "feedback": "Desarrollada por Natera, esta batería sitúa meticulosamente las articulaciones (cadera, rodilla, tobillo) en los ángulos críticos del ciclo de zancada. Permite cuantificar asimetrías de fuerza y tasa de desarrollo de fuerza bajo un régimen isométrico de alta intensidad, resultando un filtro diagnóstico ineludible antes de someter al tendón a la carrera libre."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Un RSI (Índice de Fuerza Reactiva) deficiente atribuido a la prolongación exagerada de los tiempos de contacto con el suelo delata biomecánicamente un evidente ____.",
+      "options": [
+        "déficit de stiffness",
+        "déficit hipertrófico",
+        "bloqueo patelar"
+      ],
+      "correct_answer": "déficit de stiffness",
+      "feedback": "La base de la fuerza reactiva reside en la eficiencia. Un tiempo de contacto inflado indica que el complejo músculo-tendinoso cede dramáticamente durante la fase de amortiguación, careciendo de la rigidez elástica funcional ('stiffness') necesaria para oponerse a la deformación del impacto y retornar la energía de forma balística."
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "De forma clínica excepcional, si un deportista presenta una asimetría funcional limitante cercana al 20%, se pueden iniciar pruebas de tolerancia a la carrera siempre que se utilicen sistemas de cinta desgravitada.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Aunque la evidencia estricta impone asimetrías <10-14% para permitir la carrera libre, el uso de tecnología desgravitada (como Alter-G) reduce el peso corporal y la carga mecánica neta sobre el cartílago. Esto habilita una ventana metodológica segura para iniciar progresiones de técnica de marcha rápida y carrera suave en perfiles que rozan el 20% de déficit."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Según el algoritmo de progresión estructurada de Wald para retornar al salto tras una reconstrucción de LCA, ¿qué prueba debe aprobarse con simetría antes de autorizar el trabajo de Shock Method (ej. Drop Jumps)?",
+      "options": [
+        "CMJ unilateral con impulso excéntrico simétrico y velocidad pico excéntrica < 1.3 m/s",
+        "Single leg squat dinámico soportando el 50% del peso corporal adicional en chaleco",
+        "Aterrizaje desde 60 centímetros con un pico de impacto inferior a dos veces el peso",
+        "Isometría analítica de rodilla con un RFD temprano estabilizado en 250 milisegundos"
+      ],
+      "correct_answer": "CMJ unilateral con impulso excéntrico simétrico y velocidad pico excéntrica < 1.3 m/s",
+      "feedback": "La sobrecarga pliométrica del Shock Method exige bases estructurales firmes. El algoritmo detalla que previo al castigo elástico de caídas libres, el deportista debe validar el control motor y excéntrico absoluto en un Countermovement Jump a una pierna (Single Leg CMJ), mostrando asimetrías casi nulas en el impulso y una absorción de frenado altamente eficiente."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Para restituir el patrón de marcha fluido y habilitar la eficiencia biomecánica de la zancada posterior, el peaje obligatorio de movilidad postquirúrgica exige extensión simétrica y un mínimo vital de ____.",
+      "options": [
+        "125 a 130 grados",
+        "90 a 100 grados",
+        "150 grados"
+      ],
+      "correct_answer": "125 a 130 grados",
+      "feedback": "El déficit de rango articular inicial destruye la artrocinemática natural. Sin una extensión absoluta se anula el despegue, y sin un rango de flexión mínimo de 125-130°, la pierna libre es incapaz de ejecutar el recobro veloz durante el ciclo de vuelo de la carrera, forzando nocivas rotaciones pélvicas compensatorias."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "En las métricas basadas en evidencia dictadas por sistemas de Force Decks, ¿qué exigencia de control excéntrico se establece en saltos unipodales (Single Leg CMJ) para viabilizar el inicio de la carrera?",
+      "options": [
+        "Asimetría < 20% en impulso concéntrico y eccentric peak velocity < 0,5 m/s",
+        "RSI global > 2.5 sostenido en tres intentos consecutivos de la pierna afectada",
+        "Impulso excéntrico con asimetría 0% y pico de aterrizaje mayor a 6 Gs",
+        "Amplitud de vuelo mayor a 25 centímetros y velocidad concéntrica pico > 3.0 m/s"
+      ],
+      "correct_answer": "Asimetría < 20% en impulso concéntrico y eccentric peak velocity < 0,5 m/s",
+      "feedback": "La readaptación no autoriza correr si el sistema no sabe frenar en condiciones seguras. Los benchmarks instrumentales precisan una alta eficiencia en la absorción: el 'eccentric peak velocity' debe descender de 0.5 m/s durante el Single Leg CMJ para asegurar que el cuádriceps puede gestionar sin colapsar el impacto vertical cíclico de la trote."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "La ejecución indiscriminada de múltiples baterías de tests neuromusculares carece de validez clínica si el verdadero objetivo del cuerpo técnico no se centra en ____.",
+      "options": [
+        "responder una pregunta clínica para aislar deficiencias mecánicas",
+        "acelerar matemáticamente el pronóstico establecido por el cirujano",
+        "coleccionar un volumen estadístico masivo de control interno",
+        "certificar un aumento aleatorio en la rigidez pasiva de la cadera"
+      ],
+      "correct_answer": "responder una pregunta clínica para aislar deficiencias mecánicas",
+      "feedback": "El exceso de cuantificación sin propósito genera parálisis por análisis. Los tests (fuerza isométrica, reactiva, asimetrías) son brújulas diagnósticas; su fin absoluto es corroborar hipótesis clínicas sobre dónde falla exactamente el deportista (ej: carencia de freno excéntrico, bajo stiffness) para poder guiar una intervención táctica resolutiva, no para dar el alta prematura."
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "question": "La toma de decisiones en el inicio de la rehabilitación comienza incluso antes de contar con un diagnóstico médico oficial, exigiéndole al readaptador tener criterio para detener la intervención si no existe claridad lesional.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "El criterio profesional antecede a cualquier batería de movimiento. Si un atleta se presenta sin diagnóstico médico firme y un pronóstico quirúrgico o conservador estipulado, la obligación clínica y ética del especialista es detenerse y derivar para no comprometer tejidos vulnerables por trabajar a ciegas."
+    }
+  ]
+}
