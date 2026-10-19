@@ -1,0 +1,252 @@
+{
+  "class_title": "Entrenamiento del sprint en el futbolista desde la visión del Sport Scientist",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "La monitorización intradía de la carga externa mediante sistemas GPS resulta sustancialmente más objetiva a efectos de planificación que los tests de velocidad bimestrales porque ____.",
+      "options": [
+        "captura las fluctuaciones diarias de adaptación y fatiga a las que se somete el sistema homeostático del jugador.",
+        "los tests estandarizados carecen de validez científica demostrada para aislar las fibras rápidas.",
+        "el sistema de geolocalización incrementa el valor de la velocidad máxima real del atleta por la interpolación de datos.",
+        "los tests cerrados imponen siempre una sobrecarga excéntrica lesiva sobre el tendón rotuliano."
+      ],
+      "correct_answer": "captura las fluctuaciones diarias de adaptación y fatiga a las que se somete el sistema homeostático del jugador.",
+      "feedback": "El perfil condicional del deportista es un sistema dinámico que sufre altibajos formidables cada 24 horas por factores de estrés, descanso o nutrición. Reajustar la sesión basándose en un test de hace dos meses ignora por completo la realidad adaptativa del jugador ese día específico, impidiendo acertar con la ventana real del 90-95% de su velocidad máxima."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Si una planificación elude crónicamente exponer al jugador al umbral preventivo del 90-95% de su velocidad máxima, este perderá la adaptación estructural protectora en la musculatura isquiosural debido al principio biológico de ____.",
+      "options": [
+        "reversibilidad",
+        "supercompensación",
+        "inhibición recíproca"
+      ],
+      "correct_answer": "reversibilidad",
+      "feedback": "Cualquier adaptación de tolerancia mecánica y neuromuscular obtenida frente al desgarro se deteriora velozmente si el tejido no vuelve a someterse a esas mismas demandas tensionales absolutas. La baja estimulación desprograma las defensas estructurales del bíceps femoral frente a las embestidas de la alta velocidad."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Los ejercicios analíticos de fuerza en el gimnasio, al ejecutarse de forma aislada con cargas supramáximas, logran igualar la descarga electromiográfica que soporta la musculatura isquiosural corriendo al 95% de la velocidad máxima.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Los estudios electromiográficos, como el de Van Der Tilar (2017), demuestran categóricamente que ningún ejercicio convencional de fuerza se aproxima a replicar la masiva activación neurológica y las brutales fuerzas de absorción que el isquiosural confronta al transitar el umbral de la alta velocidad (90-95% Vmax) en el campo."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Al aplicar tareas de arrastres de trineo con sobrecargas mecánicas extremas, equivalentes al 40-50% del peso corporal, el análisis cinemático de los atletas revela que ____.",
+      "options": [
+        "se mejoran los tiempos de traslación en segmentos de 20 a 30 metros, pero no se logra una mejora significativa en los primeros 10 metros de aceleración inicial.",
+        "se optimiza de forma exponencial la Ratio de Desarrollo de Fuerza (RFD) explosiva exclusivamente en los primeros 5 metros de salida de tacos.",
+        "se produce una transferencia anatómica directa e inmediata sobre el sostenimiento de la velocidad terminal en distancias superiores a 60 metros.",
+        "se inhibe patológicamente la actividad contráctil del glúteo mayor, obligando al sóleo a propulsar toda la fase de transición."
+      ],
+      "correct_answer": "se mejoran los tiempos de traslación en segmentos de 20 a 30 metros, pero no se logra una mejora significativa en los primeros 10 metros de aceleración inicial.",
+      "feedback": "Sobrecargar la estructura con lastres masivos enlentece críticamente el patrón motor. Esto anula la capacidad del atleta para generar movimientos con la alta velocidad y potencia explosiva requeridas para mejorar los primeros apoyos (0-10m), donde paradójicamente son las cargas livianas y el sprint libre las que desencadenan las verdaderas mejoras de aceleración."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Las tareas globales diseñadas mediante micro-transiciones continuas (ej. oleadas 2vs2 en campo corto) disparan rápidamente las métricas de High Speed Running, aceleraciones y HMLD, lo cual impone al cuerpo técnico un control milimétrico de la ____.",
+      "options": [
+        "densidad",
+        "amplitud",
+        "táctica"
+      ],
+      "correct_answer": "densidad",
+      "feedback": "Las transiciones exigen un ida y vuelta incesante que satura los acumuladores de carga neuromuscular. Si no se manipula con precisión la densidad (el ratio estricto entre el tiempo de trabajo y el tiempo de recuperación), la tarea inducirá una fatiga prematura profunda en lugar de ofrecer un estímulo de velocidad limpio."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "En escenarios de calendarios competitivos congestionados, la estrategia temporal de exposición a la alta velocidad que ha demostrado asociarse estadísticamente con una incidencia de cero lesiones de isquiosurales es ____.",
+      "options": [
+        "someter a los futbolistas a intensidades superiores al 95% de su velocidad máxima en el día MD-2 (48 horas previas al partido).",
+        "ubicar los sprints de máxima intensidad en la clásica sesión de activación neuromuscular del día previo (MD-1).",
+        "suprimir cualquier carrera por encima del 85% de la velocidad máxima durante toda la semana para garantizar el tapering metabólico.",
+        "concentrar las cargas excéntricas puras en el primer día de recuperación tras el partido (MD+1) sobre la musculatura fatigada."
+      ],
+      "correct_answer": "someter a los futbolistas a intensidades superiores al 95% de su velocidad máxima en el día MD-2 (48 horas previas al partido).",
+      "feedback": "La investigación longitudinal en equipos de élite (Buchheit, 2023) evidencia empíricamente que aplicar el estímulo de velocidad suprema a falta de 48 horas (MD-2) ejerce el efecto protector definitivo (cero incidencia lesional). Por el contrario, ejecutar estas cargas neurológicas máximas en el MD-1 disparó la tasa de daño muscular grave a 10 lesiones por 1.000 horas."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "Para impactar mecánicamente la aceleración inicial desde parado, la fuerza aplicada por el jugador debe orientarse hacia vectores horizontales, mientras que la fase lanzada o sostenida requiere imprimir vectores verticales de forma dominante.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "La biomecánica del sprint decreta que romper la inercia (0-10 metros) exige empujar el suelo hacia atrás, adoptando un ángulo de ataque agudo apoyado en vectores horizontales. A partir de los 15-20 metros, con el tronco erguido, la variable clave es neutralizar la gravedad aplicando picos de fuerza vertical masivos en milisegundos para mantenerse 'flotando' entre apoyos."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Dentro de la prescripción de cargas mediante el Velocity Based Training (VBT), la utilización estricta de velocidades medias estándar para todo el plantel (ej. umbral de 0.75 m/s) comete un error crítico dado que ____.",
+      "options": [
+        "cada atleta posee un perfil fisiológico, experiencia de entrenamiento y habilidad neuro-coordinativa diferente que exige una calibración individual de la carga.",
+        "los dispositivos encoders lineales carecen de fiabilidad intrínseca para validar las fases excéntricas en futbolistas con dominancia anterior.",
+        "el feedback visual en tiempo real deprime la activación del sistema nervioso central si la velocidad proyectada en la pantalla no se alcanza.",
+        "la barrera de los 0.75 m/s imposibilita biológicamente el reclutamiento asíncrono de las fibras rápidas tipo IIx."
+      ],
+      "correct_answer": "cada atleta posee un perfil fisiológico, experiencia de entrenamiento y habilidad neuro-coordinativa diferente que exige una calibración individual de la carga.",
+      "feedback": "Como detalla García Ramos (2023), los baremos genéricos de velocidad resultan útiles únicamente como horquillas orientativas primarias. Cada jugador aplica la fuerza de manera distinta ante un mismo estímulo o peso, por lo que estandarizar indiscriminadamente conduce a someter a unos a cargas inefectivas y a otros a sobrecargas perjudiciales."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Para asegurar estructuralmente que un atacante detone su pico de velocidad máxima durante el diseño de una tarea global de formato reducido (ej. 2vs2), es imperativo que exista espacio libre y ____.",
+      "options": [
+        "que se le dote de una ventaja posicional siendo perseguido por la espalda en lugar de ser encardo frontalmente.",
+        "que el adversario marque en zona realizando contenciones puramente estáticas.",
+        "que se restrinjan los toques de balón a uno solo para suprimir el tiempo de procesamiento cognitivo.",
+        "que la jugada nazca desde una posición en la que el atacante reciba el esférico de espaldas a la portería contraria."
+      ],
+      "correct_answer": "que se le dote de una ventaja posicional siendo perseguido por la espalda en lugar de ser encardo frontalmente.",
+      "feedback": "Enfrentar la defensa de cara obliga biológicamente al atacante a decelerar, escanear el entorno y procesar la toma de decisión para la finta. Situar al defensor como un perseguidor directo a su espalda elimina el freno cognitivo y táctico, forzando una huida pura a máxima intensidad."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Ante el volumen masivo de métricas generadas por el departamento de datos y la inteligencia artificial, la intervención crucial del Sport Scientist es evitar el ruido algorítmico y posicionarse como el ____ principal entre los departamentos.",
+      "options": [
+        "hilo conductor",
+        "ejecutor táctico",
+        "médico cirujano"
+      ],
+      "correct_answer": "hilo conductor",
+      "feedback": "El verdadero valor del Sport Scientist reside en sus habilidades comunicativas e interpretativas. Su misión no es reemplazar a la IA ni dominar la medicina de forma absoluta, sino actuar como nexo para traducir y unificar la data científica adaptándola al idioma de los entrenadores y fisioterapeutas."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "Los registros epidemiológicos de canteras confirman que los jugadores que se encuentran en estadios madurativos de pre-PHV y CIRCA acumulan un mayor porcentaje de lesiones musculares complejas (roturas fibrilares) que los jugadores adultos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La literatura científica confirma que los atletas en etapas pre-PHV y CIRCA muestran incidencias relacionadas estrictamente al desarrollo y estirones óseos. Son los jugadores post-PHV y adultos los que asumen un riesgo crítico de roturas musculares en los isquiosurales al desplazar un chasis anatómico mucho más pesado con torques de fuerza superiores."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Estudios longitudinales que analizan métricas posicionales y cinemáticas a lo largo de diversas campañas en LaLiga demuestran repetidamente que el fútbol evoluciona exigiendo que los jugadores soporten volúmenes exponenciales de ____.",
+      "options": [
+        "sprints por encima de los 24 km/h y métricas disparadas en la franja del High Speed Running.",
+        "aceleraciones en espacios reducidos acompañadas de un descenso sistemático de la distancia total por partido.",
+        "esfuerzos aeróbicos moderados focalizados en sostener densidades tácticas en el bloque bajo.",
+        "frenadas isométricas tras coberturas defensivas, ignorando las demandas inerciales de la fase ofensiva."
+      ],
+      "correct_answer": "sprints por encima de los 24 km/h y métricas disparadas en la franja del High Speed Running.",
+      "feedback": "Las investigaciones de Pons (2021) y García Calvo (2025) concluyen que, aunque la distancia global del partido pueda fluctuar levemente o estancarse, las distancias libradas en la extrema franja perimetral de la velocidad y el HSR (18-21 km/h) son las únicas que muestran un crecimiento ininterrumpido año tras año en la élite."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Desde un enfoque biomecánico y de electromiografía de superficie, el isquiosural asume la mayor tensión y descarga eléctrica durante la carrera rápida justo en la transición del ciclo que corresponde a ____.",
+      "options": [
+        "la última fase del vuelo (late swing) y los primeros milisegundos de absorción en el contacto con el césped.",
+        "la fase concéntrica profunda de empuje (push-off) al abandonar el vector horizontal.",
+        "la rotación estática del tronco superior cuando las extremidades alcanzan su máxima separación transversal.",
+        "el instante de vuelo puro (flight phase) donde se bloquea isométricamente la extensión de cadera."
+      ],
+      "correct_answer": "la última fase del vuelo (late swing) y los primeros milisegundos de absorción en el contacto con el césped.",
+      "feedback": "En el 'late swing' y el 'early stance', la tibia se desplaza libremente hacia adelante a velocidades altísimas. En este punto de no retorno mecánico, el bíceps femoral recibe descargas eléctricas masivas para frenar el avance articular abruptamente de forma excéntrica, absorbiendo el impacto contra el firme y sufriendo la mayor exposición lesional."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "El modelado avanzado de Big Data sobre los eventos que resuelven los partidos en las primeras divisiones ha certificado contundentemente que la acción condicional que antecede de manera mecánica a la mayoría de los goles es originada por ____.",
+      "options": [
+        "sprints explosivos",
+        "conducciones lentas",
+        "pivotajes defensivos"
+      ],
+      "correct_answer": "sprints explosivos",
+      "feedback": "Investigaciones clave como las de Daly (2025) señalan que los bloques defensivos compactos modernos no se quiebran con secuencias prolongadas de baja intensidad. La ruptura de líneas que deriva directamente en gol requiere casi exclusivamente de carreras violentas, explosiones fulgurantes e incursiones de altísima traslación lineal que la defensa no logra equiparar."
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "question": "Configurar la exposición al sprint a través de una sesión programada íntegramente en el día previo a la competición (MD-1) constituye el modelo de Tapering ideal que garantiza una tasa mínima de daño muscular orgánico.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Falso. La bibliografía y la evidencia sobre 16 clubes de élite (Buchheit, 2023) dictaminan exactamente lo opuesto: estimular el sistema con picos por encima del 95% de la velocidad máxima durante el MD-1 disparó de manera dramática la tasa lesional hasta las 10 roturas por cada 1.000 horas de exposición. El blindaje estructural de incidencia cero reside empíricamente en el MD-2."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Debido a que el Nordic Hamstring clásico disipa gran parte del estiramiento a través de aponeurosis y tendones, la alteración geométrica necesaria para focalizar la elongación pura en el vientre muscular y mimetizar la cinemática del sprint requiere ____.",
+      "options": [
+        "aplicar una angulación en la plataforma base de entre 20 a 40 grados, elevando simultáneamente el anclaje de resistencia hacia medio muslo.",
+        "realizar la caída excéntrica sobre un plano puramente horizontal restringiendo la dorsiflexión plantar y fijando la caída a 30 grados articulares.",
+        "incorporar el uso de camillas planas de fisioterapia sin estabilización pélvica, anulando el torque inicial y fomentando la extensión de rodilla libre.",
+        "colocar elásticos resistidos a nivel cervical manteniendo la tibia estricta en 90 grados perimetrales sin desplazar jamás el eje de gravedad del deportista."
+      ],
+      "correct_answer": "aplicar una angulación en la plataforma base de entre 20 a 40 grados, elevando simultáneamente el anclaje de resistencia hacia medio muslo.",
+      "feedback": "Ascender el anclaje a la franja medial del muslo y alterar el plano base de 20º a 40º fuerza un aumento crítico en la longitud efectiva del fascículo contráctil. Esta disposición arquitectónica recrea con notable precisión el complejo entramado de angulaciones que las articulaciones de cadera, rodilla y tobillo soportan al estrellarse contra el suelo durante el impacto de carrera máxima."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "El dramático repunte en la tasa de roturas miofibrilares documentado epidemiológicamente en estadios de post-PHV y madurez atlética profesional tiene su anclaje fisiológico más correlacionado en ____.",
+      "options": [
+        "la ganancia sustancial de peso corporal que fuerza a la cadena extensora a absorber picos de tensión desmesurados al trasladar el cuerpo a máxima velocidad.",
+        "la consolidación precoz de las suturas craneales que restringe la coordinación neuromotora originaria y altera los vectores de fuerza longitudinal.",
+        "una reducción irreversible en la hidratación de los discos intervertebrales por los impactos acumulados en etapas de pre-PHV y CIRCA.",
+        "la supresión de la hipertrofia sarcomérica debido al estancamiento hormonal en el eje de la testosterona tras atravesar la pubertad."
+      ],
+      "correct_answer": "la ganancia sustancial de peso corporal que fuerza a la cadena extensora a absorber picos de tensión desmesurados al trasladar el cuerpo a máxima velocidad.",
+      "feedback": "Estudios biomecánicos como el de Brown (2023) prueban que, de todas las variables antropométricas evaluadas, la ganancia de peso es la correlación definitiva. Desplazar un organismo mucho más masivo a velocidades extremas arroja fuerzas mecánicas devastadoras contra el isquiosural si este no ha sido condicionado mediante tolerancia al sprint desde etapas anteriores."
+    },
+    {
+      "id": 18,
+      "type": "true_false",
+      "question": "Si una academia carece de monitorización GPS en su contexto, el mecanismo analítico más fiable para garantizar que un jugador cruce el umbral profiláctico de su velocidad máxima real es programar competiciones lineales de perfil 1vs1 prolongadas durante 30-40 metros.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Verdadero. Al emparejar perfiles cinemáticos idénticos y librarlos de toda carga cognitiva (pases, marcas, coberturas), el jugador responde instintivamente a la competición frontal. La persecución incondicionada en distancias críticas empuja el reclutamiento de fibras rápidas por encima del muro de confort submáximo, desatando el pico real de Vmax."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Al exponer al futbolista a tareas de una profunda complejidad táctica y altísima sobrecarga cognitiva, el procesamiento neuronal de las variables provocará de manera adaptativa que ____.",
+      "options": [
+        "la velocidad media de ejecución sufra una penalización mecánica drástica reduciéndose significativamente respecto a simulaciones aisladas.",
+        "se alcancen sistemáticamente picos por encima de los 30 km/h impulsados por el estrés psicológico del marcaje escalonado.",
+        "la ratio de aceleraciones concéntricas tempranas se iguale a los registros recogidos en partidos reales mediante geolocalización.",
+        "las distancias globales se fragmenten suprimiendo por completo el volumen aeróbico moderado inferior a 15 km/h."
+      ],
+      "correct_answer": "la velocidad media de ejecución sufra una penalización mecánica drástica reduciéndose significativamente respecto a simulaciones aisladas.",
+      "feedback": "Los contextos altamente congestionados tácticamente imponen deliberación mental, escaneos posicionales asfixiantes e indecisión motriz. Toda interacción que obliga al cerebro a descifrar el entorno ralentiza biomecánicamente la ejecución de la zancada, impidiendo alcanzar el estado de 'fluidez motriz pura' necesario para rozar los umbrales de máxima intensidad de traslación."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Para mitigar la inflamación y el fallo estructural durante las jornadas valle del microciclo que soportan volúmenes brutales de exigencia física (como los MD-4 y MD-3), el enfoque metodológico innegociable es ____.",
+      "options": [
+        "pulverizar la carga global aplicando únicamente la dosis mínima efectiva requerida de diferentes capacidades motrices durante cada jornada.",
+        "agotar íntegramente las reservas de glucógeno y la matriz elástica conectiva en la sesión de MD-4 para iniciar la supercompensación 72 horas antes.",
+        "diseñar simulacros posicionales en pista de tartán que supriman las interrupciones aeróbicas e incrementen el rigor isométrico hasta el fallo técnico.",
+        "someter las rotaciones tendinosas a sobrecargas resistidas prolongadas anulando el 'tapering' regenerativo previo al partido dominical."
+      ],
+      "correct_answer": "pulverizar la carga global aplicando únicamente la dosis mínima efectiva requerida de diferentes capacidades motrices durante cada jornada.",
+      "feedback": "Evitar tratar de 'llenar todo el depósito' orgánico en 24 horas es la premisa de supervivencia actual en la élite. Autores como Gómez Piqueras apuestan por atomizar la semana: estimular el daño mecánico justo en una jornada y potenciar el rendimiento auxiliar a la siguiente. Administrar la dosis mínima garantiza adaptación y destierra la saturación sistémica crónica."
+    }
+  ]
+}
