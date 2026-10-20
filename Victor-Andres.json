@@ -1,0 +1,190 @@
+{
+  "class_title": "Del quirófano al movimiento - PSS Elite Test Bank",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "question": "A pesar de ser anatómicamente un tejido blando, en la reconstrucción del Ligamento Cruzado Anterior la plastia debe tratarse clínicamente respetando los tiempos de consolidación de un tejido duro.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "El ligamento cruzado anterior es un tejido blando, pero se engloba dentro del grupo de tejido duro en su recuperación clínica. Al crear túneles femorales y tibiales, se debe esperar aproximadamente dos meses y medio a que el hueso abrace y consolide firmemente la plastia."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Desde un enfoque ortopédico contemporáneo, prescribir inmovilización y reposo absoluto durante varias semanas tras la cirugía para proteger el injerto genera un elevado riesgo lesivo posterior provocado primariamente por:",
+      "options": [
+        "El desanclaje mecánico del tejido duro y la rotura de las suturas.",
+        "La inactividad que desencadena pérdida grave de control motor, atrofia, rigidez y kinesiofobia.",
+        "La aceleración metabólica del sistema simpático por estancamiento linfático.",
+        "El exceso de colágeno inmaduro calcificado alrededor de la cápsula articular."
+      ],
+      "correct_answer": "La inactividad que desencadena pérdida grave de control motor, atrofia, rigidez y kinesiofobia.",
+      "feedback": "El reposo excesivo genera mayor atrofia porque el músculo pierde tono y activación con el paso de los días. Además, esta inactividad aumenta notablemente la rigidez articular postquirúrgica, provoca la pérdida de control motor o amnesia muscular, y fomenta la kinesiofobia o un arraigado miedo psicológico al movimiento."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "En las primeras etapas rehabilitadoras de una plastia del Ligamento Cruzado Anterior, aplicar rutinas centradas agresivamente en hipertrofiar y activar el cuádriceps supone un grave fallo de criterio de diseño debido a que:",
+      "options": [
+        "Inhibe la regeneración espontánea de los mecanorreceptores articulares de la plastia.",
+        "Somete a la estructura a estrés originado por el largo brazo de palanca que proyecta la tibia hacia anterior.",
+        "Agrava el estado inflamatorio de las estructuras infraadyacentes como el arco plantar.",
+        "Provoca una atrofia compensatoria inmediata en la musculatura de la cadena isquiosural."
+      ],
+      "correct_answer": "Somete a la estructura a estrés originado por el largo brazo de palanca que proyecta la tibia hacia anterior.",
+      "feedback": "El cuádriceps se inserta anatómicamente en la parte anterior de la tibia. Al contraerse en etapas iniciales utilizando brazos de palanca largos, genera un profundo movimiento de traslación anterior que podría estresar severamente la nueva plastia. Poseer más fuerza de cuádriceps no está directamente relacionado con sufrir menos roturas del LCA."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Ante un cuadro clínico de limitación articular tras una lesión, habiendo identificado una inhibición severa en músculos con predominancia de fibras Tipo II (blancas/fásicas), el enfoque prioritario de actuación debe centrarse inequívocamente en ____.",
+      "options": [
+        "bajar el tono progresivamente",
+        "aplicar masajes transversos profundos",
+        "fortalecer y activar de forma inmediata"
+      ],
+      "correct_answer": "fortalecer y activar de forma inmediata",
+      "feedback": "Las fibras musculares Tipo II o fásicas poseen una gran tendencia natural a la flacidez y hacia la hipotonía tras padecer un trauma lesivo en la articulación. Por este motivo anatómico, son precisamente estos los músculos en los que el especialista debe centrarse para aplicar terapias de fortalecimiento y reactivación."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "Entrenar la fuerza isométrica y concéntrica de la pierna sana post-cirugía está contraindicado debido al fenómeno de robo de flujo sanguíneo, el cual atrofia y aumenta el dolor en la extremidad lesionada.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Activar la fuerza en la pierna contralateral es altamente beneficioso y provoca una menor pérdida de fuerza y masa muscular en el miembro inmovilizado, gracias a los efectos de estimulación del entrenamiento cruzado y las neuronas espejo. Esta práctica atenúa la rigidez y disminuye los umbrales de dolor experimentados por el paciente."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "¿De qué manera la falta de activación y déficit contráctil del músculo flexor largo del primer dedo desencadena un riesgo lesivo biomecánico extremadamente elevado en el Ligamento Cruzado Anterior?",
+      "options": [
+        "Fuerza un acortamiento fibrilar crítico de la pantorrilla tónica, restringiendo permanentemente la dorsiflexión sagital.",
+        "Anula el soporte funcional de la musculatura pelvitrocantérea como el glúteo medio, bloqueando toda la cadena lateral.",
+        "Obliga al tendón rotuliano a asumir las fuerzas axiles completas, induciendo roturas del polo inferior.",
+        "Elimina un punto clave del trípode plantar, colapsando la bóveda e induciendo un fuerte valgo de rodilla por pronación."
+      ],
+      "correct_answer": "Elimina un punto clave del trípode plantar, colapsando la bóveda e induciendo un fuerte valgo de rodilla por pronación.",
+      "feedback": "El flexor largo del primer dedo es el principal responsable mecánico de mantener la bóveda plantar alta y funcional. Si esta bóveda colapsa hacia adentro por falta de fuerza, se origina un movimiento de pronación que a su vez genera una rotación tibial interna. Toda esta cadena mecánica arrastra finalmente a la rodilla hacia adentro, provocando el valgo de rodilla causante de la rotura del ligamento."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Como exigencia posicional innegociable a pautar por el especialista para el domicilio, el atleta postquirúrgico jamás debe acostarse colocando almohadas elevando el hueco poplíteo, ya que es imperativo ____.",
+      "options": [
+        "frenar el drenaje linfático de la fosa rotuliana",
+        "priorizar el alcance de una rodilla estrictamente extendida a cero grados",
+        "neutralizar posibles espasmos reflejos del gemelo interno"
+      ],
+      "correct_answer": "priorizar el alcance de una rodilla estrictamente extendida a cero grados",
+      "feedback": "Colocar almohadas o rodillos bajo la rodilla fomenta una cómoda posición en flexión, pero esto entorpece severamente el alcance de la extensión de la articulación, dificultando gravemente la biomecánica de la marcha futura. La prioridad absoluta en la rehabilitación clínica es que la rodilla recupere la extensión completa, manteniéndose a cero grados durante el descanso."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "En todo tratamiento rehabilitador de rendimiento la planificación de ejercicios es clave, pero sin la instauración previa de la Fase Cero, las probabilidades de fracaso clínico se disparan. ¿Cuál es el objetivo matriz de dicha fase preliminar?",
+      "options": [
+        "Medir asimetrías totales en planos frontales para calibrar los reposos previos a la cadena cinética cerrada.",
+        "Estabilizar los índices hemodinámicos tempranos mediante crioterapia antes del testeo isocinético inicial.",
+        "Instruir al entorno familiar cercano en terapias manuales de drenaje profundo.",
+        "Obtener la confianza absoluta del atleta, neutralizar sus miedos y comunicar de manera transparente las fases futuras."
+      ],
+      "correct_answer": "Obtener la confianza absoluta del atleta, neutralizar sus miedos y comunicar de manera transparente las fases futuras.",
+      "feedback": "La Fase Cero tiene como objetivo central ganarse la confianza incondicional del deportista para transmitirle calma frente a la intervención. Si el paciente sufre de miedo e inseguridad ante lo que sucede en su cuerpo, el plan de entrenamiento prescrito no se podrá ejecutar correctamente y la rehabilitación se verá abocada al fracaso."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Sabiendo que, de forma refleja, la musculatura tónica tiende fisiológicamente al acortamiento defensivo ante el dolor y el daño tisular, ¿qué protocolo es el adecuado para lograr reducir dicho hipertono con éxito?",
+      "options": [
+        "Inmovilización funcional pasiva estricta alternada mediante vendajes rígidos por cinco horas.",
+        "Activaciones isométricas maximales intermitentes combinadas con elongaciones muy cortas y vigorosas.",
+        "Uso de termoterapia, rodajes con foam roller y estiramientos sostenidos de la estructura que superen los 90 segundos.",
+        "Sesiones intensivas de masajes percusores profundos orientados a desorganizar por saturación los nódulos dolorosos."
+      ],
+      "correct_answer": "Uso de termoterapia, rodajes con foam roller y estiramientos sostenidos de la estructura que superen los 90 segundos.",
+      "feedback": "La musculatura tónica, encargada de mantener la postura, reacciona siempre al acortamiento y la rigidez ante cualquier estímulo de dolor o lesión articular. Para lograr bajar su tono eficientemente, el especialista debe pautar elongaciones sostenidas que superen los 90 segundos, complementadas con termoterapia superficial y el uso terapéutico del foam roller para aumentar la viscosidad del tejido."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "Ante una musculatura tónica crónicamente acortada por dolor inflamatorio, está ampliamente indicado aplicar percusiones musculares y terapias manuales con penetración muy profunda, siempre que el paciente pueda soportar el pico nociceptivo máximo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Las percusiones y los abordajes manuales sobre estructuras musculares acortadas deben ser siempre livianos, superficiales y orientados al efecto relajante o descontracturante suave. Si una maniobra hiperprofunda desata dolor en el tejido, el cuerpo reaccionará con un efecto rebote, enviando señales de protección que endurecerán la zona y agravarán el acortamiento tónico."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "En el periodo de inflamación postoperatoria más agudo, introducir contracciones isométricas programadas desde los primeros días es uno de los recursos clínicos de mayor seguridad porque logra:",
+      "options": [
+        "Inhibir completamente a las fibras Tipo I para aislar el trabajo fásico sin dolor.",
+        "Modificar y suprimir la permeabilidad del injerto frente a agentes infecciosos intrahospitalarios.",
+        "Sostener la conexión neuromuscular y generar un bombeo mecánico para drenar líquidos sin estresar mecánicamente el injerto.",
+        "Preparar y ablandar la matriz de colágeno infraadyacente previo al trabajo excéntrico."
+      ],
+      "correct_answer": "Sostener la conexión neuromuscular y generar un bombeo mecánico para drenar líquidos sin estresar mecánicamente el injerto.",
+      "feedback": "Durante el trabajo puramente isométrico, se produce un nivel óptimo de activación muscular sin que se ejecute movimiento articular alguno, por lo que la delicada estructura del injerto no sufre estrés. Su principal función temprana es frenar la atrofia, despertar la conexión mente-músculo e inducir un movimiento de compresión local que ejerce un bombeo y drenaje sobre el derrame de la rodilla."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Para poder ofrecer verdaderas garantías biomecánicas de estabilidad frente a la exposición a cargas postquirúrgicas de un LCA reparado, la prioridad anatómica se aleja del cuádriceps y recae imperiosamente en el isquiotibial porque:",
+      "options": [
+        "Anula instantáneamente los espasmos del gemelo al forzar el decúbito prono pasivo.",
+        "Evita la transmisión de cargas excéntricas a las fibras abductoras pelvitrocantéreas.",
+        "Compensa simétricamente y aísla la exagerada y dolorosa caída medial del hueso calcáneo.",
+        "Funciona como un centinela mecánico que impide que la tibia se deslice excesivamente hacia adelante, tensando el injerto."
+      ],
+      "correct_answer": "Funciona como un centinela mecánico que impide que la tibia se deslice excesivamente hacia adelante, tensando el injerto.",
+      "feedback": "El isquiotibial posee una activa función protectora anatómica y propioceptiva respecto a la articulación central de la rodilla. Frente al cuádriceps, el isquiotibial actúa mecánicamente frenando y limitando que la meseta tibial se desplace bruscamente hacia anterior, bloqueando la posibilidad de que la nueva y frágil plastia alcance un punto crítico de tensión o ruptura prematura."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Durante un minucioso análisis clínico de un estancamiento funcional en la rodilla con un atleta de alto nivel, el Performance Sport Specialist asume que un 90-95% de estas disfunciones biomecánicas articulares tienen su origen oculto en:",
+      "options": [
+        "La degeneración patológica e imperceptible en la composición interna de los discos de menisco.",
+        "Problemas directos de rigidez o hipermovilidades instaladas en las articulaciones superiores o inferiores (supra e infraadyacentes).",
+        "El origen biológico, autólogo o de cadáver, de los injertos utilizados para construir la neoplastia.",
+        "Un fallo adaptativo genético intrínseco concentrado en las fibras musculares de Tipo IIa."
+      ],
+      "correct_answer": "Problemas directos de rigidez o hipermovilidades instaladas en las articulaciones superiores o inferiores (supra e infraadyacentes).",
+      "feedback": "A nivel de cadenas de movimiento, estadísticamente entre el 90% y el 95% de las disfunciones y dolores escondidos en una articulación tienen su verdadero desencadenante en disfunciones no corregidas originadas en las articulaciones situadas inmediatamente por encima o por debajo de ella, tales como el pie y la cadera."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "A pesar de la popularidad de metodologías como el yoga y la relajación en entornos deportivos, aplicar atención psicológica sobre un atleta asustado carece de toda relevancia mecánica o articular comprobable en las fases iniciales de una recuperación traumatológica.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El estrés somático, los miedos a la rotura y el pánico psicológico incrementan significativamente los niveles de tensión muscular periarticular en los pacientes recién salidos de quirófano. Intervenciones estructuradas con especialistas en psicología deportiva, visualizaciones de imaginería motora y técnicas de meditación y yoga han demostrado reducir con éxito el estado de estrés orgánico, lo cual baja la coraza muscular y acelera las ganancias netas de grados de flexoextensión."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "La sustitución quirúrgica total del LCA nativo por una plastia tendinosa elimina estructuralmente la compleja matriz de los mecanorreceptores originales. Este déficit neurológico supone la imposibilidad de conceder altas aceleradas porque, ante fuerzas extremas de cizalla, el cerebro ____.",
+      "options": [
+        "paraliza el ciclo vascular profundo bloqueando la llegada de oxígeno intraarticular",
+        "no recibe feedback posicional a tiempo para activar los isquiotibiales y frenar la elongación",
+        "crea un dolor fantasma forzando al sujeto a cargar el peso con la puntera en pronación"
+      ],
+      "correct_answer": "no recibe feedback posicional a tiempo para activar los isquiotibiales y frenar la elongación",
+      "feedback": "Los ligamentos poseen una altísima densidad de mecanorreceptores posturales vitales. Estos detectan el estiramiento excesivo y emiten un velocísimo pulso de advertencia al córtex cerebral. Al extirpar el ligamento roto, el cerebro queda temporalmente ciego. Sin este mecanismo de retroalimentación, no existirá la orden fulminante hacia los isquiotibiales para que se tensen y cortocircuiten un movimiento de elongación extremo antes de la ruptura de la plastia."
+    }
+  ]
+}
