@@ -1,0 +1,371 @@
+{
+  "class_title": "S&C Coaching and Performance Systems: Return to Play & Task Design",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Al analizar el perfil dinámico competitivo (Dynamic Competitive Profile) de un futbolista para fijar los objetivos de carga, ¿qué referencia temporal se utiliza como estándar óptimo?",
+      "options": [
+        "El promedio histórico de todas las temporadas previas del jugador",
+        "Los valores máximos absolutos registrados en la pretemporada",
+        "La media de los datos de los 3 o 4 partidos oficiales previos a la lesión",
+        "El rendimiento promedio del jugador que le sustituye en su demarcación"
+      ],
+      "correct_answer": "La media de los datos de los 3 o 4 partidos oficiales previos a la lesión",
+      "feedback": "Se busca devolver al jugador a su estado de forma inmediatamente anterior al evento lesivo, e incluso mejorarlo. Tomar como referencia la media de las métricas (distancia, High Speed Running) de los 3-4 últimos partidos disputados otorga una diana metabólica y neuromuscular altamente específica e individualizada."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Al carecer de tecnología de monitorización GPS en el equipo, una estrategia válida para cuantificar la carga de la sesión es multiplicar la Percepción Subjetiva del Esfuerzo (RPE) por el tiempo y por ____.",
+      "options": [
+        "la complejidad de la tarea",
+        "el estado de hidratación",
+        "la carga máxima levantada"
+      ],
+      "correct_answer": "la complejidad de la tarea",
+      "feedback": "Multiplicar el RPE por los minutos de trabajo y ponderarlo (del 1 al 10) según la demanda motriz y cognitiva de la tarea permite obtener una estimación robusta, reproducible y validada de la carga interna y estrés sistémico que asimila el jugador ante la falta de dispositivos externos."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Los test físicos y biomecánicos deben emplearse fundamentalmente para predecir de forma estadística si un futbolista va a sufrir una lesión durante la temporada.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La evaluación sirve como medida de prevención, no de predicción. Basarse puramente en test para 'predecir' descartaría a gran cantidad de jugadores aptos y en activo. El objetivo clínico es detectar disfunciones o asimetrías para diseñar intervenciones diarias preventivas (píldoras de fuerza o liberación) adaptadas al historial lesivo."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Biomecánicamente, la 'Rugby Squat' presenta una ventaja sustancial frente a la sentadilla paralela tradicional en la readaptación del recto anterior femoral porque:",
+      "options": [
+        "Aísla la cadena posterior eliminando por completo la participación estabilizadora del core rotacional.",
+        "Provoca una extensión de cadera simultánea a la flexión de rodilla, replicando la exposición máxima del golpeo.",
+        "Reduce el torque en el tendón rotuliano al evitar rígidamente que la rodilla sobrepase la punta del pie.",
+        "Maximiza la velocidad concéntrica al suprimir el impacto del ciclo estiramiento-acortamiento de la zancada."
+      ],
+      "correct_answer": "Provoca una extensión de cadera simultánea a la flexión de rodilla, replicando la exposición máxima del golpeo.",
+      "feedback": "El mecanismo lesional y la mayor exigencia excéntrica del recto femoral en el fútbol ocurren durante el golpeo, donde la cadera se extiende y la rodilla se flexiona, estirando al máximo este músculo biarticular. La sentadilla tradicional acorta el recto a nivel proximal, mientras que la Rugby Squat imita su elongación funcional."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "La regla tradicional de no incrementar la carga de entrenamiento más de un 10% semanal es la métrica más fiable para evitar recaídas en el Acute Chronic Work Ratio (ACWR) de jugadores lesionados.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Esta regla falla estrepitosamente en readaptación porque la carga crónica previa del jugador es prácticamente nula. Cualquier estímulo inicial de carrera en campo genera picos estadísticos que superan artificialmente el 80% o 120%, exigiendo desechar este cálculo y acortar el ratio agudo/crónico a ventanas más cortas (ej. 3/7 días)."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el comportamiento cinemático distintivo de un dispositivo inercial (flywheel) frente a una máquina axial guiada (como la Smith machine) en los últimos grados articulares de una extensión de rodilla?",
+      "options": [
+        "La resistencia inercial decae a cero absoluto, eliminando la fase excéntrica y la tensión mecánica de los tendones.",
+        "Obliga a mantener una aplicación de fuerza constante, generando un pico máximo de velocidad en la transición excéntrico-concéntrica.",
+        "Bloquea mecánicamente la articulación, aislando el esfuerzo de empuje exclusivamente en el tejido miotendinoso profundo.",
+        "Transfiere toda la carga gravitacional hacia los discos vertebrales, exigiendo mayor coactivación protectora del core."
+      ],
+      "correct_answer": "Obliga a mantener una aplicación de fuerza constante, generando un pico máximo de velocidad en la transición excéntrico-concéntrica.",
+      "feedback": "En los medios gravitacionales sin salto, la velocidad y la fuerza caen a cero en los grados finales de extensión para no despegar del suelo. En contraste, los dispositivos inerciales retienen y devuelven la energía, obligando al sistema a soportar una resistencia constante y alcanzar picos de velocidad máximos justo en la transición del movimiento (ej. al extender por completo en una yo-yo squat)."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Activar la cadena muscular posterior mediante ejercicios excéntricos (como la patada en polea cónica) resulta clínicamente útil en una lesión del recto anterior porque ayuda a ____.",
+      "options": [
+        "inhibir la cadena anterior",
+        "aumentar la inflamación local",
+        "aislar el daño tisular"
+      ],
+      "correct_answer": "inhibir la cadena anterior",
+      "feedback": "Por el principio neuromuscular de inhibición recíproca, generar tensión específica en los músculos antagonistas (isquiosurales) provoca una relajación clínica y reducción del tono en la cadena agonista (recto femoral). Esta técnica protege el tejido en fase de regeneración al tiempo que evita el desentrenamiento del jugador."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "Un jugador cuya telemetría evidencia que ha superado holgadamente el 100% de la distancia y Player Load del día de mayor intensidad del equipo (MD-3), certifica con esos datos estar apto para jugar 90 minutos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Existe una gran discrepancia metabólica entre el 'alta de entrenamiento' y el 'alta de competición'. Alcanzar o superar la métrica de un entrenamiento intensivo (MD-3) puede representar apenas el 40% o 50% de las exigencias reales de un partido oficial. Utilizar datos de entrenamiento para validar minutos competitivos totales expone al jugador a una recidiva garantizada."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Al evaluar los test de campo cualitativos de carrera submáxima (como el L-run o el T-test) antes de exponer al deportista a sprints absolutos, se considera un indicador de incapacidad para asimilar la repetición de esfuerzos si se observa:",
+      "options": [
+        "Un aumento en la frecuencia cardíaca superior a 160 latidos por minuto en los primeros 10 segundos de la prueba.",
+        "Un decrecimiento de la velocidad de ejecución o un deterioro del patrón motriz igual o superior al 10%.",
+        "Una activación isométrica excesiva en la cadena posterior detectada mediante electromiografía de superficie.",
+        "Una asimetría de contacto en el step balance menor al 5% en cambios de dirección cerrados de 45 grados."
+      ],
+      "correct_answer": "Un decrecimiento de la velocidad de ejecución o un deterioro del patrón motriz igual o superior al 10%.",
+      "feedback": "Los test cualitativos submáximos buscan evaluar la tolerancia mecánica y de control postural frente a la fatiga. Si al repetir el circuito direccional la velocidad del jugador decae un 10% o su técnica de frenado se desvirtúa, se corrobora que sus estructuras aún no están adaptadas biológicamente para tolerar de forma segura la carga crítica del sprint."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "La transición metodológica de enfocarse exclusivamente en curar el tejido dañado hacia preparar al jugador globalmente para la competición se denomina cambio del 'Rehab Focus' al ____.",
+      "options": [
+        "Reconditioning Focus",
+        "Dynamic Profile",
+        "Tactical Control"
+      ],
+      "correct_answer": "Reconditioning Focus",
+      "feedback": "El 'Rehab Focus' limita su radio de acción a la lesión como estructura anatómica aislada. El 'Reconditioning Focus' evoluciona y entiende al deportista como un sistema hipercomplejo, abordando sus esferas de readaptación física, madurez técnico-táctica y estabilidad psicológica para transicionar fluidamente de la camilla al máximo rendimiento."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Según la evidencia sobre la tolerancia a la carga expuesta por Tim Gabbett, ¿por qué resulta un grave error prescribir ventanas de recuperación celular estandarizadas para cualquier sesión neuromuscular?",
+      "options": [
+        "Porque las sesiones de hipertrofia máxima anulan por completo los beneficios aeróbicos del tejido fascial en menos de 24 horas.",
+        "Porque el impacto mecánico varía drásticamente: una isometría máxima exige 4-8 horas de recuperación, mientras un estrés excéntrico agudo demanda más de 48-72 horas.",
+        "Porque el sistema de geolocalización GPS no logra capturar ni cuantificar el ratio metabólico exacto de la carga interna de los isquiosurales.",
+        "Porque la cicatrización tisular depende exclusivamente de las variaciones del volumen total de kilómetros recorridos semanalmente a ritmos bajos."
+      ],
+      "correct_answer": "Porque el impacto mecánico varía drásticamente: una isometría máxima exige 4-8 horas de recuperación, mientras un estrés excéntrico agudo demanda más de 48-72 horas.",
+      "feedback": "El ritmo celular de reparación es directamente proporcional al tipo de daño inducido. Las isometrías generan escasa destrucción estructural (requiriendo apenas unas horas). Por el contrario, los trabajos excéntricos severos (nórdicos prolongados, frenadas máximas) causan un daño fibrilar masivo que obliga a espaciar los estímulos homólogos entre 48 y 72 horas para prevenir roturas secundarias."
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "La tecnología GPS es capaz de capturar de manera integral todo el estrés físico, cardiovascular y neuromuscular al que se somete un jugador, haciendo redundante la monitorización del trabajo en el gimnasio.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El sistema GPS presenta graves limitaciones en recintos cerrados. No registra en absoluto la potencia generada, la tensión excéntrica, el volumen levantado ni el HIIT cardiovascular realizado en la sala de fuerza o ergómetros. Ignorar este impacto provoca que la ratio Agudo/Crónico se subestime peligrosamente, enmascarando el riesgo real de sobreentrenamiento del atleta."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Al monitorizar la volumetría en el panel de control de rendimiento, la representación gráfica del Eje Z o 'profundidad del esfuerzo' proporciona un contexto metabólico crítico porque relaciona:",
+      "options": [
+        "La frecuencia cardíaca basal matutina con el consumo máximo de oxígeno durante los desplazamientos ortogonales continuos.",
+        "La carga gravitacional soportada en un entorno guiado con la sobrecarga excéntrica generada por la inercia de la polea cónica.",
+        "Los metros absolutos acumulados a alta intensidad (High Speed Running o Sprint) en relación estrecha al volumen de la Distancia Total.",
+        "La sumatoria del tiempo de vuelo vertical en cada salto respecto al índice de masa corporal y el somatotipo del propio deportista."
+      ],
+      "correct_answer": "Los metros absolutos acumulados a alta intensidad (High Speed Running o Sprint) en relación estrecha al volumen de la Distancia Total.",
+      "feedback": "Interpretar el High Speed Running de forma aislada carece de profundidad clínica. El Eje Z revela la 'densidad' de la tarea: no desencadena la misma destrucción muscular ejecutar 500 metros a alta velocidad distribuidos laxamente en una sesión de 8 km, que acumular exactamente esos mismos 500 metros explosivos concentrados en un circuito extenuante de apenas 4 km."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "El estadio final de la integración deportiva, que persigue que el jugador interprete instintivamente los espacios, coopere con compañeros y tolere la oposición, recibe el nombre de readaptación ____.",
+      "options": [
+        "táctica",
+        "isométrica",
+        "lineal"
+      ],
+      "correct_answer": "táctica",
+      "feedback": "Una vez restituida la anatomía, el éxito radica en la readaptación táctica. Esta fase devuelve al deportista su pericia para descifrar la lógica interna del juego (incertidumbre, ritmo, toma de decisiones), permitiéndole ejecutar su rol sin colapsar cognitivamente y disminuyendo drásticamente las probabilidades de una re-lesión por estrés situacional."
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "question": "Si un jugador lesionado comunica un nivel de RPE (carga interna) muy alto tras una sesión metodológicamente suave de muy baja carga externa, es señal inequívoca de supercompensación e incremento del rendimiento.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Esa discrepancia radical indica todo lo contrario: una adaptación fisiológica negativa o un 'readiness' deprimido. Cuando tareas teóricamente ligeras se perciben como agotadoras, entran en juego factores silentes como alteración del sueño, estrés emocional agudo o inflamación tisular residual, obligando al profesional a reducir de inmediato la carga planificada."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "En el diseño secuencial de los contenidos para la reeducación funcional de una rotura muscular grave, ¿qué progresión metodológica salvaguarda mejor los estadios de curación tisular y tolerancia articular?",
+      "options": [
+        "Trabajo Concéntrico Analítico -> Pliometría Vertical -> Activaciones Isométricas -> Excéntricos Específicos de alta velocidad.",
+        "Activaciones Isométricas -> Contracción Concéntrica -> Ciclo Estiramiento-Acortamiento (CEA) -> Excéntricos -> Pliometría Reactiva.",
+        "Ciclo Estiramiento-Acortamiento (CEA) -> Activaciones Isométricas -> Excéntrico Supra-máximo -> Trabajo Concéntrico Lento.",
+        "Pliometría Reactiva Bipodal -> Isometría Analítica Mantenida -> Trabajo Concéntrico -> Excéntrico de Sobrecarga Puntual."
+      ],
+      "correct_answer": "Activaciones Isométricas -> Contracción Concéntrica -> Ciclo Estiramiento-Acortamiento (CEA) -> Excéntricos -> Pliometría Reactiva.",
+      "feedback": "La escala del daño tisular exige una jerarquía mecanicista: se arranca con tensión isométrica carente de movimiento articular para reactivar sin cizallamiento. Le sigue el dominio del rango acortado (Concéntrico). Posteriormente se introduce energía leve de rebote (CEA) que escala hacia la máxima exigencia de frenado (Excéntricos), culminando con la absorción y reactividad total de los saltos e impactos (Pliometría)."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "A nivel conceptual, dotar al deportista de una gran amplitud de recursos coordinativos y variabilidad articular para resolver situaciones caóticas sin lesionarse se define metafóricamente como enriquecer su ____.",
+      "options": [
+        "paleta de colores",
+        "carga aguda",
+        "test isométrico"
+      ],
+      "correct_answer": "paleta de colores",
+      "feedback": "Reducir la readaptación a movimientos lineales y simples fabrica un jugador motormente pobre. Exponerlo a perturbaciones, vectores multidireccionales y tareas complejas expande sus opciones de respuesta subconsciente (su 'paleta de colores'), ofreciéndole el acervo propioceptivo necesario para proteger su estructura en el caos inherente de la competición."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "¿Qué utilidad biométrica primordial persigue la implementación del test cualitativo 'L-run' trazado con las delimitaciones exactas del área de saque de esquina (9,15 metros)?",
+      "options": [
+        "Aislar la curva de fuerza concéntrica del glúteo medio mediante desplazamientos amplios en un vector puramente sagital.",
+        "Cuantificar matemáticamente el porcentaje milimétrico de atrofia muscular cruzada tras una inmovilización de escayola de cuatro semanas.",
+        "Validar con precisión de laboratorio la asimetría de la zancada máxima bajo estándares idénticos a las pruebas del atletismo indoor.",
+        "Evaluar cualitativamente los cambios de dirección cerrados de 90º y 180º enclaustrados en un entorno de distancias representativas del fútbol."
+      ],
+      "correct_answer": "Evaluar cualitativamente los cambios de dirección cerrados de 90º y 180º enclaustrados en un entorno de distancias representativas del fútbol.",
+      "feedback": "Al utilizar las líneas normativas de la distancia de barrera (9,15m), el L-run impone frenadas bruscas, pivotes en 90 grados y retornos forzados de 180 grados dentro de una escala espacial tremendamente reconocible para el jugador. Esto permite examinar si la técnica decelerativa del atleta claudica bajo la fatiga del recorrido específico."
+    },
+    {
+      "id": 19,
+      "type": "true_false",
+      "question": "Durante la etapa de integración parcial al grupo, el trabajo compensatorio de fuerza debe centrarse en rutinas de hipertrofia severa y máximo volumen para proteger las estructuras frente a los contactos de los rivales.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "En el periodo de transición grupal, el futbolista ya tolera el brutal estrés de las tareas del míster. Someterlo a volúmenes de hipertrofia exhaustiva induciría fatiga residual nociva. La musculatura se mantiene mediante 'microdosis' cualitativas post-entrenamiento (ej. 2-3 series de contrastes muy cortos) que activan la vía neural de la fuerza o potencia sin restar frescura celular."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "En el contexto patológico, una lesión estructural localizada en la región de los isquiosurales impone una estricta limitación temporal en campo para asimilar y exponerse a ____.",
+      "options": [
+        "las velocidades altas",
+        "los impactos estáticos",
+        "las recepciones frontales"
+      ],
+      "correct_answer": "las velocidades altas",
+      "feedback": "Biomecánicamente, la elongación y tensión de ruptura sobre el complejo isquiosural alcanza su zenit durante la fase excéntrica del ciclo de vuelo en la carrera de alta velocidad y el sprint absoluto. Por ello, la reincorporación al High Speed Running requiere plazos extensos y dosificaciones quirúrgicas en esta patología respecto a otras zonas."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Para estimular respuestas de ajuste instantáneo y la toma de decisiones intrarrepetición en el deportista lesionado (Dual Task), el readaptador debe generar contextos de incertidumbre mediante eventos ____.",
+      "options": [
+        "estocásticos",
+        "isométricos",
+        "lineales"
+      ],
+      "correct_answer": "estocásticos",
+      "feedback": "La inclusión de eventos estocásticos —comandos visuales imprevistos, indicaciones de colores o alteraciones bruscas de la resistencia de una polea— forjan un caos metodológico controlado. Este entorno fuerza al jugador a recalcular en fracciones de segundo la activación de sus fibras musculares estabilizadoras, preparándole eficazmente para el entorno imprevisible del juego real."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Cuando se interviene tempranamente en un esguince articular superficial con una previsión de inactividad inferior a 14 días, la pauta metodológica central que articula el microciclo semanal debe ser la de:",
+      "options": [
+        "Sobrecargar la extremidad no afectada de manera sistemática para inducir una respuesta hipertrófica neuro-cruzada.",
+        "Cesar tajantemente toda intervención condicional para no interferir negativamente con la fagocitosis del hematoma.",
+        "Priorizar el mantenimiento del umbral aeróbico y la fuerza central, mitigando cualquier desentrenamiento profundo del sistema.",
+        "Reestructurar la biomecánica intrínseca de la marcha valiéndose exclusivamente de estimulaciones pasivas de la planta del pie."
+      ],
+      "correct_answer": "Priorizar el mantenimiento del umbral aeróbico y la fuerza central, mitigando cualquier desentrenamiento profundo del sistema.",
+      "feedback": "Las inactividades breves no provocan un menoscabo irreversible de la estructura condicional. El fin primordial es salvaguardar los cimientos cardiovasculares y musculares globales a través del core o ergómetros sin impacto, logrando que el día que desaparece la sintomatología clínica, el jugador también goce automáticamente del alta competitiva sin carencias secundarias."
+    },
+    {
+      "id": 23,
+      "type": "true_false",
+      "question": "Una praxis de élite exige modelar el 'Return to Play' basándose en protocolos de recuperación cerrados y matemáticos que certifiquen el éxito independientemente de la edad madurativa o el historial previo del futbolista.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El autor rechaza visceralmente los dogmas y los manuales estandarizados ('recetas'). La readaptación es un ecosistema puramente dinámico e irrepetible condicionado por innumerables factores intrínsecos y extrínsecos. La progresión jamás calcará protocolos idénticos, ni tan siquiera cuando se trata del mismo jugador padeciendo exactamente la misma recidiva."
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "La interpretación de los hallazgos de dinamometría analítica y los déficits posturales del jugador sirve operativamente para recetar intervenciones correctivas diarias de carácter muy breve conocidas como ____.",
+      "options": [
+        "preventivos individualizados",
+        "sobrecargas de lactato",
+        "baterías de predicción"
+      ],
+      "correct_answer": "preventivos individualizados",
+      "feedback": "Los test no sirven de predictores inamovibles de lesiones futuras. Extraer la radiografía de las debilidades y asimetrías de fuerza dota de sentido clínico a la creación de rutinas preventivas a medida (píldoras de activación excéntrica y movilidad fascial) que el jugador deberá asumir metódicamente antes de arrancar cada jornada en el campo de entrenamiento."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Al guiarse por el Dynamic Competitive Profile en lesiones estructurales largas, el readaptador exige asimilar volúmenes metabólicos de entre el 60% y el 80% del valor de la carga ____ antes de permitir la inserción grupal.",
+      "options": [
+        "colectiva",
+        "basal",
+        "excéntrica"
+      ],
+      "correct_answer": "colectiva",
+      "feedback": "Para minimizar el profundo choque fisiológico del reingreso, el readaptador simula solitariamente los picos de intensidad táctica en las tareas aisladas, persiguiendo consolidar tolerancias de trabajo equivalentes al 60% u 80% de lo que asume el grupo entero en sus entrenamientos críticos (MD-3/MD-4). Solo rebasado este umbral se avala el ingreso seguro del atleta."
+    },
+    {
+      "id": 26,
+      "type": "true_false",
+      "question": "En el transcurso de la reeducación funcional mediante dispositivos inerciales rotatorios, ejecutar perturbaciones manuales desestabilizantes al cuerpo del jugador entorpece negativamente su recuperación al falsear la absorción de potencia.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Contrario a entorpecer, la imposición de resistencias manuales sorpresivas y empujes anulan la previsibilidad biomecánica y propulsan un estado de 'caos' neural provechoso. Esto incentiva las sinergias coordinativas del jugador y forja la coraza propioceptiva imprescindible para salvaguardar sus ligamentos frente a contactos inesperados durante los choques del deporte real."
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "En las primeras etapas de regeneración biológica tisular, ¿qué parámetro cualitativo aporta una seguridad clínica fundamental para autorizar el avance hacia cargas excéntricas y pliométricas?",
+      "options": [
+        "El control ecoguiado y la validación de la maduración de la cicatriz por parte de fisioterapia.",
+        "La reducción absoluta del dolor percibido durante la palpación estática profunda del vientre muscular.",
+        "La capacidad neuromuscular del jugador para ejecutar 20 sentadillas libres sin perder la alineación postural.",
+        "El registro sistemático de una frecuencia cardíaca en reposo idéntica a los valores marcados en la pretemporada estival."
+      ],
+      "correct_answer": "El control ecoguiado y la validación de la maduración de la cicatriz por parte de fisioterapia.",
+      "feedback": "Por excelente que sea la adaptación motriz del jugador y nula su manifestación de dolor, dar el salto hacia impactos severos, arranques bruscos o tracciones violentas requiere obligatoriamente del contraste con imágenes médicas directas (ecografías o resonancias) que certifiquen materialmente la solidez de las fibras de colágeno cicatrizado."
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "Entendiendo la abrumadora complejidad del 'espectro de atención', ¿cuál es la razón primordial para introducir tareas metodológicas de atención dividida y estímulos caóticos con el balón antes del alta deportiva final?",
+      "options": [
+        "Reducir drásticamente la frecuencia cardíaca basal del deportista al obligarlo a pensar detenidamente en lugar de correr intensamente.",
+        "Automatizar exclusivamente el movimiento mecánico de la articulación dañada para aislarla definitivamente del sistema nervioso autónomo.",
+        "Evaluar y mejorar la fluidez de respuesta motriz subconsciente del jugador ante situaciones de incertidumbre reales con oposición.",
+        "Compensar la profunda falta de fuerza hipertrófica provocando una coactivación sostenida en absolutamente todas las cadenas musculares."
+      ],
+      "correct_answer": "Evaluar y mejorar la fluidez de respuesta motriz subconsciente del jugador ante situaciones de incertidumbre reales con oposición.",
+      "feedback": "El fútbol no acata secuencias predecibles. Someter a la mente del jugador a bifurcaciones decisionales bajo niveles altos de asfixia metabólica entrena la vía neural para automatizar la técnica y el control postural inmerso en la anarquía del partido, previniendo recaídas severas nacidas a raíz de un fallo o cortocircuito de ajuste ante los movimientos de un rival o compañero."
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Al regirse por el axioma de la 'Correspondencia Dinámica' de Gerard Moras, la evolución de un ejercicio que busque restituir la funcionalidad avanza inevitablemente desde una habilidad motriz básica hacia tareas:",
+      "options": [
+        "Exclusivamente analíticas y confinadas a máquinas excéntricas puras en ambientes de resistencia asépticos.",
+        "Eminentemente estructurales al inicio, virando después hacia dinámicas muy específicas, finalizando en arquitecturas globales e inciertas.",
+        "Basadas en contracciones excéntricas supra-máximas instauradas metódicamente desde la primera semana de cicatrización tisular.",
+        "Enclaustradas en circuitos perimetrales de resistencia aeróbica continua ignorando deliberadamente los vectores horizontales de fuerza."
+      ],
+      "correct_answer": "Eminentemente estructurales al inicio, virando después hacia dinámicas muy específicas, finalizando en arquitecturas globales e inciertas.",
+      "feedback": "La progresión en rehabilitación emana desde el reseteo de los patrones de carga pesada básica (sentadillas en el plano sagital), integrando después vectores direccionales (unilaterales, rotaciones) para acercarse orgánicamente a la técnica gestual del deporte, y coronando la pirámide mediante la inserción de incertidumbre, balones y un contexto marcadamente global."
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "¿Qué mutación metodológica profunda comporta adoptar conceptualmente el rol de profesional bajo el paradigma del 'Reconditioning Focus' en lugar de someterse al clásico 'Rehab Focus'?",
+      "options": [
+        "Limitar el análisis evaluativo puramente a cotejar las estadísticas de volumen del GPS tras la sesión táctica del microciclo.",
+        "Encapsular la biomecánica curativa sobre el tendón dañado ignorando sistemáticamente el engranaje emocional de la mente del jugador.",
+        "Abandonar la cura de la 'lesión' para focalizarse incisivamente en la persona entendiéndola como un ecosistema hipercomplejo y multidimensional.",
+        "Primar jerárquicamente el arsenal terapéutico o farmacológico por encima del entrenamiento orgánico en el terreno de juego."
+      ],
+      "correct_answer": "Abandonar la cura de la 'lesión' para focalizarse incisivamente en la persona entendiéndola como un ecosistema hipercomplejo y multidimensional.",
+      "feedback": "Un fisioterapeuta clásico anclado en el 'Rehab Focus' delimita su radio hacia sanar una estructura anatómica delimitada. Dar el salto mental al Reconditioning Focus implica asumir la responsabilidad de gestionar las oscilaciones condicionales, habilidades tácticas, miedos psicológicos y determinantes ambientales que envuelven a la persona en todo su espectro bio-psico-social, optimizando su inserción real de vuelta a la élite."
+    }
+  ]
+}
