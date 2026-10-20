@@ -1,0 +1,227 @@
+{
+  "class_title": "El modelo de sincronización de estímulos en el microciclo competitivo",
+  "total_questions": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "question": "En las etapas formativas de los deportistas, se debe priorizar sistemáticamente el trabajo de campo sobre el gimnasio al inicio de la sesión para asegurar la máxima calidad en la comprensión táctica específica.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "En etapas formativas, la recomendación técnica es priorizar la calidad neuromuscular y formar atletas como objetivo primario. Ubicar el gimnasio antes del trabajo de campo garantiza que el sistema nervioso reciba los estímulos clave estando completamente fresco, maximizando las adaptaciones estructurales."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Según el principio de concentración del estrés fisiológico derivado del modelo High Load, ¿cuál es la premisa fundamental para el diseño arquitectónico de un microciclo competitivo?",
+      "options": [
+        "Distribuir de forma homogénea las cargas de fuerza durante toda la semana para no sobrepasar nunca el umbral teórico de lesión musculoesquelética.",
+        "Concentrar las máximas demandas neuromusculares en un único día para garantizar posteriormente jornadas completas de recuperación integral de ese sistema.",
+        "Alternar estrictamente el trabajo en sala y el trabajo en campo en días distintos para evitar el efecto de solapamiento del entrenamiento concurrente.",
+        "Eliminar por completo las sesiones de bajo impacto en favor de sesiones de densidad metabólica alta implementando micropausas constantes."
+      ],
+      "correct_answer": "Concentrar las máximas demandas neuromusculares en un único día para garantizar posteriormente jornadas completas de recuperación integral de ese sistema.",
+      "feedback": "El modelo original de Charles Francis dictamina que los días de alta carga (high) deben aglutinar al máximo el estímulo estresor en esa jornada. Esto permite generar verdaderos días protectores y de recuperación (low), asegurando que el organismo disponga de la resiliencia y recursos para consolidar la adaptación producida."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "En el bloque final o 'reset' de una sesión regenerativa de gimnasio pospartido, se aplican de manera específica pautas respiratorias lentas que rondan aproximadamente ____.",
+      "options": [
+        "seis ciclos por minuto",
+        "doce ciclos por minuto",
+        "dos ciclos por minuto"
+      ],
+      "correct_answer": "seis ciclos por minuto",
+      "feedback": "El ritmo controlado de unas seis respiraciones por minuto (apoyado en la ciencia, como los estudios de Laborde) favorece de forma óptima la reactivación vagal. Esto activa el sistema nervioso parasimpático y facilita un estado de calma, resultando crucial para la recuperación autónoma posesfuerzo."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Para alinear milimétricamente las intenciones en el día de máxima Velocidad, ¿qué características biomecánicas deben imperar al seleccionar los ejercicios derivados de halterofilia o de pliometría en la sala de fuerza?",
+      "options": [
+        "Pliometría profunda con fase excéntrica lenta y levantamientos olímpicos que demanden un gran recorrido de amortiguación o frenado.",
+        "Tensión continua isométrica combinada con movimientos olímpicos colgados y cadencias lentas para hipertrofia de fibras rápidas.",
+        "Movimientos explosivos con mínima fase decelerativa y ciclos de estiramiento-acortamiento muy rápidos y sumamente reactivos.",
+        "Ejercicios auxiliares con predominancia del plano transversal controlando la rotación mediante la desaceleración de cargas mecánicas pesadas."
+      ],
+      "correct_answer": "Movimientos explosivos con mínima fase decelerativa y ciclos de estiramiento-acortamiento muy rápidos y sumamente reactivos.",
+      "feedback": "La intención única del día de velocidad es expresar el mayor rendimiento en el menor tiempo posible (acelerar hasta proyectar). Las variantes con escasa o nula fase decelerativa garantizan que la intención motriz sea puramente acelerativa, sin que el sistema nervioso sufra las interferencias mecánicas inhibitorias que provoca el tener que frenar una carga."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Para introducir variables de demanda cognitiva (incertidumbre o toma de decisión guiada) en el entorno del gimnasio, es indispensable evitar aplicar esta estrategia en los ejercicios estructurales de fuerza máxima porque dicha alteración ____.",
+      "options": [
+        "reduce la reactivación vagal",
+        "ensucia la ejecución técnica",
+        "disminuye la densidad del entrenamiento"
+      ],
+      "correct_answer": "ensucia la ejecución técnica",
+      "feedback": "Incorporar estímulos externos o toma de decisiones reactivas genera incertidumbre atencional. En ejercicios que demandan la máxima producción de fuerza (VBT, sentadilla pesada), esto perjudica la limpieza de la ejecución mecánica y reduce sustancialmente el reclutamiento máximo de unidades motoras requerido en la programación."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "En el marco metodológico de la sincronización, el principio de 'Intención Única' establece que el organismo identifica y clasifica neurológicamente si el origen de la contracción muscular sucede en el césped o durante un levantamiento en la sala de pesas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. El principio axial del modelo sostiene precisamente lo contrario: el organismo NO distingue entre un contexto de campo o de gimnasio, únicamente percibe y responde al estrés que recibe la musculatura. Por esta razón biológica, es indispensable que ambos entornos persigan simultáneamente la misma firma de estrés y coste fisiológico."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "En la sesión con mayor carga y demanda neuromuscular de la semana (MD-4 o MD-3), ¿qué enfoque técnico y estructural se debe implementar rigurosamente en el diseño del trabajo auxiliar de fuerza?",
+      "options": [
+        "Aislamiento puro en isometría de larga duración para evitar micro-roturas musculares tempranas en la semana.",
+        "Implementación de circuitos metabólicos focalizados exclusivamente en tren superior suprimiendo las pausas largas.",
+        "Añadir estímulos con fuerte control multiplanar y dinámicas de sobrecarga excéntrica para inducir y fortalecer la tolerancia estructural.",
+        "Emplear movimientos olímpicos completamente lanzados minimizando al máximo la manifestación concéntrica de la fuerza."
+      ],
+      "correct_answer": "Añadir estímulos con fuerte control multiplanar y dinámicas de sobrecarga excéntrica para inducir y fortalecer la tolerancia estructural.",
+      "feedback": "El día de alta carga neuromuscular (alejado de la competición) es el momento fisiológico idóneo dentro de la arquitectura semanal para incorporar el trabajo excéntrico de alta velocidad y un exhaustivo control multiplanar, induciendo adaptaciones estructurales robustas y mejorando la tolerancia mecánica del tejido."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Durante las sesiones exclusivas de velocidad pura, los índices de estrés metabólico general se reducen sustancialmente porque la consecución de este estímulo neuromuscular concreto exige de forma innegociable emplear descansos sumamente ____.",
+      "options": [
+        "inestables",
+        "amplios",
+        "activos"
+      ],
+      "correct_answer": "amplios",
+      "feedback": "Para alcanzar la máxima velocidad intencionada de ejecución y mantener una calidad óptima de reclutamiento neural sin caída del rendimiento, es obligatorio incorporar recuperaciones prolongadas (amplias) entre sprints. Al perder densidad y evitar acumulación, el estrés de las vías glucolíticas metabólicas cae considerablemente."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "En la sesión de activación precompetitiva (MD-1), se propone un entrenamiento de contrastes para generar un efecto Priming. ¿Qué modelo operativo permite exponer al sistema nervioso a los diferentes rangos de la curva fuerza-velocidad eludiendo la acumulación de fatiga residual?",
+      "options": [
+        "Fase de sobrecarga excéntrica muy densa, complementada con pliometría profunda, fase decelerativa larga y aceleraciones vectoriales en rampa.",
+        "Ejecución de levantamientos olímpicos a altas repeticiones repetitivas, isometrías de muy larga duración y saltos reactivos a una pierna.",
+        "Overcoming isometrics logrando picos de fuerza, ejercicios olímpicos o pliometría cargada buscando potencia, y finalmente pliometría reactiva sin lastre para la velocidad.",
+        "Sentadillas completas superando el fallo mecánico combinadas en triserie con transiciones aeróbicas sostenidas y cambios de dirección elásticos."
+      ],
+      "correct_answer": "Overcoming isometrics logrando picos de fuerza, ejercicios olímpicos o pliometría cargada buscando potencia, y finalmente pliometría reactiva sin lastre para la velocidad.",
+      "feedback": "Esta progresión micro-dosificada y estructurada (isometría máxima -> estímulo potente cargado -> gesto reactivo veloz y ligero) barre eficientemente todos los segmentos de la curva fuerza-velocidad. Recluta unidades motoras de alto umbral creando un efecto PAPE (Post-Activation Performance Enhancement), sin provocar fatiga por volumen."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "Para alinear con éxito una sesión táctica de alto volumen locomotor en el gimnasio, el planteamiento ideal exige crear circuitos metabólicos de tren inferior, con el objetivo de llevar al extremo la resistencia muscular específica de las piernas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "En las jornadas de volumen locomotor, el hemisferio inferior ya ha soportado o soportará una enorme carga mecánica debida al intenso kilometraje acumulado en el campo. La prescripción correcta desplaza la densidad y la repetición de los esfuerzos hacia el hemisferio superior mediante circuitos de luchas o cargas de brazos para mantener la tensión sistémica preservando las piernas."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "En la periodización moderna de la temporada usando el marco de la sincronización de estímulos, ¿qué fundamento estructural se considera el anclaje del modelo y qué variables están obligadas a someterse a evolución constante?",
+      "options": [
+        "La intención de juego y el modelo táctico permutan cada mes, pero la dosis de esfuerzo se ancla invariablemente al contexto formativo.",
+        "La arquitectura general de las sesiones del microciclo prevalece estable, mientras que la dosis (volumen, intensidad, densidad y complejidad) evoluciona progresivamente.",
+        "Los estímulos primarios del gimnasio se rotan aleatoriamente mes a mes, mientras que el diseño fisiológico de las tareas de campo permanece estrictamente inmutable.",
+        "Las demandas cognitivas se elevan gradualmente durante los once meses, pero los días de alta carga quedan descartados si se detectan signos incipientes de fatiga aguda."
+      ],
+      "correct_answer": "La arquitectura general de las sesiones del microciclo prevalece estable, mientras que la dosis (volumen, intensidad, densidad y complejidad) evoluciona progresivamente.",
+      "feedback": "La periodización sólida requiere otorgar estabilidad temporal conservando el esquema del orden de intenciones de carga del microciclo (cuándo toca día high, día velocidad, etc.), y aplicar las adaptaciones ondulando inteligentemente la intensidad, el volumen, la dosis y la complejidad en base al periodo (Desarrollo, Consolidación o Mantenimiento)."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "En la sesión compensatoria pospartido (MD+1) destinada a suplentes o reservas, aparte de recuperar picos de fuerza neural en isometría, resulta irrenunciable programar en la sala movimientos que recreen con veracidad ____.",
+      "options": [
+        "la reactivación vagal profunda",
+        "los recorridos aeróbicos tácticos",
+        "las acciones de lucha y el contacto"
+      ],
+      "correct_answer": "las acciones de lucha y el contacto",
+      "feedback": "Los atletas con participación reducida arrastran un importante déficit neuromuscular y de tolerancia al contacto (choques, duelos, forcejeos y desequilibrios) vividos en el partido oficial. Compensar significa aislar y reproducir en el gimnasio esas tensiones estabilizadoras y las acciones puras de lucha no alcanzadas en la competición."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Cuando surge un escenario innegociable de microciclo con un día de máxima exigencia neural (velocidad absoluta), ¿cuál es la decisión técnico-biológica más apropiada para decidir el orden entre trabajo de fuerza y césped?",
+      "options": [
+        "El campo siempre primero, con el fin de utilizar la frescura perceptiva y alcanzar registros picos de velocidad externa sin una pesada fatiga residual preexistente de las pesas.",
+        "El gimnasio inalterablemente en segunda instancia, ya que el trabajo excéntrico ejerce un impacto de transferencia ideal mitigando las microlesiones tras los sprints máximos.",
+        "El gimnasio en primer lugar sin excepciones, debido a que el sistema nervioso central debe operar completamente indemne y fresco para poder sostener el máximo reclutamiento exigido en velocidad.",
+        "La secuencia temporal carece de relevancia fisiológica si el cuerpo técnico ajusta acertadamente las pausas metabólicas durante el calentamiento del trabajo coordinativo."
+      ],
+      "correct_answer": "El gimnasio en primer lugar sin excepciones, debido a que el sistema nervioso central debe operar completamente indemne y fresco para poder sostener el máximo reclutamiento exigido en velocidad.",
+      "feedback": "Toda capacidad sustentada en la explosividad neural o en la pura velocidad perderá gran parte de su propósito y de las cotas máximas generadas si el sujeto la ejecuta portando la fatiga preexistente de la tarea de campo. Requiere el 100% de la energía del sistema nervioso central, exigiendo programar prioritariamente el gimnasio antes de salir al césped."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Al emplear bloques de énfasis dentro del ciclo anual, ¿bajo qué escenario competitivo la literatura de campo recomienda alargar agresivamente la fase de 'Mantenimiento' suprimiendo temporalmente la de 'Desarrollo'?",
+      "options": [
+        "Fases tempranas de pretemporada sumadas a las jornadas iniciales en ligas con una muy alta dispersión horaria.",
+        "Plantillas con deportistas jóvenes y de cantera sumergidas de lleno en los estadios clave de sus desarrollos longitudinales.",
+        "Equipos puramente formativos forzados a asimilar y aplicar constantemente innumerables nuevos patrones y rotaciones tácticas complejas.",
+        "Equipos de rango top y élite mundial sometidos a ecosistemas con extrema densidad competitiva de forma recurrente, como la UEFA Champions League."
+      ],
+      "correct_answer": "Equipos de rango top y élite mundial sometidos a ecosistemas con extrema densidad competitiva de forma recurrente, como la UEFA Champions League.",
+      "feedback": "Ecosistemas con partidos cada 72 horas no disponen de ventanas metabólicas, ni musculares, ni temporales para aplicar cargas que induzcan sobrecompensaciones o que 'desarrollen' al jugador (por el severo riesgo de sobrefatiga crónica y la acumulación mecánica). En estos casos, frenar la curva de desentrenamiento asumiendo un rol de mantenimiento vital se convierte en la única política sostenible."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Cuando la dirección técnica del equipo diagrama tareas en el tapete de juego marcadas por usar dimensiones mínimas espaciales con infinidad de arranques y frenadas intermitentes, el jugador asumirá ineludiblemente un colosal coste ____.",
+      "options": [
+        "metabólico aeróbico",
+        "exclusivamente mecánico",
+        "de predominio vagal"
+      ],
+      "correct_answer": "exclusivamente mecánico",
+      "feedback": "La dinámica impuesta por los espacios cortos condena biomecánicamente al deportista a encadenar de forma incesante aceleraciones bruscas, frenadas cortas y giros. Esto inflige tensiones excéntricas muy violentas y continuos impactos asimétricos, disparando el daño mecánico de las estructuras musculares por encima de las demandas globales puramente metabólicas prolongadas."
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "question": "El diseño lógico de una periodización dictamina que el factor de complejidad de la sesión se estipule en valores altísimos de forma coincidente tanto en las primeras semanas formativas como en el tramo crítico final de la temporada regular.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La complejidad metodológica de una tarea se sugiere mantener baja en los estadios iniciales del año, garantizando así un estímulo de adquisición de adaptaciones analíticas libre de interferencias. De igual forma, en el cierre temporal competitivo también debe rebajarse, debido a la imperiosa obligación de preservar la estabilidad biológica del atleta frente a una extrema y perjudicial acumulación histórica de fatiga."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "En plena sesión regenerativa, ¿cuál se considera la justificación y base fisiológica principal para incorporar al protocolo el uso de isometrías submáximas prolongadas durante la secuencia de 'tensión'?",
+      "options": [
+        "Originan un potente efecto de compresión venosa orientada específicamente al lavado drástico de desechos lactácidos agudos de los tejidos blandos.",
+        "Aumentan la temperatura provocando una alteración de las propiedades viscoelásticas, deprimiendo el tono neurológico protector y atenuando la percepción local de la rigidez.",
+        "Potencian artificialmente y a gran escala la densidad y resiliencia de la red neuro-tendinosa frente a tensiones explosivas futuras o contracciones reactivas excéntricas severas.",
+        "Infunden un estado de sedación temporal al hipotálamo, que facilita la conciliación de un profundo sueño rem propulsando los ratios de reparación de las endorfinas."
+      ],
+      "correct_answer": "Aumentan la temperatura provocando una alteración de las propiedades viscoelásticas, deprimiendo el tono neurológico protector y atenuando la percepción local de la rigidez.",
+      "feedback": "La isometría leve de tiempo sostenido irradia estrés y calor al músculo y al tejido viscoelástico conectivo colindante, logrando mitigar el espasmo protector enviado por el SNC. Esto origina una cascada natural de alivio y analgesia sistémica para combatir eficazmente los temidos DOMS y la percepción severa de la rigidez post esfuerzo."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "¿Qué arquitectura biomédica o diseño fisiológico identifica unilinealmente a las exigentes sesiones encuadradas bajo la matriz táctica de 'Volumen Locomotor'?",
+      "options": [
+        "Formatos extremadamente reducidos, abundancia de aceleraciones bruscas en corto y picos de demanda excéntrico-neuromuscular severa y extrema.",
+        "Acumulación notable de kilometraje ostentando un ineludible y rotundo protagonismo del estrés metabólico en pistas o terrenos extensos, fijando la velocidad en rangos constantes submáximos.",
+        "Isometría prolongada con altísimo impacto vagal, erradicación total del estrés celular metabólico y una altísima proliferación algorítmica de sprints directos reactivos de recuperación infinita.",
+        "Microciclos puramente centrados en fatigar al SNC forzando al músculo a sostener cargas estructurales muy dominantes mediante sobrecarga excéntrica profunda."
+      ],
+      "correct_answer": "Acumulación notable de kilometraje ostentando un ineludible y rotundo protagonismo del estrés metabólico en pistas o terrenos extensos, fijando la velocidad en rangos constantes submáximos.",
+      "feedback": "Este modelo focaliza sus intenciones técnicas no en las vertientes neuromusculares extremas asociadas a la potencia o la punta de velocidad. Por el contrario, obliga al sujeto a recorrer e invadir grandes porciones espaciales sosteniendo y asumiendo un brutal coste metabólico orgánico ligado directamente a la suma y acumulación asfixiante de metros recorridos de manera más aeróbica y extensiva."
+    }
+  ]
+}
