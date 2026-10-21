@@ -1,0 +1,226 @@
+{
+  "class_title": "Performance Science Specialist - Sistema Adaptativo Humanability",
+  "total_questions": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Durante un test de resistencia intermitente, observar fluctuaciones abruptas o una gráfica en 'montaña rusa' en la saturación de oxígeno muscular (NIRS) indica una excelente ____.",
+      "options": [
+        "tolerancia mecánica a la tensión neural",
+        "optimización de la energía periférica",
+        "compensación del sistema parasimpático"
+      ],
+      "correct_answer": "optimización de la energía periférica",
+      "feedback": "A nivel muscular, la capacidad de mostrar constantes bajadas (consumo agudo durante el esfuerzo) y rápidas subidas (recuperación inmediata en el descanso) en la saturación de oxígeno indica que el músculo está utilizando la energía periférica de manera óptima y eficiente. Un gráfico plano revelaría una pobre capacidad u optimización mitocondrial local."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el motivo fisiológico y analítico principal para desechar el uso del Índice de Fuerza Dinámica (DSI) en la evaluación de un deportista y optar, en su lugar, por un sistema cruzado de cuadrantes?",
+      "options": [
+        "El DSI sobrestima la fuerza máxima isométrica en atletas con un ratio de utilización excéntrica estructuralmente bajo.",
+        "Los cuadrantes permiten medir el ciclo de estiramiento-acortamiento con mayor fiabilidad en saltos puramente reactivos sobre plataforma.",
+        "Un cociente numérico final oculta por completo si el deportista presenta deficiencias o fortalezas simultáneas y extremas en ambas capacidades.",
+        "El DSI requiere utilizar metodologías vectoriales de fuerza con alta precisión tecnológica que limitan su aplicabilidad práctica diaria."
+      ],
+      "correct_answer": "Un cociente numérico final oculta por completo si el deportista presenta deficiencias o fortalezas simultáneas y extremas en ambas capacidades.",
+      "feedback": "El gran problema del Índice de Fuerza Dinámica (DSI) reside en su naturaleza de cociente. Un resultado numérico final (como un DSI de 0.8) resulta engañoso porque impide visualizar el cuadro analítico completo del atleta: dos sujetos con idéntico DSI pueden ser, uno excelente en fuerza y velocidad, y otro altamente deficiente en ambas. El cuadrante analógico fuerza-velocidad permite visualizar y diagnosticar el estado real de cada variable por separado."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Para gestionar eficazmente la fatiga en el día a día, la estrategia más idónea consiste en 'contrarrestar' las cargas; es decir, alternar una sesión técnico-táctica de alta intensidad deportiva con un trabajo físico compensatorio de recuperación en la misma jornada.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La estrategia biomecánica y sistémica correcta es 'jugar a doblar' las cargas (juntar rojo con rojo y verde con verde). Si se intenta contrarrestar intercalando recuperación física en un día de estrés táctico intenso, la 'mochila' diaria de carga del sistema nervioso nunca descansa. Doblar garantiza la existencia de días reales y completos orientados a la recuperación sistémica pura."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "En deportes en los que la aplicación fundamental de fuerza depende del propio desplazamiento del individuo y no existen impactos por colisión mecánica con rivales, ¿por qué resulta imperativo utilizar el test de Nibis push en lugar del Mid-thigh pull?",
+      "options": [
+        "Facilita el cálculo del déficit de fuerza bilateral al integrar parámetros de contacto en ángulos inespecíficos del ciclo de zancada continua.",
+        "Permite cuantificar la fuerza relativa de carácter unilateral, aislando y evaluando con extrema precisión la mecánica de empuje predominante en la carrera.",
+        "Elimina por completo el impacto excéntrico en las grandes articulaciones del tren inferior durante los ciclos elásticos terminales.",
+        "Prioriza el desarrollo de una hipertrofia funcional fuertemente compensatoria en toda la cadena posterior frente a la carga isométrica absoluta."
+      ],
+      "correct_answer": "Permite cuantificar la fuerza relativa de carácter unilateral, aislando y evaluando con extrema precisión la mecánica de empuje predominante en la carrera.",
+      "feedback": "En las disciplinas fundamentadas en la carrera libre de colisiones agresivas, el rendimiento requiere la aplicación continua de fuerza asimétrica y unilateral para impulsar el cuerpo. El Nibis push aísla exactamente esta fuerza relativa en apoyo simple. En contraposición, el Mid-thigh pull cuantifica fuerza absoluta bruta y bilateral, siendo óptimo solo para deportes de colisión brutal o disciplinas de fuerza máxima estática (Powerlifting, Halterofilia)."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "En el contexto de las disciplinas intermitentes, el cálculo absoluto del VO₂ máx se considera la métrica reina y el mejor predictor fisiológico de rendimiento para estructurar bloques de alta intensidad.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Para los deportes puramente intermitentes, el VO₂ máx carece de relevancia predictiva suprema en comparación con deportes cíclicos y continuos (triatlón, ciclismo de fondo). Lo verdaderamente determinante es diagnosticar la potencia generada y la capacidad metabólica para repetir esa misma potencia ante el acúmulo de fatiga intrínseca, cualidades que se desgranan empleando perfiles como el Doble Wingate."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Cuando un deporte requiere de una expresión absoluta de fuerza bruta, pero las acciones no exigen ventanas temporales restrictivas ni una hiperreactividad al despegue, se descartan los tests reactivos de velocidad y se prioriza la medición mediante ____.",
+      "options": [
+        "el 10 hop test asimétrico",
+        "los pliométricos con lastre",
+        "el salto Abalakov"
+      ],
+      "correct_answer": "el salto Abalakov",
+      "feedback": "Los saltos hiperreactivos o pliométricos (como el Drop Jump o métricas de RSI en el CMJ rebound) evalúan la velocidad y rigidez tendinosa en microsegundos de contacto. Sin embargo, para atletas que buscan máxima transferencia de fuerza bruta sostenida en el tiempo y no compiten en reactividad (p. ej., levantadores o atletas de impacto pesado), el test de Abalakov es superior al ser lento, bilateral e integrar totalmente la biomecánica superior del cuerpo."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Al monitorizar los niveles de fatiga neuromuscular mediante el cálculo continuo del RSI Modificado en un Countermovement Jump, ¿qué patrón cinético resulta ser el principal 'chivato' que exige aminorar la intensidad de una sesión roja programada?",
+      "options": [
+        "Una transición abrupta y súbitamente mucho más veloz entre la fase de deceleración excéntrica y la fase concéntrica propulsiva terminal.",
+        "Una caída profunda en la altura libre de vuelo que arrastra un incremento anómalo y paralelo del índice de fuerza reactiva máxima.",
+        "La instauración sostenida de un perfil cinético de tipo bimodal a lo largo de la curva curva fuerza-tiempo durante la propulsión concéntrica.",
+        "Un aumento marcado del tiempo de contracción, alterando la estrategia motriz al demorar sustancialmente el proceso de frenado y empuje, manteniendo a menudo intacta la altura final."
+      ],
+      "correct_answer": "Un aumento marcado del tiempo de contracción, alterando la estrategia motriz al demorar sustancialmente el proceso de frenado y empuje, manteniendo a menudo intacta la altura final.",
+      "feedback": "La fatiga aguda no siempre impacta el rendimiento absoluto final de inmediato. Un deportista cansado con frecuencia logra alcanzar la misma altura en un CMJ, pero altera radicalmente la 'estrategia' neuromuscular para conseguirlo: su tiempo de contracción se alarga severamente al frenar con menor agresividad. Esta alteración estratégica distorsiona a la baja el RSI modificado, indicando la necesidad de cambiar a una sesión de recuperación o verde."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "El desarrollo estructural que compone un atleta completo transforma un simple triángulo de capacidades (Velocidad, Fuerza y Resistencia) en un rombo al integrar un pilar innegociable basado en ____.",
+      "options": [
+        "el control táctico específico del deporte",
+        "los fundamentos de movilidad y estabilidad",
+        "la periodización macroscópica de cargas"
+      ],
+      "correct_answer": "los fundamentos de movilidad y estabilidad",
+      "feedback": "Un deportista no puede explotar su fuerza o velocidad de manera sostenible ni alcanzar rendimientos élite sin dominar el control motor básico. El cuarto vértice esencial que completa el rombo inicial es la base de 'fundamentos' o 'foundation', una matriz fisiológica previa que engloba factores de movilidad articular, estabilidad funcional, control motor, equilibrio corporal e integración coordinativa."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "Analíticas sanguíneas con biomarcadores rigurosos como la Creatina Quinasa (CK) posibilitan un control micro del entrenamiento, siendo indispensables y preferibles por encima de métricas como el Readiness subjetivo para alterar entrenamientos en tiempo real.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. El Readiness percibido (escala subjetiva del 1 al 5) constituye el marcador más macro, holístico y valioso en la dinámica de ajustes continuos. El sistema establece que si un atleta no se percibe preparado, carece de sentido forzar la máquina metabólica apoyándose en una falta de datos bioquímicos. Esperar la alteración de un biomarcador retrasaría las decisiones críticas por semanas."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Dentro del modelo que distribuye y gestiona la carga semanal mediante un semáforo de impacto y residuo, ¿cuál es el argumento biomecánico que sitúa a las acciones puramente balísticas, isométricas y concéntricas dentro de la zona amarilla?",
+      "options": [
+        "Plantean una exigencia y estrésores de altísima intensidad neuromuscular, pero su reducida demanda excéntrica o decelerativa minimiza fuertemente el residuo perjudicial pos-sesión.",
+        "Generan un daño fibrilar mecánico severo y disruptivo que actúa indefectiblemente como el estímulo celular idóneo para la hipertrofia de fibras ultrarrápidas de tipo IIx.",
+        "Limitan y canalizan su estrés de manera exclusiva a las vías metabólicas de oxigenación continua, habilitando su empleo diario como metodologías meramente regenerativas pasivas.",
+        "Ocasionan una pérdida fulminante del gradiente de oximetría sistémica que obliga posteriormente a instaurar un volumen compensatorio de resistencia de larga duración."
+      ],
+      "correct_answer": "Plantean una exigencia y estrésores de altísima intensidad neuromuscular, pero su reducida demanda excéntrica o decelerativa minimiza fuertemente el residuo perjudicial pos-sesión.",
+      "feedback": "La clasificación del semáforo atiende al 'peaje' o residuo sistémico que un ejercicio deja en los días posteriores. Movimientos estrictamente isométricos y concéntricos puros causan estrés intenso en el sistema nervioso para fomentar ganancias sustanciales de fuerza y velocidad, pero al eludir el altísimo impacto del daño tisular ligado al componente excéntrico severo (rojo), no merman considerablemente las reservas de recuperación."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "De acuerdo con los principios del Esencialismo y la Ley de Pareto integrados en el alto rendimiento, las sesiones semanales deben priorizar mayormente intervenciones regenerativas pasivas y de calidad del movimiento, minimizando la densidad de alta intensidad bruta para asegurar un acondicionamiento óptimo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es absolutamente falso. El enfoque crítico del Esencialismo argumenta precisamente lo opuesto: la readaptación y recuperación excesiva han fagocitado absurdamente los cronogramas, cuando las únicas acciones que realmente impulsan y mejoran significativamente el rendimiento biológico y físico de élite son estímulos cortos, simples y durísimos (alta intensidad, saltar, lanzar y mover grandes kilos)."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "En el contexto del perfil neuromuscular, ¿qué atributo exacto marca la eficiencia biomecánica superlativa durante la ejecución cinética de un Countermovement Jump sobre plataformas de fuerza, independientemente del carácter unimodal o bimodal resultante de la curva de empuje?",
+      "options": [
+        "El coeficiente métrico relacional trazado entre la máxima fuerza propulsiva ascendente y la fase pasiva de frenado estático debe sobrepasar estructuralmente la constante de 1.5.",
+        "El registro del ciclo de fuerza-tiempo ha de dibujar indefectiblemente una trayectoria de pico única y constante sin inflexiones detectables a lo largo del proceso completo de vuelo.",
+        "El pico máximo de fuerza aplicada tiene que producirse y generarse íntegramente en la posición más honda de la fase de caída libre, frenando de manera brusca e inminente la bajada antes del tramo isométrico.",
+        "El tiempo suspendido o de vuelo activo que sigue al impulso terminal tiene que guardar una estricta proporcionalidad temporal simétrica en relación a los milisegundos invertidos en amortiguar el descenso."
+      ],
+      "correct_answer": "El pico máximo de fuerza aplicada tiene que producirse y generarse íntegramente en la posición más honda de la fase de caída libre, frenando de manera brusca e inminente la bajada antes del tramo isométrico.",
+      "feedback": "La verdadera cualidad de un 'canguro' u homólogo de alta eficiencia viscoelástica reside en una altísima capacidad excéntrica de freno. Ser eficiente biomecánicamente exige caer con agresividad profunda y bloquear (breaking) el movimiento abruptamente en el momento más bajo de la trayectoria. Si existen largos valles de transición y demoras durante el acoplamiento inferior, el perfil refleja descoordinación y lentitud muscular sistémica."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "A nivel fisiológico profundo, gran parte de la pesada mochila sistémica ligada al daño estructural severo del tejido y la alta fatiga post-esfuerzo, se desencadena específicamente por someter a la musculatura a acciones predominantemente de carácter ____.",
+      "options": [
+        "isométrico mantenido en altos porcentajes",
+        "balístico con vectores de impacto reducido",
+        "excéntrico y de frenado decelerativo"
+      ],
+      "correct_answer": "excéntrico y de frenado decelerativo",
+      "feedback": "Las acciones que dejan mayor residuo muscular e impacto orgánico en los días consecuentes al esfuerzo (estímulos clasificados sistemáticamente dentro del color rojo en la estructura del semáforo) son aquellas que involucran fases extensas e intensas de deceleración, saltos pesados o trabajo puramente excéntrico masivo, ya que suponen mayor disrupción micro-fibrilar que el simple trabajo concéntrico."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "Prescribir el test del Doble Wingate sobre bicicleta aerodinámica en personas con fitness bajo o capacidades físicas limitadas resulta metodológicamente negligente e inaceptable debido al elevadísimo riesgo de sufrir complicaciones agudas en la segunda ronda de esfuerzo máximo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. De manera contraintuitiva, un atleta no entrenado posee mecanismos neurológicos de bloqueo inhibitorio temprano: su cerebro 'corta' o desactiva su esfuerzo real mucho antes de que exponga al organismo a un entorno crítico, siendo el test paradójicamente más liviano metabólicamente. Son los deportistas altamente entrenados en esta disciplina quienes sí corren el riesgo de vaciar absolutamente todas sus reservas de alta energía de forma despiadada y contundente, experimentando verdaderos entornos lácticos destructivos."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Ante la ausencia total de un equipo avanzado y complejo de hardware (encoder y plataforma de fuerzas), ¿qué métrica o protocolo biomecánico accesible otorga la validación definitiva y empírica sobre la cualidad reactiva-elástica de un atleta mediante tecnología accesible (ej. My Jump)?",
+      "options": [
+        "La evaluación y cómputo visual asimétrico de la altitud perimetral generada exclusivamente desde un Drop Jump libre establecido empíricamente a 40 centímetros de un pódium de madera sólida.",
+        "La tabulación y medida exhaustiva basada en sumar el límite superior cronometrado de contracciones repetidas y rebotes de altísima tensión producidos visualmente alrededor del complejo maleolar estricto.",
+        "La monitorización de fluctuaciones micro de inercia y aceleración transversal del sistema articular en un entorno controlado aplicando velocidades medias para cada tramo propulsivo balístico directo.",
+        "La comparación matemática que determina el Ratio de Utilización Excéntrica (EUR) cruzando sistemáticamente la diferencia o dividendo diferencial medible entre la cota superior del Countermovement Jump y la de un estricto Squat Jump."
+      ],
+      "correct_answer": "La comparación matemática que determina el Ratio de Utilización Excéntrica (EUR) cruzando sistemáticamente la diferencia o dividendo diferencial medible entre la cota superior del Countermovement Jump y la de un estricto Squat Jump.",
+      "feedback": "El EUR o Ratio de Utilización Excéntrica es el estándar analítico dorado accesible vía app óptica de smartphones (My Jump). Una correcta eficiencia elástico-reactiva demanda innegociablemente que el salto donde empleamos el aprovechamiento viscoelástico y nervioso (Countermovement Jump) devuelva una cota métrica notablemente y estructuralmente mayor que un salto carente de cualquier fase previa excéntrica o de acumulación plástica (Squat Jump puro)."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "En referencia exclusiva a la implementación estricta de protocolos de HIIT puro y bloques extensos de 'Conditioning' de alta intensidad, ¿cuál es el pilar inquebrantable de intencionalidad deportiva que debe comandar este bloque y que lo diferencia del mero cansancio carente de rumbo?",
+      "options": [
+        "Deben garantizar una privación paralela de oxigenación mediante limitación respiratoria en pro del incremento de la hemoglobina estática total.",
+        "Su desarrollo exige siempre asociar íntimamente el esfuerzo a un objetivo extrínseco, desafío externo o target concreto, medible, punible y de claro entendimiento (vatios brutos, calorías, distancias clave).",
+        "Han de apoyarse fundamental e indefectiblemente en testajes intrínsecos paralelos para acotar la superación del techo aeróbico exacto bajo monitorización bioquímica de perfiles continuos.",
+        "Su estructuración de dosis y pausas prohíbe taxativamente exceder la frontera temporal macro de los veinticinco minutos netos de exposición cardíaca para eludir una catabólisis de las membranas."
+      ],
+      "correct_answer": "Su desarrollo exige siempre asociar íntimamente el esfuerzo a un objetivo extrínseco, desafío externo o target concreto, medible, punible y de claro entendimiento (vatios brutos, calorías, distancias clave).",
+      "feedback": "El mero sufrimiento físico carece de intencionalidad o de un estímulo nervioso correcto. Las rondas de 'Conditioning' intensas en ergómetros transforman drásticamente su naturaleza en el instante exacto en el que al deportista se le impone luchar tenazmente contra un valor claro del display de datos: batir X calorías en tiempo determinado o sostener X vatios de media constante en la bicicleta. Este foco extremo o 'challenge' polariza positivamente la aplicación mental de la energía del sujeto."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Si el resultado directo y cruzado de someter a un deportista élite a las métricas del Doble Wingate lo sitúa indiscutiblemente bajo el diagnóstico del cuadrante correspondiente al perfil biológico de 'Moto de agua', ¿hacia dónde debe enfocarse y decantarse prioritariamente la estructura general de su entrenamiento futuro de resistencia?",
+      "options": [
+        "A la acumulación estructurada de protocolos e intervalos largos fundamentados en la expansión de su base de potencia aeróbica (Z3 plus) que ataquen de raíz su déficit central recuperador.",
+        "Al refinamiento de su velocidad explosiva terminal prescribiendo bloques densos de sprints cortísimos separados por una extensa recuperación pasiva que eleve la potencia láctica final bruta.",
+        "Al acoplamiento ineludible de metodologías y curvas asociadas a hipertrofia pesada y pura de cadenas musculares con vector concéntrico, mitigando un posible defecto en la aplicación pico del par motor inicial de salida.",
+        "Al sometimiento de las fibras orgánicas periféricas mediante la inducción de rutinas lácticas que persigan acentuar el estrés muscular celular agudo de manera radical para generar entornos densos de alta tolerancia ácida extrema."
+      ],
+      "correct_answer": "A la acumulación estructurada de protocolos e intervalos largos fundamentados en la expansión de su base de potencia aeróbica (Z3 plus) que ataquen de raíz su déficit central recuperador.",
+      "feedback": "Un deportista evaluado y categorizado biológicamente como una 'Moto de Agua' destaca por una excelente e indudable explosividad y potencia pico en los primeros segundos del tramo métrico inicial, pero fracasa espectacular y estruendosamente al intentar duplicar ese pico de esfuerzo bajo el azote inclemente de la fatiga temporal. Por lo tanto, el remedio recetado debe compensar esa deficiencia flagrante fortaleciendo los cimientos carentes, prescribiendo tareas ricas en volumen respiratorio (entrenamiento central) y protocolos de capacidad de Z3 (aeróbica fuerte) para facultarlo fisiológicamente a poder 'aclarar' eficientemente su entorno metabólico."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "¿Qué implicación subyacente y vital diagnostica un especialista cuando el pulsómetro o la telemetría cardíaca de un atleta reportan una caída minúscula y deficiente de apenas 15-20 pulsaciones completas tras concluir una durísima pausa de recuperación estricta de un minuto (entre los bloques intermitentes del test Doble Wingate)?",
+      "options": [
+        "Constata y rubrica la preexistencia general de un cuadro sistémico crónico ligado al agotamiento severo de las glándulas exocrinas y la deficiencia total del canal catecolaminérgico puro, requiriendo auxilio biomédico.",
+        "Advierte que la red y estirpe vascular periférica se apoya en una altísima capilarización y robusta densidad local extrema de organelas celulares mitocondriales dispuestas masivamente para frenar alarmas neurológicas sistémicas de alto perfil.",
+        "Refleja que los complejos mecanismos y bases centrales aeróbicas para repeler la fatiga rápida e infundir de vuelta la preciada homeostasis al torrente son estructuralmente muy endebles y anémicos, prediciendo un catastrófico descalabro orgánico físico total en la repetición del siguiente sprint crítico.",
+        "Prueba de forma categórica y unívoca el admirable soporte o techo anaeróbico estructural subyacente del fenotipo genético que faculta al individuo de mantener, en pleno descanso inactivo estático, las altas cotas inamovibles de frecuencia sistólica global y poder maximizar el retorno hipertrófico."
+      ],
+      "correct_answer": "Refleja que los complejos mecanismos y bases centrales aeróbicas para repeler la fatiga rápida e infundir de vuelta la preciada homeostasis al torrente son estructuralmente muy endebles y anémicos, prediciendo un catastrófico descalabro orgánico físico total en la repetición del siguiente sprint crítico.",
+      "feedback": "El indicador agudo de cuánto caen velozmente las cifras brutas de frecuencia cardíaca durante el preciado receso de descanso es un chivato y un índice exacto para evaluar indirectamente la salud intrínseca del sistema central cardiovascular o vagal. Un portento físico muy adaptado desciende la friolera de 40 ppm. Una precaria caída de tan solo 15-20 ppm desenmascara un sistema en asfixia crónica inmediata, sirviendo esto de antesala e impecable predictor del absoluto naufragio orgánico que acontecerá irremisiblemente en el siguiente bloque interválico."
+    }
+  ]
+}
