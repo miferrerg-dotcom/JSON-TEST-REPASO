@@ -1,0 +1,253 @@
+{
+  "class_title": "Certificación PSS: Disminución del Riesgo Lesivo y Readaptación",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "El diseño de protocolos preventivos eficientes persigue como objetivo primordial la creación de un perfil motor específico en la jugadora. ¿Qué característica define este perfil biomecánico ideal?",
+      "options": [
+        "Una atleta adaptada, con patrones motores estandarizados y cerrados que limitan el gasto energético durante el partido.",
+        "Una atleta analítica, capaz de separar conscientemente las demandas cardiovasculares de las neuromusculares en competición.",
+        "Una atleta predecible, cuyo movimiento biomecánico sea idéntico en situaciones con y sin la posesión del balón.",
+        "Una atleta adaptable, que posea una alta variabilidad de recursos motores para resolver inteligentemente las exigencias competitivas."
+      ],
+      "correct_answer": "Una atleta adaptable, que posea una alta variabilidad de recursos motores para resolver inteligentemente las exigencias competitivas.",
+      "feedback": "El objetivo metodológico es crear una atleta 'adaptable' y no simplemente 'adaptada'. Proveer variabilidad de estímulos genera polivalencia, lo que otorga a la jugadora un mayor abanico de respuestas motrices y una capacidad resolutiva superior ante los entornos caóticos e imprevistos propios del juego."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "A diferencia de la fisiología y epidemiología masculina, el fútbol femenino presenta estadísticamente una nula incidencia en patologías crónicas de pubis gracias a su mayor movilidad intrínseca en la rotación de cadera.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Aunque existe una menor incidencia de pubalgias y lesiones de aductores en la mujer frente al hombre (debido a diferencias biomecánicas estructurales y patrones de agresividad en el juego), la incidencia no es nula. La diferenciación exige marcos de análisis propios, pero sin asumir inmunidad absoluta en ninguna región anatómica."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Dentro de los hitos médicos y de rendimiento del proceso lesivo, la transición exacta entre el fin de la readaptación funcional y el inicio del reentrenamiento táctico requiere obligatoriamente ____.",
+      "options": [
+        "el alta médica",
+        "el alta deportiva",
+        "el alta competitiva"
+      ],
+      "correct_answer": "el alta deportiva",
+      "feedback": "La progresión metodológica estricta establece que el alta médica da luz verde al proceso de readaptación. Posteriormente, es imprescindible obtener el 'alta deportiva' para dar por concluida la readaptación funcional y poder acceder a la fase de reentrenamiento en la que se reintroducirán las variables tácticas complejas."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "El 'Return to Play' se estructura macro-metodológicamente en un área de readaptación y un área de reentrenamiento. ¿Qué subfase pertenece exclusivamente al bloque de reentrenamiento, donde la atleta se somete al caos sin dolor limitante?",
+      "options": [
+        "La fase de orientación funcional y metabólica.",
+        "La fase de aproximación con rangos articulares protegidos.",
+        "La fase de rehabilitación fisioterapéutica analítica.",
+        "La fase de optimización con exposición real al gesto competitivo."
+      ],
+      "correct_answer": "La fase de optimización con exposición real al gesto competitivo.",
+      "feedback": "Las fases de rehabilitación, aproximación y orientación se enmarcan en la readaptación temprana. La fase de optimización corresponde al reentrenamiento avanzado: un escenario exigente donde el tejido lesionado se expone directamente a la fatiga, debiendo presentar ausencia total de inflamación o molestias post-esfuerzo."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Dentro de la evaluación biopsicosocial orientada a adaptar y periodizar las cargas, es imperativo monitorizar la sintomatología metabólica y el estrés sistémico alterado por ____.",
+      "options": [
+        "la fase de reentrenamiento",
+        "su ciclo menstrual",
+        "las acciones de lucha"
+      ],
+      "correct_answer": "su ciclo menstrual",
+      "feedback": "El ciclo menstrual, especialmente la fase premenstrual, desencadena alteraciones fisiológicas agudas como cefaleas, disfunción gastrointestinal e insomnio. Estas variaciones impactan severamente en la asimilación del entrenamiento neuromuscular, la recuperación y el riesgo de rotura tisular."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "Durante las rutinas de activación de la musculatura profunda previas al entrenamiento de campo, resulta fisiológicamente idóneo introducir cargas elevadas de fuerza para generar hipertrofia articular temporal que funcione como armadura de protección.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "En la fase de pre-entrenamiento (fase de no fatiga) el propósito rector es el 'timing' de activación neuromuscular y el mantenimiento de la fluidez del movimiento sin generar sobrecargas tisulares. Añadir estrés mecánico elevado induciría déficits de fuerza reactiva y entorpecería la eficiencia coordinativa durante el posterior entrenamiento en campo."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "La incidencia epidémica de roturas en la cadena posterior (específicamente isquiosurales) ha sufrido un incremento exponencial en el fútbol femenino contemporáneo. ¿Qué parámetro físico justifica biomecánicamente este repunte?",
+      "options": [
+        "El aumento de las velocidades máximas competitivas y la agresividad en las frenadas excéntricas.",
+        "La disminución en la densidad de los torneos, lo cual inactiva el reflejo miotático.",
+        "La generalización de formaciones tácticas en bloque bajo que aíslan a la cadera.",
+        "El uso sistemático de trabajo isométrico analítico sin integración pliométrica."
+      ],
+      "correct_answer": "El aumento de las velocidades máximas competitivas y la agresividad en las frenadas excéntricas.",
+      "feedback": "La fisiología del fútbol femenino de élite ha evolucionado bruscamente hacia velocidades punta superiores (ej. 33 km/h). Estas dinámicas demandan un reclutamiento masivo y violento de la musculatura isquiosural para absorber la energía cinética en las acciones de deceleración y frenada excéntrica, disparando el índice lesivo."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Para mitigar la prevalencia de fragilidad estructural a largo plazo y asegurar la longevidad biomecánica en el alto rendimiento, durante las etapas formativas (cantera) es innegociable evitar la hiper-especialización futbolística y priorizar ____.",
+      "options": [
+        "el trabajo multideporte",
+        "el aislamiento táctico",
+        "la sobrecarga excéntrica"
+      ],
+      "correct_answer": "el trabajo multideporte",
+      "feedback": "La literatura y la práctica clínica revelan que las atletas que experimentan un desarrollo temprano a través del multideporte (como el atletismo) construyen un acervo motor, capacidad coordinativa y robustez neural significativamente superiores a quienes sufrieron una especialización unilateral y temprana centrada solo en el gesto del fútbol."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "A la hora de procesar el análisis de riesgos y cargas sistémicas dentro de la matriz diagnóstica, ¿cómo se cataloga siempre la estructura táctica empleada por el equipo (por ejemplo, sistemas 4-2-3-1)?",
+      "options": [
+        "Como una variable de carga externa.",
+        "Como un indicador de carga interna.",
+        "Como un déficit focal de rendimiento.",
+        "Como un estresor biomecánico pasivo."
+      ],
+      "correct_answer": "Como una variable de carga externa.",
+      "feedback": "Los sistemas tácticos, el volumen competitivo, las condiciones del terreno de juego y los desplazamientos se tipifican como 'cargas externas'. Son factores ajenos a la fisiología celular de la atleta, pero imponen constreñimientos mecánicos y posicionales que modifican radicalmente la biomecánica requerida."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "Para blindar la seguridad psicológica de la jugadora y su confianza en el tejido reparado, la readaptadora debe garantizar el retorno a los entrenamientos grupales sin haber expuesto nunca a la atleta a la fatiga máxima replicando el gesto que causó su lesión original.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es todo lo contrario. La readaptación de élite exige imperativamente recrear el 'gesto lesivo' exacto durante las últimas fases aisladas, y hacerlo explícitamente bajo umbrales de fatiga severa. Si la estructura no se expone a este caos fisiológico controlado antes del retorno, el riesgo de recaída y colapso psicológico ante el equipo se multiplica."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Al analizar la gestión integral de un departamento multidisciplinar (médico y técnico), ¿cuál es el pilar innegociable para asegurar que una lesión se aborde eficientemente sin duplicar esfuerzos ni generar vacíos terapéuticos?",
+      "options": [
+        "Centralizar la toma de decisiones algorítmicas mediante softwares de inteligencia artificial.",
+        "Dominar de manera nativa la gramática clínica del país donde se desarrolla la competición.",
+        "Que todos los profesionales intervengan en las sesiones tácticas para mantener a la jugadora ocupada.",
+        "Delimitar milimétricamente dónde empiezan y dónde terminan las competencias prácticas de cada profesional."
+      ],
+      "correct_answer": "Delimitar milimétricamente dónde empiezan y dónde terminan las competencias prácticas de cada profesional.",
+      "feedback": "En el alto rendimiento no importa cuán distinta sea la metodología cultural o el idioma del país receptor; el pilar universal es la comunicación estructural. Identificar la 'frontera' competencial permite transferir a la jugadora en el punto óptimo biológico hacia el siguiente especialista (fisioterapeuta -> readaptador -> preparador físico), evitando injerencias."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "A pesar de la irrupción del Big Data y el análisis hiper-paramétrico, la IA carece por completo de herramientas validadas para cuantificar de forma profunda ____.",
+      "options": [
+        "la velocidad punta",
+        "el estado emocional",
+        "la carga externa"
+      ],
+      "correct_answer": "el estado emocional",
+      "feedback": "La Inteligencia Artificial rige el análisis cinemático, pero presenta un punto ciego absoluto respecto a las dimensiones humanas del deportista. La medición del estrés exógeno (presión académica o situacional), la empatía y la autopercepción de bienestar (wellness) dependen inexcusablemente del 'face to face' y el tacto del profesional de carne y hueso."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "La investigación epidemiológica determina que el abordaje del entrenamiento preventivo debe estructurarse considerando las máximas cotas de fricción anatómica. ¿Cuál es la plataforma de mayor riesgo constatado y cómo moldea esto la sesión?",
+      "options": [
+        "El entrenamiento táctico en espacio reducido, exigiendo evitar las rotaciones axiales previas.",
+        "El partido oficial, forzando a que las sesiones asimilen y repliquen dicha carga máxima de contacto.",
+        "La fase de calentamiento, demandando rutinas de aislamiento neuromuscular en estado pasivo.",
+        "Los procesos de recuperación en cámara hiperbárica, debido al estrés metabólico latente."
+      ],
+      "correct_answer": "El partido oficial, forzando a que las sesiones asimilen y repliquen dicha carga máxima de contacto.",
+      "feedback": "Los estudios epidemiológicos con base de datos masiva dictaminan que el partido representa el clímax del riesgo lesivo a causa del aumento de los impactos y el contacto. Consecuentemente, el entorno de preparación física no debe ser un escenario aséptico, sino que debe replicar volúmenes e intensidades mecánicas que inmunicen ante las demandas de la competición."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "En contextos de limitación material o infraestructura en clubes de reciente profesionalización, para consolidar protocolos sistémicos (como FIFA 11+ o PET) y asegurar la eficiencia motriz, ¿desde qué momento es crucial instaurarlos de manera transversal?",
+      "options": [
+        "Desde la fase de optimización final.",
+        "Desde el periodo de pretemporada.",
+        "Desde la readaptación clínica en camilla.",
+        "Desde el primer microciclo competitivo."
+      ],
+      "correct_answer": "Desde el periodo de pretemporada.",
+      "feedback": "La consolidación de un automatismo preventivo requiere repetición (mínimo 3 sesiones/semana) y focalización técnica. Inyectar estos protocolos básicos desde la pretemporada elimina la resistencia cognitiva de la atleta y fija el patrón motor adecuado antes de la acumulación de fatiga del calendario oficial."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Dentro del 'bucle infinito del rendimiento', cuando una futbolista en dinámica de grupo no evidencia una lesión excluyente pero reporta alteraciones propioceptivas y sobrecargas menores, la acción preventiva de primer orden implica ____.",
+      "options": [
+        "Aislarla en readaptación clínica",
+        "Limitar el uso del GPS temporalmente",
+        "Comunicar la alerta al preparador físico"
+      ],
+      "correct_answer": "Comunicar la alerta al preparador físico",
+      "feedback": "La aparición de una molestia es la antesala de la lesión clínica. La herramienta preventiva más poderosa en este umbral es el control de carga integrado: coordinar con el preparador físico para limitar un parámetro numérico específico (ej. frenadas de alta intensidad) en los días adyacentes, logrando que la jugadora alcance el partido sin claudicar."
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "question": "Tras rebasar la barrera de las cuatro semanas de convalecencia, la biología del sistema nervioso central induce compensaciones biomecánicas autónomas en la jugadora para eludir el dolor tisular, afectando estructuras sanas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "El miedo anticipatorio y el dolor subyacente modifican el engrama motor de manera casi inevitable. Una jugadora con afectación en isquiosurales tenderá a sobre-activar el tríceps sural o la musculatura paravertebral lumbar para salvaguardar el tejido primario. Estas aberraciones cinéticas exigen ser detectadas y re-ensambladas en la fase final del proceso lesivo."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "El traslado de los déficits mecánicos y asimetrías articulares a un 'Body Map' genera un volumen masivo de datos. ¿Cuál es la premisa directriz al exponer este ecosistema clínico al entrenador principal (Head Coach)?",
+      "options": [
+        "Redactar informes nosológicos minuciosos para justificar empíricamente cualquier baja temporal.",
+        "Ocultar los antecedentes crónicos de bajo riesgo para no condicionar sesgadamente sus alineaciones.",
+        "Sintetizar una cartografía altamente visual extrayendo exclusivamente la información gerencial clave.",
+        "Delegar la codificación al preparador físico exigiendo que él traduzca las variables cinemáticas."
+      ],
+      "correct_answer": "Sintetizar una cartografía altamente visual extrayendo exclusivamente la información gerencial clave.",
+      "feedback": "La carga cognitiva de un primer entrenador es máxima. La eficacia del 'Body Map' radica en su depuración extrema: se entrega un código visual (colores de alerta) que permite una comprensión holística e instantánea de qué jugadora asume un riesgo inminente, prescindiendo del ruido algorítmico y clínico."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "En el umbral de reentrada al equipo, la jugadora se ve arrojada a un entorno de alta variabilidad táctica ('caos'). Frente al volumen bruto que extraen los sistemas inerciales y térmicos, ¿a qué métrica cualitativa debe dar prevalencia suprema el especialista?",
+      "options": [
+        "El porcentaje de saturación de oxígeno por impacto.",
+        "La fluidez cualitativa del movimiento y las rigideces ocultas.",
+        "El cociente de desaceleración máxima en zona de banda.",
+        "La disminución milimétrica de la frecuencia cardíaca máxima."
+      ],
+      "correct_answer": "La fluidez cualitativa del movimiento y las rigideces ocultas.",
+      "feedback": "El GPS o acelerómetro contabiliza los sprints, pero es incapaz de juzgar la ortopedia de ese sprint. La mirada técnica humana capta el aspecto cualitativo: una jugadora puede igualar sus métricas pre-lesión, pero si evidencia un rango de movimiento acortado, miedo al choque o disonancia coordinativa, el alta de equipo es un riesgo precipitado."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "El proceso metodológico global transiciona de lo clínico a lo performativo. ¿Qué paradigma operativo define conceptual y exclusivamente a la etapa terminal del reentrenamiento?",
+      "options": [
+        "Priorización de drenajes linfáticos y movilización aséptica del área dañado.",
+        "Desarrollo analítico y pausado en cadenas musculares mono-articulares sin impacto.",
+        "Abordaje de la rigidez intersticial post-esfuerzo en fase inflamatoria aguda.",
+        "Réplica táctica con exigencias psiconeuromusculares ejecutadas bajo presión de rivales."
+      ],
+      "correct_answer": "Réplica táctica con exigencias psiconeuromusculares ejecutadas bajo presión de rivales.",
+      "feedback": "El final del embudo (reentrenamiento) erradica la camilla y el aislamiento analítico. En este hito, la adaptación exige situar a la atleta en simulaciones reales que reúnan densidad metabólica, oponentes, incertidumbre táctica y presión, garantizando la viabilidad competitiva absoluta."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "El diseño de la activación neural requiere un respeto fisiológico estricto del orden piramidal biomecánico. ¿Por qué resulta contraproducente iniciar cargas excéntricas previas si el rango de movimiento (ROM) se encuentra disminuido?",
+      "options": [
+        "Porque desencadena una saturación prematura de lactato que impide la contracción.",
+        "Porque obliga de inmediato al reclutamiento compensatorio de musculatura accesoria indeseada.",
+        "Porque paraliza los husos neuromusculares, mermando el umbral del dolor temporal.",
+        "Porque hiperactiva el sistema vagal forzando a las articulaciones a relajarse por completo."
+      ],
+      "correct_answer": "Porque obliga de inmediato al reclutamiento compensatorio de musculatura accesoria indeseada.",
+      "feedback": "La biomecánica es implacable: si una articulación no dispone de una amplitud de recorrido óptima (ROM), la exigencia de fuerza provocará que el sistema nervioso derive las tensiones mecánicas hacia musculatura adyacente para poder ejecutar el patrón motor, generando un desequilibrio y consolidando mecánicas patológicas perjudiciales."
+    }
+  ]
+}
