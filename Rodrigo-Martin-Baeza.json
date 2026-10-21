@@ -1,0 +1,153 @@
+{
+  "class_title": "Toma de decisiones en el fútbol profesional",
+  "total_questions": 12,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Durante una sesión de readaptación en campo por una lesión previa en el cuádriceps, el deportista experimenta un dolor agudo en el aductor específicamente al realizar un gesto técnico de golpeo. La interpretación clínica y biomecánica más rigurosa para este escenario es:",
+      "options": [
+        "El cuádriceps podría estar inhibido o no activarse correctamente, obligando a transferir carga y estrés lesivo compensatorio al aductor.",
+        "La cadena posterior está intentando compensar una asimetría pélvica congénita exacerbada por la fatiga metabólica de la sesión.",
+        "Se ha originado una microrrotura aguda en el aductor derivada casi exclusivamente del acúmulo de trabajo aeróbico previo al impacto.",
+        "El aductor ha desarrollado un síndrome de dolor regional crónico que cursa de manera completamente independiente al proceso de rehabilitación del cuádriceps."
+      ],
+      "correct_answer": "El cuádriceps podría estar inhibido o no activarse correctamente, obligando a transferir carga y estrés lesivo compensatorio al aductor.",
+      "feedback": "La aparición de un dolor repentino en musculatura adyacente (aductor) al momento de demandar un esfuerzo explosivo al músculo originalmente lesionado (cuádriceps) representa una señal de alarma funcional. Indica que el tejido lesionado no está asumiendo su función primaria ni su nivel óptimo de activación, forzando patrones compensatorios lesivos en otras estructuras."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Durante la fase aguda de recuperación de una lesión muscular, escalar la intensidad del entrenamiento basándose únicamente en la percepción subjetiva de mejora del futbolista es una trampa técnica porque las sensaciones de bienestar emergen mucho antes de que el tejido haya recuperado ____.",
+      "options": [
+        "su estabilidad biológica",
+        "su máxima extensibilidad",
+        "su aclaramiento láctico"
+      ],
+      "correct_answer": "su estabilidad biológica",
+      "feedback": "Uno de los mayores peligros en la rehabilitación es el desfase temporal entre la reducción del dolor (percepción subjetiva) y la regeneración real del tejido. El futbolista puede sentirse preparado para competir, pero la estructura muscular requiere tiempo y progresión objetiva para adquirir la estabilidad biológica y mecánica indispensable que evite la rotura ante altas demandas."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "El organigrama clínico tradicional y lineal (diagnóstico médico, derivación al fisioterapeuta y posterior alta con el preparador físico) describe con exactitud suficiente cómo se ejerce la toma de decisiones en un ecosistema deportivo de alto rendimiento.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El modelo lineal y ordenado que se expone en entornos académicos no refleja la realidad de un club profesional. Las decisiones médicas no ocurren en el vacío; forman parte de un sistema dinámico y complejo sometido a constantes presiones competitivas, intereses deportivos cruzados y necesidades tácticas del cuerpo técnico."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Bajo la metodología del modelo de trabajo integrado en un club profesional, la transición óptima de un jugador lesionado hacia el campo de juego se diseña mediante:",
+      "options": [
+        "Una progresión continua y unificada donde el fisioterapeuta y el preparador físico solapan desde etapas muy tempranas la exposición a las cargas.",
+        "Una derivación protocolizada al preparador físico que ocurre estrictamente cuando el fisioterapeuta ha finalizado el total de las demandas funcionales.",
+        "El uso concluyente e incuestionable de plataformas de fuerza isocinéticas para determinar la fecha exacta de reincorporación deportiva.",
+        "La transferencia de toda responsabilidad sobre la carga táctica al entrenador principal una vez la ecografía certifica la curación anatómica."
+      ],
+      "correct_answer": "Una progresión continua y unificada donde el fisioterapeuta y el preparador físico solapan desde etapas muy tempranas la exposición a las cargas.",
+      "feedback": "El modelo integrado rompe con la filosofía de compartimentos estancos. Mientras el fisioterapeuta gestiona la evolución clínica y sintomática, el preparador físico interviene de manera paralela y progresiva con la carga de entrenamiento (por ejemplo, volumen aeróbico). Esto asegura una adaptación mecánica y metabólica coherente, ganando tiempo útil para el deportista."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "¿A quién debe traducirse de manera pragmática un diagnóstico médico de altísima precisión para que no pierda su utilidad práctica dentro del organigrama técnico de un club profesional?",
+      "options": [
+        "Al staff técnico y cuerpo de entrenadores para que comprendan los límites de disponibilidad operativa.",
+        "A la directiva ejecutiva para justificar el presupuesto médico de la temporada.",
+        "A los analistas de datos para alimentar los algoritmos predictivos de forma aislada.",
+        "A la prensa deportiva para evitar especulaciones mediáticas perjudiciales."
+      ],
+      "correct_answer": "Al staff técnico y cuerpo de entrenadores para que comprendan los límites de disponibilidad operativa.",
+      "feedback": "En el fútbol de élite, la victoria técnica no recae en la información mejor elaborada, sino en la mejor comunicada. Una evaluación médica impecable debe traducirse a un idioma operativo que exponga límites de disponibilidad, rangos de progresión y umbrales de riesgo razonables para que el entrenador y su equipo puedan ejecutar sus decisiones tácticas."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Frente a un cuadro de tendinopatía rotuliana reactiva en pleno clímax de la temporada competitiva, en un jugador estructuralmente crítico para el equipo, la decisión clínica de mayor rigor en el fútbol profesional se enfoca en:",
+      "options": [
+        "Gestionar inteligentemente la carga mediante ajustes de volumen e integración de pautas isométricas para mantenerlo operativo con un riesgo controlado.",
+        "Interrumpir de forma tajante toda exposición a ciclos de estiramiento-acortamiento y pliometría hasta alcanzar la curación anatómica ideal del tendón.",
+        "Infiltrar corticoesteroides de manera rutinaria previo a cada microciclo competitivo para garantizar una inhibición total del umbral de dolor.",
+        "Apartar al jugador de la disciplina competitiva enviándolo a un proceso de descanso deportivo estricto por un lapso no negociable de tres semanas."
+      ],
+      "correct_answer": "Gestionar inteligentemente la carga mediante ajustes de volumen e integración de pautas isométricas para mantenerlo operativo con un riesgo controlado.",
+      "feedback": "En el contexto del alto rendimiento, la pretensión de alcanzar la perfección clínica o el reposo absoluto resulta habitualmente incompatible con la urgencia del calendario. El imperativo técnico es la gestión de carga: adaptar los volúmenes y alterar los estímulos (como el trabajo isométrico y excéntrico) para prolongar la disponibilidad del jugador mitigando el riesgo de daño estructural irreversible."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "El objetivo final y definitivo del departamento médico en el deporte de alto nivel es certificar sistemáticamente que cada decisión de retorno al campo ('return to play') se efectúe bajo garantías de riesgo lesivo cero.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La aspiración al 'riesgo cero' es una falacia en el deporte profesional. Los clubes operan indefectiblemente bajo el paradigma del 'riesgo gestionado', calculando meticulosamente los umbrales de riesgo aceptables y asumiendo un margen de probabilidad de recaída que viene impuesto por la necesidad competitiva del calendario."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Al enfrentarse a la resolución técnica de un proceso de 'return to play', ¿cuáles son los tres grandes bloques de riesgo que deben ponderarse simultáneamente para evitar conclusiones parcializadas?",
+      "options": [
+        "Biológico, funcional y contextual.",
+        "Clínico, biomecánico y psicológico.",
+        "Anatómico, aeróbico y deportivo.",
+        "Estructural, neuromuscular y táctico."
+      ],
+      "correct_answer": "Biológico, funcional y contextual.",
+      "feedback": "La validación para el retorno al juego constituye una decisión de alta complejidad multifactorial. Requiere someter a escrutinio el estado intrínseco de curación del tejido (biológico), la resiliencia mecánica ante estímulos caóticos (funcional) y la ponderación del nivel de trascendencia del evento deportivo en el calendario (contextual)."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Cuando los departamentos de fisioterapia y preparación física no comparten criterios operativos durante la rehabilitación, emitiendo rutinas desconectadas, el efecto negativo más drástico en la readaptación es que el atleta ____.",
+      "options": [
+        "pierda confianza",
+        "genere hipertrofia asimétrica",
+        "consolide fatiga aguda"
+      ],
+      "correct_answer": "pierda confianza",
+      "feedback": "Si la comunicación carece de criterios técnicos estandarizados, el jugador percibe mensajes mixtos e incongruentes. Esta disonancia informativa fomenta la duda, destruye la autoconfianza del atleta respecto a la solidez de sus propios movimientos y termina socavando la eficacia de la readaptación neuromuscular."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Cuando se evalúa a un jugador élite inmerso en la fase final (85%) de su readaptación justo en la previa de un partido crítico a final de temporada, el paradigma técnico de análisis sufre un viraje que prioriza:",
+      "options": [
+        "El desplazamiento del debate biomédico sobre la reparación tisular perfecta hacia la urgencia del 'timing' y la disponibilidad táctica.",
+        "La paralización fulminante de la exposición a velocidad submáxima hasta erradicar los asimétricos déficits de fuerza reactiva.",
+        "La derivación íntegra de la asunción de riesgos hacia la dirección técnica del club para salvaguardar el prestigio del departamento.",
+        "La protocolización inquebrantable de estudios de imagenología seriados para confirmar la absorción total del edema interfibrilar."
+      ],
+      "correct_answer": "El desplazamiento del debate biomédico sobre la reparación tisular perfecta hacia la urgencia del 'timing' y la disponibilidad táctica.",
+      "feedback": "La aparición en escena de un encuentro de máxima relevancia deportiva reconfigura la narrativa clínica. El foco decisional abandona la búsqueda aséptica de la perfección tisular y se reorienta hacia el escrutinio sobre el 'timing', calibrando cuánto riesgo funcional es operativamente asumible para cubrir la necesidad de contar con el talento del jugador."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "Atravesar una sesión íntegra de campo sin presentar dolor y culminar favorablemente una batería de test isocinéticos es evidencia irrefutable de que el jugador se encuentra preparado para tolerar las fricciones de la competición oficial.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Confundir la superación de métricas controladas ('pasar un criterio') con estar listo para competir es una falacia metodológica común. Mientras que la readaptación discurre modulando variables como aceleración y descanso, la competición expone al deportista a demandas caóticas, fatiga metabólica acumulada y estrés de reacción imposible de prever."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "En última instancia, la carga moral y profesional que soporta el área médica al dictaminar el retorno competitivo de un deportista en la élite no radica en constatar la sanidad del tejido, sino en su capacidad para asumir ____.",
+      "options": [
+        "las consecuencias",
+        "el desgaste cognitivo",
+        "las fluctuaciones tácticas"
+      ],
+      "correct_answer": "las consecuencias",
+      "feedback": "El núcleo de la medicina deportiva de alto rendimiento trasciende el mero diagnóstico y la aplicación de protocolos. Exige de los profesionales un profundo ejercicio de responsabilidad ética y técnica, con la firmeza suficiente para sostener sus decisiones y asumir el impacto y las consecuencias resultantes dentro del ecosistema del club."
+    }
+  ]
+}
