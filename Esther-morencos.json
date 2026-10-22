@@ -1,0 +1,88 @@
+{
+  "class_title": "Diseño de ecosistemas en el alto rendimiento",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Al planificar el desarrollo a largo plazo de una atleta femenina, ¿cómo debe integrarse el control de la salud (ej. prevención de déficits energéticos o amenorreas) dentro del ecosistema de alto rendimiento?",
+      "options": [
+        "Como un factor secundario que debe abordarse únicamente si compromete la disponibilidad inmediata para competir.",
+        "Como la infraestructura estructural fundamental que absorbe las cargas y permite la sostenibilidad del rendimiento.",
+        "Como un límite o freno biológico inevitable que justifica reducir el volumen de entrenamiento de fuerza general.",
+        "Como un área de competencia exclusiva de los servicios médicos, separada de las decisiones técnicas del preparador físico."
+      ],
+      "correct_answer": "Como la infraestructura estructural fundamental que absorbe las cargas y permite la sostenibilidad del rendimiento.",
+      "feedback": "Separar salud y rendimiento es un error metodológico grave en las ciencias del deporte; la salud actúa como la verdadera infraestructura base que permite al deportista tolerar, adaptar y sostener las cargas impuestas a lo largo de los años sin derivar en fragilidades sistémicas."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "La aplicación pura del conocimiento fisiológico, como prescribir sesiones de pliometría complejas, resulta completamente ineficaz si en las reuniones previas del staff técnico no se ha diseñado adecuadamente la ____.",
+      "options": [
+        "carga cognitiva",
+        "coordinación logística",
+        "prevención de lesiones"
+      ],
+      "correct_answer": "coordinación logística",
+      "feedback": "Disponer del conocimiento técnico experto es insuficiente. Si operativamente no se han reservado espacios, trasladado los materiales específicos o estructurado los horarios, la ejecución del plan de entrenamiento colapsará. La huella del trabajo previo facilita que el acto físico suceda."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Una 'red flag' en variables de rendimiento, como una caída abrupta en el CMJ o una baja puntuación de calidad de sueño, determina de forma automática la exclusión del deportista de la sesión de entrenamiento.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La 'red flag' indica al evaluador hacia dónde debe dirigir su mirada, no justifica la exclusión dictatorial de la práctica. Salvo en escenarios estrictamente clínicos (ej. un trastorno grave o amenorrea), las alertas de rendimiento obligan a contextualizar la fatiga, ajustar el plan y tomar decisiones holísticas, nunca aplicar vetos automatizados."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Durante la reunión matutina del cuerpo médico y técnico, se plantea la disponibilidad de un jugador tras un partido de alta exigencia. ¿Qué enfoque refleja un ecosistema de alto rendimiento avanzado en su toma de decisiones?",
+      "options": [
+        "Basar la decisión de disponibilidad exclusivamente en el color (rojo, ámbar, verde) de los umbrales fisiológicos automatizados en el 'dashboard' del club.",
+        "Requerir a los preparadores físicos una respuesta binaria (sí/no) para agilizar drásticamente el diseño de la sesión del entrenador.",
+        "Entender la disponibilidad como una escala de grises, detallando qué tareas se permiten, qué adaptaciones son necesarias y qué tipo de protección debe aplicarse.",
+        "Excluir al jugador de los entrenamientos técnicos si comunica subjetivamente altos niveles de fatiga, para proteger su infraestructura de salud a largo plazo."
+      ],
+      "correct_answer": "Entender la disponibilidad como una escala de grises, detallando qué tareas se permiten, qué adaptaciones son necesarias y qué tipo de protección debe aplicarse.",
+      "feedback": "La respuesta sobre la disponibilidad deportiva rara vez es binaria. Un entorno metodológicamente avanzado exige definir matices operativos (qué se hace adaptado, qué se protege, bajo qué revisiones), cruzando el estado clínico con los requisitos del rendimiento."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "La presencia de 'puntos ciegos' de información en una organización de élite suele generarse cuando un liderazgo jerárquico autoritario prohíbe explícitamente la adopción de plataformas informáticas unificadas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Los puntos ciegos surgen de la adquisición descontrolada y heredada de distintas herramientas para distintos departamentos, generando silos de datos inconexos. Subsanarlo exige un liderazgo transversal, donde cada profesional asuma responsabilidad integrando su fracción de conocimiento global."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "La adquisición de plataformas tecnológicas o licencias de software en un club deportivo genera frecuentemente problemas operativos porque se omite definir un propósito claro y diseñar un pertinente ____.",
+      "options": [
+        "análisis biomecánico",
+        "escalado tecnológico",
+        "flujo de trabajo (workflow)"
+      ],
+      "correct_answer": "flujo de trabajo (workflow)",
+      "feedback": "Adquirir plataformas digitales es inútil sin definir flujos de trabajo eficientes. Si no existen roles, hábitos e integración interdepartamental, la tecnología acaba generando cuellos de botella (como mantener registros paralelos duplicados) en lugar de soluciones útiles."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Para evitar que una acumulación masiva de datos genere incertidumbre y falta de alineación, la información debe recorrer un recorrido estructural. ¿Cuál es el orden metodológico correcto para que una métrica impacte positivamente en el rendimiento?",
+      "options": [
+        "Dato -> Conocimiento -> Información -> Acción -> Decisión",
+        "Dato -> Información -> Conocimiento -> Decisión -> Acción",
+        "Información -> Dato -> Decisión -> Conocimiento -> Acción",
+        "Conocimiento -> Dato -> Información -> Decisión -> Acción"
+      ],
+      "correct_answer": "Dato -> Información -> Conocimiento -> Decisión -> Acción",
+      "feedback": "El desarrollo epistemológico en ciencias del deporte implica tomar un número bruto (dato), interpretarlo para dotarlo de significado (información), encuadrarlo en el contexto del ecosistema humano (conocimiento), y formular un dictamen (decisión) ejecutado por un responsable claro (acción)."
