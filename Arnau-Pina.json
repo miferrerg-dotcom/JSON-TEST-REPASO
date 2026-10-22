@@ -1,0 +1,251 @@
+{
+  "class_title": "Certificación PSS: Metodología del Preparador Físico en Baloncesto",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el enfoque fisiológico correcto para preparar al atleta ante las 'demandas pico' del baloncesto moderno?",
+      "options": [
+        "Aplicar pausas de recuperación completas cada 20 segundos para simular interrupciones tácticas.",
+        "Diseñar tareas continuas de 40 a 60 segundos con exigencias de 1.5 a 6 veces mayores que la media.",
+        "Entrenar basándose estrictamente en los promedios de intensidad de los partidos anteriores.",
+        "Reducir la carga cognitiva mediante estímulos sonoros previsibles para favorecer el sprint."
+      ],
+      "correct_answer": "Diseñar tareas continuas de 40 a 60 segundos con exigencias de 1.5 a 6 veces mayores que la media.",
+      "feedback": "El jugador de alto rendimiento no compite al nivel promedio del partido, sino que sobrevive a las demandas pico. Estas fases críticas ('up and down' sin pausas por el reloj) alcanzan intensidades metabólicas masivas que deben entrenarse específicamente replicando esfuerzos ininterrumpidos de máxima demanda."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "La distancia total recorrida (volumen kilométrico) en un partido de baloncesto es el indicador más preciso para cuantificar la carga mecánica real que sufre el jugador.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La distancia total (generalmente entre 4 y 6 km) subestima severamente la carga mecánica. El verdadero impacto articular y muscular proviene del 25-35% de la distancia correspondiente a alta intensidad: trabajo defensivo, sprints, aceleraciones, desaceleraciones y continuos cambios de inercia."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Asegurar que los ángulos de frenado sean los adecuados mediante un análisis cinemático ayuda significativamente a disminuir el dolor crónico en ____.",
+      "options": [
+        "la zona lumbar",
+        "el tobillo",
+        "la rodilla"
+      ],
+      "correct_answer": "la rodilla",
+      "feedback": "Las desaceleraciones de alta intensidad (entre 100 y 250 eventos por partido) representan los mayores estresores físicos. Perfeccionar la calidad técnica y cinemática en la acción de frenado minimiza el impacto directo, aliviando la carga mecánica soportada por la rodilla y previniendo el dolor crónico."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "En el contexto de una concentración corta de Selección Nacional, ¿cómo se deben estructurar las cargas de trabajo durante la fase de 'tapering' (48-72 horas antes de competir)?",
+      "options": [
+        "Se realiza un microciclo de choque de alto impacto mecánico para tolerar el ritmo de partido.",
+        "Se reduce drásticamente tanto la carga externa (Movement Load) como la interna (TRIMP).",
+        "Se eleva el TRIMP al máximo para activar sistemas metabólicos, bajando solo los saltos.",
+        "Se mantiene el volumen general pero se elimina el trabajo táctico para reducir la fatiga."
+      ],
+      "correct_answer": "Se reduce drásticamente tanto la carga externa (Movement Load) como la interna (TRIMP).",
+      "feedback": "A falta de 48-72 horas, la prioridad fisiológica es crear una sobrecompensación que ofrezca al jugador frescura y máxima disponibilidad. Reducir tanto el volumen de movimiento como el impulso de entrenamiento (TRIMP) garantiza que la disipación de la fatiga supere a la pérdida de fitness adaptativo."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "¿Cuál es la justificación biomecánica de introducir escenarios impredecibles de 'caos' táctico en los drills de pista reducida?",
+      "options": [
+        "Mantener a los atletas en un estado de alta activación cognitiva, forzando reajustes rápidos.",
+        "Aumentar el trabajo aislado sobre los exteriores, minimizando los aterrizajes de los pívots.",
+        "Reducir temporalmente el impacto fisiológico, permitiendo descansos activos disimulados.",
+        "Fijar mecanizaciones de jugadas a balón parado sin someter al sistema nervioso central a estrés."
+      ],
+      "correct_answer": "Mantener a los atletas en un estado de alta activación cognitiva, forzando reajustes rápidos.",
+      "feedback": "El caos metodológico (como extraer repentinamente a un tirador o modificar ventajas de 4v3 a 4v2) genera una profunda incertidumbre táctica. Esto dispara la carga cognitiva y acelera los tiempos de percepción-acción, preparando integralmente al atleta para la impredictibilidad de la competición."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "En competiciones de ciclos cortos (como ventanas FIBA), se debe priorizar el ratio de carga aguda-crónica a 28 días como métrica principal para la toma de decisiones preventivas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Al disponer de los deportistas durante muy pocos días, resulta matemáticamente inviable construir o validar la carga crónica (28 días). La planificación debe basarse forzosamente en la monitorización de la carga aguda y en marcadores de 'readiness' (disponibilidad diaria) a corto plazo."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Al dirigir una tarea con objetivo puramente condicional, el staff debe evitar interrumpir constantemente para realizar correcciones, ya que a mayor feedback ____.",
+      "options": [
+        "mayor es el riesgo de lesión muscular",
+        "más se agota la vía anaeróbica láctica",
+        "menor es la intensidad media"
+      ],
+      "correct_answer": "menor es la intensidad media",
+      "feedback": "El tiempo de intervención y las pausas didácticas del entrenador cortan la continuity del estímulo fisiológico. Si el drill busca una adaptación condicional, un exceso de correcciones técnicas desploma la intensidad media, desvirtuando el objetivo metabólico planificado."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "¿Qué patrón biomecánico diferencial caracteriza predominantemente el perfil de saltos en los jugadores interiores (grandes) respecto a los exteriores (guardias)?",
+      "options": [
+        "Ejecutan el 90% de sus acciones explosivas basándose en rebotes a una sola pierna tras corte.",
+        "Muestran siempre niveles de asimetría superiores en miembros inferiores por su rol táctico base.",
+        "Presentan idénticos patrones de vuelo que los escoltas, variando solo la fuerza de impulso reactivo.",
+        "Acumulan numerosos microsaltos y aterrizajes repetidos, ejecutados a dos pies sin carrera previa."
+      ],
+      "correct_answer": "Acumulan numerosos microsaltos y aterrizajes repetidos, ejecutados a dos pies sin carrera previa.",
+      "feedback": "Los interiores desarrollan su juego aéreo en posiciones estáticas y con segundos esfuerzos constantes (rebotes, tapones), lo que se traduce en saltos a dos piernas y aterrizajes múltiples. Los exteriores, en cambio, atacan los espacios con saltos a una pierna, sufriendo habitualmente mayores asimetrías."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "El uso avanzado de dispositivos GPS y modelos algorítmicos hace que la evaluación visual directa por parte del cuerpo técnico carezca de impacto metodológico real.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Toda tecnología de monitorización asume un rol de 'facilitador'. Interpretar correctamente los datos exige imperativamente cruzar la métrica con el 'ojo clínico' del preparador, las sensaciones del jugador y el contexto táctico. Los datos absolutos sin análisis humano inducen a decisiones erróneas."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Someter a la plantilla de forma continua a estructuras tácticas complejas que aún no tienen automatizadas desencadenará un pico severo e indeseado en ____.",
+      "options": [
+        "el daño tisular crónico",
+        "la asimetría de frenado",
+        "la carga cognitiva"
+      ],
+      "correct_answer": "la carga cognitiva",
+      "feedback": "La exigencia táctica no asimilada obliga al deportista a mantener un estado de alerta continuo para corregir trayectorias y procesar normas, lo que fatiga prematuramente el sistema nervioso central. La carga cognitiva alta reduce el rendimiento antes de llegar al límite condicional o metabólico."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Si modificamos una tarea de pista reduciendo el espacio útil para el mismo número de jugadores, ¿cómo fluctúan las cargas fisiológicas y biomecánicas?",
+      "options": [
+        "La carga fisiológica aumenta linealmente por la exigencia de defender áreas más concentradas de tiro.",
+        "Ambas cargas se desploman al no existir suficiente terreno para alcanzar velocidades punta de sprint.",
+        "Baja la carga fisiológica general, pero se dispara la biomecánica por mayores contactos y aceleraciones.",
+        "La carga biomecánica desaparece al limitarse el rango de desplazamiento articular de los atletas."
+      ],
+      "correct_answer": "Baja la carga fisiológica general, pero se dispara la biomecánica por mayores contactos y aceleraciones.",
+      "feedback": "En espacios reducidos, la distancia total cubierta disminuye (caída fisiológica básica). No obstante, la saturación de jugadores dispara las decisiones en décimas de segundo, multiplicando contactos físicos, frenadas en seco y cambios de dirección bruscos (aumento severo de carga biomecánica y articular)."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Dentro de la categorización de mesociclos en un club, ¿cuál es la estructura de carga que define a una sesión clasificada en el cuadrante 'Q2'?",
+      "options": [
+        "Alto volumen y baja intensidad, estratégica en semanas iniciales para crear base evitando estrés de contacto.",
+        "Bajo volumen y baja intensidad, utilizada en las primeras 48 horas tras competiciones de élite.",
+        "Alto volumen y alta intensidad, fundamental para reproducir las demandas pico en pleno periodo precompetitivo.",
+        "Bajo volumen y alta intensidad, idónea para aplicar estímulos neurales sin añadir fatiga residual."
+      ],
+      "correct_answer": "Alto volumen y baja intensidad, estratégica en semanas iniciales para crear base evitando estrés de contacto.",
+      "feedback": "El cuadrante Q2 estructura un volumen amplio de trabajo compensado con intensidades bajas. Esta combinación es el pilar de la periodización ondulante en las primeras fases de pretemporada: eleva la base cardiovascular del atleta sin exponer estructuras pasivas (articulaciones) al estrés que supondría el contacto directo."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "El principio base sobre la génesis lesional dicta que los deportistas se lesionan exclusivamente cuando las tareas de fuerza en gimnasio omiten su especificidad posicional.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Aunque la especificidad es crítica, la causa primordial de los procesos lesivos recae en la asimetría del binomio 'carga-capacidad'. La lesión se materializa en el preciso momento en el que el estrés impuesto sobrepasa la capacidad real y actual del sistema biológico para asimilarlo (menos suele ser más)."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Un calendario donde se compite sábado, domingo, se viaja, y se vuelve a jugar miércoles, sábado y domingo, representa un nivel extremo de densidad competitiva ____.",
+      "options": [
+        "cinco",
+        "crítica superior",
+        "dos plus"
+      ],
+      "correct_answer": "cinco",
+      "feedback": "Jugar cinco partidos oficiales comprimidos en tan solo ocho días (incluyendo desplazamientos y vuelos intermedios) se cataloga técnicamente como 'densidad cinco'. En estos microciclos, el único objetivo físico factible es regenerar tejido neuromuscular y mantener la homeostasis del jugador."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Para escalar de manera drástica el 'pace' (ritmo de juego) en una situación real de 5 contra 5, ¿cuál es la herramienta metodológica más efectiva?",
+      "options": [
+        "Suprimir las transiciones defensivas del equipo que ha perdido la posesión del balón.",
+        "Limitar reglamentariamente el reloj de posesión de la tarea a un máximo de 14 segundos.",
+        "Impedir el uso de bloqueos directos e indirectos durante el desarrollo del juego estático.",
+        "Permitir descansos activos no estandarizados a los jugadores exteriores de cada equipo."
+      ],
+      "correct_answer": "Limitar reglamentariamente el reloj de posesión de la tarea a un máximo de 14 segundos.",
+      "feedback": "Alterar las reglas temporales modifica diametralmente la carga percibida. Imponer un límite de 14 segundos ahoga el margen de decisión e incrementa de forma mecánica la cantidad de posesiones por minuto (pace), multiplicando el volumen de sprints y esfuerzos de alta demanda metabólica."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "A nivel conceptual, ¿qué objetivo diferencia esencialmente al preparador físico de una franquicia profesional respecto al de un equipo nacional?",
+      "options": [
+        "El club aplica siempre periodización tradicional; la selección exige periodización en bloques ATR puros.",
+        "En el club prima ignorar el ratio agudo-crónico; en la selección es la única base científica viable.",
+        "El club dispone de tiempo para 'construir' capacidad; la selección se reduce a 'proteger y exprimir' el estado de forma.",
+        "Ambos enfoques comparten de raíz el desarrollo innegociable de la resistencia aeróbica basal."
+      ],
+      "correct_answer": "El club dispone de tiempo para 'construir' capacidad; la selección se reduce a 'proteger y exprimir' el estado de forma.",
+      "feedback": "Los contextos moldean la intervención deportiva. Una temporada de diez meses ofrece terreno fértil para edificar capacidades físicas sólidas desde la base. En la Selección (ciclos de apenas 10 días), el técnico asume un rol de 'caza-fatigas': protege al talento de lesiones agudas y exprime los picos de forma previamente labrados."
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "question": "Para entrenar la capacidad reactiva (percepción-acción), los estímulos puramente auditivos se consideran biomecánicamente superiores en especificidad frente a los estímulos visuales.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es todo lo contrario. La naturaleza del baloncesto exige decisiones guiadas incesantemente por la lectura ocular del entorno. Entrenar la percepción-acción y la agilidad reactiva mediante estímulos visuales resulta inherentemente más específico, y facilita el acople inmediato del sistema sensoriomotor del jugador al contexto de partido."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Para garantizar un aumento de carga crónica seguro en clubes a largo plazo, la sobrecarga semanal impuesta (salvo semanas puras sin contacto) nunca debería rebasar ____.",
+      "options": [
+        "un 15 y un 20 %",
+        "un 5 y un 7 %",
+        "un 2 y un 3 %"
+      ],
+      "correct_answer": "un 5 y un 7 %",
+      "feedback": "Respetar la banda de incremento semanal entre el 5% y el 7% evita cruzar el umbral biológico crítico que detona el sobreentrenamiento o las fracturas de estrés. Solamente se toleran picos en torno al 10% cuando se suprimen los vectores de carga biomecánica y contacto severo (inicios de pretemporada pura)."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "La problemática metodológica conocida como 'histórico incontrolable' en las Selecciones Nacionales se produce fundamentalmente porque:",
+      "options": [
+        "Los atletas son incapaces de comunicar sus sensaciones físicas previas de manera fidedigna.",
+        "La Federación Internacional prohíbe el volcado de datos biométricos para preservar privacidad.",
+        "Los clubes ceden a los jugadores con 48h de margen aportando frecuentemente datos solo subjetivos o fragmentados.",
+        "Las diferencias de altitud provocan que cualquier historial telemétrico recolectado pierda su vigencia fisiológica."
+      ],
+      "correct_answer": "Los clubes ceden a los jugadores con 48h de margen aportando frecuentemente datos solo subjetivos o fragmentados.",
+      "feedback": "La heterogeneidad en recursos tecnológicos (algunos clubes no miden con GPS) y la cesión de jugadores en ventanas FIBA a solo 48/72 horas del partido, generan un punto ciego analítico masivo para el preparador. Al no existir control científico sobre la carga crónica residual del atleta, las decisiones deben pivotar hacia evaluaciones de disponibilidad agudas."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Ante la disparidad extrema de ritmos competitivos que presentan los internacionales al concentrarse (ej. de jugar 1 a 4 partidos semanales), ¿cuál es el paso evaluativo inicial?",
+      "options": [
+        "Someter al grupo a un 'screening' exprés urgente (24-48 horas) para detectar déficits críticos de disponibilidad inmediata.",
+        "Aplicar una batería cerrada isométrica de tren inferior y superior para estandarizar las asimetrías de todos los jugadores.",
+        "Forzar un entrenamiento regenerativo táctico de 72 horas para diluir por completo las huellas motrices de sus ligas.",
+        "Utilizar un algoritmo estadístico predictivo basado en sus minutos jugados para prescindir por completo de test físicos presenciales."
+      ],
+      "correct_answer": "Someter al grupo a un 'screening' exprés urgente (24-48 horas) para detectar déficits críticos de disponibilidad inmediata.",
+      "feedback": "Dada la urgencia temporal, la imposibilidad de cimentar forma y la imperiosa necesidad de rendir, se debe realizar un rastreo ultrarrápido (screening exprés). El propósito exclusivo es identificar banderas rojas (dolencias articulares o fatiga nerviosa grave) para aplicar medidas micro-preventivas a corto plazo."
+    }
+  ]
+}
