@@ -1,0 +1,251 @@
+{
+  "class_title": "Certificación PSS (Performance Sport Specialist) - Entrenamiento de la Velocidad",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Al comparar la cinemática a velocidad absoluta entre superélites, Usain Bolt exhibía tiempos de contacto ligeramente superiores y menor frecuencia que rivales como Tyson Gay o Asafa Powell. Su aplastante dominio en los metros finales se sustentaba en:",
+      "options": [
+        "Un 'stiffness' vertical marcadamente inferior que le exigía mucha menos fuerza para vencer la reacción del suelo, retrasando severamente la fatiga neuromuscular.",
+        "La elevación inmediata de su centro de masas en el primer apoyo, permitiéndole verticalizar el tronco 10 metros antes que el resto de corredores.",
+        "El uso de una técnica pendular para suprimir la fase de vuelo, aumentando la tracción concéntrica de la fascia plantar.",
+        "Un ratio de fuerza horizontal efectivo (RF) orientado exclusivamente hacia la cadena anteroposterior, anulando el vector vertical."
+      ],
+      "correct_answer": "Un 'stiffness' vertical marcadamente inferior que le exigía mucha menos fuerza para vencer la reacción del suelo, retrasando severamente la fatiga neuromuscular.",
+      "feedback": "La biomecánica de Bolt es un caso de estudio ('unicornio'). Su menor stiffness (k vertical) le permitía amortiguar y reaccionar contra el tartán invirtiendo mucha menos energía neuromuscular por zancada. Al requerir menor esfuerzo para vencer la fuerza reactiva, ahorraba una inmensa fatiga central, logrando ampliar su zancada armónicamente mientras los demás colapsaban."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "En el modelo del semáforo de Dos Santos, los cambios de dirección agudos clasificados en rojo (entre 60 y 180 grados) exigen forzosamente aplicar estrategias de pivote o 'side step' en el penúltimo apoyo para evitar lesiones.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Verdadero. Estos giros severos imponen picos masivos de fuerza de frenado excéntrico ('braking'). La literatura técnica obliga a utilizar técnicas de pivote o 'side step' en los apoyos previos para disipar progresivamente esa brutal inercia y blindar estructuralmente la rodilla frente a roturas de ligamento cruzado."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Durante la ejecución del ejercicio analítico de 'tijeras' o 'impulsiones', para asegurar que el vector horizontal se proyecte adecuadamente, es innegociable que la fase de amortiguación recaiga exactamente debajo de ____.",
+      "options": [
+        "el centro de masas",
+        "el plano sagital",
+        "la rodilla adelantada"
+      ],
+      "correct_answer": "el centro de masas",
+      "feedback": "En las impulsiones, aterrizar o amortiguar con la pisada muy por delante de la cadera crea enormes fuerzas de frenado. La técnica exige que el metatarso impacte justo debajo del centro de masas, permitiendo que la extensión posterior de la pierna proyecte el cuerpo limpiamente hacia adelante."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Pese a poseer unos niveles de fuerza máxima incomparables en sentadilla, un plusmarquista de halterofilia (como Lasha Talakhadze) se asimilará a 'un tractor acelerando' al intentar esprintar porque:",
+      "options": [
+        "Presenta una inhibición genética de las fibras musculares de contracción rápida necesarias para la pliometría horizontal.",
+        "Su enorme fuerza solo se canaliza correctamente en vectores laterales, perdiendo eficiencia en la aceleración frontal.",
+        "Carece de la capacidad motriz para aplicar su potencia en tiempos de contacto ultracortos (100 ms) dentro del vector horizontal.",
+        "Su excesiva rigidez articular le obliga a pendulear la pierna libre causando roturas de isquiotibiales inmediatas."
+      ],
+      "correct_answer": "Carece de la capacidad motriz para aplicar su potencia en tiempos de contacto ultracortos (100 ms) dentro del vector horizontal.",
+      "feedback": "El principio de correspondencia dinámica es implacable: tener fuerza absoluta no sirve para el sprint si el atleta no puede reclutarla y aplicarla en el vector horizontal durante ventanas de 80 a 110 milisegundos. Al necesitar tiempos de contacto altísimos para presionar el suelo, su carrera es lenta y pesada."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "Al iniciar un sprint desde el reposo, el patrón de elevación cinemático más eficiente dicta verticalizar el tronco de manera abrupta durante los tres primeros apoyos para alcanzar antes la postura de velocidad absoluta.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Falso. La biomecánica óptima exige una elevación del centro de masas altamente progresiva (asimilada al despegue suave de un avión). Verticalizar abruptamente el tronco en la salida anula el ángulo rasante indispensable para proyectar grandes cantidades de fuerza en el vector horizontal, arruinando por completo la aceleración."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "En la metodología de campo de los deportes colectivos, la prescripción sistemática del ejercicio 'talones al glúteo' constituye un recurso:",
+      "options": [
+        "Vital para la optimización de las fibras blancas glucolíticas antes de ejecutar cambios de dirección de 180 grados.",
+        "Completamente irrelevante y nulo, ya que no guarda especificidad ni transferencia cinemática alguna con la técnica real del sprint.",
+        "Excelente para cimentar artificialmente el 'stiffness' reactivo del complejo pie-tobillo en los extremos y aleros.",
+        "Necesario solo para compensar el acortamiento provocado por el trabajo excesivo con trineos en fase de pretemporada."
+      ],
+      "correct_answer": "Completamente irrelevante y nulo, ya que no guarda especificidad ni transferencia cinemática alguna con la técnica real del sprint.",
+      "feedback": "La flexión pasiva de llevar los talones al glúteo carece de toda analogía mecánica con el ciclo circular y traccionador de un sprint. Ejecutar este dril no provee transferencia técnica ni muscular y fomenta vicios biomecánicos que un deportista jamás reproducirá corriendo en la pista o el campo."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "A nivel conceptual y físico, la destreza definida como 'rapidez' (ejemplo: un jab fulminante en boxeo) se diferencia radicalmente de la velocidad lineal porque conforma una magnitud estrictamente ____.",
+      "options": [
+        "escalar",
+        "vectorial",
+        "pliométrica"
+      ],
+      "correct_answer": "escalar",
+      "feedback": "La velocidad de desplazamiento integra desplazamiento y tiempo con una dirección definida en el espacio (es un vector). Por el contrario, la rapidez aplicada a un gesto aislado en el mismo sitio evalúa exclusivamente la relación entre una corta distancia y un tiempo mínimo, siendo matemáticamente una magnitud escalar."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Al evaluar un cambio de dirección de entre 0 y 45 grados (semáforo verde de Dos Santos) para eludir a un defensor, la directriz biomecánica y táctica prioritaria exige:",
+      "options": [
+        "Aplicar una fuerte acción de 'side step' en el penúltimo apoyo para anular la fuerza concéntrica lateral.",
+        "Desacelerar un mínimo del 50% de la Vmax para prevenir tensiones de cizalla letales en la rodilla.",
+        "Evitar reducir la velocidad y apostar por una técnica de 'crossover cut', aprovechando las mínimas demandas de frenado.",
+        "Disminuir la altura del centro de gravedad un 30% prolongando el tiempo de contacto sobre el talón."
+      ],
+      "correct_answer": "Evitar reducir la velocidad y apostar por una técnica de 'crossover cut', aprovechando las mínimas demandas de frenado.",
+      "feedback": "En giros leves (0-45 grados), la inercia no requiere fases agudas de frenado ('braking'). El deportista de élite debe mantener intacta su velocidad de aproximación empleando cortes ágiles (crossover cuts), conservando una inmensa ventaja competitiva sin exponerse a cargas excéntricas peligrosas."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "Cuando un velocista entra en una fase de fatiga profunda a partir de los 70-80 metros, la directriz neuromecánica clave es instruirle para que preserve al máximo la longitud de su zancada en lugar de subir la frecuencia.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Verdadero. Mantener una frecuencia neurótica de apoyos cortos en alta fatiga destruye al atleta porque multiplica los aterrizajes (fases excéntricas) y el coste metabólico. La ciencia atlética prioriza salvaguardar desesperadamente la amplitud/longitud residual de la zancada para no hundir el rendimiento."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "La premisa fundamental de la fluidez, conocida como 'sprint and relax', advierte que tensar la mandíbula o encoger los hombros arruina la técnica porque genera fuerzas ____.",
+      "options": [
+        "centrípetas estabilizadoras",
+        "elásticas reactivas",
+        "parasitarias contrarias"
+      ],
+      "correct_answer": "parasitarias contrarias",
+      "feedback": "Correr veloz es una danza de sincronía neural donde se activan agonistas y se apagan antagonistas instantáneamente. Tensar el tren superior siembra co-contracciones y fuerzas contrarias (frenos internos) que amputan la capacidad oscilatoria y arruinan la fluidez mecánica del deportista."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Al monitorizar las cargas en un equipo de fútbol mediante tecnología, una caída ostensible en la métrica de 'velocidad de zancada' (frecuencia) en las acciones explosivas ejerce de indicador fiable de:",
+      "options": [
+        "Acumulación severa de fatiga, puesto que la capacidad neural para disparar rápidamente los primeros apoyos colapsa drásticamente.",
+        "Un déficit localizado exclusivo en la flexión plantar, lo que alarga de forma compensatoria el tiempo de vuelo.",
+        "Una hiperactivación del ciclo estiramiento-acortamiento que bloquea los husos musculares del glúteo mayor.",
+        "El inicio de una rotura fibrilar inminente debido a un aumento súbito e incontrolado del stiffness vertical."
+      ],
+      "correct_answer": "Acumulación severa de fatiga, puesto que la capacidad neural para disparar rápidamente los primeros apoyos colapsa drásticamente.",
+      "feedback": "Bajo niveles de desgaste, el sistema nervioso central pierde fuelle para enviar impulsos hiperrápidos. La frecuencia de zancada en los arranques (que debería subir de forma exponencial) es el primer eslabón en romperse ante la fatiga. Por ello, su descenso monitoriza implacablemente el agotamiento del atleta en pista."
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "Debido a que evalúa distancias y gestos diferentes, la velocidad de desplazamiento en pista se categoriza a nivel físico como una magnitud puramente escalar, mientras que la rapidez es vectorial.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Falso. Es exactamente a la inversa. La velocidad engloba un desplazamiento en el tiempo hacia una dirección del espacio, constituyendo una magnitud vectorial. La rapidez (ej. golpear veloz) relaciona aritméticamente la distancia y el tiempo sin vector direccional traslacional, siendo escalar."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Al enseñar aceleración desde cero en deportes colectivos, un error técnico gravísimo consiste en priorizar obsesivamente la amplitud del paso largo, impidiendo la concatenación biomecánica necesaria para:",
+      "options": [
+        "Elevar el ritmo de manera exponencial en los primeros apoyos con pasos cortos y potentes.",
+        "Estabilizar de inmediato el raquis torácico en perfecta perpendicularidad respecto al césped.",
+        "Anular el stiffness vertical y convertir la fuerza de gravedad en impulso angular.",
+        "Activar pasivamente la contracción isométrica del cuádriceps de la pierna libre."
+      ],
+      "correct_answer": "Elevar el ritmo de manera exponencial en los primeros apoyos con pasos cortos y potentes.",
+      "feedback": "La inercia cero demanda empujar la masa como un pistón. Buscar pasos larguísimos al inicio rompe el equilibrio mecánico y hunde el centro de masas. La técnica de oro exige apoyos robustos pero más cortos, elevando la frecuencia de manera exponencial antes de buscar la gran amplitud madura."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Para entrenar mecánicamente la fase de aceleración larga o intermedia (comprendida entre 10 y 40 metros), la literatura prescribe usar arrastres o trineos que induzcan una pérdida de velocidad máxima del ____.",
+      "options": [
+        "10 por ciento",
+        "50 por ciento",
+        "80 por ciento"
+      ],
+      "correct_answer": "50 por ciento",
+      "feedback": "Esta zona (10-40m) reclama nutrir la fuerza anteroposterior con intensidad extrema pero manteniendo fluidez cinemática. Trabajos de Jiménez-Reyes/Morín asientan el uso de arrastres y trineos moderados configurados para restar aproximadamente un 50% a la Vmax, estimulando al límite los extensores de cadera sin destruir la técnica."
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "question": "El aumento deliberado de la masa corporal mediante rutinas de hipertrofia lentas reduce el rendimiento en deportes de contacto físico pesado (como el rugby) al empeorar ineludiblemente el ratio fuerza-masa.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Falso. Aunque físicamente (F=m*a) subir kilos sin subir fuerza merma la aceleración en el vacío, en contextos hiper-físicos como el rugby, el peso extra genera un 'momentum' y una inercia monumental. Ese tonelaje blindado concede ventajas competitivas devastadoras en los choques que superan la pérdida de unas milésimas en velocidad punta."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Prescribir el ejercicio pliométrico 'drop jump' (salto en profundidad) impone impactos osteoarticulares masivos. Su prescripción debe restringirse a aquellos atletas que certifiquen el prerrequisito basal de fuerza máxima de:",
+      "options": [
+        "Ser capaces de estabilizar cargas isométricas sobre superficies inestables durante más de 60 segundos.",
+        "Manejar sin dolor una resistencia equivalente al 80% de su peso en un 'curl' de isquiotibiales concéntrico.",
+        "Levantar al menos 1,5 veces su propio peso corporal en el ejercicio de sentadilla trasera.",
+        "Superar la barrera de las 20 repeticiones de sentadilla búlgara con el 50% de su peso sin perder alineación."
+      ],
+      "correct_answer": "Levantar al menos 1,5 veces su propio peso corporal en el ejercicio de sentadilla trasera.",
+      "feedback": "Los 'drop jumps' desatan picos brutales de estrés tendinoso y neural (fuerza reactiva extrema). Carecer del tonelaje muscular para frenar ese choque equivale a la lesión. La progresión científica dicta no afrontar esta pliometría terminal hasta amarrar un ratio de fuerza relativa superior a 1,5 x peso corporal en sentadilla profunda."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Analizando la cinética del bloque de un atleta de velocidad a través de plataformas integradas (ej. Kanoya), pasada la zancada trece o catorce, se registra invariable que las oscilaciones de fuerza:",
+      "options": [
+        "Se polarizan hacia la cadena mediolateral forzando el acortamiento reflejo de los aductores.",
+        "Dejan de ser erráticas y se estabilizan, solidificando las magnitudes verticales y anteroposteriores.",
+        "Desaparecen del espectro excéntrico requiriendo una tracción exclusiva del músculo sóleo.",
+        "Multiplican su variabilidad para compensar la llegada repentina del lactato muscular."
+      ],
+      "correct_answer": "Dejan de ser erráticas y se estabilizan, solidificando las magnitudes verticales y anteroposteriores.",
+      "feedback": "La fase inicial del sprint se asemeja a una explosión con vectores cambiantes. Sin embargo, superados los primeros 10 a 15 apoyos, la máquina humana alcanza el régimen de velocidad máxima. A partir de ese hito, las interacciones cinéticas contra el suelo (verticales, anteroposteriores y laterales) dejan de fluctuar y se vuelven planas y consistentes."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "El patrón mecánico calificado como 'pendular' (estirar la rodilla prematuramente proyectando el pie hacia abajo como un péndulo) incrementa los tiempos de contacto en el suelo y sobrecarga destructivamente ____.",
+      "options": [
+        "el psoas ilíaco",
+        "la cintilla iliotibial",
+        "la cadena posterior"
+      ],
+      "correct_answer": "la cadena posterior",
+      "feedback": "Correr penduleando fuerza un impacto pasivo sobre el talón. Al no caer con el pie armado debajo del centro de masas, la fricción se dispara y el frenado es masivo. Toda esta carga de absorción excéntrica castiga salvajemente la cadena posterior, traduciéndose rápidamente en roturas crónicas de isquiotibiales y gemelos."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Cuando un atleta adolece de una deficiencia biomecánica en su capacidad de proyección de fuerza, empujando instintivamente de manera vertical en el arranque, desencadenará irremediablemente:",
+      "options": [
+        "Una optimización natural del ciclo elástico en el cuádriceps eximiendo al glúteo mayor de traccionar.",
+        "Un aumento del tiempo de vuelo propulsivo en el primer apoyo de casi 300 milisegundos.",
+        "Una secuencia compensatoria de pasitos cortos e hiper-rápidos (similar a tropezar), disparando la fatiga neuromuscular.",
+        "La elongación pasiva del complejo tendinoso calcáneo, protegiendo así las estructuras tibiales de la periostitis."
+      ],
+      "correct_answer": "Una secuencia compensatoria de pasitos cortos e hiper-rápidos (similar a tropezar), disparando la fatiga neuromuscular.",
+      "feedback": "Un vector de salida excesivamente vertical es una fuerza muerta que frena la cadera. El centro de masas colapsa y el cuerpo humano, buscando no caerse de bruces, reacciona multiplicando la frecuencia con pequeños y urgentes pasos de estabilización. Este cortocircuito neural calcina las reservas neuromusculares en el primer segundo."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Superados los 40 metros iniciales, al instalarse en la mecánica de velocidad absoluta, el cuerpo del velocista requiere mutar su vector dominante hacia un plano mucho más:",
+      "options": [
+        "vertical para no oscilar ni colapsar el centro de gravedad",
+        "sagital para blindar el componente elástico transversal",
+        "horizontal para reducir el índice reactivo de frenado",
+        "frontal para maximizar la fricción aerodinámica de los hombros"
+      ],
+      "correct_answer": "vertical para no oscilar ni colapsar el centro de gravedad",
+      "feedback": "En aceleración se empuja rasante (horizontal), pero a más de 30 km/h la física dictamina un cambio ineludible. Para sostener el vuelo sin caer desplomado por la propia inercia, la absorción y transmisión de la fuerza se debe volver casi completamente vertical, blindando las oscilaciones peligrosas de la pelvis."
+    }
+  ]
+}
