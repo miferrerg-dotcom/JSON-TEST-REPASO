@@ -1,0 +1,214 @@
+{
+  "class_title": "Entrenamiento de Fuerza Basado en la Potencia - Certificación PSS",
+  "total_questions": 17,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "question": "En la adaptación anatómica, el objetivo prioritario es incidir sobre el eslabón más débil de la temporada anterior para prevenir futuras lesiones no traumáticas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es correcto. Este ciclo busca reforzar estructuras vulnerables detectadas previamente. Las lesiones musculares o tendinosas, excluyendo los traumatismos por impacto externo, derivan de desequilibrios biomecánicos que deben solucionarse en esta fase inicial antes de aplicar cargas máximas."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "¿Por qué resulta un error metodológico emplear la velocidad media para el cálculo de la potencia en levantamientos de alta velocidad y cargas bajas?",
+      "options": [
+        "Porque incluye la fase de inercia donde el desplazamiento continúa pero la fuerza aplicada por el sujeto es nula.",
+        "Porque los acelerómetros modernos carecen de la sensibilidad necesaria para registrar picos elásticos.",
+        "Porque sobreestima artificialmente la producción de vatios al omitir el vector gravitacional.",
+        "Porque la desaceleración excéntrica anula la ganancia neta de los puentes cruzados intercelulares."
+      ],
+      "correct_answer": "Porque incluye la fase de inercia donde el desplazamiento continúa pero la fuerza aplicada por el sujeto es nula.",
+      "feedback": "La biomecánica del movimiento demuestra que, a cargas bajas, la barra sigue ascendiendo por inercia tras finalizar el empuje concéntrico. Incluir este tiempo inerte (velocidad media) en lugar de aislar el tramo mecánicamente útil (velocidad propulsiva) subestima artificialmente la potencia generada, provocando variaciones distorsionadas de hasta 500 vatios."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "El protocolo de interrumpir la serie al registrar una pérdida de potencia del 10% carece de utilidad inicial en atletas novatos porque estos no logran mantener ____.",
+      "options": [
+        "una estabilidad técnica inter-repetición",
+        "el volumen de oxígeno máximo",
+        "la hidratación del sarcoplasma"
+      ],
+      "correct_answer": "una estabilidad técnica inter-repetición",
+      "feedback": "Los atletas sin experiencia en fuerza fluctúan enormemente en su capacidad mecánica; pueden perder un 20% de potencia en la segunda repetición y recuperarla en la tercera debido a su alta ineficiencia neuromuscular. Se exige un periodo de educación y estabilización motriz previo antes de poder parametrizar el corte por fatiga del 10%."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Durante el ciclo físico-técnico destinado al desarrollo de la fuerza elástico-explosiva, ¿qué criterio rige la selección de la superficie para ejecutar los multisaltos?",
+      "options": [
+        "Se emplea una superficie deliberadamente más dura que la de competición para generar tolerancia tisular.",
+        "Se utilizan fosos de arena para erradicar el impacto concéntrico sobre las rodillas y el tendón rotuliano.",
+        "Se replican milimétricamente las superficies competitivas exactas para asegurar la transferencia del impulso.",
+        "Se restringe el salto al tartán para potenciar el rebote miotático pasivo del tríceps sural exclusivamente."
+      ],
+      "correct_answer": "Se emplea una superficie deliberadamente más dura que la de competición para generar tolerancia tisular.",
+      "feedback": "En este ciclo se busca sobrecompensar las estructuras pasivas. Al exponer al atleta a una superficie un escalón más dura que la de su disciplina deportiva (ej. asfalto en lugar de tartán, o hierba en lugar de arena), se provoca una adaptación y un incremento en la resiliencia estructural de tendones y fascias."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "La fase propulsiva de un levantamiento dinámico finaliza en el instante exacto en que la velocidad de la barra comienza a descender, marcando el pico absoluto de potencia.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La fase propulsiva no finaliza cuando desciende la velocidad, sino en el punto preciso donde la fuerza aplicada por el sujeto desciende a cero. La barra puede seguir moviéndose en el espacio por pura inercia física, pero al desaparecer el empuje muscular activo, el trabajo propulsivo ha concluido."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "¿Qué fórmula matemática garantiza una estimación precisa de la potencia mecánica al emplear sistemas de medición externos (ej. encoders) en un ejercicio de resistencia dinámica?",
+      "options": [
+        "Potencia = (Masa corporal + carga externa) × (Aceleración + Gravedad) × Velocidad propulsiva",
+        "Potencia = (1RM histórico × 0.85) ÷ (Tiempo de vuelo aéreo + Tiempo de contacto en suelo)",
+        "Potencia = Fuerza Isométrica Máxima Registrada × Velocidad Media Acelerada en Concétrico",
+        "Potencia = (Masa pura de la barra) × Gravedad universal × Aceleración Concéntrica Neta"
+      ],
+      "correct_answer": "Potencia = (Masa corporal + carga externa) × (Aceleración + Gravedad) × Velocidad propulsiva",
+      "feedback": "Para obtener vatios reales en lugar de meras aproximaciones, es innegociable sumar la masa total implicada (porcentaje del cuerpo del atleta + carga externa), multiplicarla por el sumatorio de fuerzas actuantes (aceleración humana más la fuerza gravitacional) y aplicar exclusivamente la velocidad propulsiva, aislando la fase de inercia inútil."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "Si un deportista de élite registra una altura mayor en un Counter Movement Jump (CMJ) estándar en comparación con un salto Abalakov, se evidencia una deficiencia técnica coordinativa en el tren superior.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es Verdadero. El test Abalakov incorpora e incentiva el uso libre de los brazos para generar momento ascendente adicional. Si un atleta salta menos usando la sinergia de sus brazos (Abalakov) que sin ellos (CMJ), existe un claro déficit técnico y biomecánico en la transferencia de fuerzas desde el tren superior al salto."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Para la evaluación precisa del rendimiento durante la etapa competitiva del macrociclo, las baterías de salto estándar como el CMJ o Drop Jump se desechan en favor de ____.",
+      "options": [
+        "un test biomecánico específico del gesto",
+        "una prueba isométrica máxima concéntrica",
+        "una espirometría de gases en rampa"
+      ],
+      "correct_answer": "un test biomecánico específico del gesto",
+      "feedback": "Durante el ciclo competitivo, cuyo objetivo es el mantenimiento físico al 30-60% de la carga, las pruebas genéricas de laboratorio pierden sensibilidad de transferencia. Se exige clonar la cinemática propia de la competición, como por ejemplo, testear a un saltador de trampolín mediante un complejo salto con voltereta propio de su rutina."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "¿Qué objetivo fisiológico y mecánico primordial justifica la restricción de los multisaltos a superficies blandas (tierra, hierba, nieve) durante el ciclo de preparación física especial?",
+      "options": [
+        "Mitigar la sobrecarga articular severa y prevenir patologías por impacto repetitivo continuado como la periostitis.",
+        "Incrementar dramáticamente el tiempo de contacto para fomentar la hipertrofia sarcomérica exclusiva del tríceps sural.",
+        "Inhibir el ciclo de estiramiento-acortamiento para aislar el componente puramente concéntrico del trabajo muscular.",
+        "Desactivar la fase propulsiva del complejo del tobillo para transferir voluntariamente la carga excéntrica a la rodilla."
+      ],
+      "correct_answer": "Mitigar la sobrecarga articular severa y prevenir patologías por impacto repetitivo continuado como la periostitis.",
+      "feedback": "Este ciclo se fundamenta en la adquisición de fuerzas dinámicas máximas (85-100%). Añadir volúmenes de pliometría en terreno duro saturaría estructuralmente el sistema locomotor. El uso sistemático de superficies que disipan energía protege al atleta contra el estrés óseo tibial (periostitis) e inflamaciones tendinosas por sobrecarga mecánica."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "¿Cuál es la metodología científicamente válida para establecer la altura de caída óptima e individualizada para un atleta sometido a un protocolo de Drop Jump elástico-reflejo?",
+      "options": [
+        "Incrementando la altura del cajón sucesivamente milímetro a milímetro hasta registrar una pérdida de potencia del 10%.",
+        "Multiplicando la altura obtenida en su CMJ máximo por un factor biomecánico fijo estandarizado de 1.5.",
+        "Escalando la plataforma de caída en tramos fijos de 5 cm hasta alcanzar el colapso de la flexión articular excéntrica.",
+        "Fijando metodológicamente una altura estándar inamovible de 40 cm para todos los atletas de velocidad o salto vertical."
+      ],
+      "correct_answer": "Incrementando la altura del cajón sucesivamente milímetro a milímetro hasta registrar una pérdida de potencia del 10%.",
+      "feedback": "La optimización del reflejo miotático tiene un límite cinético individual. Se testa elevando la plataforma progresivamente; la altura óptima y segura se ubica instantes antes de que la potencia producida sufra una merma del 10%. Las alturas que sobrepasen este umbral provocan autoinhibición del sistema y mayor riesgo patológico."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "La finalidad metodológica de la fase de adaptación anatómica es maximizar la hipertrofia sarcoplasmática para multiplicar rápidamente el diámetro transversal muscular.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Falso. La hipertrofia que se prioriza y busca es estrictamente sarcomérica (crecimiento real de los sarcómeros responsables de la contracción) mediante intensidades de trabajo del 60-80% de la potencia máxima. La hipertrofia sarcoplasmática, que acumula agua intra-celular, no genera capacidad de fuerza explosiva ni rendimiento contráctil real."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el factor biomecánico principal que invalida el uso del porcentaje del 1RM directo al programar cargas externas mediante el uso de bandas elásticas o cadenas lastradas?",
+      "options": [
+        "La tensión generada varía durante el rango articular, imposibilitando un valor de resistencia estático y uniforme estable.",
+        "La tracción isométrica puramente excéntrica inhibe los impulsos de la placa motora, falseando gravemente el récord absoluto.",
+        "La elasticidad progresiva de los tensores anula por completo el efecto de la gravedad sobre la carga total movilizada.",
+        "El sistema nervioso simpático no logra reclutar adecuadamente fibras de contracción rápida en condiciones de inestabilidad."
+      ],
+      "correct_answer": "La tensión generada varía durante el rango articular, imposibilitando un valor de resistencia estático y uniforme estable.",
+      "feedback": "El cálculo del 1RM requiere cargas fijas e inamovibles. En movimientos ejecutados con elásticos o cadenas, la carga es mínima en la fase profunda inferior y máxima en la extensión articular completa (resistencia acomodada y variable). Establecer un porcentaje estático sobre un 1RM base resulta por tanto obsoleto e incorrecto matemáticamente."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Durante incrementos desproporcionados de altura en un Drop Jump, sobrepasar el umbral cinético de máxima potencia provoca que la capacidad refleja del sistema nervioso ____.",
+      "options": [
+        "se inhiba por autoprotección",
+        "aumente exponencialmente",
+        "induzca hipertrofia aguda"
+      ],
+      "correct_answer": "se inhiba por autoprotección",
+      "feedback": "Cuando la altura de caída demanda una absorción de energía de choque muy superior a la tolerancia pasiva de los tejidos, los receptores propioceptivos como el órgano tendinoso de Golgi inhiben forzosamente la respuesta elástico-explosiva para evitar roturas tisulares, anulando así cualquier beneficio hipertrófico y pliométrico."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "El cálculo diferencial consistente en restar el resultado del Squat Jump estándar (SJ) al registro obtenido en un Squat Jump con el 100% del peso corporal adicional (SJ100) permite aislar y evaluar el componente elástico del músculo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es Falso. La sustracción entre las métricas de un SJ libre y un SJ100 no evalúa en absoluto la capacidad elástica (la cual requiere de un ciclo de estiramiento-acortamiento como el del CMJ), sino que aísla informáticamente la capacidad profunda de reclutamiento y sincronización fibrilar puramente concéntrica frente a grandes resistencias."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Ante un registro que marca una alteración de la velocidad propulsiva del orden de 0,02 a 0,05 m/s durante las series de calentamiento en fuerza, provocada por desgaste nervioso previo, la intervención adecuada es:",
+      "options": [
+        "Ajustar inmediatamente la carga externa en barra modificando el peso entre un 2% y un 2,5%.",
+        "Transicionar el volumen de la sesión metodológicamente hacia un régimen puramente isométrico estático.",
+        "Mantener el tonelaje objetivo intacto pero reducir de forma radical las repeticiones mecánicas a la mitad.",
+        "Abortar de forma definitiva la sesión principal de fuerza orientando la carga a la recuperación miofascial."
+      ],
+      "correct_answer": "Ajustar inmediatamente la carga externa en barra modificando el peso entre un 2% y un 2,5%.",
+      "feedback": "La potencia basada en la velocidad (VBT) permite micro-regulaciones diarias y reales. Una ligera variación cinética alerta del grado de fatiga residual o adaptación del SNC. Elevar o reducir los kilos un 2-2.5% garantiza empíricamente que el deportista retorne y opere con total exactitud en su zona metabólica programada."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "En el marco metodológico del ciclo de preparación técnica orientado a optimizar la fuerza reflejo-elástica, ¿qué entorno físico se impone de forma mandatoria para la realización de los saltos pliométricos?",
+      "options": [
+        "Superficies que repliquen de manera idéntica la rigidez de las utilizadas en los recintos de competición oficial.",
+        "Terrenos muy inestables y acolchados artificialmente para fomentar intensamente la propiocepción de los ligamentos tibiales.",
+        "Sustratos ciegos de arena profunda para suprimir temporalmente el componente nocivo del rebote articular excéntrico.",
+        "Escalones o tramos asfálticos que presenten obligatoriamente un nivel de rigidez mecánica un 30% superior al pavimento deportivo."
+      ],
+      "correct_answer": "Superficies que repliquen de manera idéntica la rigidez de las utilizadas en los recintos de competición oficial.",
+      "feedback": "Dicho ciclo se orienta a la tecnificación final mediante Drop Jumps y simulación precompetitiva. Se requiere una transferencia sensoriomotriz perfecta. Un saltador en pista debe trabajar en tartán, y un clavadista en fibra homóloga, para educar y afinar el 'timing' reactivo neural milimétrico propio del escenario real de la disciplina."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Al ejecutar una batería de testeo progresiva para demarcar el pico de máxima potencia mecánica en movimientos estructurales básicos, la directriz metodológica central postula:",
+      "options": [
+        "Pautar bloques con cargas crecientes de 10 kilos cortando el protocolo al detectar la primera caída del 10% en vatios.",
+        "Alcanzar irremediablemente el umbral final del fallo muscular concéntrico absoluto para cerrar y validar la curva.",
+        "Añadir incrementos porcentuales del 2% por asalto hasta alcanzar por obligatoriedad el antiguo techo histórico del 1RM.",
+        "Exigir el máximo volumen de repeticiones continuadas empleando la barra desnuda hasta colapsar la reserva fosfagénica."
+      ],
+      "correct_answer": "Pautar bloques con cargas crecientes de 10 kilos cortando el protocolo al detectar la primera caída del 10% en vatios.",
+      "feedback": "La obstinación por perseguir el 1RM o inducir fallo sistémico eleva las tasas de lesión sin mejorar el output. Se suma carga externa secuencialmente (típicamente 10 kg). En el instante exacto donde el software detecta que la producción energética decae un 10% en relación a la cumbre anterior, la prueba claudica asegurando salud y precisión."
+    }
+  ]
+}
