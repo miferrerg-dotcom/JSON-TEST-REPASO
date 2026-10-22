@@ -1,0 +1,252 @@
+{
+  "class_title": "Certificación PSS - Evaluación Avanzada de Fuerza y Rendimiento en Fútbol",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Al unificar los conceptos dentro de un cuerpo técnico, ¿qué microestructura agrupa específicamente la capacidad del sistema neuromuscular para tolerar altos volúmenes de acciones repetitivas con fuerte énfasis en contracciones excéntricas en longitudes largas?",
+      "options": [
+        "La resiliencia",
+        "La producción",
+        "La aplicación",
+        "La hipertrofia funcional"
+      ],
+      "correct_answer": "La resiliencia",
+      "feedback": "La resiliencia se define operativamente como la capacidad de la unidad mioeléctrica para tolerar altos volúmenes de acciones de alta intensidad repetitivas a velocidades rápidas y en longitudes musculares largas (fase excéntrica). Esto es fundamental para generar un efecto protector tardío frente al daño muscular (DOMS) y evitar microtraumatismos significativos y la posterior falla tisular."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Una alta congestión de partidos que obliga a operar con tiempos de recuperación menores a cuatro días incrementa sustancialmente la tasa de lesión muscular, incidiendo particularmente en ____.",
+      "options": [
+        "isquiotibiales y cuádriceps",
+        "gemelos y sóleos",
+        "ligamento cruzado anterior"
+      ],
+      "correct_answer": "isquiotibiales y cuádriceps",
+      "feedback": "Las métricas epidemiológicas y fisiológicas revelan que la recuperación insuficiente (menor a cuatro días) produce una incapacidad del músculo esquelético para restaurar los niveles de fuerza óptimos. Los isquiotibiales y cuádriceps, al estar constantemente sometidos a altas cargas excéntricas y desaceleraciones durante la competencia, son los grupos que reportan el mayor aumento de lesiones bajo estas condiciones de fatiga aguda."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Los atletas desentrenados o con niveles bajos de fuerza base obtienen mayores reducciones en su porcentaje de grasa y mejoras significativas en los tiempos de sprint utilizando cargas altas (75-90% 1RM) en lugar de cargas bajas orientadas a la potencia.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La evidencia demuestra que los sujetos más débiles se benefician estructural y neuromuscularmente del mayor estrés mecánico proporcionado por las cargas altas. Este estímulo induce un cambio más significativo en la composición corporal (disminución del porcentaje de grasa) y en la fuerza máxima, que a su vez se correlaciona directamente con la mejora inmediata en el rendimiento del sprint de 40 metros."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el método de entrenamiento más efectivo para lograr adaptaciones neuromusculares integrales en la curva fuerza-velocidad, especialmente evidenciadas mediante el Índice de Fuerza Reactiva (RSI) y el Drop Jump en jugadores fuertes y experimentados?",
+      "options": [
+        "Los métodos mixtos o de contraste",
+        "El levantamiento olímpico convencional",
+        "La pliometría extensiva pura",
+        "Los protocolos de fuerza isométrica sostenida"
+      ],
+      "correct_answer": "Los métodos mixtos o de contraste",
+      "feedback": "En atletas altamente entrenados, las cargas pesadas aisladas no mejoran significativamente la RFD en milisegundos cortos, y las cargas ligeras aisladas no elevan el techo de fuerza máxima. Los métodos mixtos, como el contraste francés, fusionan estímulos pesados de la parte baja de la curva con estímulos balísticos de la parte alta, resultando en un aumento transversal y superior de la curva fuerza-velocidad, optimizando de manera drástica parámetros reactivos como el RSI y Drop Jump."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Para garantizar una óptima protección frente al riesgo lesivo y dotar de eficiencia a la curva fuerza-velocidad, un jugador de élite debería consolidar una fuerza relativa en torno a ____.",
+      "options": [
+        "dos veces su peso corporal",
+        "un 50% de su carga máxima absoluta",
+        "un ratio idéntico a su masa muscular magra"
+      ],
+      "correct_answer": "dos veces su peso corporal",
+      "feedback": "Lograr una marca en sentadilla que represente 2.0x el peso corporal proporciona un margen de seguridad biológico excepcional. Alcanzar este ratio no solo optimiza la transferencia a marcadores neuromusculares como el salto y el sprint de 30 metros, sino que instaura una reserva mecánica que blinda al deportista contra la fatiga aguda y los microtraumatismos repetitivos en el campo."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "¿Qué justificación biomecánica invalida el argumento de eliminar los levantamientos pesados basándose en que las acciones del fútbol exigen aplicar fuerza en un margen de solo 50 a 200 milisegundos?",
+      "options": [
+        "Un techo de fuerza máxima alto eleva la capacidad de producción en cualquier fracción de tiempo y brinda protección estructural.",
+        "El tejido conectivo requiere velocidades lentas de ejecución permanente para asimilar el colágeno y engrosar.",
+        "El gesto técnico en el fútbol en realidad exige invariablemente más de 300 milisegundos en todas sus acciones explosivas.",
+        "Las cargas bajas repetitivas producen irremediablemente una degeneración de las fibras rápidas tipo IIx."
+      ],
+      "correct_answer": "Un techo de fuerza máxima alto eleva la capacidad de producción en cualquier fracción de tiempo y brinda protección estructural.",
+      "feedback": "Aunque la Tasa de Desarrollo de Fuerza (RFD) en gestos explosivos ocurre entre 50 y 200 ms, es imperativo no abandonar las cargas altas. Los niveles superiores de fuerza máxima construyen un respaldo estructural que eleva la expresión de fuerza global. Desplazar todo el trabajo a cargas bajas genera desentrenamiento crónico de la fuerza máxima, perdiendo el efecto protector contra el daño muscular."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "El entrenamiento de propiocepción tradicional y el estiramiento han demostrado ser el factor modificable con mayor impacto estadístico en la reducción absoluta de lesiones musculares en investigaciones de la Premier League.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Múltiples metaanálisis y encuestas a profesionales de la Premier League catalogan el incremento de la fuerza del tren inferior como el principal y más efectivo método de prevención modificable. La fuerza, al actuar directamente sobre la resiliencia y arquitectura del tejido, supera estadísticamente el impacto preventivo del estiramiento o la propiocepción aislada."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Metodológicamente, las series de aproximación durante el calentamiento deben ser utilizadas como una estrategia altamente eficaz para poder estimular ____.",
+      "options": [
+        "todas las áreas de la curva fuerza-velocidad",
+        "la rigidez articular pasiva en reposo",
+        "el consumo máximo de oxígeno periférico"
+      ],
+      "correct_answer": "todas las áreas de la curva fuerza-velocidad",
+      "feedback": "Al iniciar la sesión progresando hacia una carga máxima objetivo en el gimnasio, las fases de aproximación obligan a movilizar progresivamente cargas ligeras y moderadas. Estas series iniciales permiten activar picos de potencia y velocidad de contracción. El calentamiento se transforma en un vehículo neuromotor para estimular tanto cargas veloces como potentes previo a tocar las zonas de fuerza máxima."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "¿Qué comportamiento fisiológico se evidencia al monitorear marcadores de inflamación tras la congestión de partidos en jugadores con un ratio de fuerza relativa inferior a 1.4x versus aquellos por encima de 2.0x?",
+      "options": [
+        "Mayor elevación de los niveles de creatinquinasa y prolongado déficit de rendimiento en el salto CMJ.",
+        "Mantenimiento estable de los depósitos de glucógeno y recuperación instantánea post-esfuerzo.",
+        "Inhibición inmediata de la hipertermia local y reducción de la percepción subjetiva del dolor.",
+        "Sustitución de las fibras musculares lentas por rápidas durante los periodos de recuperación cortos."
+      ],
+      "correct_answer": "Mayor elevación de los niveles de creatinquinasa y prolongado déficit de rendimiento en el salto CMJ.",
+      "feedback": "El análisis de marcadores revela que los deportistas con menores niveles de fuerza basal experimentan microtraumatismos musculares más severos (registrados por altos picos de creatinquinasa) frente a la misma carga de juego. Esta ruptura estructural deprime la capacidad del músculo para emitir fuerza elástica, hundiendo parámetros de rendimiento como el salto en contramovimiento (CMJ)."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Atacar metodológicamente la parte baja de la curva fuerza-velocidad (altas cargas aplicadas a baja velocidad intencional o absoluta) se categoriza bajo el concepto o microestructura de ____.",
+      "options": [
+        "producción",
+        "aplicación",
+        "resiliencia"
+      ],
+      "correct_answer": "producción",
+      "feedback": "El concepto de 'producción' engloba aquellos ejercicios destinados a maximizar la capacidad pura de producir altos niveles de fuerza física a una baja velocidad, induciendo adaptaciones de arquitectura muscular y reclutamiento profundo de unidades motoras. Su espacio es la parte inferior de la gráfica de la curva de fuerza."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "En torno a la gestión del glucógeno muscular durante el entrenamiento compensatorio o de mantenimiento, ¿cómo incide la intensidad frente al volumen clásico?",
+      "options": [
+        "Los volúmenes altos y de baja intensidad tradicionales agotan mucho más el glucógeno que las microdosis de alta intensidad controlada.",
+        "El entrenamiento a alta intensidad y alto impacto articular requiere fisiológicamente el triple de glucógeno por segundo de esfuerzo.",
+        "La dosificación de la carga carece de impacto; cualquier sesión de gimnasio vacía por completo las reservas glucolíticas hepáticas y musculares.",
+        "Las sesiones cortas de un RM suprimen enzimáticamente la capacidad del músculo para almacenar carbohidratos en las siguientes 48 horas."
+      ],
+      "correct_answer": "Los volúmenes altos y de baja intensidad tradicionales agotan mucho más el glucógeno que las microdosis de alta intensidad controlada.",
+      "feedback": "Aplicar volúmenes extensos orientados a la hipertrofia convencional en temporada genera una fuerte depleción de los depósitos de glucógeno por su sostenido requerimiento energético. Por el contrario, las microdosis concentradas de alta intensidad y bajo volumen logran impactar el sistema nervioso periférico y la tensión mecánica estructural sin causar un vaciamiento sustancial del sustrato necesario para competir."
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "Los ejercicios derivados del levantamiento olímpico son imperativos e irremplazables en la planificación deportiva porque constituyen la única forma biomecánica de alcanzar los picos máximos de potencia mecánica.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Los levantamientos olímpicos demandan un largo proceso de aprendizaje técnico y cargas elevadas. En su lugar, variantes balísticas objetivamente simples, como la sentadilla con salto utilizando un rango de carga del 0% al 30% del 1RM, han evidenciado lograr picos de potencia aún mayores de forma más eficiente y con menos fricción educacional."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Al evaluar la demanda física impuesta por el modelo de juego en el fútbol de alto rendimiento moderno, ¿qué estadística principal valida la obligatoriedad de que el futbolista soporte picos de intensidad continuos?",
+      "options": [
+        "Las acciones explosivas se producen casi una vez por minuto y un 83% de los goles suceden tras un esfuerzo previo de alta intensidad.",
+        "El reglamento ha mutado para permitir el choque de hombro a velocidades superiores a los cuarenta kilómetros por hora sin amonestación.",
+        "El número de kilómetros recorridos al trote se ha triplicado obligando a los deportistas a elevar su base oxidativa.",
+        "El control y la posesión estática en tres cuartos de cancha domina más del setenta por ciento del desarrollo del juego."
+      ],
+      "correct_answer": "Las acciones explosivas se producen casi una vez por minuto y un 83% de los goles suceden tras un esfuerzo previo de alta intensidad.",
+      "feedback": "Al utilizar el 'Círculo de Oro' para comprender el 'porqué' de la fuerza, se determina que el ritmo de juego exige sprints (hasta 34 km/h) ejecutados con altísima frecuencia (casi cada 60 segundos), siendo determinantes en el momento más vital del deporte: el gol. Sostener repetidamente este umbral de impacto es inviable sin una armadura neuromuscular robusta."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Para evitar colapsos por fatiga y fomentar la asimilación estructural del trabajo de fuerza en plantillas expuestas a calendarios ajustados, la mayor concentración de carga (hasta un 47%-48% de las sesiones anuales) debe agruparse en ____.",
+      "options": [
+        "la pretemporada",
+        "la ventana de transferencias",
+        "las fases eliminatorias finales"
+      ],
+      "correct_answer": "la pretemporada",
+      "feedback": "Acumular casi la mitad del volumen de fuerza de todo un año en el breve bloque que dura la pretemporada garantiza construir la base crónica estructural necesaria, el refuerzo articular y la familiarización del tejido. Al sembrar esta densidad adaptativa fuera de la etapa de estrés táctico-competitivo, se protege al jugador brindándole un blindaje fisiológico que solo deberá estimularse durante el resto del torneo."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "En el marco de las macroestructuras de fuerza para deportes de equipo, ¿cómo se justifica fisiológicamente la aplicación de 'microdosis' de 1 a 3 veces por semana durante la temporada en curso?",
+      "options": [
+        "Sirven como un estímulo preciso para mantener las adaptaciones neurales y estructurales conseguidas sin interferir gravemente con los procesos de recuperación celular.",
+        "Funcionan para sobrecargar de manera acumulativa los tendones y lograr un recambio de fibras hipertróficas mediante inflamación sostenida.",
+        "Operan como el reemplazo condicional absoluto del trabajo aeróbico de los suplentes, eliminando la necesidad de nivelación de cargas.",
+        "Promueven un almacenamiento acelerado de ácido láctico en sangre que blinda el rendimiento en los últimos treinta minutos del partido."
+      ],
+      "correct_answer": "Sirven como un estímulo preciso para mantener las adaptaciones neurales y estructurales conseguidas sin interferir gravemente con los procesos de recuperación celular.",
+      "feedback": "La etapa de 'Estimular y Mantener' demanda volúmenes bajos de entrenamiento pero alta intensidad. Estas microdosis aseguran que el sistema neuromuscular 'recuerde' e integre los rangos máximos de tensión logrados en pretemporada, evitando las mermas severas asociadas al desentrenamiento, a la vez que su corto tiempo de ejecución previene la depresión del glucógeno y la fatiga muscular acumulada."
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "question": "Suspender de forma repentina el trabajo de cargas altas (superior a un 75% del 1RM) para realizar exclusivamente trabajos balísticos de velocidad y potencia en atletas fuertes consolida su eficiencia neuromuscular y fortalece su resistencia a lesiones.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Se ha demostrado que los deportistas que poseen un 1RM alto sufren desentrenamiento a nivel de fuerza máxima cuando erradican las cargas pesadas y se concentran solo en cargas ligeras-balísticas. Esto hace decaer su fuerza relativa (por ejemplo, bajando de 2.0x a 1.8x), reduciendo consecuentemente el amplio efecto protector de los tejidos contra el daño excéntrico continuo."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Desde un enfoque biomecánico, ¿qué modificación en la gráfica del perfil condicional devela que un plan de entrenamiento ha conseguido mejoras auténticas sobre la Tasa de Desarrollo de Fuerza (RFD) del atleta?",
+      "options": [
+        "La curva fuerza-tiempo experimenta un desplazamiento hacia la izquierda, indicando la producción de igual o mayor magnitud de fuerza en un lapso de tiempo menor.",
+        "La relación fuerza-velocidad se invierte creando una pendiente completamente vertical, lo cual estabiliza el gasto calórico de los sprints repetidos.",
+        "La porción cóncava inferior de la gráfica de contracción excéntrica se aplana totalmente, asegurando que las fuerzas de frenado disminuyan.",
+        "El vector máximo de aceleración cae transversalmente, desplazando todos los picos de potencia hacia el cuadrante de ejecución cuasi-isométrica."
+      ],
+      "correct_answer": "La curva fuerza-tiempo experimenta un desplazamiento hacia la izquierda, indicando la producción de igual o mayor magnitud de fuerza en un lapso de tiempo menor.",
+      "feedback": "La cualidad primordial de la Tasa de Desarrollo de Fuerza (RFD) es la economía del tiempo para movilizar unidades de tensión. Gráficamente, cuando el atleta gana rapidez neuromotora, la línea de la curva sube su umbral en el mismo eje de tiempo, empujando la curva visualmente a la izquierda: alcanza un pico X de Newtons en una ventana temporal mucho más estrecha y veloz."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Al aplicar la terminología condicional de 'reserva de fuerza', ¿cómo se fundamenta matemáticamente frente al deportista el valor biológico de seguir elevando su techo de carga máxima en el gimnasio?",
+      "options": [
+        "Al elevar la fuerza máxima frente a una demanda competitiva fija (ej. 9), la holgura sobrante de fuerza es mayor, haciendo que el individuo se fatigue drásticamente más lento.",
+        "Al ganar fuerza máxima y peso, la densidad y el volumen muscular aumentan el momento de inercia y, en consecuencia, repelen el cansancio.",
+        "Al someter al cuerpo a altas cargas de forma perenne, el sistema nervioso aferente suprime las señales de dolor provocadas por la fatiga anaeróbica local.",
+        "Al mejorar la marca estática de 1RM, las fibras musculares lentas detienen su contracción durante el partido para ahorrar carbohidratos, apoyándose en la glucólisis."
+      ],
+      "correct_answer": "Al elevar la fuerza máxima frente a una demanda competitiva fija (ej. 9), la holgura sobrante de fuerza es mayor, haciendo que el individuo se fatigue drásticamente más lento.",
+      "feedback": "La reserva de fuerza ilustra la resta entre la fuerza del individuo y el desgaste fijo de la actividad. Si la demanda del fútbol cuesta un esfuerzo relativo de '9' y el jugador apenas tiene '10' de fuerza, agota toda su reserva rápidamente, sufriendo daño tisular en los primeros embates. Al elevar su fuerza base a '15', el estímulo constante de '9' requiere menor esfuerzo metabólico y mecánico, disparando la resiliencia al agotamiento."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "En el marco de la estructuración preventiva moderna, dimensiones vitales como el VO2 max, el control motor y especialmente los niveles de fuerza pura, se encasillan epidemiológicamente como factores de riesgo internos ____.",
+      "options": [
+        "modificables",
+        "crónicos limitantes",
+        "estructurales absolutos"
+      ],
+      "correct_answer": "modificables",
+      "feedback": "Bajo clasificaciones de prevención lesional (como las propuestas por Tim Gabbett), la fuerza se distingue de la edad o los antecedentes traumáticos previos porque es plenamente reactiva al estímulo (modificable). Administrando un trabajo progresivo se interviene de forma directa este parámetro, blindando la morfología del atleta para alejarlo activamente de la zona de riesgo biológico de lesión."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Al programar estímulos de saltos y movimientos veloces con cargas ligeras (del 0 al 30% del 1RM), ¿qué perfil fisiológico de futbolista extraerá picos más acentuados de potencia y aprovechará drásticamente esta carga externa?",
+      "options": [
+        "Aquel jugador robusto que ya posee un elevado techo de fuerza relativa, con valores cercanos a cargar 2.0 veces su peso corporal.",
+        "Aquel jugador que carece de experiencia de gimnasio y mantiene un marcado déficit de fuerza, cargando valores en el umbral de 1.1x su propio peso.",
+        "Aquel individuo que atraviesa la fase aguda de recuperación de una rotura muscular o tendinosa y carece de estabilidad neurofuncional.",
+        "Aquel que ha enfocado el cien por ciento de sus adaptaciones celulares al dominio aeróbico para prolongar la carrera de ritmo constante."
+      ],
+      "correct_answer": "Aquel jugador robusto que ya posee un elevado techo de fuerza relativa, con valores cercanos a cargar 2.0 veces su peso corporal.",
+      "feedback": "La velocidad de contracción optimizada y los picos de potencia máximos derivados de cargas ligeras (fase alta de la curva) se desatan cuando el sistema ya es inherentemente fuerte. La rigidez y el alto reclutamiento neuromuscular previo (en sujetos que toleran cerca de 2.0x su peso corporal) funcionan como una base elástica sobre la cual la carga rápida se potencia enormemente en contraste con deportistas más débiles."
+    }
+  ]
+}
