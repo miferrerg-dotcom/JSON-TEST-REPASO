@@ -86,3 +86,166 @@
       ],
       "correct_answer": "Dato -> Información -> Conocimiento -> Decisión -> Acción",
       "feedback": "El desarrollo epistemológico en ciencias del deporte implica tomar un número bruto (dato), interpretarlo para dotarlo de significado (información), encuadrarlo en el contexto del ecosistema humano (conocimiento), y formular un dictamen (decisión) ejecutado por un responsable claro (acción)."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "¿Qué fenómeno describe con mayor precisión la causa fundamental del estancamiento analítico en las reuniones de los equipos multidisciplinares contemporáneos?",
+      "options": [
+        "Los miembros del staff acuden a imponer metodologías caducas sin evaluar críticamente las nuevas plataformas biométricas disponibles.",
+        "La sobreabundancia de métricas se debate de forma fragmentada, sin alinear el peso de las variables para definir acciones y responsables claros.",
+        "La gerencia directiva penaliza compartir información médica cruzada, escudándose en políticas limitantes de protección de datos.",
+        "Se invierte excesivo tiempo en generar dinámicas vinculadas al estrés, desplazando las decisiones fisiológicas puras."
+      ],
+      "correct_answer": "La sobreabundancia de métricas se debate de forma fragmentada, sin alinear el peso de las variables para definir acciones y responsables claros.",
+      "feedback": "El fracaso sistémico de los equipos se da cuando cada profesional asiste para presentar su 'trozo de pastel'. Se acumula información asilada sin encajarla en una toma de decisiones ponderada que culmine en procesos de acción tangibles a ejecutar por el cuerpo técnico."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "Los modelos predictivos y las herramientas de Inteligencia Artificial aplicadas a la gestión de carga deportiva han conseguido neutralizar los sesgos biológicos, estableciendo umbrales universales igualitarios para hombres y mujeres.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Se constata que la literatura científica y los algoritmos actuales de IA arrastran un notable sesgo de género masculino. Dar por válidos estos promedios, umbrales y desviaciones estándar aplicándolos mecánicamente a mujeres deportistas constituye una negligencia evaluativa grave."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Una de las fallas críticas del ecosistema deportivo ocurre cuando existe consenso pleno en un diagnóstico biomecánico, pero se produce desconfianza en el atleta al no estructurar previamente quién y cómo va a realizar la ____.",
+      "options": [
+        "comunicación hacia el deportista",
+        "carga de datos en Excel",
+        "planimetría táctica"
+      ],
+      "correct_answer": "comunicación hacia el deportista",
+      "feedback": "Aun cuando la evaluación sea perfecta, la falta de roles unificados permite que el atleta reciba informaciones discordantes de distintos profesionales, sembrando dudas sobre la solvencia del programa y fragmentando la seguridad en el plan trazado."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "En la evaluación y diseño de ecosistemas en el alto rendimiento, ¿cuál es la función principal de estudiar el concepto de 'blueprint' (huella)?",
+      "options": [
+        "Definir el organigrama vertical del club para aislar responsabilidades disciplinarias.",
+        "Trazar y auditar la trazabilidad de los procesos logísticos y decisionales, permitiendo mejorar iterativamente el ciclo.",
+        "Automatizar las ingestas de suplementación basándose exclusivamente en software en la nube.",
+        "Filtrar las métricas de salud estresantes para centrar todo el debate en métricas puras de carga externa."
+      ],
+      "correct_answer": "Trazar y auditar la trazabilidad de los procesos logísticos y decisionales, permitiendo mejorar iterativamente el ciclo.",
+      "feedback": "La figura del blueprint se extrae del sector de la innovación organizativa y rastrea los eslabones procedimentales desde el inicio hasta el fin de un suceso. Analizar estas huellas pasadas sirve para optimizar los 'loops' de toma de decisiones en ciclos posteriores."
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "Desarrollar un contexto de 'cultura del cuidado' en el alto rendimiento requiere velar por el confort del deportista, aunque ello implique someter crónicamente a los miembros del cuerpo técnico a niveles extenuantes de carga y estrés.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Drenar los recursos atencionales y físicos del equipo técnico a cambio de cuidar al atleta destruye la sostenibilidad global de la organización. Un staff fatigado elabora decisiones erróneas que, paradójicamente, generarán posteriores brechas de fragilidad y lesión en los propios deportistas."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el principal motivo por el que los indicadores numéricos (métricas) resultan radicalmente insuficientes por sí solos para modificar los comportamientos tácticos o fisiológicos en el deportista?",
+      "options": [
+        "Porque poseen un valor práctico limitado al carecer de la lectura de las circunstancias contextuales y emocionales humanas que los generaron.",
+        "Porque las plataformas SaaS (Software as a Service) deportivas devalúan deliberadamente el muestreo biológico.",
+        "Porque la resistencia implícita al cambio en deportistas profesionales cancela sistemáticamente todo ajuste validado mediante métodos cuantitativos puros.",
+        "Porque cualquier variable cuantitativa necesita la aprobación directa del cuerpo directivo del club antes de ejecutarla."
+      ],
+      "correct_answer": "Porque poseen un valor práctico limitado al carecer de la lectura de las circunstancias contextuales y emocionales humanas que los generaron.",
+      "feedback": "Los datos carecen de agencia en ausencia de contexto. Modificar parámetros biológicos o decisiones requiere entender profundamente los condicionantes del entorno (medios logísticos, clima social del vestuario o perfiles biológicos y emocionales del sujeto), superando el simple número aislado."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Al llegar a un nuevo proyecto deportivo, intentar acoplar directamente las secuencias y métricas que triunfaron en el club anterior suele resultar contraproducente y estéril, ya que al omitir el nuevo contexto suele aparecer rápidamente una enorme ____.",
+      "options": [
+        "carga aguda",
+        "resistencia al cambio",
+        "fricción biomecánica"
+      ],
+      "correct_answer": "resistencia al cambio",
+      "feedback": "La clonación acrítica de métodos ('copy-paste') sin leer las idiosincrasias de la nueva plantilla, de sus infraestructuras o sus niveles culturales deportivos, despierta severas resistencias emocionales y anula la adherencia a la nueva intervención."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "La instauración de un nuevo recurso tecnológico (como un software de videanálisis en la nube o sensores IMU) en el día a día de una entidad deportiva requiere metodológicamente, por encima de todo, abordar un proceso paralelo de:",
+      "options": [
+        "Sustitución mecánica condicional, donde las máquinas dictan la estructura base de los ciclos de fuerza.",
+        "Reconversión fisiológica masiva, independiente del factor o cultura laboral humana.",
+        "Transformación cultural basada en liderazgo, gestionando actitudes, capacitando roles y redirigiendo la toma de decisiones colectiva.",
+        "Delegación totalística de las obligaciones sobre el analista de datos, aislando a la cúpula de toma de decisiones."
+      ],
+      "correct_answer": "Transformación cultural basada en liderazgo, gestionando actitudes, capacitando roles y redirigiendo la toma de decisiones colectiva.",
+      "feedback": "La digitalización carece de efecto sin una correspondiente metamorfosis cultural en los individuos que la manejan. Hay que guiar con liderazgo las fricciones, entrenar roles y cuestionarse constantemente qué fin (para qué) persigue la nueva adopción del hardware/software."
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "question": "La estricta validez científica en torno a una prueba de salto vertical certifica invariablemente que su adopción en las dinámicas semanales de una franquicia deportiva aportará eficiencia operativa a todos los cuerpos técnicos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La pureza de la literatura científica no ampara la aplicabilidad real. Si ejecutar ese mismo test válido toma lapsos de tiempo prohibitivos o no existen operarios capaces de analizar velozmente el dato para 35 atletas, la rentabilidad y eficiencia para la resolución de decisiones es nefasta."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Al acompañar a una deportista de rendimiento en una fase de embarazo y retorno paulatino a las dinámicas estructurales, la directriz primaria del cuerpo interdisciplinario NO es dudar si le está permitido o no entrenar, sino trazar qué recursos debe disponer el ecosistema para ____.",
+      "options": [
+        "reducir su salario",
+        "dar soporte al proceso",
+        "cancelar patrocinios"
+      ],
+      "correct_answer": "dar soporte al proceso",
+      "feedback": "Aceptar visiones reduccionistas obstaculiza su desarrollo; es mandatario ofrecer un acompañamiento seguro, coordinando pautas ginecológicas y físicas sin estigmas, propiciando un andamiaje (suelo pélvico, contratos, entrenamientos) que permita amparar todo su retorno al alto nivel."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Ante una tendinopatía correctamente diagnosticada por los servicios médicos en la que se aconsejan protocolos isométricos, ¿en qué se distingue un abordaje sistémico ('dar soporte al proceso') de una visión clásica enfocada en 'solucionar el problema' anatómico?",
+      "options": [
+        "Solucionar el problema trata la lesión de forma globalista, mientras que el soporte exige enfocarse estrictamente en la desnaturalización tendinosa.",
+        "Dar soporte delega íntegramente la reestructuración física en la propia disciplina pasiva de la atleta.",
+        "Solucionar el problema implica prescribir adecuadamente el ejercicio isométrico, pero el soporte involucra conectar las partes discordantes (entrenadores personales y médicos de la federación) para asegurar que se ejecutará correctamente en el terreno real de la atleta.",
+        "El abordaje integrativo se fundamenta exclusivamente en la adquisición inmediata de sistemas punteros de isoinercia mecánica."
+      ],
+      "correct_answer": "Solucionar el problema implica prescribir adecuadamente el ejercicio isométrico, pero el soporte involucra conectar las partes discordantes (entrenadores personales y médicos de la federación) para asegurar que se ejecutará correctamente en el terreno real de la atleta.",
+      "feedback": "El soporte asiste al deportista facilitando conexiones funcionales en un contexto (a menudo desconectado por la presencia de preparadores personales y médicos de la propia estructura deportiva). Un diagnóstico perfecto naufraga si su implementación no está coordinada globalmente."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Para asegurar que las resoluciones adoptadas generen un modelo técnico sostenible en el ecosistema, ¿qué táctica organizativa de las Ciencias del Deporte debe enfatizarse en la apertura de los comités del cuerpo técnico?",
+      "options": [
+        "Evitar rotativamente los liderazgos formales para reducir la burocratización directiva.",
+        "Debatir y repasar críticamente el impacto del ciclo adoptado tras el último 'bucle (loop) de decisión', valorando los éxitos o fracasos derivados.",
+        "Componer en exclusiva una plantilla técnica 'blueprint' prescindiendo de toda reunión analógica.",
+        "Eliminar de forma cautelar los perfiles de datos agregados en los cuadros de mando, evaluando a ciegas al jugador."
+      ],
+      "correct_answer": "Debatir y repasar críticamente el impacto del ciclo adoptado tras el último 'bucle (loop) de decisión', valorando los éxitos o fracasos derivados.",
+      "feedback": "Analizar reflexivamente el desempeño de resoluciones pasadas es la base para entender qué funcionó procedimentalmente y qué se debe extirpar de futuras iteraciones metodológicas ('loops de decisión')."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Desde un enfoque prospectivo de las Ciencias del Deporte, ¿cuál constituye la finalidad principal de asimilar ecosistemas de automatización y de Inteligencia Artificial al manejo de métricas?",
+      "options": [
+        "Delegar por completo la percepción subjetiva de fatiga del atleta en cálculos mecánicos que descarten la variabilidad emocional.",
+        "Apalancar el diagnóstico biomecánico suprimiendo temporalmente la dependencia humana experta en los gabinetes sanitarios.",
+        "Minimizar el gasto energético del propio registro manual y liberar tiempo útil, habilitando foros técnicos profundos que permitan sostener conversaciones interpersonales incómodas pero críticas.",
+        "Maximizar el espectro tecnológico para reflejar en el palmarés directivo el poder adquisitivo en software."
+      ],
+      "correct_answer": "Minimizar el gasto energético del propio registro manual y liberar tiempo útil, habilitando foros técnicos profundos que permitan sostener conversaciones interpersonales incómodas pero críticas.",
+      "feedback": "Lejos de anular al experto, la IA automatiza secuencias rutinarias y operativas devolviéndole un valioso tiempo humano, el cual debe canalizarse hacia análisis reflexivos robustos o resolución de diatribas cara a cara que un exceso de burocracia digital disimularía."
+    }
+  ]
+}
