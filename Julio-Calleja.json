@@ -1,0 +1,129 @@
+{
+  "class_title": "Módulo de Recuperación en Deporte de Élite - Certificación PSS",
+  "total_questions": 10,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Al diseñar un protocolo de inmersión en agua fría para maximizar la recuperación muscular en la élite, la literatura científica señala que el mayor tamaño del efecto se ubica bajo las coordenadas de...",
+      "options": [
+        "Exposiciones en torno a los 10 minutos con el agua oscilando entre los 13 y 14°C.",
+        "Temperaturas inferiores a 5°C combinadas con inmersiones sostenidas de 20 minutos.",
+        "Aguas templadas a 20°C complementadas con estiramiento pasivo y neuromodulación.",
+        "Inmersiones de choque de apenas 3 minutos a 0°C para generar respuesta vascular."
+      ],
+      "correct_answer": "Exposiciones en torno a los 10 minutos con el agua oscilando entre los 13 y 14°C.",
+      "feedback": "La parametrización óptima de la hidroterapia está acotada por la evidencia actual. El pico de eficacia en el enfriamiento tisular ronda los 13-14°C aplicados durante aproximadamente 10 minutos, documentándose los efectos mitigadores más sólidos a las 24 y 48 horas tras el esfuerzo."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "El concepto de pre-recuperación fundamentado en la literatura científica recomienda aplicar intervenciones preventivas para asimilar el esfuerzo y evitar depender exclusivamente de ____.",
+      "options": [
+        "medidas de choque post-competición",
+        "bloqueadores de interleuquinas",
+        "terapias de restricción de flujo"
+      ],
+      "correct_answer": "medidas de choque post-competición",
+      "feedback": "La pre-recuperación consiste en anticiparse al estrés fisiológico aplicando estrategias en las fases de pico de forma. Esto facilita el proceso posterior e impide que el equipo de rendimiento dependa únicamente de terapias invasivas una vez que la fatiga aguda ya está instaurada."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Las intervenciones de salud del sueño ('sleep health') en la élite se centran exclusivamente en pautar las horas nocturnas, desaconsejando el uso de siestas diurnas por alterar los ritmos circadianos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La gestión moderna del sueño y la fatiga de viaje (jet lag) abarca variables profundas. Estrategias como las de la ELPA incluyen prescribir posturas, almohadas específicas para viajes y programar meticulosamente siestas cortas o 'power naps' como herramientas clave de recuperación."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Antes de prescribir un método de recuperación específico, es imperativo identificar los factores limitantes de la intensidad en cada deporte mediante el análisis de...",
+      "options": [
+        "Biomarcadores como ratios hormonales, enzimas de daño muscular y proteínas reactivas.",
+        "Exclusivamente la percepción subjetiva del esfuerzo (RPE) y la frecuencia cardíaca basal.",
+        "El volumen total de kilómetros recorridos durante el microciclo competitivo.",
+        "La edad cronológica del deportista y su historial genético familiar."
+      ],
+      "correct_answer": "Biomarcadores como ratios hormonales, enzimas de daño muscular y proteínas reactivas.",
+      "feedback": "Para confirmar si una intervención tiene un efecto real contrarrestando la fatiga, es esencial perfilar la limitación fisiológica del deporte evaluando marcadores biológicos concretos asociados al estrés competitivo y daño estructural."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Para estimular la correcta activación neuromuscular periférica antes de competir, el masaje miofascial debe realizarse utilizando un rodillo ____.",
+      "options": [
+        "corto, granulado y de colores cálidos",
+        "liso, de tonos azulados y amplio diámetro",
+        "rugoso, de espuma blanda y tonos fríos"
+      ],
+      "correct_answer": "corto, granulado y de colores cálidos",
+      "feedback": "En el escenario pre-competitivo el objetivo es activar el sistema nervioso simpático. Herramientas más agresivas (granuladas, cortas) y con colores que psicológicamente se asocian a la activación (rojo, naranja) favorecen este estado, diferenciándose del estímulo inhibitorio vagal post-partido."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Para que las prendas de compresión superen los efectos triviales reportados por metaanálisis y logren normalizar biomarcadores periféricos a las 48 horas, es indispensable...",
+      "options": [
+        "Personalizar milimétricamente la prenda ajustando la presión terapéutica.",
+        "Aplicarlas simultáneamente junto a sesiones de crioestimulación sistémica.",
+        "Reducir la presión base a 5 mmHg para evitar cualquier oclusión venosa.",
+        "Utilizarlas exclusivamente en los miembros superiores durante el sueño."
+      ],
+      "correct_answer": "Personalizar milimétricamente la prenda ajustando la presión terapéutica.",
+      "feedback": "La efectividad clínica de la compresión exige la customización absoluta. Realizar un mapeo anatómico midiendo perímetros garantiza que el atleta reciba la presión médica exacta (20-30 mmHg), logrando un retorno venoso eficaz que restablece marcadores como la creatinfosfoquinasa (CK)."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "La inmensa mayoría de las ayudas ergogénicas comercializadas actualmente cuentan con evidencia científica de nivel 1A para asegurar mejoras en la resíntesis de glucógeno muscular sin efecto placebo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. El rigor científico actual advierte que existen muy pocas sustancias (como creatina, beta-alanina, cafeína, bicarbonato o nitratos) que posean auténtica evidencia 1A. Gran parte de la suplementación carece de este respaldo sólido."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Al analizar el impacto estructural del estiramiento post-ejercicio sobre el citoesqueleto y la longitud de los sarcómeros, los metaanálisis dictaminan que...",
+      "options": [
+        "No se producen beneficios estructurales o funcionales significativos en comparación con el no estirar.",
+        "Existe una recuperación estructural musculoesquelética muy superior frente a la inactividad temporal.",
+        "Se acelera la resíntesis hidrolítica reduciendo drásticamente el impacto del dolor muscular tardío.",
+        "Aumenta el rendimiento y la rigidez funcional del sarcómero para la siguiente sesión de campo."
+      ],
+      "correct_answer": "No se producen beneficios estructurales o funcionales significativos en comparación con el no estirar.",
+      "feedback": "A pesar de su fuerte arraigo cultural, los metaanálisis de ensayos RCT confirman que el estiramiento aislado tras el esfuerzo no aporta ningún cambio estructural real en el citoesqueleto ni favorece la recuperación de los sarcómeros frente a grupos de control que mantienen reposo."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "La aplicación de la técnica de punción seca post-ejercicio inmediato resulta especialmente útil para reducir el dolor y descender de forma clara ____.",
+      "options": [
+        "la rigidez muscular localizada",
+        "la temperatura central sistémica",
+        "el riego linfático periférico"
+      ],
+      "correct_answer": "la rigidez muscular localizada",
+      "feedback": "Procedente de la fisioterapia, la punción seca ha demostrado ser altamente eficaz cuando se aplica post-ejercicio para atenuar la percepción del dolor y disminuir drásticamente la rigidez de los segmentos musculares, favoreciendo la mejora del rango de movimiento (ROM)."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Frente a cuadros agudos de fatiga crónica, la intervención sistémica mediante cámara criogénica a -110°C persigue generar un impacto fisiológico caracterizado por...",
+      "options": [
+        "Un rebote vagal profundo que modula el comportamiento de las interleuquinas.",
+        "La vasodilatación continuada y el incremento progresivo de la temperatura central.",
+        "La inhibición total de las proteínas reactivas para frenar de golpe el daño celular.",
+        "El aumento de la rigidez articular para estabilizar micro-roturas musculares."
+      ],
+      "correct_answer": "Un rebote vagal profundo que modula el comportamiento de las interleuquinas.",
+      "feedback": "Exponer al organismo a temperaturas extremas durante periodos breves induce un potente efecto rebote que activa intensamente el sistema parasimpático (vagal). Esto altera positivamente los biomarcadores inflamatorios y atenúa el dolor, mejorando notablemente la calidad del sueño posterior."
+    }
+  ]
+}
