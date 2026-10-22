@@ -1,0 +1,204 @@
+{
+  "class_title": "Certificación PSS: Entrenamiento de Fuerza y Cuantificación de la Carga",
+  "total_questions": 16,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "En el diseño de sesiones de optimización para deportes de equipo como el fútbol, ¿cuál es la justificación técnica para programar el bloque de fuerza antes del bloque de transferencia en lugar del orden inverso?",
+      "options": [
+        "Prevenir el agotamiento del sistema glucolítico antes del trabajo técnico en el campo.",
+        "Limpiar la sensación de carga y fatiga neural mediante ejercicios explosivos antes de salir al césped.",
+        "Maximizar la hipertrofia post-activación (PAP) aprovechando la ventana de recuperación de 48 horas.",
+        "Reducir la probabilidad de lesiones musculares al realizar pliometría con la musculatura previamente fatigada."
+      ],
+      "correct_answer": "Limpiar la sensación de carga y fatiga neural mediante ejercicios explosivos antes de salir al césped.",
+      "feedback": "Al programar sesiones previas al trabajo en campo, invertir el orden teórico y colocar la transferencia (pliometría, velocidad) justo después de la fuerza pura ayuda al deportista a aliviar la percepción de pesadez o fatiga neural extrema. Esto les permite entrar al terreno de juego percibiendo sus piernas más reactivas y ligeras."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "El Stress Index clásico es el método definitivo de cuantificación de fuerza porque, al asignar un RPE a cada serie, neutraliza por completo las diferencias biomecánicas entre ejercicios diametralmente distintos (ej. extensión de cuádriceps vs. clean).",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La principal limitación del Stress Index clásico es que, aunque añade un valor de RIR o RPE por ejercicio (mejorando al volumen total), sigue sin contemplar las variables biomecánicas (masa muscular implicada, número de articulaciones, vector y estabilidad). Un RPE 9 en una máquina analítica nunca genera la misma fatiga metabólica y neural que un RPE 9 en un levantamiento olímpico."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Al categorizar el nivel de un deportista al inicio de una programación, incorporar activamente sus preferencias individuales en el diseño es una estrategia fundamental para ____.",
+      "options": [
+        "ganarnos su confianza",
+        "alterar la metodología",
+        "reducir el tonelaje"
+      ],
+      "correct_answer": "ganarnos su confianza",
+      "feedback": "El factor psicológico y la adherencia son vitales. Respetar los gustos y preferencias del atleta en la selección de algunos ejercicios permite construir una relación de confianza inicial sólida sin necesidad de comprometer los principios metodológicos troncales del programa. En el alto rendimiento, convencer suele ser tan importante como saber."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿Cómo se deben gestionar metodológicamente los umbrales de dosis adaptativa si un atleta, teóricamente catalogado como 'avanzado', manifiesta niveles limitantes de dolor muscular residual de aparición tardía de forma recurrente?",
+      "options": [
+        "Ignorando la percepción subjetiva y manteniendo la dosis idéntica hasta que se genere adaptabilidad al estrés celular.",
+        "Ajustando el umbral máximo tolerable de manera individualizada a través del ensayo y error guiado por el feedback diario.",
+        "Reestructurando al deportista de forma permanente en la categoría de 'iniciación' durante la totalidad de la temporada.",
+        "Manteniendo las repeticiones efectivas y la carga teórica, pero aumentando la amplitud de movimiento del ejercicio."
+      ],
+      "correct_answer": "Ajustando el umbral máximo tolerable de manera individualizada a través del ensayo y error guiado por el feedback diario.",
+      "feedback": "Los umbrales dictaminados por la ciencia operan como un marco de referencia inicial. Si el feedback continuo del deportista revela incapacidad de recuperación ('agujetas mortales'), la intervención correcta es calibrar a la baja los límites del volumen máximo tolerable, utilizando el ensayo y error para reubicar la dosis precisa que ese perfil tolera biomecánica y fisiológicamente."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "En el modelo propuesto de DT-Stress Index, ¿cuáles de los siguientes componentes se auditan para derivar un Valor de Carga del Ejercicio (VCE) preciso?",
+      "options": [
+        "Frecuencia cardíaca media, saturación de oxígeno tisular intramuscular y volumen sistólico en reposo.",
+        "Masa muscular, articulaciones implicadas, lateralidad, vector de fuerza transversal y nivel de estabilidad.",
+        "Duración del ejercicio bajo tensión en segundos cruzado con el índice de masa corporal magra.",
+        "El tiempo de contacto contra el suelo, la rigidez miotendinosa y las variaciones del centro de gravedad."
+      ],
+      "correct_answer": "Masa muscular, articulaciones implicadas, lateralidad, vector de fuerza transversal y nivel de estabilidad.",
+      "feedback": "Para superar la imprecisión del tonelaje y del RPE genérico, el DT-Stress Index pondera el coste real del ejercicio analizando su complejidad neuromuscular: evalúa qué porción de masa total interviene, cuántas articulaciones cruza, su direccionalidad vectorial, su demanda propioceptiva de estabilidad y su naturaleza simétrica o asimétrica."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "En la transición metodológica del calentamiento, el bloque de integración asume el rol de elevar el desafío neural reduciendo repeticiones e introduciendo predominantemente ____.",
+      "options": [
+        "descansos completos",
+        "ejercicios asimétricos",
+        "isometría bilateral"
+      ],
+      "correct_answer": "ejercicios asimétricos",
+      "feedback": "El bloque de activación parte de escenarios sumamente estables y bilaterales. Al progresar al bloque de integración, se incrementa la dificultad técnica y se demanda menor estabilidad mediante la inclusión directa de dinámicas unilaterales y asimétricas (ej. zancadas con mancuerna, hip thrust unilateral), preparando así las cadenas cinéticas para las tensiones máximas posteriores."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "Cuantificar la dosis total de una sesión de fuerza calculando exclusivamente el volumen (en tiempo) por la Percepción Subjetiva del Esfuerzo (RPE) otorga al entrenador un análisis fino y diferenciado del estrés perimetral por cada grupo muscular.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Operar bajo el modelo Session-RPE (volumen de tiempo x esfuerzo percibido) arroja un único dato agudo y genérico de todo el entrenamiento. Resulta ciego a nivel biomecánico, imposibilitando rastrear la fatiga aislada de un grupo muscular específico frente a otro durante dicha sesión."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Durante el bloque principal de fuerza pura (eje del rendimiento), ¿qué directriz gobierna la gestión estricta de las pausas de recuperación entre series de alta tensión mecánica?",
+      "options": [
+        "Micropausas de densidad extrema (30-45 segundos) para exprimir el agotamiento de sustratos fosfagénicos.",
+        "Implementar recuperaciones deliberadamente incompletas imitando la intermitencia del fútbol y sus demandas.",
+        "Garantizar descansos completos que varían entre 2 y 3 minutos en base a la experiencia del individuo.",
+        "Dictaminar el inicio de la siguiente serie exclusivamente por un descenso cardíaco inferior al umbral aeróbico."
+      ],
+      "correct_answer": "Garantizar descansos completos que varían entre 2 y 3 minutos en base a la experiencia del individuo.",
+      "feedback": "El bloque central de fuerza busca maximizar la aplicación de fuerza y la calidad de la estimulación neural sin contaminación periférica severa. Por tanto, se exige descanso completo para la reposición de ATP-PCr. Un atleta de nivel avanzado gestionará su recuperación en 2 minutos, mientras que los perfiles intermedios y de iniciación necesitarán rutinariamente 3 minutos plenos."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "¿Qué pauta de biomecánica intencional debe aplicar invariablemente el deportista durante el núcleo del bloque de fuerza independientemente del peso absoluto de la barra?",
+      "options": [
+        "Fase excéntrica controlada conscientemente acoplada a una ejecución concéntrica a máxima velocidad intencional.",
+        "Fase concéntrica asistida por acortamiento isocinético seguida de absorciones por encima del 50% de rango.",
+        "Fase excéntrica balística apoyada en reflejo de rebote seguida de micro-paradas isométricas de 3 segundos.",
+        "Fase concéntrica de 4 segundos de duración a una intensidad del 80% de la velocidad límite fisiológica."
+      ],
+      "correct_answer": "Fase excéntrica controlada conscientemente acoplada a una ejecución concéntrica a máxima velocidad intencional.",
+      "feedback": "La progresión de la adaptación neuromuscular se vertebra en maximizar la intención neural. Bajar la carga con un tempo seguro (control de la fase excéntrica) y proyectarla intentando generar el máximo pico de velocidad (máxima intencionalidad concéntrica) asegura el reclutamiento temprano de unidades motoras de alto umbral incluso con niveles variables de fatiga."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Dentro del ecosistema concurrente aplicado a los futbolistas en pretemporada, prescribir bloques intensos y sostenidos de 4 minutos responde al estímulo directo del ____.",
+      "options": [
+        "consumo máximo de oxígeno",
+        "sistema de fosfágenos",
+        "umbral láctico basal"
+      ],
+      "correct_answer": "consumo máximo de oxígeno",
+      "feedback": "En el marco de la resistencia aeróbica específica y concurrente, el diseño interválico que demanda esfuerzos continuados y severos de unos 4 minutos busca incidir sobre la mejora central del VO2 máx (consumo máximo de oxígeno). Estos se encadenan luego con duraciones menores focalizadas en la potencia aeróbica y la capacidad de sprint repetido."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "El cruce de variables como el peso ejecutado, las repeticiones logradas y el carácter del esfuerzo (RIR) permite establecer una estimación diaria del 1RM del atleta, construyendo una curva de evolución del rendimiento fidedigna sin ejecutar protocolos lesivos de fuerza máxima extrema.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Aplicando esta analítica de estimación indirecta, el preparador físico obtiene la curva exacta de progresión neural y mecánica a lo largo de un ciclo temporal de semanas, obviando la obligación y el elevado coste neural de llevar al deportista a testear recurrentemente repeticiones fallidas o máximos absolutos."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Dentro de la arquitectura de la planificación propuesta, ¿qué vacío adaptativo cubren específicamente las denominadas 'sesiones complementarias'?",
+      "options": [
+        "El reclutamiento absoluto de fibras musculares IIx mediante picos de fuerza máxima en triple extensión.",
+        "La intervención directa y paliativa sobre déficit e inbalances que amplifican mecánicamente la lesión.",
+        "La integración aglutinante de todo trabajo de core, acondicionamiento aeróbico, hipertrofia estructural y movilidad.",
+        "El tapering y puesta a punto de variables fisiológicas de cara a las 48 horas inminentes a un encuentro competitivo."
+      ],
+      "correct_answer": "La integración aglutinante de todo trabajo de core, acondicionamiento aeróbico, hipertrofia estructural y movilidad.",
+      "feedback": "Las programaciones eficientes separan claramente la 'Optimización' (core del rendimiento) y la 'Prevención' de un tercer bloque llamado 'Complementarias'. Estas últimas son los contenedores organizativos de adaptaciones de soporte, incluyendo hipertrofia funcional de zonas menos prioritarias, bases aeróbicas amplias, rutinas de core a baja intensidad y rangos de movimiento (movilidad general)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Cuando un atleta ve comprometida la posibilidad de cerrar el rango de repeticiones teóricas dictadas, la métrica resultante distorsiona en demasía el estrés proyectado, probando que ____ es indispensable.",
+      "options": [
+        "el control de tonelaje",
+        "la adaptación diaria",
+        "la técnica excéntrica"
+      ],
+      "correct_answer": "la adaptación diaria",
+      "feedback": "La discrepancia real entre lo planificado en la matriz (carga propuesta) y lo soportado físicamente por el individuo (carga real) hace inservibles las programaciones cerradas. Caer a 8 repeticiones en lugar de 12 por un déficit de sueño incrementa drásticamente el RPE y subraya la obligación técnica del preparador de realizar constantes ajustes intra-sesión y adaptaciones diarias."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Para realizar una evaluación encubierta del perfil carga-velocidad sin añadir carga alostática extra ni consumir tiempo efectivo en deportistas profesionales, la táctica instruccional preferente es:",
+      "options": [
+        "Establecer la medición del perfil exclusivamente en las ventanas metabólicas de la semana de descarga estricta.",
+        "Introducir el método de los dos puntos estratégicamente escalado durante las aproximaciones del calentamiento.",
+        "Ceder temporalmente un bloque estructural completo de 30 minutos para garantizar pruebas de repetición límite.",
+        "Implementar un Counter Movement Jump (CMJ) analítico al concluir íntegramente la sesión hipertrófica."
+      ],
+      "correct_answer": "Introducir el método de los dos puntos estratégicamente escalado durante las aproximaciones del calentamiento.",
+      "feedback": "Ganar eficiencia temporal es vital en el deporte de élite. Utilizar métodos encubiertos como el test de los dos puntos (ej: cargar 50kg en una primera serie de aproximación y 85kg en otra superior) aprovechando la rampa de activación previa al bloque principal convierte la evaluación en parte del entrenamiento ordinario ante los ojos del atleta."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "A nivel aplicativo y de software avanzado, la llegada e integración algorítmica del machine learning transformará el futuro inmediato de los preparadores al permitir:",
+      "options": [
+        "Abandonar las dinámicas con carga pesada migrando el foco hipertrófico a dinámicas inerciales exclusivas.",
+        "Prescindir del hardware encoder para adivinar el VCE mediante las mediciones fotogramétricas de los teléfonos móviles.",
+        "Afinar y recalibrar con precisión extrema la administración dinámica de las cargas y los umbrales fisiológicos individuales.",
+        "Estandarizar un umbral de dosis único que sirva indistintamente para novatos, intermedios y jugadores franquicia."
+      ],
+      "correct_answer": "Afinar y recalibrar con precisión extrema la administración dinámica de las cargas y los umbrales fisiológicos individuales.",
+      "feedback": "En contraste con la sobrepoblación tecnológica que controla la carga del juego en el campo (GPS), la sala de fuerza sigue en retraso. El Machine Learning y la IA procesarán los miles de datos de RIR, cargas, fatiga del wellness y VCE para predecir cuándo el deportista excederá su capacidad asimilativa y auto-ajustar sus umbrales min/max con una precisión que hoy depende excesivamente del ojo empírico humano."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Al reestructurar una pauta de entrenamiento de optimización profunda para adaptarla y encajarla en las tolerancias de un perfil intermedio, el uso del concepto 'carácter del esfuerzo' define operativamente la magnitud del set mediante:",
+      "options": [
+        "La desviación estándar angular trazada entre el instante de mayor torque y la pérdida técnica del patrón motor.",
+        "El porcentaje del volumen teórico prescrito dividido entre la frecuencia de microciclos de estabilización.",
+        "La proporción métrica entre la velocidad máxima desarrollada en la primera frente a la última contracción muscular.",
+        "El balance numérico dictaminado entre las repeticiones prescritas y ejecutadas frente al tope de repeticiones realizables."
+      ],
+      "correct_answer": "El balance numérico dictaminado entre las repeticiones prescritas y ejecutadas frente al tope de repeticiones realizables.",
+      "feedback": "El carácter del esfuerzo permite gobernar con precisión el grado de estrés intrarrepetición expresando cuántas repeticiones efectivas debe realizar el deportista con un kilaje que teóricamente le permitiría lograr un número mayor (es equivalente a operar bajo el margen del RIR). Esto ajusta finamente el estrés metabólico para perfiles intermedios evitando la acumulación del daño por fallo."
+    }
+  ]
+}
