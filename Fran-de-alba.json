@@ -1,0 +1,154 @@
+{
+  "class_title": "Modelo de cuatro bases y sistema de cuadrantes",
+  "total_questions": 12,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "En un día MD-4, el cuerpo técnico ha programado tareas de posesión en espacios reducidos. ¿Qué intervención desde el gimnasio respeta la coherencia metodológica y facilita el proceso adaptativo conjunto?",
+      "options": [
+        "Programar un Cuadrante 1 para contrastar la alta fatiga neuromuscular del campo.",
+        "Prescribir un Cuadrante 4 orientado exclusivamente a la aceleración lineal y el salto vertical.",
+        "Implementar un Cuadrante 4 enfocado en maximizar los patrones motores de desaceleración y lucha.",
+        "Aplicar un estímulo de Cuadrante 3 tipo priming para reducir la inflamación aguda de los tejidos."
+      ],
+      "correct_answer": "Implementar un Cuadrante 4 enfocado en maximizar los patrones motores de desaceleración y lucha.",
+      "feedback": "Las cargas mecánicas de la sesión de fuerza deben 'empatar' direccionalmente con el trabajo de campo. El espacio reducido exige continuas desaceleraciones y luchas por la posición. Ejecutar un Cuadrante 4 (alta carga y volumen) sobre esos mismos patrones concentra y potencia el estímulo específico, evitando sobrefatigar de forma cruzada otros dominios (como la aceleración amplia) que serán requeridos en días posteriores (MD-3)."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "La especificidad deportiva en la preparación física no se basa en copiar el modelo de juego o disfrazar ejercicios con balón en el gimnasio, sino en construir capacidades mecánicas que aseguren una verdadera transferencia hacia ____.",
+      "options": [
+        "los siete patrones físicos",
+        "el metabolismo anaeróbico",
+        "la táctica colectiva"
+      ],
+      "correct_answer": "los siete patrones físicos",
+      "feedback": "La fuerza debe dialogar directamente con la biomecánica intrínseca del deporte. Se consigue especificidad al desarrollar adaptaciones en los vectores de aceleración, desaceleración, cambio de dirección, salto, lucha, carrera y golpeo, aportando herramientas físicas estructurales que luego el jugador manifestará durante el rendimiento competitivo real."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Para un jugador de 34 años con un marcado perfil contráctil dominante, la decisión prioritaria debe ser la aplicación sistemática de estímulos de alta intensidad para modificar estructuralmente su perfil reactivo y lograr simetría motora.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Individualizar no consiste en perseguir simetrías ideales o perfiles equilibrados, ni alterar la identidad física primaria que ha llevado al atleta al alto rendimiento. Especialmente en jugadores en etapas finales de su carrera, la intervención metodológica óptima es preservar su fortaleza dominante (contráctil) y modular tácticamente las cargas, dado que pretender reconfiguraciones de la arquitectura neuromuscular resulta fisiológicamente inviable y contraproducente."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Al evaluar un perfil neuromuscular mediante dinámicas isométrica y reactiva en plataformas duales, se detecta que un deportista destaca excepcionalmente en la aplicación máxima de fuerza en ventanas temporales mínimas de contacto. Según la clasificación metodológica del sistema, ¿a qué perfil y analogía se asocia?",
+      "options": [
+        "Perfil contráctil, asociado biomecánicamente a un rinoceronte.",
+        "Perfil reactivo, asociado biomecánicamente a una serpiente.",
+        "Perfil elástico, asociado biomecánicamente a un canguro.",
+        "Perfil completo, asociado biomecánicamente a un felino."
+      ],
+      "correct_answer": "Perfil reactivo, asociado biomecánicamente a una serpiente.",
+      "feedback": "La categorización segmenta las vías de expresión de fuerza. El perfil reactivo (serpiente) se diferencia por su extrema eficiencia para aplicar picos altos de fuerza en tiempos de contacto ultracortos. Contrapone al elástico (que aprovecha ciclos de estiramiento-acortamiento más prolongados) y al contráctil (producción pura de fuerza de impulso prolongado)."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "En el diseño de una sesión de Cuadrante 4 utilizando el espectro de Jovanovic, un atleta neuromuscularmente avanzado ejecuta drop jumps a una pierna (nivel específico/complejo), mientras que otro jugador menos experimentado con el mismo objetivo sistémico de fuerza debe mantenerse en ____.",
+      "options": [
+        "ejercicios de isometría máxima",
+        "movimientos generales y simples",
+        "aislamiento en cadenas abiertas"
+      ],
+      "correct_answer": "movimientos generales y simples",
+      "feedback": "El cruce entre los cuadrantes y el modelo de complejidad de Jovanovic posibilita una micro-individualización dentro de un mismo objetivo fisiológico (alta carga/volumen en Q4). Ambos jugadores abordan el patrón de salto, pero sus niveles de experiencia dictan la exigencia coordinativa: uno asimila pliometría excéntrica de alta velocidad, mientras el otro edifica tejido conectivo mediante un back squat básico, garantizando seguridad y adaptabilidad."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Al cruzar el sistema estandarizado con el patrón mecánico de salto, ¿cómo se justifica biomecánicamente el desarrollo de este vector dentro de un Cuadrante 1 correspondiente al día MD+2?",
+      "options": [
+        "Fomentando el umbral de hipertrofia excéntrica del tendón rotuliano.",
+        "Priorizando la reeducación motriz, el control de ángulos articulares y la absorción de caídas.",
+        "Estimulando la vía neural de alta tasa de desarrollo de fuerza con intención balística.",
+        "Maximizando el índice de fuerza reactiva (RSI) para compensar la fatiga del partido."
+      ],
+      "correct_answer": "Priorizando la reeducación motriz, el control de ángulos articulares y la absorción de caídas.",
+      "feedback": "La aplicación de un mismo patrón varía drásticamente dependiendo del entorno del cuadrante. En el Cuadrante 1 (sesiones de recuperación post-cancha), la meta es 'aprender a caer antes de aprender a volar'. Se eliminan las cargas supramáximas en favor del refinamiento propioceptivo y la reeducación de los ángulos de cadera y rodilla en las mecánicas de aterrizaje, sin agravar la micro-rotura de los tejidos."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "En la sesión de activación o priming (MD-1), si un jugador con un marcado perfil contráctil va a ser titular en el encuentro, el preparador físico debe utilizar la dosis de fuerza para compensar urgentemente sus deficiencias elástico-reactivas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "En el marco temporal inmediatamente previo a la competencia (MD-1), el objetivo del jugador que actuará de inicio es la optimización neural y de autoconfianza. Intervenir sobre un área de oportunidad (su debilidad reactiva) genera ruido neuromuscular e incerteza mecánica. Se prescribe un estímulo que refuerce agresivamente su perfil dominante (contráctil) para asegurar que afronte el partido armado con la capacidad física que lo caracteriza."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Dentro de la arquitectura metodológica basada en perfiles (Base 4), un jugador contráctil que ha completado un partido asiste a la recuperación grupal en MD+2. ¿Cómo se diseña la pincelada de individualización orientada a la mejora sin arriesgar daño tisular severo?",
+      "options": [
+        "Aislando al jugador en ejercicios de tempo excéntrico para maximizar el flujo sanguíneo profundo.",
+        "Introduciendo una pequeña dosis técnica de cambios de dirección y apoyos orientados al final de la sesión.",
+        "Incrementando exponencialmente el estrés metabólico para aprovechar el pico inflamatorio agudo preexistente.",
+        "Programando un Cuadrante 3 reactivo de máxima intensidad y volúmenes moderados."
+      ],
+      "correct_answer": "Introduciendo una pequeña dosis técnica de cambios de dirección y apoyos orientados al final de la sesión.",
+      "feedback": "El día MD+2 transita bajo el paraguas de un Cuadrante 1 de recuperación metabólica. Sin embargo, para capitalizar los estímulos sin generar sobrecarga, se aplica una dosificación muy precisa ('pincelada') al área débil del jugador (reactiva). Esto se consigue mediante patrones de cambio de dirección puramente técnicos (body weight, baja intensidad y control del apoyo), favoreciendo la reorganización neuromuscular sin comprometer la limpieza de metabolitos del partido."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "La legitimidad y viabilidad real de un modelo de preparación física de élite no se corrobora en su abstracción teórica o estética de datos, sino estrictamente por su funcionalidad sistemática para engranar de manera no disruptiva en ____.",
+      "options": [
+        "el perfil isométrico del atleta",
+        "la semana competitiva o microciclo",
+        "las ventanas de hipertrofia sarcoplasmática"
+      ],
+      "correct_answer": "la semana competitiva o microciclo",
+      "feedback": "Cualquier propuesta metodológica, por muy cimentada que esté en la evidencia fisiológica aislada, carece de impacto si no sobrevive a la realidad logística. El ecosistema del fútbol élite opera bajo calendarios volátiles; la verdadera métrica de calidad de un sistema es su maleabilidad para encajar en el microciclo asumiendo variables de viaje, fatiga e intervenciones dinámicas (pre/post-cancha)."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "La validación suprema del éxito metodológico de un programa de fuerza en la élite profesional es la sofisticación de su matriz de evaluación y la precisión asimétrica de los datos generados, independientemente del calendario deportivo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El valor primario radica en traducir las evaluaciones en decisiones tácticas ejecutables. La mejor metodología en entornos de 'supervivencia competitiva' no es ni la más intrincada teóricamente ni la que arroja los reportes más complejos, sino la arquitectura que logra repetirse con coherencia y sentido biológico continuo a lo largo de toda la exigente campaña competitiva, asegurando la disponibilidad de la plantilla."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Durante un calendario severamente congestionado que obliga a plantear microciclos transitorios de solo cuatro días, ¿qué alteración anatómico-funcional sufre la arquitectura del sistema de cuadrantes?",
+      "options": [
+        "Se condensa el volumen integrando el Cuadrante 2 y Cuadrante 4 en el día MD-2.",
+        "Se sustituye el día regenerativo MD+2 por un Cuadrante 3 para acelerar la sinapsis neural.",
+        "Se suprime íntegramente el Cuadrante 4 para priorizar en exclusiva la recuperación y el priming.",
+        "Se incrementan las dosis de Cuadrante 1 limitándolas al escenario puramente de 'sin cancha'."
+      ],
+      "correct_answer": "Se suprime íntegramente el Cuadrante 4 para priorizar en exclusiva la recuperación y el priming.",
+      "feedback": "En ventanas reducidas de 96 horas entre eventos competitivos, desaparece todo margen de tolerancia para infligir daño muscular que busque adaptaciones estructurales. El proceso abandona la ambición de 'construir' fisiológicamente al deportista y adapta su modelo eliminando los Cuadrantes 4 (altísima carga). El enfoque vira hacia la salvaguardia tisular y la purga metabólica (Q1) engrasado con ligeras recargas neurales (Q3)."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "El cuerpo técnico implementa un Cuadrante 3 enfocado al vector de cambio de dirección durante la jornada previa al choque (MD-1). ¿Cuáles son los parámetros cinemáticos y fisiológicos que garantizan el correcto encaje de esta sesión?",
+      "options": [
+        "Altas dosis de volumen intermitente orientadas a elevar masivamente la tolerancia de lactato capilar.",
+        "Dosis mínimas de muy alta calidad técnica, tiempos de contacto mínimos y una veloz reorientación neural.",
+        "Desarrollo prolongado de rigidez balística utilizando sobrecargas inerciales supramáximas.",
+        "Regresión biomecánica sub-máxima orientada a mecanizar ex-novo el patrón de absorción de la frenada lateral."
+      ],
+      "correct_answer": "Dosis mínimas de muy alta calidad técnica, tiempos de contacto mínimos y una veloz reorientación neural.",
+      "feedback": "Un Cuadrante 3 concebido como 'priming' pre-partido persigue excitar el sistema nervioso central (SNC) y la conductividad de las vías eferentes eludiendo cualquier fatiga residual. En el cambio de dirección, la manifestación idónea es una intervención ultracorta (dosis mínima) donde prima la reactividad del tobillo, una reestructuración de la base de soporte ultrarrápida y una máxima velocidad de conducción neural."
+    }
+  ]
+}
+
