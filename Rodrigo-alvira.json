@@ -1,0 +1,251 @@
+{
+  "class_title": "El Arte del Entrenamiento y Movimiento Integrado - Certificación PSS",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Al evaluar un descenso constante del ratio agudo/crónico en métricas de velocidad máxima sin presencia de fatiga neuromuscular, ¿cuál es el procedimiento analítico principal para identificar la causa subyacente?",
+      "options": [
+        "Aumentar inmediatamente el volumen de isometría local para descartar cualquier inhibición muscular latente.",
+        "Revisar el contexto táctico del equipo para diferenciar objetivamente entre una falta de capacidad física o una simple falta de oportunidad.",
+        "Ejecutar tests balísticos diarios e incrementar las cargas excéntricas hasta que el jugador recupere la velocidad máxima registrada previamente.",
+        "Derivar el análisis puramente al departamento de fisioterapia para un escaneo tisular completo que confirme micro-roturas fibrilares."
+      ],
+      "correct_answer": "Revisar el contexto táctico del equipo para diferenciar objetivamente entre una falta de capacidad física o una simple falta de oportunidad.",
+      "feedback": "Cuando no hay sintomatología adversa ni pérdida de fuerza local (validada por tests de salto y fuerza), el descenso en el volumen de alta velocidad a menudo responde a variables del juego (ej. un cambio estratégico a jugar a media pista). Detectar si el jugador ha perdido la capacidad fisiológica o simplemente la oportunidad táctica de correr es vital para prescribir cargas suplementarias artificiales de manera exacta."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Para mantener la salud y la integridad del tejido a lo largo de una temporada, el trabajo de fuerza en el gimnasio debe abandonar la priorización de las fortalezas innatas del atleta y centrarse en ____.",
+      "options": [
+        "replicar la velocidad balística de pista",
+        "dotarle de las propiedades opuestas",
+        "elevar su capacidad aeróbica máxima"
+      ],
+      "correct_answer": "dotarle de las propiedades opuestas",
+      "feedback": "La cuarta ley del entrenamiento dicta que no se busca potenciar en el gimnasio las habilidades en las que el atleta ya destaca. En su lugar, el objetivo preventivo es modificar las propiedades viscoelásticas del tejido brindándole el estímulo fisiológico contrario (ej. dar trabajo pesado/lento a perfiles hiper-reactivos o trabajo elástico a perfiles lentos pero fuertes) para evitar sobrecargas unidireccionales crónicas."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "La metodología de pliometría de rango profundo (Deep Tier Plyos) tiene como objetivo fundamental incrementar la rigidez articular periférica (stiffness) para lograr acortar el tiempo de contacto con el suelo durante las fases de amortiguación.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La pliometría de rango profundo opera como el antagonista directo a la tradicional: busca explícitamente aplicar altas velocidades en rangos de movimiento extremos eludiendo la rigidez característica. El reto consiste en forzar al sistema nervioso a reorganizar sus patrones sin disparar los reflejos o mecanismos de protección articulares inmediatos."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "En el contexto del deporte de élite, una vez que el atleta ha alcanzado y maximizado sus niveles óptimos de fuerza máxima, la prioridad central al monitorizar y prescribir los volúmenes del trabajo adyacente (gimnasio) debe ser:",
+      "options": [
+        "Provocar adaptaciones continuas de hipertrofia sarcomérica para sumar masa inercial y blindar las articulaciones al impacto.",
+        "Modificar permanentemente la tipología de fibras musculares lentas hacia fibras rápidas de contracción explosiva mediante altas cargas.",
+        "Evitar que la fatiga acumulada generada por este estímulo produzca una interferencia negativa aguda sobre la expresión del rendimiento real en la pista.",
+        "Equiparar los macrociclos de sobrecarga excéntrica del gimnasio con las fases de máxima velocidad en la pista para buscar un pico de forma concurrente."
+      ],
+      "correct_answer": "Evitar que la fatiga acumulada generada por este estímulo produzca una interferencia negativa aguda sobre la expresión del rendimiento real en la pista.",
+      "feedback": "La primera ley establece que la fuerza es la matriz de todas las demás cualidades (velocidad, potencia). Sin embargo, el objetivo no es acumular sobrecarga de forma infinita. Una vez desarrolladas estas propiedades biomecánicas, el entrenamiento adyacente debe modular su volumen e intensidad exclusivamente para no arrastrar fatiga residual (interferencia negativa) al campo de juego, priorizando la frescura neural."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Dentro de la pirámide de Movimiento Integrado, la capacidad neuromuscular de absorber la inercia, controlar el peso corporal a altas velocidades y relajar selectivamente las barreras de los tejidos antagonistas se define técnicamente como ____.",
+      "options": [
+        "stiffness reactivo",
+        "yielding",
+        "constreñimiento dinámico"
+      ],
+      "correct_answer": "yielding",
+      "feedback": "El término 'yielding' representa la cúspide de la integración del sistema. Hace referencia a la habilidad de ceder, manejar cargas cinéticas y absorber energía mecánica, lo que previene sobreactivaciones reflejas rígidas en la musculatura antagonista, permitiendo así acceder a rangos articulares extremos de manera fluida y exenta de dolor."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Durante la etapa de Trabajo Posicional orientada a la apertura articular profunda, ¿qué interacción biomecánica exacta se utiliza para acceder a rangos de movimiento que de forma libre serían inaccesibles por restricciones miotáticas?",
+      "options": [
+        "El estiramiento pasivo balístico prolongado durante más de tres minutos para asegurar la fatiga total e inhibición del órgano tendinoso de Golgi.",
+        "La sumación de estímulos eléctricos isoinerciales para apagar temporalmente la retroalimentación aferente muscular antagonista.",
+        "La irradiación de fuerza central mediante maniobras de Valsalva, estabilizando el raquis para forzar pasivamente la hipermovilidad periférica.",
+        "La combinación de tensión concéntrica-isométrica en la musculatura agonista con una presión física pasiva estructural proporcionada por el suelo."
+      ],
+      "correct_answer": "La combinación de tensión concéntrica-isométrica en la musculatura agonista con una presión física pasiva estructural proporcionada por el suelo.",
+      "feedback": "La biomecánica clave de la fase posicional actúa de forma análoga a la terapia manual: aprovecha la resistencia y presión física del suelo para inhibir y relajar la musculatura antagonista dominante. A esto se le suma un control activo (tensión voluntaria) de la musculatura agonista, consiguiendo un nuevo rango articular funcional sin desencadenar mecanismos neurológicos de protección."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "El concepto fisiológico de 'Daylight Performer' afirma que la integridad competitiva de un atleta depende casi por completo de mantener crónicamente su sistema nervioso autónomo en un estado hiperactivo de compresión (rendimiento).",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es tajantemente falso. El modelo del 'Daylight Performer' subraya que la máxima longevidad y homeostasis se logran cuando el atleta tiene la capacidad de salir eficazmente de los picos de compresión (simpatotonía/rendimiento competitivo) y entrar voluntariamente en profundos estados de expansión (parasimpatotonía/relajación) en su vida cotidiana, favoreciendo la regeneración tisular sistémica."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Al progresar hacia patrones motores de 'Baby Crawl' (gateo inicial), la anulación de la participación funcional cruzada de las extremidades inferiores y superiores busca generar un constreñimiento que oblige al atleta a:",
+      "options": [
+        "Desconectar el feedback interoceptivo para tolerar mayores cargas lácticas locales en el cuadrado lumbar y erectores espinales.",
+        "Utilizar la columna vertebral axial como única transmisión mecánica central (spinal engine), forzando una coordinación propioceptiva profunda.",
+        "Prevenir la inestabilidad de la articulación glenohumeral bloqueando la aducción horizontal durante los calentamientos pre-competitivos.",
+        "Promover una elongación miofascial estrictamente estática y pasiva en toda la cadena posterior escapular y pélvica."
+      ],
+      "correct_answer": "Utilizar la columna vertebral axial como única transmisión mecánica central (spinal engine), forzando una coordinación propioceptiva profunda.",
+      "feedback": "El abordaje mediante 'constreñimientos' (Constraint-led approach) dicta que, al neutralizar la asistencia motriz de los brazos y piernas, el sistema nervioso se ve obligado a emplear la espina dorsal (spinal engine) y la masa de la cadera como motor principal. Esto exige despertar la columna vertebral y lograr un control segmentario complejo antes de evolucionar a la locomoción integrada."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "¿Qué proporción de exposición temporal exige la tercera ley del entrenamiento entre el trabajo puro de campo y la dedicación en el gimnasio para asegurar una mejora técnica real?",
+      "options": [
+        "Un ratio uno a uno entre ambas superficies.",
+        "Una proporción de tres a uno o superior a favor de la pista deportiva.",
+        "Un ratio inversamente proporcional dependiente de la edad cronológica.",
+        "Una dedicación exclusiva del 80% al entrenamiento estructural bajo techo."
+      ],
+      "correct_answer": "Una proporción de tres a uno o superior a favor de la pista deportiva.",
+      "feedback": "La tercera ley del entrenamiento determina categóricamente que el trabajo adyacente (fuerza en gimnasio) no posee transferencia directa de habilidad por sí solo. Por cada hora invertida en las instalaciones de acondicionamiento, se debe garantizar un volumen de tres a cinco horas de exposición real en la pista deportiva, ejecutando la velocidad o las acciones técnicas diana de mejora."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Al aplicar la pliometría de rango extremo, el recurso material de emplear el Bosu, cuñas anguladas o dunas de arena, se prescribe fundamentalmente para:",
+      "options": [
+        "Generar un componente caótico de inestabilidad masiva diseñado exclusivamente para hipertrofiar y tonificar la musculatura propioceptiva del ligamento lateral externo del tobillo.",
+        "Modificar los vectores de reacción del suelo con el fin de acceder y forzar la adaptación en rangos biomecánicos articulares complejos mediante pronación, supinación y rotación tibial.",
+        "Absorber el 60% de la energía cinética durante la amortiguación del impacto (yield), preservando el cartílago meniscal en pacientes con desgaste agudo.",
+        "Mitigar psicológicamente el umbral de dolor agudo (kinesiofobia) en aquellos deportistas que atraviesan las primeras fases de la readaptación tras una rotura del tendón de Aquiles."
+      ],
+      "correct_answer": "Modificar los vectores de reacción del suelo con el fin de acceder y forzar la adaptación en rangos biomecánicos articulares complejos mediante pronación, supinación y rotación tibial.",
+      "feedback": "Contrario a la creencia popular de emplearlos para crear 'inestabilidad o trabajo de equilibrio puro', estas superficies se aprovechan por la inclinación y variabilidad morfológica de su terreno. Esto altera significativamente el vector del contacto, obligando mecánicamente al sistema pie-tobillo-rodilla a gestionar intensas tensiones en pronación/supinación y a someter la tibia a fuerzas rotacionales sobre el fémur bajo cargas de velocidad."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "Bajo la dicotomía de perfiles profesionales en ciencias del deporte, 'entrenar dentro del caos' supone aislar paramétricamente al deportista de su entorno volátil, utilizando algoritmos restrictivos para anular cualquier variante imprevisible.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Completamente falso. Intentar neutralizar y dominar cada variable aislada es un rasgo característico del 'científico loco' de laboratorio. La premisa de entrenar dentro del caos asume, como principio vital, la incuestionable volatilidad del deporte; el éxito radica en dotar al entrenador y al atleta de amplios recursos (capacidad integradora) para moverse y adaptarse fluidamente en esa incertidumbre continua."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "La validación cualitativa más fiable para determinar si el proceso de Movimiento Integrado ha generado una adaptación profunda y sistémica en el deportista de élite se manifiesta a través de ____.",
+      "options": [
+        "una reducción asimétrica de valgo",
+        "el feedback subjetivo del propio atleta",
+        "la obtención del pico de torque isocinético"
+      ],
+      "correct_answer": "el feedback subjetivo del propio atleta",
+      "feedback": "Pese a la tentación empírica de cuantificar incrementos menores (ej. saltar 2 centímetros extra en plataformas), la validación máxima de la recuperación de la función motriz libre radica en las percepciones cualitativas del atleta. Un reporte subjetivo de sentirse fluido, exento de dolor crónico, libre de rigidez matutina y capaz de ejecutar gestos técnicos inaccesibles hasta la fecha, posee una validez incalculable frente al análisis puramente numérico."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "En el caso práctico analizado de tendinopatía rotuliana por sobrecarga, ¿cuál fue la adaptación neuromuscular correctora principal que logró resolverse al incorporar el sistema de Movimiento Integrado al tratamiento convencional (HSR, isometrías)?",
+      "options": [
+        "Erradicar los tiempos de contacto excéntrico (yielding) para aportar una rigidez tendinosa pétrea, suprimiendo los picos agudos de elongación viscoelástica.",
+        "Reestructurar mecánicamente el ángulo Q para disipar las cargas femoropatelares de forma puramente algorítmica y asimétrica hacia la cadera dominante.",
+        "Corregir una hiperactividad extensora crónica apoyada en punteras, promoviendo de forma activa la conciencia del apoyo del talón y restaurando su habilidad de absorber y ceder carga elástica.",
+        "Sustituir todo el entrenamiento global cinético cerrado por extensiones locales concéntricas de alto tonelaje para hipertrofiar aisladamente las fibras tipo IIx del vasto medial oblicuo."
+      ],
+      "correct_answer": "Corregir una hiperactividad extensora crónica apoyada en punteras, promoviendo de forma activa la conciencia del apoyo del talón y restaurando su habilidad de absorber y ceder carga elástica.",
+      "feedback": "Más allá de las mejoras temporales del dolor obtenidas con isometrías lentas (ciencia), el componente correctivo crucial provino de analizar la técnica defectuosa subyacente. El atleta exhibía un patrón disfuncional caracterizado por vivir constantemente en hipertonía sobre las punteras, sin capacidad alguna para ceder inercia ('yielding'). La instrucción posicional exigió reeducar la activación de la cadena posterior y el control del talón para democratizar las cargas rotulianas."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "En la readaptación clínica de un deportista afectado por tendinopatía rotuliana severa y excesiva flexión de tronco, la prescripción de pliometría de rango profundo (Deep Tier Plyos) debió abordarse exclusivamente mediante saltos bilaterales simultáneos simétricos para asegurar la estabilidad central y disipar riesgos axiales.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Falso. La morfología disfuncional de flexión acentuada del tronco provocaba que cualquier salto bilateral convencional concentrara masivamente el estrés sobre estructuras vulnerables equivocadas. La prescripción correcta y segura se basó en dinámicas de pliometría en Split (saltos en posiciones unilaterales alternas), lo cual permitía controlar individualmente el centro de masas, rectificar la palanca lumbopélvica y proteger el tendón sintomático de vectores de carga nocivos."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Dentro de la arquitectura cíclica y activa de la fase de 'Flow', ¿qué componente anatómico-funcional recibe una altísima priorización en el calentamiento previo a las demandas de aceleración en pista?",
+      "options": [
+        "la rigidez y estabilización glenohumeral",
+        "la fijación concéntrica isquiotibial proximal",
+        "la capacidad de dorsiflexión profunda"
+      ],
+      "correct_answer": "la capacidad de dorsiflexión profunda",
+      "feedback": "Durante el trabajo de Flow, el deportista emplea desplazamientos fluidos prescindiendo parcialmente del soporte de los miembros superiores. Su objetivo primario es optimizar la movilidad y capacidad elástica del complejo pie-tobillo, con especial énfasis en la ganancia activa de dorsiflexión anatómica a lo largo de toda la bóveda plantar, incidiendo activamente desde el quinto hasta el primer metatarsal."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "De acuerdo al análisis epistemológico propuesto para dirimir recidivas lesionales complejas, ¿cómo se articula operativamente la 'ciencia del tejido' en conjunción con el 'arte del movimiento'?",
+      "options": [
+        "El arte diseña protocolos hipertróficos de fuerza máxima en cadena abierta, mientras la ciencia dicta la progresión táctica funcional de los vectores.",
+        "La ciencia se circunscribe exclusivamente a la prescripción del readaptador en la sala de musculación, mientras que el arte del entrenador asume toda responsabilidad terapéutica en el tapete de campo y su volumetría táctica.",
+        "Ambas vertientes actúan en compartimentos estancos; la ciencia trata médicamente el desgarro agudo y el arte aplica empirismo motivacional sin repercusión tisular estructural alguna.",
+        "La ciencia médica aplica protocolos para reparar el tejido dañado estructuralmente, pero el arte identifica la cinemática deficiente o sobrecarga primaria del patrón de movimiento que originó el daño inicial."
+      ],
+      "correct_answer": "La ciencia médica aplica protocolos para reparar el tejido dañado estructuralmente, pero el arte identifica la cinemática deficiente o sobrecarga primaria del patrón de movimiento que originó el daño inicial.",
+      "feedback": "Tratar aisladamente la tendinopatía (el síntoma del daño tisular) aplicando ciencia clínica resolverá temporalmente la estructura focal. Sin embargo, resulta ineficaz a largo plazo si el jugador regresa a la cancha ejecutando el mismo gesto mecánico ineficiente que causó el exceso de trabajo en ese tejido. El arte analítico del readaptador permite desentrañar y rectificar esa ineficiencia causal para proteger la arquitectura biológica frente a futuras recaídas limitantes."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Al caracterizar al técnico encuadrado bajo el perfil arquetípico del 'Integrador' en ligas de máxima exigencia, su ventaja diferencial al pilotar la programación de las cargas reside en su capacidad para:",
+      "options": [
+        "Ceder sistemáticamente el análisis crudo de Big Data al grupo de analítica, empleando esa información como límites mecánicos (raíles) y preservando su capital artístico en conectar y persuadir táctica y mentalmente al jugador.",
+        "Erradicar tajantemente cualquier intervención guiada por subjetividades empíricas, sustituyendo el feedback cualitativo psicosocial por biotelemetría invasiva e imperativos derivados del Machine Learning celular.",
+        "Rechazar el modelo basado en evidencias de carga externa porque coarta gravemente su instinto heurístico a la hora de manipular semanalmente las planificaciones macrocíclicas.",
+        "Asumir de forma íntegramente solitaria toda la recolección, minería matemática de algoritmos de rastreo posicional, delegando curiosamente la comunicación emocional del atleta a psicólogos sin rol de toma de decisiones físicas."
+      ],
+      "correct_answer": "Ceder sistemáticamente el análisis crudo de Big Data al grupo de analítica, empleando esa información como límites mecánicos (raíles) y preservando su capital artístico en conectar y persuadir táctica y mentalmente al jugador.",
+      "feedback": "El perfil élite contemporáneo (el Integrador) comprende que la recolección intensiva de la analítica es vital pero exprime un tiempo y foco que él necesita invertir en la trinchera humana. Por tanto, confía el procesamiento del dato duro a especialistas para establecer las franjas rojas de carga (los raíles del tren), permitiéndole utilizar su 'arte' (habilidades comunicativas, lectura del lenguaje facial, entendimiento psicofísico) para forjar buy-in, criterio y convencer individualmente a cada deportista del método prescrito."
+    },
+    {
+      "id": 18,
+      "type": "true_false",
+      "question": "Dado el rigor científico actual en Ciencias del Deporte, la formulación biológica de un estímulo hipertrófico o coordinativo validado in vivo garantiza adaptaciones positivas invariables y replicables durante todo el ciclo competitivo de un atleta.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Falso, de manera contundente. La segunda ley del entrenamiento defiende que el proceso es una perpetua evolución de ensayo, prueba y error. El organismo es un sistema dinámico extremadamente acomodaticio; una herramienta o vector excitatorio que generó grandes adaptaciones en la fase preparatoria sufrirá un desgaste fisiológico previsible (efecto techo o habituación tisular), forzando al entrenador a poseer múltiples recursos (la 'navaja suiza') para mantener el umbral adaptativo continuo."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Para contrarrestar estados de hiperactivación aguda o falta de elasticidad torácica durante las fases tempranas de Trabajo Posicional Estático, la introducción de implementos específicos como balones medicinales de gran volumen posicionados en áreas subcostales busca mecánicamente inducir ____.",
+      "options": [
+        "la activación y bloqueo tónico del psoas subyacente",
+        "la restricción total del reflejo de ventilación abdominal",
+        "la apertura pasiva frontal o lateral de las costillas"
+      ],
+      "correct_answer": "la apertura pasiva frontal o lateral de las costillas",
+      "feedback": "Se utiliza el gran volumen y rigidez relativa de estos implementos interponiéndolos entre el suelo y el tórax para aumentar localmente el factor de presión estática. Esta estrategia de bio-aplastamiento pasivo empuja expansivamente la parrilla costal, forzando un aumento tridimensional de la complianza respiratoria sin requerir del atleta un alto nivel de destreza motora inhibitoria inicial."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el objetivo fundamental del concepto subyacente al modelo del 'Daylight Performer' en relación al sistema autónomo del deportista?",
+      "options": [
+        "Lograr un aumento crónico del stiffness tendinoso proximal que resguarde las palancas de la inercia diaria en actividades lúdicas o de hogar.",
+        "Inducir una hiper-secreción adaptativa de catecolaminas suprarrenales basal que amortigüe los microtraumatismos repetitivos acumulados en competición.",
+        "Mantener una fase de inhibición recíproca continua del tejido muscular motor agonista, obligando a los estabilizadores vertebrales menores a hipertrofiarse pasivamente.",
+        "Asegurar la capacidad de salir de la hiper-compresión de rendimiento para entrar en una fase de expansión corporal ligada a la activación parasimpática."
+      ],
+      "correct_answer": "Asegurar la capacidad de salir de la hiper-compresión de rendimiento para entrar en una fase de expansión corporal ligada a la activación parasimpática.",
+      "feedback": "El principio sistémico de alternar ciclos vitales dicta que no se puede mantener una tasa de compresión indefinida (alta simpaticotonía del rendimiento de élite, reactividad y rigidez nerviosa) sin inducir un colapso lesional a medio plazo. El verdadero rendimiento sostenible exige entrenar al individuo no solo para comprimirse como un resorte frente a estímulos amenazantes, sino a recuperar un umbral seguro de distensión elástica parasimpática generalizada, fomentando con ello la reparación tisular, celular y una calidad de movimiento diurna (daylight) impecable."
+    }
+  ]
+}
