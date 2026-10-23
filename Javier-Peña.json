@@ -1,0 +1,250 @@
+{
+  "class_title": "Estrategias de Aproximación a la Competición en Deportes de Equipo",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Ante un escenario de partidos consecutivos el viernes y el domingo, la estrategia de gestión óptima para los jugadores titulares consiste en aplicar un breve estímulo condicional de alta intensidad ____.",
+      "options": [
+        "justo al terminar el primer partido",
+        "la misma mañana del segundo partido",
+        "durante el calentamiento del sábado"
+      ],
+      "correct_answer": "justo al terminar el primer partido",
+      "feedback": "Fisiológicamente es inviable colocar una carga de entrenamiento físico entre dos partidos tan cercanos. Al agrupar el estímulo condicional para los titulares inmediatamente después de finalizar el primer encuentro, se concentra el estrés físico en una única ventana, liberando íntegramente las siguientes 24 horas para garantizar una recuperación tisular y metabólica completa antes del domingo."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Entre los mecanismos fisiológicos que justifican la eficacia de una activación matinal de cara a un encuentro vespertino, destaca el incremento de la temperatura a medio plazo y de la 'stiffness' (rigidez). ¿Qué ventaja mecánica concreta aporta este aumento de stiffness?",
+      "options": [
+        "Optimiza drásticamente la transmisión de fuerza desde el vientre muscular hacia el tendón.",
+        "Inhibe los nociceptores periarticulares permitiendo superar rangos de movimiento lesivos.",
+        "Reduce la sensibilidad al calcio en las fibras lentas para preservar las reservas de glucógeno.",
+        "Genera una hipertrofia sarcoplasmática transitoria que aumenta el peso de impacto del jugador."
+      ],
+      "correct_answer": "Optimiza drásticamente la transmisión de fuerza desde el vientre muscular hacia el tendón.",
+      "feedback": "El aumento de la stiffness (rigidez del complejo musculotendinoso) genera un entorno mecánico superior. Un músculo y un tendón más rígidos actúan de manera sinérgica para transferir la fuerza contráctil al sistema esquelético con menores pérdidas de energía elástica, optimizando directamente la expresión de movimientos explosivos como el salto."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "La eficacia de una estrategia de priming depende significativamente de las expectativas y la confianza del deportista, pudiendo este componente contextual amplificar los resultados fisiológicos reales.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. El rendimiento no depende exclusivamente de cascadas neuromusculares u hormonales. El efecto placebo, las experiencias previas del jugador y su convicción sobre la utilidad de la sesión matinal pueden actuar como potentes amplificadores neurológicos, favoreciendo un estado de hiperactivación que mejora el desempeño posterior."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Una sesión de entrenamiento orientada a la fuerza explosiva que se pauta a 48 horas de la competición utiliza estructuralmente ____.",
+      "options": [
+        "los residuos de entrenamiento",
+        "el efecto agudo retardado",
+        "la potenciación postactivación"
+      ],
+      "correct_answer": "los residuos de entrenamiento",
+      "feedback": "Cualquier estímulo ubicado a 24 o 48 horas del encuentro pertenece a la dosificación ordinaria del microciclo (precondicionamiento). A esa distancia temporal, las mejoras no provienen de la respuesta aguda de potenciación (0-12h), sino de las adaptaciones crónicas y los residuos de entrenamiento propios de la planificación semanal."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el error conceptual principal al intentar aplicar modelos de afinamiento clásico (tapering o peaking) en el calendario actual de un equipo de baloncesto de Euroliga?",
+      "options": [
+        "Requieren la programación de un único pico de forma en calendarios que exigen rendir a máxima intensidad hasta cuatro veces por semana.",
+        "Ignoran por completo la preparación táctica, basándose exclusivamente en el desarrollo condicional cardiovascular.",
+        "Priorizan la acumulación de lactato, un metabolito incompatible con las contracciones rápidas requeridas en la pista.",
+        "Reducen el volumen de forma tan extrema que provocan desentrenamiento sistémico en las primeras 48 horas de aplicación."
+      ],
+      "correct_answer": "Requieren la programación de un único pico de forma en calendarios que exigen rendir a máxima intensidad hasta cuatro veces por semana.",
+      "feedback": "Los modelos de planificación clásica fueron diseñados para ciclos con ventanas amplias orientadas a un campeonato o final puntual. La densidad del baloncesto europeo actual (3 o 4 partidos semanales de máxima exigencia) hace inviable aislar un único pico de rendimiento, obligando a sustituir el 'tapering' prolongado por micro-afinamientos agudos (priming) constantes."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "A nivel biotipológico, los atletas con una predisposición genética hacia una mayor proporción de fibras musculares de contracción rápida logran beneficiarse en mayor medida de las estrategias de priming precompetición.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La arquitectura neuromuscular del atleta determina su respuesta aguda. Los perfiles con predominio de fibras rápidas, sumado a un alto nivel de fuerza basal y experiencia técnica, poseen una mayor facilidad fisiológica para activar y sincronizar unidades motoras de alto umbral tras un estímulo excitatorio breve."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "¿Cómo debe contrastar cuantitativamente la carga de una sesión de priming respecto a un entrenamiento condicional ordinario utilizando unidades arbitrarias (AU)?",
+      "options": [
+        "El priming exige un volumen muy bajo (450-1000 AU) con alta intención, frente a las 3000-3500 AU de una sesión normal.",
+        "El priming requiere duplicar el volumen (6000 AU) eliminando las fases excéntricas presentes en un día regular.",
+        "Ambas deben promediar 3000 AU, pero el priming utiliza exclusivamente isometría de larga duración.",
+        "El priming se limita a 100 AU enfocadas únicamente en movilidad articular sin carga externa."
+      ],
+      "correct_answer": "El priming exige un volumen muy bajo (450-1000 AU) con alta intención, frente a las 3000-3500 AU de una sesión normal.",
+      "feedback": "Para provocar una estimulación neuromuscular sin generar fatiga residual que perjudique el rendimiento, el priming manipula drásticamente el volumen a la baja. Se compensa ejecutando unas pocas repeticiones (450-1000 AU en total) pero con la máxima intención de velocidad o cargas muy altas, marcando una clara diferencia con las 3000+ AU del entrenamiento condicional habitual."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "¿Qué promedio sistemático busca mantener una estrategia de control de cargas mediante un microciclo homogéneo para sobrevivir a la densidad de competiciones internacionales?",
+      "options": [
+        "60 a 80 saltos de alta intensidad por sesión",
+        "150 saltos de baja intensidad diarios",
+        "10 saltos máximos cada 48 horas",
+        "120 aceleraciones máximas lineales en campo"
+      ],
+      "correct_answer": "60 a 80 saltos de alta intensidad por sesión",
+      "feedback": "Homogeneizar la carga es clave en la gestión moderna. En lugar de diseñar picos extenuantes y valles de descanso profundo, se estabiliza el estímulo mecánico en un volumen constante que preserva la condición sin agotar al sistema. En voleibol, esta meseta funcional se traduce en unos 60-80 saltos superiores a 40 cm por sesión continua."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "Una sesión de entrenamiento basada en PAP (Potenciación Postactivación) debe ejecutarse con una separación temporal estricta de al menos 4 horas antes del calentamiento para que sea efectiva.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Las intervenciones que buscan efectos PAP o PAPe puros orientados al pre-partido se enfocan en resultados a muy corto plazo y deben situarse en una ventana cercana a los 20-30 minutos previos al calentamiento. Aplicarlo 4 horas antes corresponde al diseño de una potenciación retardada (delayed potentiation), no a un efecto PAP agudo directo."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "¿Qué efecto secundario indeseado provoca la reducción drástica y continuada de la carga de entrenamiento (Load Management) en deportistas de élite con alta densidad competitiva?",
+      "options": [
+        "Disminuye la entrenabilidad del deportista aumentando la vulnerabilidad a lesiones.",
+        "Sobresatura el sistema nervioso central por falta de estímulo adaptativo.",
+        "Altera los ritmos circadianos de recuperación profunda a nivel celular.",
+        "Provoca una hipertrofia transitoria que ralentiza la velocidad de ejecución."
+      ],
+      "correct_answer": "Disminuye la entrenabilidad del deportista aumentando la vulnerabilidad a lesiones.",
+      "feedback": "Proteger en exceso al jugador reduciendo continuamente la intensidad lo saca del 'sweet spot' propuesto por la teoría del Acute Chronic Work Ratio. El desentrenamiento resultante vuelve a los tejidos estructuralmente vulnerables ante las demandas mecánicas impredecibles que inevitablemente ocurren durante un partido de élite."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Para que el priming pre-partido logre su objetivo fundamental en la pista, el ejercicio físico aplicado debe poseer una alta similitud biomecánica con la destreza a realizar, ¿sobre qué elemento incide directamente?",
+      "options": [
+        "La transferencia primaria",
+        "La adaptación crónica",
+        "El residuo de entrenamiento",
+        "La hipertrofia sarcoplasmática"
+      ],
+      "correct_answer": "La transferencia primaria",
+      "feedback": "La transferencia primaria exige especificidad. Ejecutar squats pesados activa el sistema neuromuscular de forma coherente para posteriormente potenciar los saltos en la pista, ya que el patrón mecánico se transfiere directamente a la habilidad técnica exigida en el deporte."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "A la hora de individualizar la aplicación de un estímulo de priming en una plantilla profesional heterogénea, ¿qué perfiles de jugador suelen mostrar una menor receptividad inicial y beneficio ante estas rutinas agudas?",
+      "options": [
+        "Los atletas más jóvenes con niveles basales de fuerza inferiores y menor bagaje técnico en ejercicios de sobrecarga.",
+        "Los veteranos con altos niveles de fuerza basal pero historial crónico de tendinopatías en el tren inferior.",
+        "Los jugadores con biotipos marcadamente mesomórficos y predominancia extrema de fibras de contracción rápida.",
+        "Los especialistas defensivos cuyo rendimiento depende en exclusiva del sistema energético anaeróbico aláctico."
+      ],
+      "correct_answer": "Los atletas más jóvenes con niveles basales de fuerza inferiores y menor bagaje técnico en ejercicios de sobrecarga.",
+      "feedback": "El priming demanda la capacidad de sincronizar unidades motoras de alto umbral mediante ejercicios intensos o balísticos. Los atletas jóvenes, que habitualmente carecen de la experiencia técnica para ejecutar la máxima intención y poseen niveles absolutos de fuerza menores, no logran capitalizar completamente esta activación neural a corto plazo."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "En competiciones como visitante donde no se dispone de un gimnasio anexo a la pista, las rutinas de priming deben cancelarse pues pierden su efectividad sin equipamiento pesado estructural.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La logística no debe suprimir el estímulo. Es factible y altamente efectivo diseñar 'versiones de bolsillo' de la rutina aplicando el estímulo precompetición en el propio campo u hotel mediante bandas elásticas de alta tensión, pelotas medicinales y kettlebells portátiles, manteniendo intacta la activación mecánica."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Si el objetivo metodológico es lograr una potenciación retardada (delayed potentiation) que mantenga al jugador activado sistémicamente de cara al partido, ¿en qué ventana temporal debe aplicarse el estímulo?",
+      "options": [
+        "Entre 4 y 6 horas previas a la competición.",
+        "Inmediatamente antes del calentamiento en pista.",
+        "Entre 24 y 48 horas antes del inicio del encuentro.",
+        "Exactamente 12 horas antes para coincidir con el ritmo circadiano."
+      ],
+      "correct_answer": "Entre 4 y 6 horas previas a la competición.",
+      "feedback": "La potenciación retardada busca un efecto orgánico sostenido a medio plazo, elevando el tono general y las respuestas hormonales del jugador para el resto de la jornada. Por ello, se pauta comúnmente en la sesión matinal (ej. sesión de tiro y pesas cortas) para que rinda frutos en el partido de la tarde/noche (4 a 6 horas de diferencia)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Al utilizar contracciones isométricas como estrategia segura de preactivación neural en el gimnasio, la literatura recomienda realizar bloqueos cortos (ej. 4 segundos) superando un umbral mínimo de intensidad del ____.",
+      "options": [
+        "70 % de la fuerza isométrica máxima",
+        "30 % de la fuerza explosiva",
+        "100 % de la carga excéntrica"
+      ],
+      "correct_answer": "70 % de la fuerza isométrica máxima",
+      "feedback": "Para excitar correctamente el sistema nervioso sin involucrar ciclos de estiramiento-acortamiento perjudiciales en atletas con problemas articulares (jet lag del tendón), el trabajo isométrico requiere superar un reclutamiento umbral situado entre el 70% y el 80% de la capacidad isométrica máxima, logrando activar unidades motoras rápidas eficientemente."
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "question": "La Potenciación Postactivación (PAP) pura es un fenómeno conceptualmente diseñado para replicarse con precisión técnica en la pista durante ejercicios globales de deportes de equipo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La PAP pura es un constructo biológico estrictamente de laboratorio, medido a través de contracciones involuntarias tras aplicar impulsos eléctricos únicos (twitch) al músculo. Su reproducción fidedigna es metodológicamente imposible en las tareas globales, multifactoriales y voluntarias propias del deporte de equipo (donde aplica el PAPe)."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "El diseño contemporáneo de la preparación en deportes de equipo estructura el rendimiento en tres escalas temporales claramente diferenciadas. ¿Cómo se articulan funcionalmente estas escalas en la praxis actual ante la alta congestión de partidos?",
+      "options": [
+        "Largo plazo para adaptaciones crónicas, medio plazo para dosificación semanal, y corto plazo orientado al afinamiento precompetición.",
+        "Corto plazo para hipertrofia celular, medio plazo para táctica colectiva, y largo plazo exclusivo para el descanso pasivo.",
+        "Largo plazo para la pretemporada física, medio plazo para la nutrición, y corto plazo para la recuperación psicológica.",
+        "Escala única mensual donde se fusionan de forma caótica las adaptaciones físicas y tácticas sin distinción temporal."
+      ],
+      "correct_answer": "Largo plazo para adaptaciones crónicas, medio plazo para dosificación semanal, y corto plazo orientado al afinamiento precompetición.",
+      "feedback": "La planificación exige coherencia en las ventanas de tiempo disponibles. A largo plazo (pretemporadas) se buscan modificaciones estructurales profundas. A medio plazo (microciclo) se modula la carga ondulante o lineal para garantizar el mantenimiento. A corto plazo (priming) se interviene horas antes del evento para exprimir la predisposición aguda al rendimiento."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Tras implementar rutinas matinales de potenciación física pre-partido, el organismo experimenta una reprogramación temporal de los ritmos circadianos en paralelo a un incremento sistémico demostrable de ____.",
+      "options": [
+        "testosterona circulante detectable en saliva",
+        "cortisol basal en orina profunda",
+        "ácido láctico residual en los capilares"
+      ],
+      "correct_answer": "testosterona circulante detectable en saliva",
+      "feedback": "Diversos análisis endocrinos de intervenciones pre-partido demuestran que el estímulo físico rompe la inercia circadiana habitual, provocando un aumento en los niveles de testosterona salival que perdura horas posteriores, facilitando un entorno biológico agresivo y de elevada alerta idóneo para la competición."
+    },
+    {
+      "id": 19,
+      "type": "true_false",
+      "question": "El principio protector conocido como 'Repeated Bout Effect' postula que aplicar deliberadamente fatiga controlada mediante un entrenamiento matinal desactiva las alarmas de daño muscular permitiendo soportar mejor la exigencia del partido.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Esta es una de las respuestas fisiológicas que avalan entrenar el día del partido. Generar un estrés mecánico de corta duración (primer estímulo) induce rápidamente una adaptación protectora en las membranas celulares, actuando como escudo biológico (atenuación) frente a un daño fibrilar mucho mayor durante el segundo esfuerzo competitivo."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Ante un microciclo altamente congestionado, ¿cuál es el criterio jerárquico fundamental que rige de manera inflexible la toma de decisiones del preparador físico en un entorno de élite?",
+      "options": [
+        "Garantizar la disponibilidad del jugador para que compita en óptimas condiciones, priorizándolo sobre la búsqueda de mejoras crónicas.",
+        "Imponer la carga física pautada teóricamente, asumiendo el riesgo lesional para no perder adaptaciones condicionales a largo plazo.",
+        "Sustituir los entrenamientos tácticos por sesiones puras de hipertrofia para generar un escudo protector contra impactos articulares.",
+        "Descartar a los jugadores titulares en el primer partido de la semana para asegurar su rendimiento exclusivo en el último encuentro del microciclo."
+      ],
+      "correct_answer": "Garantizar la disponibilidad del jugador para que compita en óptimas condiciones, priorizándolo sobre la búsqueda de mejoras crónicas.",
+      "feedback": "En el deporte colectivo de alto rendimiento, la capacidad de disponer del jugador para el partido anula cualquier deseo de sobrecarga desarrolladora. El preparador físico asume un papel de 'gestor del estrés', donde proteger la integridad del atleta a corto plazo prima absolutamente por encima de comprometer su salud buscando la progresión teórica ideal a largo plazo."
+    }
+  ]
+}
