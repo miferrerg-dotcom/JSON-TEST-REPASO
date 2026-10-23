@@ -1,0 +1,253 @@
+{
+  "class_title": "Leveraging AI and technology in everyday practice",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "En el control de carga diario mediante el cuestionario Hooper, la principal diferencia operativa entre un Context GPT y un Execution GPT radica en que este último:",
+      "options": [
+        "Debate libremente sobre la literatura científica del índice Hooper para expandir el conocimiento fisiológico del entrenador.",
+        "Recibe un proceso estricto paso a paso para ejecutar tareas secuenciales predefinidas, como clasificar datos de estrés y fatiga.",
+        "Está programado primariamente para diagnosticar patologías musculares basándose en los comentarios cualitativos del jugador.",
+        "Prioriza de forma autónoma la búsqueda semántica de nuevos artículos de validación del cuestionario en repositorios abiertos."
+      ],
+      "correct_answer": "Recibe un proceso estricto paso a paso para ejecutar tareas secuenciales predefinidas, como clasificar datos de estrés y fatiga.",
+      "feedback": "Mientras que un Context GPT maneja una base de conocimiento científico para responder consultas y actuar como experto consultivo, el Execution GPT requiere una programación enfocada en acciones directas (ej. Paso 1: revisar datos; Paso 2: calcular índice; Paso 3: clasificar con sistema de semáforo) para estandarizar el procesamiento de datos rutinarios."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Al evaluar un cuello de botella logístico en la generación de reportes físicos semanales, la solución más innovadora puede consistir simplemente en ____.",
+      "options": [
+        "rediseñar el flujo de trabajo",
+        "adquirir un nuevo wearable",
+        "comprar software predictivo"
+      ],
+      "correct_answer": "rediseñar el flujo de trabajo",
+      "feedback": "La innovación en ciencias del deporte no es sinónimo absoluto de añadir tecnología moderna. Rediseñar un flujo de trabajo para reducir el tiempo de generación de un reporte de tres horas a veinte minutos constituye una innovación sistémica profunda que puede no requerir de la adquisición de ningún hardware o software nuevo."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Las herramientas como Elicit y NotebookLM cumplen funciones técnicas idénticas en la investigación deportiva; ambas se emplean de forma óptima para descubrir nueva literatura científica desconocida mediante búsqueda semántica.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Elicit se utiliza primordialmente para descubrir de forma proactiva nueva evidencia en la literatura. En contraste, NotebookLM está concebido para interrogar, comparar y extraer métricas cruzadas sobre una colección cerrada y delimitada de documentos que el investigador ya ha seleccionado y validado previamente."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Según el marco estructurado para el 'prompt engineering' avanzado en tareas de alto rendimiento, ¿cuál de los siguientes parámetros debe predefinirse ineludiblemente para que la salida de la inteligencia artificial resulte aplicable para el cuerpo técnico?",
+      "options": [
+        "La integración directa de la red neuronal mediante el uso de Python o C++.",
+        "El formato de salida esperado, separando el rigor metodológico de la aplicación práctica.",
+        "El forzado de los hiperparámetros de temperatura hacia la máxima creatividad generativa.",
+        "La conexión nativa obligatoria con los microciclos de planificación de Google Sheets."
+      ],
+      "correct_answer": "El formato de salida esperado, separando el rigor metodológico de la aplicación práctica.",
+      "feedback": "Para evitar que el modelo genere textos densamente académicos y poco accionables en un vestuario (como el fútbol profesional), el científico deportivo debe diseñar un prompt que determine de manera explícita la estructura de la respuesta, exigiendo, por ejemplo, apartados como la 'conclusión rápida' (bottom line), la evidencia subyacente y las aplicaciones prácticas concretas."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "¿Hacia qué área se busca destinar la capacidad cognitiva al incorporar sistemas de inteligencia artificial en las rutinas de un departamento médico o de preparación física, tras disminuir la carga operativa automatizable?",
+      "options": [
+        "La gestión de hojas de cálculo de datos biométricos.",
+        "El diseño de infografías y pósteres institucionales.",
+        "El diagnóstico de exclusión táctica de los jugadores.",
+        "La experticia, creatividad e interacción humana."
+      ],
+      "correct_answer": "La experticia, creatividad e interacción humana.",
+      "feedback": "El valor real de la automatización en entornos de élite radica en la liberación de recursos mentales y de tiempo al suprimir el trabajo repetitivo de bajo valor añadido, garantizando así que los profesionales focalicen su pericia científica en tareas que exigen criterio especializado, diseño de intervenciones avanzadas y empatía en la relación directa con el deportista."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Al configurar flujos automatizados que enlazan hojas de cálculo crudas con módulos de análisis sintáctico de IA, resulta imperativo programar de antemano vías de fallo (failure pathways) para que, frente a celdas nulas o métricas fisiológicamente imposibles, el sistema proceda a ____.",
+      "options": [
+        "la revisión por un humano",
+        "su eliminación sistemática",
+        "la regresión estadística"
+      ],
+      "correct_answer": "la revisión por un humano",
+      "feedback": "Automatizar de espaldas al riesgo de error permite a la organización deportiva cometer fallos de forma acelerada y a escala. Un workflow maduro debe diseñarse asumiendo que los datos de entrada pueden ser imperfectos, por lo que su directriz central ante incongruencias severas siempre es pausar la operación, levantar una alerta y exigir la intervención manual del especialista de datos."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Dentro del modelo colaborativo de los 'Innovation Hubs', ¿cuál es la conceptualización estratégica correcta sobre la aportación de un club profesional al asociarse con firmas tecnológicas externas?",
+      "options": [
+        "El club opera de manera pasiva y su único aporte de valor es la liquidez requerida para adquirir las licencias de software propietario.",
+        "La empresa tecnológica soporta íntegramente la carga de la innovación y la entidad deportiva solo figura para validar el entorno visual de la herramienta.",
+        "El club se desvincula de las ciencias aplicadas y subcontrata todo el procesamiento analítico del primer equipo hacia el equipo de ingenieros corporativo.",
+        "El club contribuye estructuralmente al producto aportando un entorno real y exigente, infraestructuras, problemáticas complejas y feedback de profesionales expertos."
+      ],
+      "correct_answer": "El club contribuye estructuralmente al producto aportando un entorno real y exigente, infraestructuras, problemáticas complejas y feedback de profesionales expertos.",
+      "feedback": "En la intersección del deporte, la academia y la industria, los clubes no son meros clientes pasivos. Proporcionar un banco de pruebas de élite, junto con la retroalimentación cualitativa de analistas y jugadores de alto nivel frente a casuísticas de extrema exigencia, representa un activo de incalculable valor (y una inversión de tiempo sustancial) que influye decisivamente en el perfeccionamiento tecnológico."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "Si se configura meticulosamente un 'Context GPT' aportándole exclusivamente cuatro consensos primarios en torno al entrenamiento concurrente, este limitará sus afirmaciones a dichos textos y evitará inventar respuestas carentes de evidencia si los prompts están formulados con fronteras restrictivas sólidas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La creación efectiva de un Context GPT consiste en acotar y delimitar explícitamente la base de conocimiento de la herramienta, dotando al sistema de reglas jerárquicas irrompibles para que priorice absolutamente la evidencia de los documentos primarios subidos y señale cuándo existe ausencia de datos, previniendo así las 'alucinaciones' del modelo generalista subyacente."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "En el protocolo de auditoría e implementación de soluciones en ciencias aplicadas, existe una cascada secuencial innegociable de cinco pilares metodológicos. ¿Qué factor debe evaluarse con profundidad inmediatamente después de haber definido el 'Problema'?",
+      "options": [
+        "El ecosistema de Inteligencia Artificial que se planea licenciar.",
+        "Las personas y actores específicos involucrados en el contexto.",
+        "El análisis retrospectivo para estimar la evaluación final de impacto.",
+        "La auditoría microscópica de los procesos de hardware existentes en el gimnasio."
+      ],
+      "correct_answer": "Las personas y actores específicos involucrados en el contexto.",
+      "feedback": "La secuencia correcta para una adopción efectiva estipula: Problema, Personas, Proceso, Tecnología y Evaluación. Antes de rediseñar cualquier sistema analítico, se debe identificar quién sufre el impacto directo del problema, quién operará la hipotética solución técnica y qué perfiles del staff se verán obligados a modificar su comportamiento habitual."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Durante las fases tempranas del desarrollo de una aplicación interactiva propia (por ejemplo, para sugerir la hidratación peri-entrenamiento), antes de invertir tiempo valioso en la interfaz gráfica o la visualización de los dashboards, es metodológicamente imperativo comprobar ____.",
+      "options": [
+        "la identidad visual corporativa",
+        "la paleta de contrastes web",
+        "la lógica de decisión subyacente"
+      ],
+      "correct_answer": "la lógica de decisión subyacente",
+      "feedback": "El diseño visual avanzado de una app a menudo oculta vulnerabilidades metodológicas (prototype the reasoning, not only the screen). Es un error crítico concentrarse en elementos estéticos antes de haber puesto a prueba rigurosamente los algoritmos de toma de decisiones frente a escenarios hipotéticos y asimetrías de datos, pues el valor científico real descansa sobre las reglas lógicas y no sobre los botones."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "En el contexto de la automatización del control de carga deportiva, ¿qué elemento metodológico distingue diferencialmente a un Workflow automatizado en red (ej. Make AI) frente al uso interactivo tradicional de una interfaz tipo ChatGPT?",
+      "options": [
+        "La capacidad exclusiva de analizar métricas GPS de baja frecuencia en 2D.",
+        "La integración obligatoria con lenguajes ensambladores para lectura de código fuente biológico.",
+        "La dependencia de un disparador ('trigger') que inicia autónomamente una secuencia de análisis predictivos sin acción manual del analista.",
+        "El rechazo frontal a utilizar hojas de cálculo de formato tabular como matrices iniciales."
+      ],
+      "correct_answer": "La dependencia de un disparador ('trigger') que inicia autónomamente una secuencia de análisis predictivos sin acción manual del analista.",
+      "feedback": "La gran fortaleza del 'workflow automation' consiste en desacoplar al analista de la ejecución mecánica de la tarea. Al programar disparadores (triggers) temporales, como iniciar el proceso diariamente a las 09:00 AM, o situacionales (al recibir un nuevo cuestionario), el sistema extrae, chequea, somete la data a modelos de IA y distribuye el reporte final sin que exista interacción manual humana previa."
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "En procesos con elevadas repercusiones o severa incertidumbre médica en el alto nivel, el propósito rector al implementar herramientas tecnológicas es lograr la mayor cota de automatización algorítmica posible para erradicar cualquier intervención directa del preparador.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es tajantemente falso. En escenarios críticos y de alta consecuencia en el deporte profesional, la tecnología no debe diseñarse para alcanzar un vacío automático ni suprimir la figura humana; más bien al contrario, su rol debe potenciar y blindar la supervisión experta, manteniendo vigente el contexto empírico y la responsabilidad final del especialista (Human Loop)."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Ante un sumario bibliográfico extremadamente pulcro y asertivo elaborado por Inteligencia Artificial acerca del beneficio biomecánico de un nuevo estímulo pliométrico, el deber procedimental riguroso de todo especialista en ciencias del deporte antes de escalar la prescripción a sus atletas requiere obligatoriamente:",
+      "options": [
+        "Confiar de lleno en el extracto, considerando la superioridad de la máquina frente a las limitaciones de lectura cognitiva del cuerpo técnico.",
+        "Retornar a la evidencia primaria para verificar la demografía original, los pormenores de la intervención y el rigor estadístico subyacente.",
+        "Programar inmediatamente un Execution GPT que prescriba dosificaciones derivadas directamente del resumen generado sin mayor dilación.",
+        "Ajustar la semántica para distribuirlo inmediatamente de manera interna con el objeto de impresionar al departamento de fuerza y acondicionamiento."
+      ],
+      "correct_answer": "Retornar a la evidencia primaria para verificar la demografía original, los pormenores de la intervención y el rigor estadístico subyacente.",
+      "feedback": "Aunque la IA optimiza abrumadoramente el rastreo inicial (discovery) y la síntesis de conceptos densos, corre el enorme riesgo de infundir una falsa apariencia de simplicidad a fenómenos complejos. En situaciones de impacto real en la práctica, la verificación es insustituible: el profesional debe regresar al 'paper' original para constatar de forma granular quiénes participaron, bajo qué diseño experimental y si la validez estadística sostiene realmente la conclusión verbal expuesta."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "El acto de convertir un requerimiento analítico altamente repetitivo (ej: el resumen de tácticas del equipo contrario con pautas de recuperación) desde un simple mensaje de chat en un asistente parametrizado conocido como 'Custom GPT', responde fundamentalmente a la meta de:",
+      "options": [
+        "Excluir al humano del diseño heurístico e independizar cognitivamente a la red neuronal del proceso deportivo local.",
+        "Estandarizar las reglas de salida empacando el conocimiento, la praxis experta de la franquicia y el método en una estructura de uso consistente.",
+        "Provocar una retro-propagación (backpropagation) no supervisada de variables fisiológicas que mejore la arquitectura predictiva del transformer base.",
+        "Garantizar que todo el staff clínico suba material gráfico identificable y metadatos personales sin restricciones legales asociadas."
+      ],
+      "correct_answer": "Estandarizar las reglas de salida empacando el conocimiento, la praxis experta de la franquicia y el método en una estructura de uso consistente.",
+      "feedback": "El diseño de un Custom GPT no tiene por finalidad aumentar la potencia neta o la inteligencia bruta del modelo fundacional. Su inmenso valor aplicativo radica en cristalizar y encapsular la metodología preferida del club (reglas metodológicas, literatura científica aceptada internamente y guías de tono) en un recurso compartible, suprimiendo la vulnerabilidad y la variabilidad asociadas a que distintos entrenadores tengan que idear el prompt perfecto una y otra vez."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Para prevenir que un agente conversacional basado en IA invada competencias clínicas o determine erróneamente pautas de alineación, resulta cardinal fijar un cerco operativo exhaustivo en su instrucción principal delimitando taxativamente ____.",
+      "options": [
+        "la paleta RGB",
+        "el rol y el propósito",
+        "el tipo de encriptado"
+      ],
+      "correct_answer": "el rol y el propósito",
+      "feedback": "La piedra angular de la gestión de riesgos en la parametrización de asistentes de IA orientados a la salud o el rendimiento es la definición nítida y restrictiva del rol y propósito, indicando expresamente prohibiciones del tipo: 'No formulas diagnósticos médicos' o 'No determinas el apto competitivo'. Esto encuadra a la IA en su correcta dimensión de apoyo consultivo."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Cuando se formula de manera intencionada y meticulosa una 'Searchable Question' (Pregunta con Potencial de Búsqueda) al investigar en motores semánticos (ej. Elicit) la influencia de la fatiga aguda sobre isquiosurales, el principio operativo predominante sostiene que:",
+      "options": [
+        "Una especificidad aguda estrecha el marco de los resultados, incrementando drásticamente la pertinencia y el significado real de las publicaciones recuperadas.",
+        "La redundancia gramatical obliga a los motores de búsqueda profunda a construir ensayos aleatorizados artificiales para llenar vacíos de literatura.",
+        "Es un procedimiento que relega totalmente la validez empírica al forzar coincidencias bibliométricas de palabras clave vacías.",
+        "Asegura categóricamente que los papers proyectados en las tablas de evidencia posean diseños de doble ciego metodológicamente inatacables."
+      ],
+      "correct_answer": "Una especificidad aguda estrecha el marco de los resultados, incrementando drásticamente la pertinencia y el significado real de las publicaciones recuperadas.",
+      "feedback": "En la actual economía de la información masiva, el éxito de la integración científica arranca invariablemente con una pregunta estructurada rigurosa. Aumentar la especificidad (acotando sujetos, intervención precisa y variables) permite a los motores que operan mediante búsqueda semántica rastrear según el significado o contexto profundo del planteamiento, agudizando la relevancia del material recuperado respecto a un sondeo superficial o puramente léxico."
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "question": "Si el requerimiento táctico de un especialista consiste en redactar un resumen puntual y de uso extraordinario (una única vez) sobre una nueva métrica biomecánica, el criterio operativo más sensato es programar una aplicación robusta interactiva para abarcar la problemática.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. En la matriz metodológica que rige la asignación tecnológica, rige un principio inamovible de economía de recursos: la solución más sencilla y confiable es siempre prioritaria. Construir un desarrollo costoso (app, workflow interconectado) para una exigencia eventual y esporádica constituye una trampa de exceso de ingeniería (overengineering), donde redactar un 'prompt' excelente es largamente superior en eficiencia."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Antes de embarcarse en el diseño y codificación de las secuencias operativas de un pipeline de automatización para la depuración de datos condicionales, la regla preventiva fundamental del proceso exige inquebrantablemente:",
+      "options": [
+        "Invertir económicamente en hardware propietario cerrado para preservar la latencia del ecosistema analítico del centro de alto rendimiento.",
+        "Abarcar íntegramente la comprensión del flujo de trabajo existente de forma manual, evitando así automatizar procesos incomprendidos que escalen fallos.",
+        "Hibridar el código heredado de otros equipos adversarios para establecer benchmarks comparativos en métricas cinemáticas absolutas.",
+        "Aislar estructuralmente al atleta para que su retroalimentación no perturbe los ejes probabilísticos del modelo algorítmico primario."
+      ],
+      "correct_answer": "Abarcar íntegramente la comprensión del flujo de trabajo existente de forma manual, evitando así automatizar procesos incomprendidos que escalen fallos.",
+      "feedback": "El mandato central para la automatización tecnológica dictamina que jamás debe mecanizarse sistémicamente aquello que no se es capaz de mapear o explicar pormenorizadamente con antelación. Automatizar una estructura precaria o insuficientemente comprendida sin dominio del flujo manual no aporta orden; solo consolida errores y produce sesgos perjudiciales a un ritmo drásticamente mayor."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "En el marco de un bucle de responsabilidad procedimental humana (Human in the Loop), cuando la tecnología de inteligencia artificial interactúa con los umbrales fisiológicos de futbolistas de primer nivel, la directriz final de seguridad es que ____.",
+      "options": [
+        "los datos sensibles sean depurados",
+        "la API abierta reemplace la validación",
+        "el humano adquiera la decisión"
+      ],
+      "correct_answer": "el humano adquiera la decisión",
+      "feedback": "Por formidables que resulten las utilidades analíticas de las IAs de frontera y las bases de automatización de datos, la última palabra en cuestiones relativas a intervenciones, aptitudes físicas y manejo de datos clínicos le pertenece indisolublemente al ser humano. La tecnología empodera el rastreo y agiliza radicalmente el procesamiento subyacente, mas es el juicio clínico del profesional responsable el que ostenta de forma exclusiva la titularidad moral y legal de la decisión."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Considerando el espectro global de aplicación técnica expuesto, en tareas crónicas de altísima intensidad de manejo de información (ej. tabular perfiles biográficos de 20 papers en un meta-análisis en desarrollo rápido), la modalidad instrumental considerada óptima para elevar el techo operativo del investigador principal es:",
+      "options": [
+        "Una secuencia algorítmica pasiva de Machine Learning tradicional en base a matrices binarias aisladas de correlación cruzada estática.",
+        "La integración directa con la Asistencia de Inteligencia Artificial Generativa, aprovechando su velocidad en la extracción y comparación de hallazgos complejos.",
+        "Un panel de comandos o macro pre-compilado en VBA para ordenar jerárquicamente las palabras clave de la conclusión, limitando el descubrimiento semántico.",
+        "La elaboración nativa de un framework interactivo para móviles que elucide patrones conductuales puramente estadísticos a través de APIs."
+      ],
+      "correct_answer": "La integración directa con la Asistencia de Inteligencia Artificial Generativa, aprovechando su velocidad en la extracción y comparación de hallazgos complejos.",
+      "feedback": "Frente a los picos de saturación provenientes del abordaje y lectura lineal de grandes volúmenes de documentos técnicos simultáneos (como 20 papers científicos), las habilidades cognitivas del especialista se liberan si la tarea de digestión estructural bruta ('information-intensive task') se delega en herramientas de Asistencia de IA (NotebookLM, etc.). Ello cataliza espectacularmente los pasos embrionarios de extracción y tabulación sin diluir la capacidad analítica ulterior requerida."
+    }
+  ]
+}
