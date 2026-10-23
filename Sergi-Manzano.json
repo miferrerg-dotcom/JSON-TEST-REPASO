@@ -1,0 +1,312 @@
+{
+  "class_title": "Certificación PSS - Principios Clásicos del Entrenamiento",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Los principios del entrenamiento actúan como traductores entre la teoría científica y la aplicación práctica. ¿Cuál es su principal característica en este rol?",
+      "options": [
+        "Son reglas inamovibles que determinan los métodos exactos a utilizar en cualquier contexto deportivo.",
+        "Traducen leyes biológicas estables en guías descriptivas para prescribir metodologías, siendo pocos frente a la gran cantidad de métodos.",
+        "Operan únicamente a nivel metabólico para justificar las cargas biomecánicas aplicadas en la sesión.",
+        "Reemplazan la experiencia empírica del entrenador al eliminar la incertidumbre del proceso de adaptación."
+      ],
+      "correct_answer": "Traducen leyes biológicas estables en guías descriptivas para prescribir metodologías, siendo pocos frente a la gran cantidad de métodos.",
+      "feedback": "Los principios se ubican entre la teoría científica y la aplicación diaria, actuando como elementos descriptores y estables que traducen leyes biológicas (como la supercompensación) en reglas de actuación generales. Mientras que los métodos son muchos y variables según el contexto, los principios son pocos y universales."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "La aplicación del principio de sobrecarga cuenta con el mismo margen de asimilación positiva tanto en poblaciones novatas como en atletas de élite.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "En poblaciones novatas, casi cualquier aplicación general de sobrecarga progresiva generará mejoras debido al gran margen de adaptación. Sin embargo, a medida que el nivel del deportista se acerca a la élite, la conceptualización y aplicación macro y micro de la sobrecarga debe cuidarse de manera milimétrica para lograr adaptaciones sin provocar sobreentrenamiento."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "El aprendizaje del profesional del entrenamiento evoluciona de una visión simplista a un bucle de complejidad, hasta finalmente descifrar las interrelaciones clave y alcanzar una ____.",
+      "options": [
+        "rutina inalterable",
+        "simplicidad elegante",
+        "carga máxima"
+      ],
+      "correct_answer": "simplicidad elegante",
+      "feedback": "El proceso cognitivo del entrenador evoluciona desde visiones dicotómicas (blanco o negro) hacia la integración de conocimientos altamente complejos, decantándose finalmente por descifrar las interrelaciones más importantes que dictan el entrenamiento, logrando lo que metodológicamente se define como una 'elegante simplicidad'."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Según el modelo de dinámicas de estrés adaptativas, ¿cómo se determina el estado de 'preparedness' (preparación) del atleta para expresar su máximo rendimiento?",
+      "options": [
+        "Es el pico máximo de rendimiento alcanzado exclusivamente tras un bloque estructurado de 'push the ceiling'.",
+        "Es la capacidad del sistema neuromuscular para resistir altos volúmenes de variación cualitativa interdiaria.",
+        "Es la diferencia temporal resultante entre el aumento del nivel de fitness y la disipación de la fatiga asociada tras aplicar una dosis.",
+        "Es la adaptación puramente biomecánica lograda mediante ejercicios hiperespecíficos sin carga adicional."
+      ],
+      "correct_answer": "Es la diferencia temporal resultante entre el aumento del nivel de fitness y la disipación de la fatiga asociada tras aplicar una dosis.",
+      "feedback": "El paradigma fundamental de fitness-fatiga dicta que una dosis de entrenamiento eleva el fitness pero genera irremediablemente fatiga sistémica y periférica. Dado que la curva de fatiga suele disiparse a un ritmo mayor que la de fitness, la diferencia neta entre ambas dicta el 'preparedness', representando la ventana de oportunidad biológica para expresar el rendimiento."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Al modificar aspectos como la selección de ejercicios (ej. cambiar el patrón de sentadilla a peso muerto) pero mantener cargas absolutas altas para minimizar el daño conectivo y neural, se está aplicando:",
+      "options": [
+        "Variación secuencial para alterar el marco temporal inter-sesión.",
+        "Variación cuantitativa mediante la manipulación de la densidad y el tonelaje.",
+        "Variación cualitativa modificando los patrones mecánicos de movimiento.",
+        "Sobrecarga metabólica pura orientada a la hipertrofia tisular."
+      ],
+      "correct_answer": "Variación cualitativa modificando los patrones mecánicos de movimiento.",
+      "feedback": "La variación cualitativa consiste en modificar elementos formales del estímulo (selección de ejercicios, patrones de movimiento o restricciones tácticas) bajo el concepto de 'hacer lo mismo pero diferente'. Esto elimina la monotonía del estímulo monótono y permite sostener altas intensidades mecánicas mitigando drásticamente el riesgo de lesión tisular u overreaching. Por el contrario, la variación cuantitativa altera estricta y numéricamente el volumen o la intensidad."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "Los principios del entrenamiento poseen una cualidad de 'fractalidad', implicando que rigen la programación de igual forma tanto en el macro-management general como en el micro-management de la sesión.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "La fractalidad de los principios, tales como la sobrecarga o la especificidad, implica que no se restringen a un solo plano temporal. Estos rigen al estructurar la priorización y objetivos a gran escala de la temporada (enfoque top-down) exactamente de la misma manera que determinan la manipulación de variables de intensidad y volumen en la prescripción de una sesión diaria aislada (enfoque bottom-up)."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "¿Qué fenómeno biológico subyacente exige precaución para no estancar el progreso a largo plazo cuando se abusa de aplicar un estímulo hiperespecífico (ej. realizar siempre HIIT para mejorar el VO2 máx de manera rápida)?",
+      "options": [
+        "El aumento lineal e infinito del preparedness neuromuscular.",
+        "La acomodación metabólica inmediata por exceso de variación coordinativa.",
+        "El 'transfer lag time' o tiempo biológico de retraso en la transferencia motora.",
+        "La rápida disipación de la fatiga metabólica frente al estrés tendinoso."
+      ],
+      "correct_answer": "El 'transfer lag time' o tiempo biológico de retraso en la transferencia motora.",
+      "feedback": "Asumir que lo hiperespecífico es siempre la mejor herramienta a largo plazo es un reduccionismo. Las mejoras hiperespecíficas generan un alto rendimiento agudo, pero su curva decae velozmente al cesar el estímulo. Para cimentar rendimiento a largo plazo se debe gestionar el 'transfer lag time': el periodo de retardo o delay necesario para que el sistema nervioso central asimile, coordine y exprese de manera específica un nuevo nivel de fuerza/potencia estructural."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "¿Qué fenómeno mecánico se manifiesta ineludiblemente cuando un atleta consigue mejorar sus marcas de rendimiento intrínseco en entrenamientos de velocidad o pliometría?",
+      "options": [
+        "Una reducción patológica de la ventana temporal que facilita la relajación neural temprana.",
+        "Una sobrecarga mecánica inherente generada de forma autónoma por el propio aumento del rendimiento.",
+        "Una disminución del 'transfer lag time' a corto plazo en gestos acíclicos.",
+        "Una pérdida total de la correspondencia dinámica debido a la asimetría de la aceleración."
+      ],
+      "correct_answer": "Una sobrecarga mecánica inherente generada de forma autónoma por el propio aumento del rendimiento.",
+      "feedback": "Es imperativo comprender que en acciones de alta tasa de desarrollo de fuerza (velocidad, impactos pliométricos), si el atleta corre más rápido o salta más alto, la cinética del propio impacto aumenta. Esto genera un mayor estrés mecánico per se sin que el diseñador del entrenamiento haya tocado la dosis (mismo volumen/mismas repeticiones). El propio progreso se convierte en un factor de sobrecarga."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Con respecto a la dicotomía generada entre la aplicación pura del principio de sobrecarga y el principio de especificidad, ¿cuál es el nivel de adaptación celular y sistémico que separa fundamentalmente a ambos?",
+      "options": [
+        "La sobrecarga maximiza adaptaciones de predominio cardiorrespiratorio, mientras que la especificidad incide en el sistema enzimático.",
+        "La sobrecarga mecánica estimula preferentemente factores periféricos (estructurales/musculares), mientras que la especificidad coordinativa altera vías centrales (neurales).",
+        "Ambas vertientes generan adaptaciones exclusivamente periféricas, pero la especificidad requiere mayor densidad intra-serie.",
+        "La sobrecarga precipita adaptaciones agudas irreversibles, al contrario que la especificidad, que genera crónicas reversibles."
+      ],
+      "correct_answer": "La sobrecarga mecánica estimula preferentemente factores periféricos (estructurales/musculares), mientras que la especificidad coordinativa altera vías centrales (neurales).",
+      "feedback": "Ambos principios entran frecuentemente en conflicto metodológico. Al intentar aplicar sobrecarga pesada sobre un gesto (sobrecarga mecánica), el vector de adaptación se desvía fuertemente hacia la periferia (hipertrofia, cambios en la arquitectura muscular). En contraposición, cuando se entrena minimizando el peso añadido para respetar escrupulosamente el patrón motor (sobrecarga por variación coordinativa), el impacto primordial es de naturaleza neural, optimizando vías motoras centrales."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "El modelo avanzado de 'autorregulación' del entrenamiento integra de forma holística tanto evaluaciones 'meta' previas a la sesión (como el HRV o el test CMJ) como decisiones 'intrasesión' mediante monitoreo objetivo y subjetivo del atleta.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. El modelo de autorregulación supera el uso exclusivo de cuestionarios subjetivos. Integra herramientas de diagnóstico inicial (CMJ o variabilidad cardíaca) con monitoreos en vivo (como el VBT o velocity-based training y la percepción RPE). Esta suma de datos permite abandonar la prescripción rígida y ajustar la magnitud del estrés a la capacidad de asimilación real del atleta en ese día específico."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "En el marco de la 'sobrecarga coordinativa' promulgada por el modelo de Frans/Hans Bosch, ¿cuál es el vector de actuación principal empleado para refinar y transferir el gesto técnico?",
+      "options": [
+        "Aplicar lastres isotónicos máximos para subvertir el vector de fuerza principal del deporte.",
+        "Ralentizar artificialmente la contracción balística para asegurar un reclutamiento neural sincronizado.",
+        "Identificar los elementos inmutables del gesto e introducir agentes perturbadores para forzar su estabilización.",
+        "Descomponer analíticamente el patrón motor en ejercicios estructurales como las sentadillas bipedales."
+      ],
+      "correct_answer": "Identificar los elementos inmutables del gesto e introducir agentes perturbadores para forzar su estabilización.",
+      "feedback": "La filosofía de Bosch entiende el entrenamiento como 'coordinación frente a resistencia'. En lugar de sepultar la técnica bajo sobrecargas mecánicas, detecta los 'atractores' (fases y posturas inmutables y centrales de la técnica). Luego, aplica variación continua y perturbaciones externas al atleta, obligando a su sistema nervioso a luchar por mantener firmes dichos atractores, puliendo dramáticamente la eficiencia del gesto."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Partiendo desde un plano de macro-management, ¿cuál es el árbol de decisión secuencial empíricamente correcto para pautar una sobrecarga objetiva?",
+      "options": [
+        "Sistema de valoración global -> Establecimiento de Dosis Iterativas -> Perfil de KPIs -> Modelo de Rendimiento Teórico.",
+        "Perfil Individual del Atleta -> Definición de KPIs -> Dosis Iterativas -> Modelo de Rendimiento del Deporte.",
+        "Modelo de Rendimiento y KPIs del Deporte -> Sistema de Valoración Específico -> Perfil Individual del Atleta -> Dosis Iterativas Contextualizadas.",
+        "Definición de Modelo de Rendimiento -> Establecimiento de Dosis Iterativas -> Sistema de Valoración Universal -> KPIs secundarios."
+      ],
+      "correct_answer": "Modelo de Rendimiento y KPIs del Deporte -> Sistema de Valoración Específico -> Perfil Individual del Atleta -> Dosis Iterativas Contextualizadas.",
+      "feedback": "La construcción lógica y objetiva de un programa exige comenzar delimitando el modelo de rendimiento (visión de halcón) y los KPIs innegociables del deporte. Solo entonces se selecciona un sistema de valoración coherente (batería de tests) que perfila detalladamente al individuo ('profiling'). Finalmente, con la suma de las demandas externas e internas, se prescriben y monitorizan las dosis iterativas."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "De acuerdo con el principio de Correspondencia Dinámica, basta con que un ejercicio auxiliar converja en 2 o 3 de sus criterios cinemáticos y cinéticos con el gesto competitivo para poseer proximidad mecánica y detonar una transferencia válida.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Evaluar la transferencia no exige un pleno a los cinco criterios de Siff y Verkhoshansky (amplitud, región de fuerza acentuada, dinámica, tiempo y régimen muscular). La literatura y práctica modernas dictan que coincidir en 2 o 3 de estos pilares estructurales ya garantiza una proximidad mecánica suficiente para generar transferencias orgánicas hacia el gesto deportivo diana."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "En el entrenamiento de fuerza, la estrategia que consiste en mantener intacto el volumen y la intensidad de la sesión, pero alterar el orden de los ejercicios para generar una demanda adaptativa distinta, aplica una sobrecarga ____.",
+      "options": [
+        "cuantitativa",
+        "secuencial",
+        "metabólica"
+      ],
+      "correct_answer": "secuencial",
+      "feedback": "La sobrecarga secuencial es uno de los cuatro grandes pilares para inducir progresión (junto a la coordinativa, mecánica y metabólica). Se basa de forma exclusiva en la manipulación y alteración de la disposición temporal de los estímulos (orden de los ejercicios, agrupación en series complejas o contrastes, dobles turnos de entrenamiento), generando fatigas preexistentes o potenciaciones que otorgan a la sesión idéntica un estímulo de estrés totalmente nuevo."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "En el ámbito de la cinemática y cinética deportiva, ¿qué paradigma define conceptualmente la aproximación de 'Inverse Optimization' (optimización inversa)?",
+      "options": [
+        "La construcción algorítmica del movimiento ideal desde cero utilizando puramente las leyes inmutables de la física fundamental.",
+        "La asimilación de la técnica y estrategias motoras ya refinadas por los atletas de élite como la matriz o 'blueprint' de eficiencia a imitar.",
+        "La priorización de la musculatura estabilizadora en fases tempranas, invirtiendo la carga hacia la musculatura fásica en fases competitivas.",
+        "La prescripción inicial con la máxima dosis tolerable, iterando inversamente hacia la mínima dosis efectiva según el nivel de fatiga."
+      ],
+      "correct_answer": "La asimilación de la técnica y estrategias motoras ya refinadas por los atletas de élite como la matriz o 'blueprint' de eficiencia a imitar.",
+      "feedback": "En el análisis biomecánico del rendimiento conviven dos ejes. El 'Forward optimization' deduce desde la nada el movimiento más lógico basándose en leyes mecánicas teóricas. En sentido contrario, el 'Inverse optimization' asume que los atletas que lideran el panorama mundial han descubierto iterativamente las resoluciones mecánicas más eficientes; su biomecánica en situación real es diseccionada y se emplea como el modelo a seguir (el patrón de oro)."
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "question": "Si un atleta de élite posee un patrón motor altamente refinado y automático, aplicar progresiones de sobrecarga mecánica masiva tratando de imitar la ejecución del gesto generará inevitablemente picos de mejora en el aprendizaje motor.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Actuar de esta forma engendra un severo riesgo de 'interferencia negativa'. En atletas maduros, el gesto está exquisitamente automatizado en el cerebelo. Someter ese mismo trayecto coordinativo a la distorsión obligada que genera un sobrepeso artificial (lastre pesado) contamina las vías neurales ya estabilizadas, empeorando mecánicamente el aprendizaje motor en competición."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "A nivel de periodización macroscópica, es recomendable usar las fases preparatorias iniciales como ventanas de exploración coordinativa, sometiendo al atleta a variaciones para consolidar sus ____.",
+      "options": [
+        "fortalezas técnicas",
+        "umbrales de daño tisular",
+        "limitaciones genéticas"
+      ],
+      "correct_answer": "fortalezas técnicas",
+      "feedback": "En las fases preparatorias, el uso de la sobrecarga por variación sirve como un laboratorio de movimiento. Al someter al atleta a restricciones técnicas sutiles sin un fin resultadista urgente, el entrenador logra mapear de forma segura cómo el sujeto resuelve el puzzle motriz, destapando sus 'fortalezas técnicas'. Estas fortalezas serán el pilar de apoyo que se explotará durante la fase competitiva y el peaking."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Al diseccionar la influencia de una tarea en el rendimiento, ¿qué caracteriza exactamente a la 'transferencia secundaria'?",
+      "options": [
+        "Una semejanza cinemática especular que repercute directamente sobre la técnica final del salto o carrera.",
+        "Las adaptaciones crónicas obtenidas en el sistema fascial dirigidas a la absorción de impactos y prevención de lesiones osteoarticulares a futuro.",
+        "Modificaciones arquitectónicas y estructurales primarias (ej. hipertrofia, aumento de masa magra) que construyen una base para potenciar capacidades subyacentes como la fuerza relativa.",
+        "El fenómeno deletéreo temporal en un patrón técnico derivado del estrés sistémico residual de otras tareas biológicamente concurrentes."
+      ],
+      "correct_answer": "Modificaciones arquitectónicas y estructurales primarias (ej. hipertrofia, aumento de masa magra) que construyen una base para potenciar capacidades subyacentes como la fuerza relativa.",
+      "feedback": "La transferencia se clasifica jerárquicamente en tres categorías de influencia. Primaria indica un impacto directo e inmediato en el gesto. La Secundaria, por su parte, abarca adaptaciones morfológicas estructurales de soporte (aumento de área de sección transversal o masa contráctil) que de por sí no mejoran el movimiento aislado, pero al incrementar ratios como la fuerza relativa, actúan como un potente trampolín indirecto para un sprint o aceleración futura. Terciaria remite al blindaje profiláctico (lesiones)."
+    },
+    {
+      "id": 19,
+      "type": "true_false",
+      "question": "En microciclos inminentes a campeonatos importantes (tapering o peaking), la prescripción de entrenamiento debe alinearse obligatoriamente de forma exclusiva y unidireccional con la especificidad y demandas biomecánicas del deporte.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La especificidad no es un 'callejón de un solo sentido' dictado por el deporte. En las fases agudas precompetitivas, la individualización ostenta una jerarquía superior. El caso del sprinter Ben Johnson ilustra cómo ejecutar fuerza dinámica máxima justo antes de los Juegos Olímpicos desafiaba la especificidad teórica del sprint, pero a nivel neural e individual, conformaba el detonante fisiológico y psicológico necesario que su perfil específico exigía para alcanzar su tope."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "¿Qué ilustración clave ofrece la metáfora de Ignacio Chiros Arríos al equiparar la combinación de magnitud del estímulo (intensidad, volumen, descanso) con el lanzamiento de un dardo?",
+      "options": [
+        "Que cualquier modificación microscópica en el equilibrio de estas variables redirige diametralmente la diana metabólica, requiriendo precisión para impactar en la dosis respuesta óptima proyectada.",
+        "Que el trabajo puramente balístico ostenta superioridad en las fases iniciales acumulativas al forzar el acortamiento concéntrico de manera análoga al impacto aéreo.",
+        "Que la monitorización estricta de la velocidad (VBT) debe relegar cualquier tipo de dosificación apoyada en rangos de intensidades y volúmenes fijos.",
+        "Que en modelos pasivos de sobrecarga, la magnitud metabólica ejerce una presión descendente, forzando a la fatiga a ocultar la línea base del preparedness neuromuscular."
+      ],
+      "correct_answer": "Que cualquier modificación microscópica en el equilibrio de estas variables redirige diametralmente la diana metabólica, requiriendo precisión para impactar en la dosis respuesta óptima proyectada.",
+      "feedback": "La precisión en la selección de cargas altera inexorablemente el objetivo celular a impactar. Como un dardo alterado sutilmente en su trayectoria (sea variando tonelaje, cadencia o micro-pausas intra set), la dosis ya no es la misma, desviándose de la meta original y promoviendo la captación adaptativa en redes y fibras no pretendidas. La magnitud se modula para afinar hacia el centro diana: la 'dosis óptima' estipulada para ese bloque."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Al conceptualizar la filosofía de los modelos 'activos' de sobrecarga ('Push the ceiling'), el postulado asume que la readaptación celular se desata primariamente al aplicar un gran ____.",
+      "options": [
+        "volumen regenerativo",
+        "estrés biomecánico",
+        "déficit calórico"
+      ],
+      "correct_answer": "estrés biomecánico",
+      "feedback": "El modelo activo o 'Push the ceiling', respaldado por teóricos como Milan Jovanovic, se cimenta en aplicar presión de manera intencional y deliberada en las cuotas máximas de intensidad tolerada (ej. trabajo cercano al 1RM). Aquí, es el brutal choque de sobrecarga exógena lo que desgarra la homeostasis celular, originando (empujando hacia arriba) la obligada readaptación. En el modelo pasivo, por contraparte, primero ocurre la adaptación enzimática y neural, y al hacerse el entrenamiento más 'liviano', se tira ('Pull') del suelo de carga incrementándolo."
+    },
+    {
+      "id": 22,
+      "type": "true_false",
+      "question": "En un protocolo de micro-management que aplique una visión integral para la sesión diaria, el diseño del calentamiento debe enfocarse estrictamente en la preparación periférica termo-muscular, excluyendo labores de enriquecimiento y exploración técnica.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Desde una perspectiva moderna, el calentamiento abandona su perfil exclusivamente fisiológico y termo-motor para convertirse en una ventana inigualable de 'exploración técnica coordinativa'. A través de ejercicios constreñidos y drills focalizados en los patrones clave (ej. acortamientos de aceleración), se orquesta una activación del córtex motor que prepara de forma óptima las cadenas musculares para la sobrecarga mecánica pesada del bloque principal de la sesión."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Al planificar un macrociclo para un sujeto sin historial consolidado ('profiling'), ¿cuál debe ser el punto de partida inicial recomendado para pautar el volumen y la intensidad?",
+      "options": [
+        "Someter al atleta a sesiones al fallo absoluto para construir un historial empírico desde el primer día.",
+        "Apoyarse en la literatura científica para extraer una dosis de respuesta general como línea de seguridad base.",
+        "Ignorar las intensidades objetivas y basar la prescripción total en el estado de ánimo (wellbeing) del jugador.",
+        "Aplicar el protocolo exacto del deportista más veterano de la plantilla para asegurar una adaptación rápida."
+      ],
+      "correct_answer": "Apoyarse en la literatura científica para extraer una dosis de respuesta general como línea de seguridad base.",
+      "feedback": "Cuando el profesional carece de datos históricos que perfilaran las zonas idóneas de volumen e intensidad para ese individuo (una carencia de la matriz dosis-respuesta personalizada), la literatura proporciona pautas consolidadas de las necesidades cinéticas y metabólicas de cada adaptación. Estas otorgan una 'dosis general' de seguridad. A partir de esa línea base, el entrenador debe iterar con agilidad mediante testajes diarios hasta alcanzar la dosificación puramente individual."
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "¿En qué se sustenta fundamentalmente un modelo de priorización programática 'por énfasis' para organizar las capacidades del deportista durante el periodo anual?",
+      "options": [
+        "En una segregación extrema donde los bloques aislados explotan de forma hermética una única matriz, permitiendo al profesional basarse solo en el concepto biológico de acumulación residual.",
+        "En mantener expuesto al organismo de manera constante a todas las capacidades inherentes a la práctica deportiva, modulando únicamente la magnitud o volumen (énfasis) asignado a cada una según los propósitos cronológicos del bloque.",
+        "En un régimen de estimulación caótica o concurrente máxima, dotando de igual grado de fatiga central y demanda inter-sistémica a todas las capacidades, bloqueando adaptaciones selectivas.",
+        "En prescindir del monitoreo intra-sesión del estrés oxidativo, enfocando la integridad del proceso de hipertrofia sobre la optimización neural y elástica."
+      ],
+      "correct_answer": "En mantener expuesto al organismo de manera constante a todas las capacidades inherentes a la práctica deportiva, modulando únicamente la magnitud o volumen (énfasis) asignado a cada una según los propósitos cronológicos del bloque.",
+      "feedback": "En los paradigmas deportivos actuales (especialmente en deportes abiertos y colectivos), marginar capacidades clave acarrea destreinos severos. El modelo 'por énfasis' responde a esta necesidad estimulando periódicamente todas las cualidades exigidas (tanto las puramente prestacionales como las preventivas), subiendo o atenuando estratégicamente el volumen y la prioridad ('énfasis') asignada a cada pilar en sintonía con las urgencias concretas del meso/microciclo."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Al emplear herramientas metodológicas de visualización (ej. cuadrantes) para correlacionar factores como la fatiga neuromuscular y el bienestar subjetivo, se persigue evaluar objetivamente el nivel de ____.",
+      "options": [
+        "readiness",
+        "interferencia",
+        "correspondencia"
+      ],
+      "correct_answer": "readiness",
+      "feedback": "La decisión crítica y final de si un entrenador debe aumentar la dosis de entrenamiento hoy o proporcionar descanso descansa en evaluar si el atleta está óptimamente dispuesto. Enfrentar datos de fatiga biológica cruda (velocidad de contracción, CMJ) contra los datos perceptuales globales del individuo elimina la ceguera y consolida la toma de decisiones, garantizando el grado real de 'readiness' o capacidad de asimilación positiva del organismo frente a la carga."
+    }
+  ]
+}
