@@ -1,0 +1,372 @@
+{
+  "class_title": "Certificación PSS: Perfil de Rendimiento y Optimización Condicional de Élite",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Al estructurar un plan de recuperación basado en el nivel de evidencia científica y el coste-beneficio, ¿qué elementos conforman la base higiénica innegociable antes de implementar herramientas tecnológicas superiores?",
+      "options": [
+        "Sesiones ininterrumpidas de crioterapia, electroestimulación y masaje de descarga profundo.",
+        "Sueño de calidad, hidratación, nutrición adecuada y reducción del estrés autonómico.",
+        "Inmersiones en agua helada inmediatamente post-partido y suplementación hiperproteica.",
+        "Prendas de compresión neumática y protocolos de restricción del flujo sanguíneo (BFR)."
+      ],
+      "correct_answer": "Sueño de calidad, hidratación, nutrición adecuada y reducción del estrés autonómico.",
+      "feedback": "La pirámide de recuperación establece que el descanso óptimo, la nutrición y la hidratación poseen el mayor impacto fisiológico y el nivel de evidencia más sólido. Sin asegurar previamente esta homeostasis básica de bajo coste, cualquier estrategia superior de la pirámide (como inmersiones frías o compresión) carece de efectividad real."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Al programar la fuerza dentro de un microciclo competitivo estándar, ¿qué objetivo condicional persigue imperativamente la sesión programada en el día alejado de la competición (MD-4)?",
+      "options": [
+        "Inducir una hipertrofia sarcoplasmática extrema orientada a ganar peso corporal sin transferencia.",
+        "Inducir adaptaciones estructurales musculares mediante la combinación de isometrías y manipulación de cargas.",
+        "Fomentar un estímulo puramente regenerativo aeróbico para oxigenar las fibras musculares lentas.",
+        "Activar exclusivamente la vía de los fosfágenos a través de microdosis analíticas de sprints lineales."
+      ],
+      "correct_answer": "Inducir adaptaciones estructurales musculares mediante la combinación de isometrías y manipulación de cargas.",
+      "feedback": "El MD-4 constituye el ápice anabólico de la semana debido a su distancia respecto a la competición. Se pautan sesiones enfocadas puramente en la arquitectura de la fibra, utilizando estímulos estructurales intensos, isometrías máximas o pesos que fuercen una adaptación tisular duradera."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "En la evaluación neuromuscular mediante el salto CMJ, la instrucción verbal y el foco biomecánico requerido son idénticos tanto si se pretende medir el rendimiento máximo como si se busca diagnosticar la fatiga periférica.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La intención del test modifica por completo las variables de interés. Para evaluar rendimiento neto, se exige la máxima altura y velocidad propulsiva (Peak Force); sin embargo, para evaluar el grado de fatiga del sistema nervioso, el foco recae en la reactividad y la máxima velocidad de frenado excéntrico (RSI)."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Al fragmentar y analizar el test de sprint lineal de 30 metros mediante fotocélulas, ¿qué cualidad cinemática específica aísla y evalúa el segmento intermedio de los 10 a los 20 metros?",
+      "options": [
+        "La capacidad neural para mantener el pico de velocidad máxima absoluta sin decaimiento prolongado.",
+        "El mecanismo primario de empuje puro desde una posición anatómica totalmente estática.",
+        "La reactividad excéntrica articular requerida justo antes de iniciar un cambio de dirección brusco.",
+        "La transición técnica desde una fase de aceleración horizontal agresiva hacia una mecánica de carrera vertical."
+      ],
+      "correct_answer": "La transición técnica desde una fase de aceleración horizontal agresiva hacia una mecánica de carrera vertical.",
+      "feedback": "El sprint no es una acción plana. El tramo inicial de 0-10m evalúa el empuje desde cero, mientras que los 10-20m diagnostican específicamente la compleja fase de transición donde el atleta endereza progresivamente el tronco antes de alcanzar su velocidad máxima en el último tramo."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Para insertar una microdosis de alta intensidad condicional y asegurar su correcta asimilación, el momento ideal de aplicación es la pre-sesión del ____.",
+      "options": [
+        "MD-1",
+        "MD-3",
+        "MD+1"
+      ],
+      "correct_answer": "MD-3",
+      "feedback": "El 'arte de programar' microdosis exige ubicar las altas demandas neuromusculares (como frenadas o sprints) en contextos donde la atleta esté fresca. La pre-sesión del MD-3, generalmente tras un día libre, garantiza que la jugadora tolere mecánicamente el esfuerzo exótico sin hipotecar su rendimiento grupal posterior."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Cuando un conjunto evidencia una pérdida sistemática de su capacidad para sostener presiones altas en los minutos finales de partido, la limitación fisiológica subyacente radica principalmente en:",
+      "options": [
+        "Un déficit estructural irreversible en la inervación de las fibras musculares de contracción rápida.",
+        "Una insuficiencia del sistema oxidativo para aclarar lactato y recargar fosfágenos (ATP) entre esfuerzos intensos.",
+        "Un agotamiento permanente del sistema fosfágeno intracelular acumulado desde el primer cuarto de hora.",
+        "La ausencia de entrenamientos enfocados de manera exclusiva en el sistema glucolítico láctico en sala."
+      ],
+      "correct_answer": "Una insuficiencia del sistema oxidativo para aclarar lactato y recargar fosfágenos (ATP) entre esfuerzos intensos.",
+      "feedback": "Aunque la ejecución de un sprint o una presión agresiva requiere vías anaeróbicas, el encargado de pagar el peaje metabólico y regenerar los sustratos veloces durante los micro-descansos es el sistema aeróbico. Una base oxidativa pobre condena al músculo al colapso a medida que transcurren los minutos."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "Una peculiaridad histórica del fútbol femenino de élite es que muchas futbolistas alcanzan el nivel profesional proviniendo de entornos amateurs con nula base de entrenamiento condicional estructurado.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "El contexto formativo del fútbol femenino difiere del masculino. Muchas atletas arriban a la élite europea careciendo de exposición previa a gimnasios de fuerza o atención fisioterapéutica profesional, lo que obliga al staff a construir sus cimientos de fuerza literalmente desde cero."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Al auditar la habilidad de cambio de dirección en campo utilizando el Test 505, ¿por qué es clínicamente prioritario monitorizar de forma milimétrica las métricas de deceleración?",
+      "options": [
+        "Porque un retraso en la deceleración disminuye la resistencia oxidativa en la segunda mitad del partido.",
+        "Porque visibiliza asimetrías de frenado que incrementan drásticamente el riesgo de rotura de ligamento cruzado anterior (LCA).",
+        "Porque establece con extrema precisión la Velocidad Aeróbica Máxima (VAM) de la atleta evaluada.",
+        "Porque una deceleración lenta refleja directamente una hipertrofia excesiva del complejo gastrocnemio-sóleo."
+      ],
+      "correct_answer": "Porque visibiliza asimetrías de frenado que incrementan drásticamente el riesgo de rotura de ligamento cruzado anterior (LCA).",
+      "feedback": "Las lesiones de LCA en el sector femenino se concentran de forma alarmante en fases de deceleración aguda. El Test 505 desenmascara la incapacidad neuromuscular o el miedo de la atleta para absorber grandes fuerzas excéntricas, habilitando una intervención preventiva inmediata."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Durante el día de recuperación post-partido (MD+1), prescribir un bloque de cicloergómetro en Zona 2 aeróbica incrementa el flujo vascular para acelerar la remoción de ____.",
+      "options": [
+        "creatina quinasa intracelular",
+        "lactato",
+        "cortisol salival"
+      ],
+      "correct_answer": "lactato",
+      "feedback": "El trabajo suave en bicicleta (12-18 min a bajas pulsaciones) dispara la capilarización local. Esta 'limpieza' activa transporta nutrientes a los focos de daño mecánico y lava eficazmente los metabolitos acumulados, mitigando la inflamación y la pesadez hídrica."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "Para desarrollar un sistema oxidativo aeróbico óptimo que garantice la repetición de sprints en el minuto 90, resulta suficiente exponer a la plantilla únicamente a Juegos en Espacios Reducidos (SSG).",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Los SSG provocan un estrés masivo sobre la vía glucolítica anaeróbica debido a la frenética intermitencia del espacio pequeño. Sin embargo, carecen de las dimensiones necesarias para que la atleta alcance picos prolongados de alta velocidad o sostenga densidades de metro/minuto lineales, requiriendo carrera extensiva adicional."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Al analizar las métricas de GPS de la élite mundial, ¿qué demanda condicional marca la disparidad más radical de una jugadora exterior (carrilera) frente al perfil de una mediocentro clásica?",
+      "options": [
+        "Las exteriores acumulan la totalidad de sus kilómetros en las Zonas 1 y 2 para sostener el bloque defensivo profundo.",
+        "Las exteriores realizan un volumen masivo y superior de distancias a alta intensidad (HSR) en Zonas 4 y 5.",
+        "Las exteriores están biomecánicamente exentas de ejecutar deceleraciones bruscas debido a la cobertura de la línea de banda.",
+        "Las exteriores superan siempre a las mediocentros en el volumen absoluto de distancia total recorrida a baja velocidad."
+      ],
+      "correct_answer": "Las exteriores realizan un volumen masivo y superior de distancias a alta intensidad (HSR) en Zonas 4 y 5.",
+      "feedback": "Mientras la mediocentro se erige como la dominadora del volumen kilométrico general a ritmos medios, las jugadoras de carril o exteriores exigen a su fisiología entre un 42% y un 69% más de High Intensity Running, siendo expuestas de forma incesante al desborde y al sprint extremo."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "En la evaluación en plataformas duales de fuerza (ForceDecks), los test isométricos persiguen capturar la fuerza estructural techo (Peak Force) y la violencia del reclutamiento inicial mediante el ____.",
+      "options": [
+        "RSI modificado",
+        "RFD",
+        "Déficit Bilateral"
+      ],
+      "correct_answer": "RFD",
+      "feedback": "Un protocolo isométrico máximo es hermético y no sufre deformación elástica. Evalúa cuánta fuerza bruta posee el vientre muscular (Peak Force) y con qué violencia excitatoria el Sistema Nervioso Central es capaz de dispararla en los primeros milisegundos clave de una zancada (Rate of Force Development)."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "El diseño de los planes optimizadores en el fútbol de alto rendimiento busca igualar y equilibrar permanentemente todos los valores condicionales para formar atletas puramente multidisciplinares.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El enfoque expuesto se rige por el lema 'Potenciar vs Mejorar'. El objetivo prioritario en la élite no es lograr una atleta multidisciplinar y plana, sino elevar sus mayores virtudes biomecánicas a la máxima expresión mundial, haciendo a la atleta rápida aún más explosiva y diferencial."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Dentro del manejo fisiológico del microciclo, existe un día técnico en el cual aplicar inmersiones en agua fría (CWI) está absolutamente contraindicado porque sabotea el objetivo de la sesión. ¿Cuál es ese contexto?",
+      "options": [
+        "En los días de mayor carga anabólica (MD-4 o MD-3) donde se busca fomentar adaptaciones estructurales musculares.",
+        "En el bloque de sesiones regenerativas del MD+1, donde la crioterapia genera daños por hipoxia celular.",
+        "Inmediatamente al terminar cualquier partido oficial para evitar la caída súbita del estrés autonómico.",
+        "Cuando la carga de entrenamiento aeróbico extensivo supera el umbral de los seis kilómetros totales acumulados."
+      ],
+      "correct_answer": "En los días de mayor carga anabólica (MD-4 o MD-3) donde se busca fomentar adaptaciones estructurales musculares.",
+      "feedback": "Las adaptaciones hipertróficas o estructurales requieren imperativamente la respuesta inflamatoria natural inducida por la sesión de fuerza. El frío atenúa y corta esta inflamación, bloqueando la ganancia estructural celular deseada en el ápice anabólico de la semana (MD-4)."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "En la antesala inmediata de la competición oficial (MD-1), el bloque pre-campo enfocado en movilizar cargas a alta velocidad sin generar fatiga celular residual recibe el nombre de sesión de ____.",
+      "options": [
+        "oclusión",
+        "priming",
+        "sobrecarga"
+      ],
+      "correct_answer": "priming",
+      "feedback": "La sesión pre-partido ('priming') busca despertar los receptores musculares y reclutar de forma sincrónica las unidades motoras. Para ello, se levantan kilos movilizados intencionalmente a altas velocidades (entorno a 1.0 m/s) en un volumen mínimo que exime al cuerpo de lactato."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Dentro del aprendizaje profundo de las habilidades de movimiento en campo, ¿qué frontera cognitiva separa el Nivel 1 (Analítico) del Nivel 3 (Representatividad)?",
+      "options": [
+        "El Nivel 1 audita marcadores metabólicos de fatiga interna, mientras que el Nivel 3 registra umbrales de esfuerzo aeróbico.",
+        "El Nivel 1 se basa en ejecutar la técnica biomecánica de forma aséptica, mientras el Nivel 3 exige organizar esa fuerza en tiempo y espacio real frente a estímulos caóticos del juego.",
+        "El Nivel 1 requiere oclusión vascular durante el esfuerzo, mientras el Nivel 3 prioriza la ejecución balística de la carga sin resistencia gravitacional.",
+        "Ambos niveles persiguen exactamente las mismas adaptaciones excéntricas estructurales en la fibra del glúteo medio."
+      ],
+      "correct_answer": "El Nivel 1 se basa en ejecutar la técnica biomecánica de forma aséptica, mientras el Nivel 3 exige organizar esa fuerza en tiempo y espacio real frente a estímulos caóticos del juego.",
+      "feedback": "Empujar el suelo potentemente y correr linealmente rápido es una habilidad de 'buen atleta' (Nivel 1). El salto al talento de 'buen futbolista' ocurre en el Nivel 3, donde la atleta aplica su explosividad respondiendo con certeza a la posición cambiante de los rivales, el espacio y el balón."
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "question": "A nivel de estrés autonómico, está rigurosamente prohibido permitir que una jugadora utilice terapias de moda (como luces rojas o 'dreamtape') si carecen de evidencia científica absoluta en sus resultados musculares.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Si una terapia de moda induce bienestar psicológico o una sólida sensación de confort (placebo) sin comprometer la biología de la jugadora, prohibirla generaría un innecesario aumento del estrés. El respeto por la creencia y la relajación percibida tiene gran valor en la homeostasis final."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Ante un bloque de futbolistas con nulo tiempo de competición, el preparador pauta un riguroso test continuo de 6 minutos de carrera. ¿Cuál es el cálculo de campo inmediato para fijar su VAM (Velocidad Aeróbica Máxima)?",
+      "options": [
+        "Se divide la distancia bruta lograda en metros entre 100 para extraer la velocidad base de sus futuros estímulos.",
+        "Se extrae multiplicando sus pulsaciones máximas estables por el total de kilómetros registrados.",
+        "Se suma el High Speed Running extraído del GPS y se fragmenta en intervalos cortos de seis minutos.",
+        "Se somete a la atleta a una ecuación logarítmica dependiente exclusivamente del peso corporal medido post-esfuerzo."
+      ],
+      "correct_answer": "Se divide la distancia bruta lograda en metros entre 100 para extraer la velocidad base de sus futuros estímulos.",
+      "feedback": "Un test lineal de seis minutos al máximo esfuerzo sitúa a la atleta en su VAM. La práctica operativa divide el metraje total acumulado (ej. 1500m) entre 100, ofreciendo la métrica exacta requerida para diseñar las carreras de compensación de ese fin de semana."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "En las horas inmediatas al trauma competitivo (MD+1), la consigna biomecánica estricta para aplicar estiramientos fasciales o rodillo de espuma (foam roller) exige evitar el dolor y focalizarse en ____.",
+      "options": [
+        "tensionar",
+        "soltar",
+        "hipertrofiar"
+      ],
+      "correct_answer": "soltar",
+      "feedback": "El partido causa innumerables micro-roturas de la fibra y una inflamación masiva. Generar tensión aguda y dolorosa durante el estiramiento agrava el daño mecánico. La prescripción post-partido busca únicamente un estímulo parasimpático de relajación, empleando respiración diafragmática para 'soltar' el tejido."
+    },
+    {
+      "id": 20,
+      "type": "true_false",
+      "question": "La premisa fundamental de los servicios condicionales de élite asume que la verdadera protección contra la epidemia lesional reside en una excelente rutina pasiva de calentamiento con gomas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Las bandas elásticas logran activar el reclutamiento periférico momentáneo. Sin embargo, la auténtica coraza que 'previene' una fractura o rotura ante las fuerzas caóticas del deporte es construir una base biológica demoledora: entrenar a altísima intensidad para forjar una atleta intrínsecamente más fuerte y metabólicamente inagotable."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Al gestionar una plantilla internacional en la mañana del MD+1, ¿qué imperativo metabólico dicta programar labores radicalmente opuestas entre el once titular y el grupo de suplentes?",
+      "options": [
+        "Las suplentes necesitan crioterapia y relajación pasiva por la tensión mental del banco; las titulares, en contraste, precisan sprints neuromusculares máximos para mantener el pico anabólico.",
+        "Ambos grupos experimentan exactamente la misma depleción de fosfágenos, diferenciándose exclusivamente en el volumen de isometrías excéntricas requeridas.",
+        "Las titulares arrastran estrés multisistémico extremo precisando estrategias regenerativas vasculares; las suplentes sufren desadaptación por pérdida de volumen competitivo, demandando un duro estímulo compensatorio.",
+        "El protocolo obliga a todas a ejecutar el mismo volumen y solo varía el tipo de zapatilla empleado por los podólogos clínicos."
+      ],
+      "correct_answer": "Las titulares arrastran estrés multisistémico extremo precisando estrategias regenerativas vasculares; las suplentes sufren desadaptación por pérdida de volumen competitivo, demandando un duro estímulo compensatorio.",
+      "feedback": "Mientras la titular lidia con edemas, roturas fibrilares microscópicas y saturación suprarrenal (regeneración vascular), la jugadora no expuesta compite contra la desadaptación fisiológica, obligando al staff a simular la brutal carga que dejó de correr en el partido mediante estímulos compensatorios aeróbicos y de HSR."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Tras cruzar fotogramas tácticos y test neuromusculares, se revela que una defensa central falla en la transición hacia propia meta ante balones largos. Este déficit condena estructuralmente su fase de ____.",
+      "options": [
+        "salto máximo",
+        "aceleración",
+        "resistencia anaeróbica"
+      ],
+      "correct_answer": "aceleración",
+      "feedback": "La capacidad para girar el eje lumbopélvico y aplicar enormes niveles de fuerza concéntrica propulsiva contra el suelo desde una posición desfavorable para retornar hacia la propia portería define el patrón acelerativo reactivo, un eslabón roto fatal en transiciones defensivas de élite."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Alejándonos del obsoleto paradigma exclusivo del sprint puro, el análisis biomecánico de las atacantes top mundiales (regateadoras) expone que su habilidad diferencial para desestabilizar marcas radica en su capacidad técnica de:",
+      "options": [
+        "Sostener un umbral de lactato masivo durante la ejecución incesante de bloqueos en bloque bajo posicional.",
+        "Absorber violentamente la energía cinética y frenar en seco de manera repentina (decelerar excéntricamente) para reorientar instantáneamente su propulsión.",
+        "Manejar el vector vertical puro y alcanzar tiempos de vuelo estratosféricos en remates de cabeza.",
+        "Recorrer la mayor distancia absoluta del partido en Zonas de baja intensidad (Zonas 1 y 2)."
+      ],
+      "correct_answer": "Absorber violentamente la energía cinética y frenar en seco de manera repentina (decelerar excéntricamente) para reorientar instantáneamente su propulsión.",
+      "feedback": "Un futbolista veloz intimida, pero una regateadora diferencial domina la frenada. El talento de detener el cuerpo abruptamente genera una falsa inercia en el marcador, creando una micro-ventaja de espacio-tiempo para salir disparada de nuevo."
+    },
+    {
+      "id": 24,
+      "type": "true_false",
+      "question": "El plan optimizador individual avanzado de la plantilla (que exige doblar sesiones insertando microdosis condicionales) debe ser impuesto simultáneamente y de forma obligatoria a las 24 jugadoras del primer equipo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Cargar a una futbolista que ya domina sus métricas y asimila perfectamente la crudeza del campo genera sobreentrenamiento. Los programas optimizadores complejos están quirúrgicamente reservados para jugadoras bajo alertas condicionales objetivas o para aquellas que, con hambre competitiva, exigen herramientas para catapultar su techo personal."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Al prescribir e implementar una microdosis de alta intensidad (Sprints) post-entrenamiento, ¿cuál es el protocolo psicológico y comunicativo adecuado con la atleta para evitar que lo perciba como un castigo disciplinario?",
+      "options": [
+        "Imponerla de forma sorpresiva cuando los datos del radar marquen baja carga grupal.",
+        "Comunicarla previamente en la programación semanal para lograr su plena aceptación psicológica.",
+        "Ejecutarla tras un error técnico evidente para vincular el esfuerzo biológico a la disciplina interna.",
+        "Justificarla únicamente después de realizarla exhaustivamente para no generar una ansiedad anticipatoria."
+      ],
+      "correct_answer": "Comunicarla previamente en la programación semanal para lograr su plena aceptación psicológica.",
+      "feedback": "Sorprender a un cuerpo en fase de desconexión nerviosa con picos de alta carga detona rechazo metabólico y sensación de represalia. Pautarlo en el esquema semanal transforma la misión en una meta común asimilada; la jugadora tolera la agresión del sprint entendiendo el porqué de la estrategia."
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "Tras un desgaste extremo europeo, el uso logístico de botas de presoterapia (compresión neumática) durante vuelos intercontinentales asume el rol fisiológico clave de coaccionar el retorno venoso y prevenir el estancamiento de ____.",
+      "options": [
+        "oxígeno tisular",
+        "edema",
+        "roturas fibrilares"
+      ],
+      "correct_answer": "edema",
+      "feedback": "La hipomovilidad crónica de un asiento de avión anula el bombeo de la musculatura sural en los gemelos. La compresión neumática exógena actúa como un corazón auxiliar periférico, lavando metabólicamente la extremidad, reduciendo la inflamación sorda y limitando drásticamente el edema post-esfuerzo."
+    },
+    {
+      "id": 27,
+      "type": "true_false",
+      "question": "Asumiendo la estabilidad fisiológica de la élite, las valoraciones con test de plataformas isométricas efectuadas en la primera quincena de julio permiten sentenciar los planes de activación para el resto del año natural competitivo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Los valores de fuerza y rango articular son dinámicos y orgánicos. El cuerpo decae bajo la densidad competitiva o responde hipertrofiándose ante el estímulo de pesas. El rigor metodológico exige iterar e implementar reevaluaciones condensadas cada 4-6 semanas (periodización) para afinar y corregir trayectorias."
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "Durante el riguroso circuito médico-físico del Día 1 de pretemporada, el 'Staff' superpone un registro goniométrico analítico, pruebas isométricas (ForceDecks) y la palpación del fisioterapeuta. ¿Qué fin operativo justifica este cónclave?",
+      "options": [
+        "Descartar sistemáticamente de la plantilla profesional a las atletas que presenten un desequilibrio asimétrico superior al 15%.",
+        "Triangular información clínica y mecánica multivariable para prescribir con rigor los tres objetivos diana inamovibles del protocolo individual preventivo.",
+        "Sustituir el trabajo visual del entrenador jefe para emitir un once inicial teórico fundamentado exclusivamente en la reactividad tendinosa.",
+        "Elaborar las métricas puramente estéticas requeridas obligatoriamente por el reglamento general del patrocinador."
+      ],
+      "correct_answer": "Triangular información clínica y mecánica multivariable para prescribir con rigor los tres objetivos diana inamovibles del protocolo individual preventivo.",
+      "feedback": "Destruyendo las barreras departamentales, el cruce entre la historia lesional del médico, el test goniométrico y la limitación excéntrica mostrada en los vectores isométricos, cristaliza un diagnóstico holístico irrefutable que derivará en la prescripción exacta de los tres objetivos de trabajo diarios para esa atleta."
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Para modelar la autoexigencia psicológica y erradicar el conformismo interno, el cuerpo técnico enfrenta las gráficas de GPS de las atletas con la base de datos cinemática recogida durante la última ____.",
+      "options": [
+        "Copa del Mundo",
+        "pretemporada veraniega",
+        "Final de Liga Reto"
+      ],
+      "correct_answer": "Copa del Mundo",
+      "feedback": "El 'benchmarking' internacional es una palanca mental implacable. Cotejar el 'High Speed Running' propio frente a los inhumanos volúmenes registrados por las campeonas mundiales de su misma demarcación demuele excusas y proporciona una métrica diana a conquistar."
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Haciendo eco de la filosofía de Kobe Bryant expuesta en la ponencia final, ¿qué atributo cognitivo diferencia fundamentalmente a una simple profesional de una leyenda del deporte?",
+      "options": [
+        "La sumisión sistemática y acrítica ante cualquier batería exhaustiva de tests presenciada en la pretemporada invernal.",
+        "La negación patológica del dolor muscular crónico, asumiendo minutos en campo bajo fracturas parciales.",
+        "La asimilación de que el talento genético y la hipertrofia pura en sala compensarán siempre cualquier deficiencia.",
+        "La madurez inquebrantable para autoevaluarse objetivamente, abrazar con crudeza el diagnóstico de sus debilidades y transformarlas a través del esfuerzo."
+      ],
+      "correct_answer": "La madurez inquebrantable para autoevaluarse objetivamente, abrazar con crudeza el diagnóstico de sus debilidades y transformarlas a través del esfuerzo.",
+      "feedback": "La optimización individual guiada por el staff es fútil si carece del motor intrínseco de la atleta. La verdadera élite no teme a los números en rojo del GPS o del goniómetro, sino que los asume con la responsabilidad madura de atenuarlos en cada iteración del ciclo."
+    }
+  ]
+}
