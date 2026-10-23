@@ -1,0 +1,313 @@
+{
+  "class_title": "Preseason in Basketball - Certificación Élite PSS",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "En la categorización del acondicionamiento metodológico, ¿cuál es el rasgo ambiental y técnico que define estrictamente al 'Acondicionamiento Básico' frente a sus variantes 'Específica' y 'Competitiva'?",
+      "options": [
+        "Se ejecuta obligatoriamente fuera de las dimensiones de la pista de baloncesto y con ausencia absoluta de integración del balón.",
+        "Implica desplazamientos con cambios de dirección continuos sobre el parquet, pero sin la presencia de oposición defensiva estructurada.",
+        "Requiere el uso del balón como elemento propioceptivo continuo para mantener elevado el gasto cardíaco basal del deportista.",
+        "Se realiza prioritariamente mediante juegos reducidos en espacios muy cortos (SSG 3v3) limitando el contacto físico máximo."
+      ],
+      "correct_answer": "Se ejecuta obligatoriamente fuera de las dimensiones de la pista de baloncesto y con ausencia absoluta de integración del balón.",
+      "feedback": "El acondicionamiento 'básico' (Basic Conditioning) persigue aislar la capacidad bioenergética pura, llevándose a cabo en bosques o pistas de atletismo sin el móvil. Las demandas biomecánicas del baloncesto (cambios de dirección, saltos, paradas) se introducen en las siguientes fases (Específico y Competitivo)."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "Es fisiológicamente imperativo comenzar la primera semana de pretemporada con volúmenes e intensidades sumamente bajos, asumiendo un desentrenamiento crónico masivo del jugador durante su periodo vacacional.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La metodología élite moderna asume que el jugador profesional no llega en un estado de forma tan deficiente. Empezar con cargas demasiado bajas ralentiza la progresión; lo óptimo es iniciar directamente en volúmenes e intensidades moderadas para transicionar rápidamente hacia el alto rendimiento en el bloque de construcción."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Al planificar el calendario de una pretemporada europea desde cero mediante un enfoque 'Top-Down', ¿cuál es el primer elemento innegociable que debe fijarse en la hoja de cálculo en blanco?",
+      "options": [
+        "La calendarización inamovible de los partidos amistosos y compromisos competitivos de exhibición.",
+        "La distribución volumétrica de los microciclos destinados al bloque de hipertrofia funcional.",
+        "Los horarios precisos de disponibilidad del gimnasio, pabellón principal y salas de recuperación térmica.",
+        "La ejecución de la batería de evaluación biométrica e isocinética de la plantilla durante la primera jornada."
+      ],
+      "correct_answer": "La calendarización inamovible de los partidos amistosos y compromisos competitivos de exhibición.",
+      "feedback": "Siguiendo la lógica Top-Down, los compromisos competitivos dictan estructuralmente la aparición de fatiga aguda y las necesidades de viaje. Ubicar primero los amistosos permite distribuir estratégicamente de forma retroactiva los días libres, las dobles sesiones y el volumen de la fuerza."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Dentro de la jerga de programación de las franquicias estadounidenses (G-League), el bloque de trabajo que acompaña al levantamiento matutino bajo el concepto 'Vitamins' hace referencia directa a ____.",
+      "options": [
+        "el desarrollo de habilidades individuales",
+        "la pauta de suplementación energética",
+        "el análisis de video táctico colectivo"
+      ],
+      "correct_answer": "el desarrollo de habilidades individuales",
+      "feedback": "El término 'Vitamins' conceptualiza el trabajo técnico y táctico de fundamentos individuales (individual skills work). Esta terminología norteamericana destaca la importancia de asimilar una dosis de repetición técnica diaria como pilar previo a la sesión de equipo."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "¿Qué riesgo fisiológico y adaptativo principal justifica la transición de un modelo de levantamiento tradicional denso hacia un modelo de 'microdosing' en el baloncesto profesional?",
+      "options": [
+        "La exposición a picos de sobrecarga aguda severos que comprometen la asimilación mecánica y el rendimiento en pista.",
+        "El riesgo de atrofia muscular inducida por el elevado estrés del contacto excéntrico sostenido durante las semanas tácticas.",
+        "La interferencia inhibitoria directa sobre las vías de síntesis proteica específicas de las fibras de contracción lenta.",
+        "El incumplimiento sistémico de las normativas de densidad y días de descanso impuestas por el sindicato de jugadores (ELPA)."
+      ],
+      "correct_answer": "La exposición a picos de sobrecarga aguda severos que comprometen la asimilación mecánica y el rendimiento en pista.",
+      "feedback": "Condensar la fuerza en dos sesiones semanales genera una fatiga residual agresiva (sobrecarga aguda). El 'microdosing' reparte la dosis mecánica de forma diaria, protegiendo las vías adaptativas, reduciendo el riesgo de agujetas limitantes y favoreciendo la creación de un hábito cultural en la sala de pesas."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "Para estimular y agotar profundamente el sistema anaeróbico glucolítico a través de intervalos de velocidad y shuffles, el ratio de recuperación fisiológico que debe pautarse es de 1:1.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El ratio 1:1 corresponde a esfuerzos aeróbicos de alta intensidad (ej. 3 minutos de carrera continua). El trabajo anaeróbico glucolítico demanda esfuerzos explosivos seguidos de un aclaramiento metabólico muy dilatado, haciendo necesario un ratio de trabajo-descanso de 1:6."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Frente a la extrema variabilidad en el estado de forma físico de los jugadores al iniciar el 'training camp' en Estados Unidos, ¿qué estrategia operativa implementa el S&C para evitar la sobrecarga crónica de los desentrenados sin mermar la carga grupal?",
+      "options": [
+        "La manipulación premeditada de emparejamientos y la aplicación de sustituciones rápidas comunicadas previamente al entrenador.",
+        "La exclusión inmediata de todos los jugadores catalogados como 'Big Guys' de los driles de rebote y alto impacto mecánico.",
+        "El veto total al entrenamiento excéntrico o de multisaltos durante las 72 horas posteriores a la disputa de un partido intrapractica.",
+        "La paralización diaria de los entrenamientos cada veinte minutos para testear concentraciones de lactato capilar en toda la plantilla."
+      ],
+      "correct_answer": "La manipulación premeditada de emparejamientos y la aplicación de sustituciones rápidas comunicadas previamente al entrenador.",
+      "feedback": "Debido a la ausencia de un bloque introductorio progresivo en USA, exponer a un jugador desentrenado al 100% de la densidad de un entrenamiento completo es arriesgado. El S&C acuerda rotaciones forzadas, emparejando jugadores para que compartan la carga de minutos de los driles de contacto máximo."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Un test de Resistencia Intermitente (Yo-Yo Test o 30-15 IFT) pierde automáticamente su validez práctica y utilidad si el área de preparación física carece de autoridad delegada en pista para dirigir ____.",
+      "options": [
+        "los drills de acondicionamiento",
+        "los diagramas de la defensa rival",
+        "el protocolo de hidratación"
+      ],
+      "correct_answer": "los drills de acondicionamiento",
+      "feedback": "Bajo la ley de la 'Evaluación con Propósito', someter al atleta al desgaste metabólico de una prueba máxima solo es válido si sus resultados van a dictar los ritmos y distancias prescriptivas de entrenamiento. Si el Head Coach no permite al preparador físico controlar el acondicionamiento táctico, la prueba es un desperdicio biológico."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "¿De qué manera drástica altera el desarrollo y ensamble táctico-biológico de un equipo élite europeo la irrupción de las Ventanas FIBA de Selecciones Nacionales (agosto/septiembre)?",
+      "options": [
+        "Sustrayendo simultáneamente del núcleo de trabajo a los jugadores de mayor impacto y minutos, obligando a reclutar piezas temporales de soporte.",
+        "Imponiendo la obligación contractual de que el Preparador Físico abandone las instalaciones del club para viajar concentrado con el equipo nacional.",
+        "Reduciendo legalmente el cupo de partidos amistosos internacionales que la EuroLeague permite disputar por falta estructural de fichas activas.",
+        "Bloqueando por normativas institucionales internacionales el uso de cualquier sistema de monitoreo de carga LPS (Local Positioning System)."
+      ],
+      "correct_answer": "Sustrayendo simultáneamente del núcleo de trabajo a los jugadores de mayor impacto y minutos, obligando a reclutar piezas temporales de soporte.",
+      "feedback": "La fuga del 'core' competitivo (frecuentemente titulares) destruye la calidad de las prácticas de 5x5 y obliga a entrenar gran parte del bloque de construcción dependiendo de jóvenes o vinculados, generando asimetrías de carga inmensas cuando los internacionales se reintegran."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "¿Cómo muta radicalmente la programación del trabajo de fuerza en los 'Training Camps' estadounidenses para compensar el inmenso daño del 5x5 de contacto continuo instaurado desde la primera jornada?",
+      "options": [
+        "Monopolizando la tensión mecánica del tren inferior mediante yields isométricos protectores y redirigiendo el estrés general a la prehabilitación de hombros.",
+        "Anulando íntegramente todo acceso a la sala de pesas para someter a los jugadores a rutinas aisladas de estiramiento pasivo en las primeras dos semanas.",
+        "Alcanzando picos agudos de fuerza excéntrica al 95% del RM en sentadilla profunda para desencadenar una supercompensación hormonal forzada.",
+        "Cancelando cualquier vector de carga sobre el tren superior para focalizar la energía del sistema nervioso exclusivamente en los desplazamientos defensivos."
+      ],
+      "correct_answer": "Monopolizando la tensión mecánica del tren inferior mediante yields isométricos protectores y redirigiendo el estrés general a la prehabilitación de hombros.",
+      "feedback": "La isometría es el antídoto contra la fatiga excéntrica de la pista. Fortalece arquitecturalmente tendones y tejido conectivo sin sumar un estrés mecánico destructivo sobre las piernas castigadas, garantizando una 'dosis' efectiva en un ecosistema de alta carga táctica."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "En el contexto legal del baloncesto norteamericano (NBA), la figura del 'Block Zero' constituye un campamento oficial y presencial obligatorio en agosto regido por el convenio sindical.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El 'Block Zero' es una fase preparatoria 'fantasma', ya que las normativas NBA prohíben exigir entrenamientos obligatorios organizados antes de septiembre. No obstante, por cultura y necesidad competitiva, es un periodo voluntario ineludible donde el jugador debe garantizar presentarse en un mínimo de 80-85% de capacidad para sobrevivir al Training Camp."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Al programar la fase final de afinamiento metabólico ('Tapering') durante la semana previa al debut oficial en Europa, ¿qué alteración paramétrica estructural se exige para potenciar la reactividad neuromuscular?",
+      "options": [
+        "El colapso volumétrico prescindiendo de las dobles sesiones tácticas y condensando la práctica en 45 minutos efectivos limitados a media pista.",
+        "La amplificación artificial del tiempo efectivo de entrenamiento cruzado a campo abierto para sobreestimular el flujo de la capacidad cardiorrespiratoria.",
+        "La inmersión total en tareas de 2 contra 2 glucolíticas ininterrumpidas a máxima potencia para saturar el aclaramiento del lactato basal.",
+        "El incremento lineal de la distancia externa total recorrida sin integrar el móvil de juego bajo ritmos continuos de 90 a 120 minutos."
+      ],
+      "correct_answer": "El colapso volumétrico prescindiendo de las dobles sesiones tácticas y condensando la práctica en 45 minutos efectivos limitados a media pista.",
+      "feedback": "La clave del tapering es anular la fatiga sin perder el estímulo (tensión). Reducir el campo a media pista y eliminar el tiempo excesivo recorta radicalmente los metros acumulados y el daño excéntrico lineal, mientras que las demandas cognitivas y de intensidad se mantienen intactas."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "La configuración temporal del macrociclo introductorio en Europa está severamente constreñida por los acuerdos macro-sindicales (como los de ELPA en Euroliga), estableciendo un límite infranqueable de ____.",
+      "options": [
+        "35 días previos a la competición",
+        "12 entrenamientos de contacto reales",
+        "3 ciclos de adaptación isocinética"
+      ],
+      "correct_answer": "35 días previos a la competición",
+      "feedback": "Las conquistas sindicales recientes limitan drásticamente el espacio de los preparadores, fijando por normativa que los jugadores no pueden iniciar la pretemporada oficial más de 35 días antes del salto inicial del primer partido regular, condensando los picos adaptativos."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "¿Qué distorsión biomecánica no programada convierte a las citas de marketing institucional (Media Days) en una fuente masiva de riesgo lesivo y fatiga invisible que exige ajuste cuantitativo en la planificación?",
+      "options": [
+        "El requerimiento de ejecutar saltos máximos, mates y frenadas agresivas en frío, bajo uniformidad restrictiva y posterior a vuelos relámpago.",
+        "La obligación de someter a los tobillos al estrés vibratorio crónico derivado de mantenerse estático en posturas forzadas por más de ocho horas.",
+        "El agotamiento por hipertermia severa originada por los anticuados sistemas halógenos de iluminación de los pabellones de filmación continentales.",
+        "El impacto del estrés alostático derivado de la memorización intensiva de diálogos promocionales, deprimiendo el foco táctico defensivo cortical."
+      ],
+      "correct_answer": "El requerimiento de ejecutar saltos máximos, mates y frenadas agresivas en frío, bajo uniformidad restrictiva y posterior a vuelos relámpago.",
+      "feedback": "Grabar un anuncio publicitario de élite exige acciones de juego real espectaculares (cortes, mates). Someter a la musculatura y a los tendones rotulianos/aquíleos a este régimen balístico intermitente, sin el rigor del calentamiento científico, genera un daño estructural severo que el S&C debe monitorizar."
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "question": "Con independencia del hardware utilizado para la monitorización de carga, en las pretemporadas europeas el 'sweet spot' seguro para garantizar un incremento volumétrico adaptativo crónico oscila estrictamente entre el 30% y el 40% semanal.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Exceder un incremento del 30% fractura los tejidos y dispara el riesgo de sobrecarga aguda (Acute Overload). El margen de progresión estable (sweet spot) documentado y seguro por la literatura científica se delimita entre el 10% y el 20% semanal durante el bloque de construcción."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "En la artesanía de la manipulación de los driles de Acondicionamiento Competitivo, el Preparador Físico puede hipertrofiar la carga fisiológica y cognitiva de los atletas modificando las dimensiones y ____.",
+      "options": [
+        "el número de jugadores (SSG)",
+        "la presión de inflado del balón",
+        "el horario solar del entrenamiento"
+      ],
+      "correct_answer": "el número de jugadores (SSG)",
+      "feedback": "Los Juegos en Espacios Reducidos (Small-Sided Games) modulan la densidad metabólica y la frecuencia de las decisiones (problem solving). Alterar de un 5v5 a un 3v3 incrementa exponencialmente los contactos con el balón, las aceleraciones y el coste cardíaco por atleta."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "¿Qué eje biológico es determinante para distinguir la dosificación arquitectural de un atleta novato recién drafteado frente al protocolo de un veterano consolidado de alta longevidad?",
+      "options": [
+        "El potencial hipertrófico y tolerancia elástica juvenil admiten mayores volúmenes; la degradación tisular del veterano obliga a dosis ultra-frecuentes y de mínima duración.",
+        "Los estipendios contractuales estipulan legalmente que el novato asuma multiplicadores de fuerza absolutos sin rechistar, permitiendo someterlo al fallo concéntrico diario.",
+        "Las fluctuaciones hemodinámicas fuerzan al jugador longevo a espaciar cada contracción con pausas macizas de cinco minutos para sostener su presión ventricular izquierda.",
+        "Las responsabilidades perimetrales eximen al jugador joven de todo desarrollo de potencia, mientras los veteranos se focalizan en suprimir rangos concéntricos funcionales."
+      ],
+      "correct_answer": "El potencial hipertrófico y tolerancia elástica juvenil admiten mayores volúmenes; la degradación tisular del veterano obliga a dosis ultra-frecuentes y de mínima duración.",
+      "feedback": "Individualizar significa entender el ciclo vital. Un jugador en fase madurativa tolera y exige volumen (construcción muscular). Al veterano ya no le aporta valor un exceso de hipertrofia y su tejido conectivo es delicado; necesita rutina, estimulación neuromuscular y prevención rápida (resiliencia tisular)."
+    },
+    {
+      "id": 18,
+      "type": "true_false",
+      "question": "En un entorno sin acceso a herramientas de telemetría inercial (LPS/GPS), emplear el cálculo matemático de multiplicar los minutos de práctica por la Percepción Subjetiva del Esfuerzo (RPE) resulta anticuado e inservible.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El valor real recae en la sistematicidad, no en el precio del hardware. Las métricas de bajo coste como el sRPE (Session-RPE) o el simple rastreo de los minutos activos (time on feet) son altamente eficientes para establecer perfiles de tolerancia crónica y guiar la periodización si se usan rigurosamente."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Bajo la doctrina de la periodización holística atribuida a Mladen Jovanovic, ¿qué peligro metodológico gravísimo anida tras el diseño puro de programas 'Bottom-Up' desde la trinchera del rendimiento físico?",
+      "options": [
+        "La disociación del plan respecto a las fricciones reales del ecosistema, aislando el desarrollo de la fuerza de variables críticas como calendarios, viajes o táctica del Head Coach.",
+        "El aplanamiento de las curvas de hipertrofia por culpa de un exceso de enfoque en las respuestas miocelulares y la bioenergética intermitente.",
+        "La supresión del volumen concentrado por miedo excesivo a la fatiga excéntrica de los músculos posteriores bajo demandas tácticas de baja intensidad.",
+        "La priorización crónica de las adaptaciones moleculares mitocondriales en detrimento de los picos alostáticos generados por el contacto cinético defensivo real."
+      ],
+      "correct_answer": "La disociación del plan respecto a las fricciones reales del ecosistema, aislando el desarrollo de la fuerza de variables críticas como calendarios, viajes o táctica del Head Coach.",
+      "feedback": "El modelo 'Bottom-Up' analiza exclusivamente las necesidades biofísicas aisladas ('hay que desarrollar fuerza'). Su fracaso radica en que la biología compite con los viajes, exigencias mediáticas, y filosofía del cuerpo técnico (Top-Down). Ignorar la cima del ecosistema hace colapsar cualquier programación."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Para asegurar la ejecución inquebrantable del estrés mecánico de un 'Training Camp' que ha sido exportado al extranjero por compromisos publicitarios, el departamento de S&C debe logísticamente ____.",
+      "options": [
+        "transportar físicamente el equipamiento pesado",
+        "prescindir de los perfiles de contracción pasiva",
+        "alquilar licencias temporales de estadios"
+      ],
+      "correct_answer": "transportar físicamente el equipamiento pesado",
+      "feedback": "Desplazarse a complejos hoteleros en las montañas no justifica el abandono de la sobrecarga progresiva. Ante instalaciones ajenas precarias, el staff de élite fleta vehículos pesados con racks, pesas rusas, discos y barras para replicar con exactitud clínica el entorno del gimnasio local (Weight Room)."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Al desglosar la configuración de una 'Repeated Sprint Ability' (RSA) de máxima expresión anaeróbica aláctica para la cancha, ¿qué formato biomecánico y de densidad impone la literatura metodológica?",
+      "options": [
+        "Esfuerzos balísticos ultracortos de 3 a 6 segundos acoplados inmediatamente a una ventana de regeneración de fosfatos sujeta a un ratio 1:5.",
+        "Un sostenimiento artificial del estado hipóxico tisular elongando la serie concéntrica hasta los 2 minutos con reposos isométricos intermitentes.",
+        "Aceleraciones continuas de pista completa concatenadas sin recuperación para incitar la apoptosis del metabolismo glucolítico periférico.",
+        "Sprints fraccionados combinados con flexiones excéntricas limitadas estrictamente por un modelo métrico aeróbico denso de ratio 1:1."
+      ],
+      "correct_answer": "Esfuerzos balísticos ultracortos de 3 a 6 segundos acoplados inmediatamente a una ventana de regeneración de fosfatos sujeta a un ratio 1:5.",
+      "feedback": "La potencia repetida exige el máximo fuego neuromuscular del atleta. Una secuencia de 3 saltos explosivos a tablero y un sprint de 180° dura escasos segundos. Dilatar el descanso un mínimo de cinco veces ese tiempo (1:5) resintetiza la vía de los fosfágenos para ejecutar el siguiente esfuerzo sin distorsión láctica técnica."
+    },
+    {
+      "id": 22,
+      "type": "true_false",
+      "question": "Para eludr el agotamiento del sistema nervioso central en las agotadoras pretemporadas continentales de 6 semanas, la pauta dictamina forzar la asistencia obligatoria a todas y cada una de las microdosis de pesas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "En concentraciones tan largas, el desgaste psicológico y la monotonía se convierten en el mayor inhibidor del rendimiento. Alternar días de microdosis forzosas con días donde la visita al gimnasio (prehab) es voluntaria potencia la auto-responsabilidad, protege la frescura mental y mitiga el 'burnout'."
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Previo al diseño matemático de las planillas de carga, ¿qué interrogante crucial respecto al ecosistema táctico-operativo debe resolverse en consenso directo y cerrado con el entrenador principal?",
+      "options": [
+        "La instauración autorizada del sistema de dosificación del gimnasio y el grado de intervención del S&C sobre el volumen y manipulación de las prácticas en pista.",
+        "El porcentaje calórico derivado de los carbohidratos de absorción ultra-rápida destinados a los descansos pautados de las ventanas de televisión (TV-timeouts).",
+        "La delegación total e inmediata de la conformación de los quintetos titulares a la inteligencia artificial predictiva basada puramente en la variabilidad cardíaca.",
+        "La eliminación dogmática de las sesiones de recuperación acuáticas post-esfuerzo, centralizando todo el clearing metabólico en terapias isocinéticas."
+      ],
+      "correct_answer": "La instauración autorizada del sistema de dosificación del gimnasio y el grado de intervención del S&C sobre el volumen y manipulación de las prácticas en pista.",
+      "feedback": "La autonomía del Preparador Físico no es infinita, depende de las cesiones tácticas del Head Coach. Conocer desde el inicio quién decide el tiempo del 5x5, las rotaciones de los veteranos o si se prefiere un volumen de fuerza condensado en vez de 'microdosed', traza las verdaderas fronteras del diseño."
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "El encaje táctico de la variable alostática de los 'Días Libres' de la plantilla no debe supeditarse únicamente a los valles metabólicos del microciclo, debiendo asimilar e integrarse indisolublemente al calendario de ____.",
+      "options": [
+        "viajes y desplazamientos",
+        "ingresos de patrocinadores locales",
+        "estiramientos funcionales obligatorios"
+      ],
+      "correct_answer": "viajes y desplazamientos",
+      "feedback": "Viajar agota sistémicamente (estrés postural en butacas, jet-lag, rigidez estructural) por encima del simple desgaste metabólico de correr. Programar y blindar los verdaderos días de descarga post-viaje desactiva un disparador alostático crítico antes del impacto inflamatorio del siguiente partido."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "¿De qué manera protege el bloque introductorio de fuerza (Bloque 1) la integridad de las estructuras articulares ante la sobrecarga aguda e invasiva de los primeros compases de la pretemporada?",
+      "options": [
+        "Secuestrando las contracciones isotónicas masivas en favor de prehabilitación estabilizadora e isometrías 'yielding' para el engrosamiento del tendón patelar.",
+        "Promoviendo caídas pliométricas desde cajones altos que provoquen un engrosamiento rápido de la densidad mineral ósea del anillo tibial anterior.",
+        "Fomentando sesiones cíclicas lácticas superiores a 90 minutos usando bandas de oclusión vascular sobre los cuadriceps para evitar la carga de peso libre.",
+        "Anulando el trabajo gravitacional en sala mediante inmersiones profundas con resistencia hidrodinámica exclusivas para aislar la cintura escapular."
+      ],
+      "correct_answer": "Secuestrando las contracciones isotónicas masivas en favor de prehabilitación estabilizadora e isometrías 'yielding' para el engrosamiento del tendón patelar.",
+      "feedback": "El Bloque 1 no persigue sumar una fatiga mecánica que compita con la inflamación aguda de la readaptación a la pista. Las retenciones isométricas (Yielding isometrics) consolidan la arquitectura del núcleo y los tendones sin generar fricción excéntrica severa, actuando como escudo profiláctico."
+    }
+  ]
+}
