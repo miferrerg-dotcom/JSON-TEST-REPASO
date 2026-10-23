@@ -1,0 +1,259 @@
+{
+  "class_title": "Velocidad Multidireccional: Evaluación y Entrenamiento",
+  "total_questions": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "En el contexto del 'velocity-angle trade-off', ¿qué característica biomecánica y de rendimiento define a un cambio de dirección clasificado empíricamente dentro de la denominada 'zona roja' (90-180 grados)?",
+      "options": [
+        "Depende casi exclusivamente de la velocidad de entrada del atleta al momento del giro.",
+        "Requiere mantener la velocidad pico sin reducciones significativas del centro de masas.",
+        "Su factor limitante principal es la capacidad del atleta para aplicar altos niveles de fuerza de frenado.",
+        "Exige un mayor grado de fuerza isométrica pura en los músculos flexores de los dedos del pie."
+      ],
+      "correct_answer": "Su factor limitante principal es la capacidad del atleta para aplicar altos niveles de fuerza de frenado.",
+      "feedback": "El principio de especificidad del ángulo y la velocidad determina que en curvas suaves (zona verde) prima el mantenimiento de la velocidad. Sin embargo, en ángulos agresivos de 90 a 180 grados (zona roja), el rendimiento es absolutamente dependiente de la fuerza, ya que se exige una alta capacidad excéntrica para frenar el cuerpo y desacelerar la inercia acumulada antes de reacelerar."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Al evaluar el Déficit de Cambio de Dirección (COD Deficit) en un equipo deportivo, utilizar valores absolutos (segundos o m/s) en lugar de un cálculo de diferencia porcentual estandarizada generará infaliblemente ____.",
+      "options": [
+        "resultados contradictorios y sesgados",
+        "una precisión analítica superior",
+        "adaptaciones neuromusculares irreales"
+      ],
+      "correct_answer": "resultados contradictorios y sesgados",
+      "feedback": "El cálculo del Déficit en valores absolutos provoca distorsiones matemáticas severas. Un mismo jugador puede registrar puntuaciones opuestas (por encima o por debajo de la media en un z-score) dependiendo de si el dato absoluto se analiza en tiempo (segundos) o en velocidad (m/s). Solo la estandarización mediante diferencias de porcentaje relativo (percentage difference) uniformiza el análisis de eficiencia del atleta."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Al comparar atletas con idéntica velocidad de sprint de 20 metros en línea recta, los jugadores de rugby, a pesar de registrar mayor masa corporal y mayor momentum en carrera, demuestran ser significativamente más eficientes cambiando de dirección (menor COD Deficit) que los jugadores de fútbol.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Los datos cinemáticos comparativos reflejan que, a idéntica velocidad lineal, los jugadores de rugby superan la desventaja mecánica de su mayor peso/momentum logrando un menor déficit de cambio de dirección. Este fenómeno se fundamenta en las estrategias de entrenamiento del rugby, que integran volúmenes y densidades altísimas de trabajo multidireccional específico, compensando así el componente puramente físico de la inercia."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "La analogía del coche de Fórmula 1 resulta indispensable para modelar la velocidad multidireccional bajo un enfoque holístico de rendimiento. En este marco conceptual, ¿qué capacidad neuromuscular del cuerpo humano representa específicamente la función de los 'frenos'?",
+      "options": [
+        "La fuerza de empuje concéntrica del antepié.",
+        "La capacidad de generar picos explosivos de potencia lineal.",
+        "La estabilidad lumbopélvica en planos de antirotación.",
+        "La capacidad y tolerancia a la fuerza excéntrica."
+      ],
+      "correct_answer": "La capacidad y tolerancia a la fuerza excéntrica.",
+      "feedback": "Dentro del modelo holístico, el motor representa la fuerza/potencia para acelerar y la técnica (el conductor) dicta la biomecánica postural. Los frenos están representados íntegramente por la fuerza excéntrica, que otorga a los tejidos musculares y tendinosos la capacidad vital de tolerar altas velocidades de entrada, absorber el impacto y reducir la velocidad del centro de masas de forma abrupta."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Una consecuencia biomecánica letal de no lograr una desaceleración efectiva y temprana en el penúltimo apoyo durante un recorte brusco de 180 grados es que el atleta se ve biomecánicamente forzado a ____.",
+      "options": [
+        "incrementar el desplazamiento angular de la cadera",
+        "usar el último apoyo para frenar",
+        "abandonar la proyección frontal del centro de masa"
+      ],
+      "correct_answer": "usar el último apoyo para frenar",
+      "feedback": "El análisis cinemático de los atletas veloces muestra que absorben la fuerza y frenan (Horizontal Braking Force) sobre el penúltimo apoyo. Cuando el deportista carece de esta capacidad de desaceleración previa, traslada íntegramente la responsabilidad de frenado al último contacto (push-off leg). Esto corrompe la mecánica, ya que el último apoyo debería tener una función casi exclusivamente propulsiva para salir rápidamente hacia la nueva dirección."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "Durante la evaluación electromiográfica del sprint en curva, la pierna exterior activa predominantemente la musculatura aductora para arrastrar el suelo hacia la línea media, reduciendo el riesgo de roturas fibrilares.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Los estudios neuromusculares detallan que el sprint curvilíneo aísla las funciones motoras. Mientras la pierna interior contacta el suelo más tiempo y activa los aductores y semitendinoso ('tirando' el suelo hacia adentro), la pierna exterior activa de forma pronunciada el glúteo medio y el bíceps femoral para empujar fuertemente el piso hacia afuera, aplicando fuerza mediolateral (actuando como un 'side step')."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "La agilidad deportiva en competición y la velocidad de cambio de dirección (COD speed) son componentes fisiológicos interdependientes que siempre deben evaluarse y entrenarse de forma combinada bajo estímulos externos y toma de decisión reactiva.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Son habilidades o 'skills' metodológicamente independientes. La agilidad requiere forzosamente incertidumbre y estímulos externos (ej. movimiento del balón u opositores). El COD speed, por su parte, se basa en movimientos preplanificados sin incertidumbre. Evaluar el COD speed aisladamente es científicamente necesario para comprender las bases fisiológicas y neuromusculares de la aceleración y deceleración puras de los atletas."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Al examinar la postura corporal óptima en el instante crítico de un cambio de dirección agresivo, ¿cuál es un patrón cinemático innegociable validado por la literatura en los atletas que registran mayores velocidades de salida?",
+      "options": [
+        "Mantener la línea transversal de los hombros perfectamente paralela al suelo para anular inestabilidades lumbopélvicas.",
+        "Posicionar mecánicamente el centro de masas siempre por detrás del eje vertical del pie de despegue (take-off).",
+        "Inclinar marcadamente el eje del tronco hacia la nueva trayectoria, reduciendo significativamente la altura del hombro interno.",
+        "Limitar drásticamente los ángulos articulares de flexión de rodilla y cadera para evitar una disipación de la reactividad elástica."
+      ],
+      "correct_answer": "Inclinar marcadamente el eje del tronco hacia la nueva trayectoria, reduciendo significativamente la altura del hombro interno.",
+      "feedback": "La orientación anticipada del cuerpo permite una enorme ventaja física. Bajar el hombro hacia la nueva dirección asegura una inclinación del tronco que optimiza la desaceleración con los apoyos previos y facilita una profunda proyección horizontal del centro de masa. Esto asegura que el empuje propulsivo final del tren inferior actúe en un vector puramente horizontal, maximizando la eficiencia."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "A nivel de análisis y estabilidad lumbopélvica integral en acciones multidireccionales críticas, existe una correlación de máxima fiabilidad predictiva entre un alto rendimiento deportivo y poseer un reducido ____.",
+      "options": [
+        "nivel de flexión dorsal de tobillo",
+        "desplazamiento angular del tronco",
+        "ratio global de fuerza propulsiva asimétrica"
+      ],
+      "correct_answer": "desplazamiento angular del tronco",
+      "feedback": "El tronco actúa como la torre de transmisión de fuerza del atleta. Los estudios evidencian que cualquier perturbación o desplazamiento angular excesivo del torso en mitad de la maniobra retrasa y disipa el vector de fuerza proyectado. Entrenamientos centrados en antirotación y fuerza lumbopélvica minimizan este desplazamiento angular, disparando el rendimiento multidireccional."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "Las pruebas de correlación cruzada determinan que la capacidad de sprint en trayectoria curva (sprint en curva) muestra una asociación predictiva significativa con el test de zigzag de campo, pero resulta irrelevante frente a los resultados del test de giro de 180 grados (test 505).",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "La evidencia demuestra el principio universal de especificidad. El test de sprint curvilíneo comparte varianza y biomecánica (mantenimiento de velocidad en zonas de giro amplio y verde) con los cortes suaves de un test zigzag. Por el contrario, un test de 180 grados (test 505) exige una fase violenta de desaceleración y frenado, por lo que no guarda asociación alguna con el sprint en curva."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "A la hora de aplicar resistencia adicional como método para optimizar la fuerza de frenado, ¿qué ventaja fundamental tiene prescribir la tarea con un chaleco lastrado frente a un clásico trineo de arrastre sobre el césped?",
+      "options": [
+        "El chaleco reduce drásticamente el impacto de la reacción del suelo, resguardando el tendón rotuliano.",
+        "El chaleco aísla el trabajo neuromuscular sobre la musculatura concéntrica del cuádriceps al evitar fricción de suelo.",
+        "El chaleco altera el centro de masas elevándolo, lo cual disminuye el requerimiento estabilizador de los músculos aductores.",
+        "El chaleco lastrado incrementa de facto la masa del atleta y el momentum, aplicando una resistencia excéntrica viva durante la fase de frenado."
+      ],
+      "correct_answer": "El chaleco lastrado incrementa de facto la masa del atleta y el momentum, aplicando una resistencia excéntrica viva durante la fase de frenado.",
+      "feedback": "Un trineo ejerce una excelente resistencia horizontal en la fase acelerativa hacia adelante, pero su fricción muere al frenar, dejando de aplicar carga al deportista (el trineo 'se detiene'). Un chaleco lastrado representa un modelo de carga vertical que se convierte estructuralmente en mayor masa para el cuerpo, aumentando el momentum de entrada. Esto obliga al sistema musculoesquelético a lidiar con mayores picos de sobrecarga excéntrica en cada desaceleración, causando profundas adaptaciones."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Para poder transferir mecánicamente la fuerza generada en la planta del pie hacia mejoras tangibles y de tiempos de corte en tests formales de agilidad multidireccional (ej: Pro Agility test), la prescripción de fuerza debe enfocarse estrictamente en potenciar ____.",
+      "options": [
+        "la activación isométrica de la fascia plantar",
+        "la fuerza de flexión estática de los dedos del pie",
+        "la fuerza de empuje de los dedos del pie"
+      ],
+      "correct_answer": "la fuerza de empuje de los dedos del pie",
+      "feedback": "Investigaciones segmentales diferencian la función del pie. La fuerza muscular encargada de la simple flexión de los dedos (prueba isométrica pura de agarre plantar) no guarda asociación con la velocidad multidireccional. Sin embargo, la fuerza activa de empuje ('toe pushing force'), lograda en ejercicios como dinámicas con 'kettlebell bottom-up push overhead' o aislamientos, es la variable que garantiza tiempos sustancialmente más rápidos en el Three Cone Test y Pro Agility."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "El análisis de clúster estadístico revela que un alero de baloncesto sufre de un Déficit de Cambio de Dirección atípicamente alto (ej: >35%) al enfrentarse a giros agudos de 90 grados. Basado en la segmentación de dominancias fisiológicas, el abordaje metodológico óptimo para estandarizar el perfil hacia un nivel 'balanceado' debe consistir en:",
+      "options": [
+        "Descartar ejercicios multiplanares y enfocar el 100% de la carga semanal en el desarrollo del sprint lineal máximo de 20 a 40 metros.",
+        "Focalizar fuertemente las sesiones en trabajo multidireccional y de deceleración, dado que su perfil actual evidencia una dominancia nociva de velocidad lineal.",
+        "Aumentar en gran medida los ejercicios pliométricos verticales puros (CMJ, pogo jumps) para sobreestimular la fuerza excéntrica en el eje Z.",
+        "Emplear chalecos lastrados únicamente durante ejercicios no planificados y caóticos en espacio reducido (Small Sided Games)."
+      ],
+      "correct_answer": "Focalizar fuertemente las sesiones en trabajo multidireccional y de deceleración, dado que su perfil actual evidencia una dominancia nociva de velocidad lineal.",
+      "feedback": "Una métrica de Déficit extremadamente alta indica incapacidad mecánica para cambiar de trayectoria con solvencia técnica en relación a su potencial bruto de velocidad. Este fenotipo se clasifica como 'dominancia de sprint lineal'. Para reajustar el perfil del atleta y volverlo 'balanceado' y funcional en la pista, es mandatorio priorizar el trabajo multidireccional, enseñándole a frenar y girar."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "Existe una paradoja biomecánica ampliamente validada según la cual, los atletas que registran las mayores métricas de fuerza máxima, potencia en sentadilla y tiempos más rápidos en aceleración lineal absoluta, presentan irremisiblemente los mayores niveles de ineficiencia y déficit a la hora de cambiar de dirección.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Tener un motor extremadamente veloz y potente implica que el atleta genera altísimas tasas de velocidad de entrada y momentum. Al entrar tan veloz a la curva o vértice del giro, la fuerza de inercia exige un esfuerzo monumental de frenado que el atleta a menudo no soporta mecánicamente, disparando su Déficit de Cambio de Dirección y penalizando su eficiencia comparada con atletas menos veloces linealmente."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Al diseñar un bloque de aprendizaje enfocado exclusivamente en la mejora postural de los recortes (closed drills, sin tomas de decisión), el estímulo excéntrico y repetitivo en ángulos críticos de 180 grados garantiza un beneficio anatómico secundario que radica en:",
+      "options": [
+        "Incrementar radicalmente la densidad de fibras Tipo I en los flexores plantares.",
+        "Suprimir el 'velocity-angle trade-off' mediante la hipertrofia concéntrica de la cadera.",
+        "Aumentar gradualmente la tolerancia estructural del tejido miofascial y tendinoso ante contracciones excéntricas de extrema velocidad.",
+        "Saturar el umbral cognitivo del jugador, logrando así que los Small Sided Games posteriores resulten metabólicamente más ligeros."
+      ],
+      "correct_answer": "Aumentar gradualmente la tolerancia estructural del tejido miofascial y tendinoso ante contracciones excéntricas de extrema velocidad.",
+      "feedback": "Los giros de alta intensidad generan un castigo severo en las articulaciones. Ejecutar drills multidireccionales en entornos cerrados (closed drills) no solo mecaniza un patrón técnico libre de fallas, sino que actúa como una micro-dosis profiláctica de sobrecarga repetitiva. Esto permite a los tejidos conectivos adaptarse y tolerar el altísimo estrés mecánico del frenado veloz sin riesgo lesional previo a transicionar a tareas de agilidad abierta de competición."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Para aislar y calcular fielmente la eficiencia intrínseca de giro en la técnica de un extremo de fútbol, el 'Déficit de Cambio de Dirección' se emplea obligatoriamente porque los test de tiempos brutos tradicionales incurren de inmediato en el error de ____.",
+      "options": [
+        "sobredimensionar la agilidad cognitiva",
+        "beneficiar excesivamente el sprint lineal puro",
+        "evaluar variables ajenas a las rutas neuromusculares lumbopélvicas"
+      ],
+      "correct_answer": "beneficiar excesivamente el sprint lineal puro",
+      "feedback": "Test de campo clásicos como el 5-0-5 o Pro Agility dedican estadísticamente más de un 70% de su cronómetro al tiempo de carrera en sprint lineal recto, dejando solo una fracción microscópica del test al instante real del giro direccional. Esto provoca un severo sesgo que favorece las calificaciones de los sprinters, enmascarando a quienes verdaderamente poseen buena técnica de giro."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "¿Qué demostró concluyentemente la evidencia clínica en relación a la prescripción del entrenamiento técnico de control de giros y posicionamiento de apoyos como estrategia preventiva en las ciencias del deporte?",
+      "options": [
+        "Que reduce la carga metabólica articular durante acciones de sprint lineal prolongado y previene las microrroturas glúteas.",
+        "Que disminuye críticamente factores lesivos como el valgo de rodilla (hasta 26%), y esta eficiencia técnica se mantiene incluso frente a imprevistos en agilidad abierta.",
+        "Que incrementa drásticamente la hipertrofia de los ligamentos colaterales sin impactar el Déficit de Cambio de Dirección real.",
+        "Que suprime de manera selectiva la sobre-activación del vasto medial y previene desgarros originados por contracciones isométricas lentas."
+      ],
+      "correct_answer": "Que disminuye críticamente factores lesivos como el valgo de rodilla (hasta 26%), y esta eficiencia técnica se mantiene incluso frente a imprevistos en agilidad abierta.",
+      "feedback": "El grupo investigador de Dempsey verificó que optimizar la técnica pura de giro, ajustar apoyos y perfeccionar la disipación del centro de gravedad, rebaja severamente la letal carga torsiva sobre la rodilla. Lo fascinante a nivel neurocientífico y biomecánico, es que este hábito preventivo motor se transfiere intacto al contexto caótico del partido, donde las maniobras son reactivas, explosivas y sin anticipación mental."
+    },
+    {
+      "id": 18,
+      "type": "true_false",
+      "question": "El avance tecnológico con encoders isoinerciales motorizados permite diseccionar un cambio de dirección evaluando la absorción pasiva, la flexión plantar activa y la propulsión lineal, omitiendo las fases puramente excéntricas de frenado.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. El avance y futuro del análisis de la velocidad deportiva depende de herramientas como el encoder isoinercial de cuerpo entero precisamente porque permiten diseccionar la maniobra integrando la fase excéntrica vital. Desglosan el continuo en: 1) Entrada veloz, 2) Aceleración negativa o desaceleración (braking), 3) Instante del giro de hundimiento y empuje (wide absorption and push-off) y 4) Reaceleración de salida."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Para asegurar adaptaciones excéntricas en entornos que carecen de tecnología costosa tipo poleas isoinerciales, un especialista puede lograr incrementos masivos en el 'ratio de fuerza por unidad de tiempo' incorporando ____.",
+      "options": [
+        "carreras largas con limitación respiratoria o hipoxia",
+        "drop squats acelerados agresivamente y arrastres",
+        "trabajo isométrico de estabilización cervical sin sobrecarga"
+      ],
+      "correct_answer": "drop squats acelerados agresivamente y arrastres",
+      "feedback": "Si se desea replicar el violento estrés excéntrico de un partido y optimizar métricas críticas como el 'breaking time', basta con aumentar la velocidad y peso de caída contra el piso. Lanzar y recoger balones pesados, soltar el cuerpo hacia el vacío (drop squats ultrarrápidos, no lentos ni profundos) o usar tracciones elásticas, obliga al complejo osteoarticular a frenar masas muy aceleradas en instantes críticos, simulando la entrada de una curva o recorte en campo abierto."
+    },
+    {
+      "id": 20,
+      "type": "true_false",
+      "question": "El entrenamiento exhaustivo del posicionamiento, descenso del centro de masas y la anticipación articular de giro en 'closed drills' causa habitualmente un empeoramiento crónico de la velocidad máxima de sprint en distancias largas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Investigaciones en futbolistas juveniles demuestran que entrenar exhaustivamente la técnica de giro en 'closed drills' durante seis semanas genera una drástica reducción del Déficit y aumento de la agilidad. Lo relevante de este estudio es que preserva intacto (sin mermas ni desgaste del sistema nervioso) el pico de velocidad lineal del jugador en las distancias largas, desmintiendo el mito del empeoramiento crónico."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Al contrastar modelos de macrociclos formativos, la superioridad estadística del modelo de fuerza multidireccional por encima de la periodización tradicional (basada exclusivamente en sentadilla sagital o salto vertical), se fundamenta empíricamente en que este modelo:",
+      "options": [
+        "Alcanza mejoras de rendimiento fisiológico indetectables estadísticamente pero que eliminan la necesidad de programar fuerza de frenado.",
+        "Incrementa notablemente la proporción de atletas (ratio de éxito individual) que logran superar sus umbrales pre-test en dinámicas complejas de giro.",
+        "Evita por completo cualquier injerencia del plano frontal en el movimiento para resguardar la matriz anatómica del core y de la rodilla.",
+        "Desconecta biomecánicamente la agilidad cognitiva de las rutas de sobrecarga excéntrica del tren inferior, favoreciendo la relajación miosinal."
+      ],
+      "correct_answer": "Incrementa notablemente la proporción de atletas (ratio de éxito individual) que logran superar sus umbrales pre-test en dinámicas complejas de giro.",
+      "feedback": "Equiparando exactamente los volúmenes totales de carga de trabajo, los estudios de intervención post-doctoral subrayan que el entrenamiento tradicional produce pocos sujetos que progresen su maniobrabilidad direccional. Al integrar planos frontales, vectores asimétricos, y múltiples velocidades de vector transversal de forma integral y repetitiva, la intervención multidireccional asegura tasas de éxito grupal mucho mayores, permitiendo a la mayoría de los individuos potenciar significativamente su agilidad."
+    }
+  ]
+}
