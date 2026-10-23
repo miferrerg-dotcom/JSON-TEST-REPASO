@@ -1,0 +1,189 @@
+{
+  "class_title": "Construcción de un sistema de trabajo de fuerza en fútbol profesional",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "question": "Cuando el espacio y los recursos materiales son extremadamente limitados, una solución metodológica y logística viable es asignar un bloque de ejercicios por grupo utilizando exactamente el mismo implemento de manera consecutiva en el mismo espacio.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "La limitación de espacio y equipamiento exige un alto pragmatismo en el diseño instruccional y logístico. Cuando no hay disponibilidad para rotaciones complejas o múltiples estaciones, es técnicamente impecable programar secuencias de ejercicios que requieran exactamente el mismo material (por ejemplo, utilizar una mancuerna para una zancada e inmediatamente usarla para un push press), lo que permite un flujo de entrenamiento continuo y minimiza el tiempo de transición y fatiga logística."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "¿Qué característica biomecánica y metodológica define de manera prioritaria al estrés coordinativo frente al estrés mecánico en la planificación de una sesión de fuerza?",
+      "options": [
+        "Su enfoque en la adaptación neuromuscular e intramuscular basada exclusivamente en la asimetría del deportista.",
+        "La dependencia directa de variables fácilmente cuantificables como el volumen total, el tonelaje y la densidad.",
+        "Su requerimiento profundo de coordinación intermuscular, gestión de la incertidumbre y conexión con la demarcación.",
+        "La capacidad aislada de elevar el techo de producción de fuerza en vectores puramente propulsivos o verticales."
+      ],
+      "correct_answer": "Su requerimiento profundo de coordinación intermuscular, gestión de la incertidumbre y conexión con la demarcación.",
+      "feedback": "El estrés coordinativo responde al 'cómo' de la tarea, a diferencia del estrés mecánico, que responde al 'cuánto'. El enfoque coordinativo exige una altísima demanda en la calidad de la ejecución técnica, la toma de decisiones rápida y la adaptación ante la incertidumbre. Esto recae fisiológicamente sobre la coordinación intermuscular (activación armónica de diferentes grupos musculares) y se vincula intrínsecamente a las acciones específicas de la demarcación táctica del deportista."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Aplicando la estrategia de la barra de Thales al diseño del microciclo de fuerza, la sesión debe construirse mayoritariamente sobre tareas mecánicas seguras y dominadas, dejando una pequeña proporción estratégica para opciones que presenten ____.",
+      "options": [
+        "una alta incertidumbre y alto retorno",
+        "un enfoque analítico y monoarticular",
+        "una máxima fatiga residual inmediata"
+      ],
+      "correct_answer": "una alta incertidumbre y alto retorno",
+      "feedback": "El concepto de la barra de Thales (Nassim Taleb) en el entrenamiento estipula que el grueso del trabajo (aprox. 80-90%) debe cimentarse en tareas de probada eficacia, predecibles y de impacto conocido. Sin embargo, reservar una pequeña porción para tareas de alta incertidumbre o caos controlado permite exponer al atleta a estímulos adaptativos críticos que, aunque implican un riesgo, tienen un potencial de retorno y transferencia de rendimiento extraordinario."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "El impacto fisiológico y el coste de recuperación en ejercicios ubicados en el bloque de velocidad, como la pliometría, pueden modularse radicalmente. ¿Qué ajuste elevaría de forma más aguda la fatiga mecánica en una tarea de esta naturaleza?",
+      "options": [
+        "Transicionar de ejecuciones puramente concéntricas a ejecuciones de marcado carácter reactivo.",
+        "Incrementar la distancia de los estímulos visuales para aumentar la perturbación perceptivo-cognitiva.",
+        "Ejecutar los aterrizajes con pausas completas enfatizando la amortiguación estructural.",
+        "Eliminar el contramovimiento (CMJ) partiendo siempre desde posiciones isométricas de base."
+      ],
+      "correct_answer": "Transicionar de ejecuciones puramente concéntricas a ejecuciones de marcado carácter reactivo.",
+      "feedback": "Aunque la pliometría y el trabajo de velocidad tienen por lo general un coste residual menor, la manera en que se ejecuta altera por completo la ecuación. Modificar una tarea desde una dinámica puramente concéntrica (que minimiza el daño tisular) hacia una dinámica fuertemente reactiva eleva exponencialmente las demandas sobre el ciclo estiramiento-acortamiento (CEA), multiplicando la carga excéntrica rápida y, por ende, el daño tisular y el tiempo de recuperación metabólica necesario."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "La fuerza orientada a acciones específicas de freno conlleva un coste de recuperación menor y un impacto relativo inferior al del trabajo de potencia propulsiva debido a su naturaleza estructural.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La fuerza orientada a las deceleraciones y el freno se sitúa en la cúspide de la matriz de impacto fisiológico y genera el mayor coste de recuperación posible. Esto se explica por la extrema demanda mecánica que imponen las cargas excéntricas pesadas y veloces sobre el tejido conectivo y contráctil, superando ampliamente el desgaste fisiológico provocado por las contracciones propulsivas."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Al establecer las prioridades del calentamiento como una primera intervención estratégica, si el objetivo troncal de la sesión está clasificado como 'desarrollo mecánico', la mejor opción de potenciación previa sería:",
+      "options": [
+        "Un trabajo de movilidad articular global con rotaciones de baja intensidad.",
+        "Un ejercicio de tensión máxima tipo isométrico de empuje (iso-push).",
+        "Diversas secuencias de habilidades de movimiento libre y peso corporal.",
+        "Un isométrico de relajación tipo iso-hold sin ningún tipo de carga añadida."
+      ],
+      "correct_answer": "Un ejercicio de tensión máxima tipo isométrico de empuje (iso-push).",
+      "feedback": "El calentamiento abandona la concepción genérica para convertirse en el primer bloque activo de adaptación fisiológica. Cuando la sesión exige desarrollo mecánico, es crítico activar el sistema nervioso central y maximizar el reclutamiento de unidades motoras de alto umbral. Un ejercicio tipo iso-push (superación de resistencia máxima sin movimiento) actúa como una perfecta herramienta de Potenciación Post-Activación (PAP) antes de abordar el estrés mecánico severo."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Para introducir caos y variabilidad técnica en un ejercicio de fuerza sin desvirtuar la capacidad fisiológica central que se está estimulando, el recurso metodológico idóneo es aplicar ____.",
+      "options": [
+        "cargas máximas orientadas al 1RM",
+        "perturbaciones mecánicas o cognitivas",
+        "métodos de oclusión vascular (BFR)"
+      ],
+      "correct_answer": "perturbaciones mecánicas o cognitivas",
+      "feedback": "La variabilidad debe añadirse sin transformar el objetivo biológico de la tarea. Utilizar perturbaciones (mecánicas como inestabilidades, cargas asimétricas o impactos; o cognitivas como estímulos visuales, sonoros y tareas duales) permite al cerebro enfrentarse a la incertidumbre y buscar soluciones motrices novedosas, pero manteniendo intacto el umbral de tensión, potencia o velocidad requerido en la base del ejercicio."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "Dentro de la periodización de un microciclo competitivo de domingo a domingo, es recomendable programar estímulos de fuerza que requieran un alto estrés coordinativo inmediatamente después de la sesión táctica de campo del día MD-2.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "En el MD-2 (dos días antes de la competición), el foco primario debe transicionar hacia la asimilación del trabajo previo y el 'tapering'. Programar tareas de fuerza después del trabajo en campo genera un conflicto crítico: interfiere drásticamente con la recuperación fisiológica y sobrecarga al jugador, dejándolo sin la necesaria frescura mental y cognitiva que exige la proximidad de la competición."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "El uso e integración de herramientas como el método isométrico, los sistemas oscilatorios, los 'clusters' o el BFR debe enfocarse como los botones de un 'mando de consola'. ¿Cuál es la justificación principal subyacente a esta analogía metodológica?",
+      "options": [
+        "Proporcionar recursos para modular cualitativamente el estímulo fisiológico y adaptativo sin necesidad de reemplazar sistemáticamente el ejercicio matriz.",
+        "Garantizar la aplicación exclusiva de una 'ley del martillo' que estandarice y simplifique radicalmente el estrés provocado sobre el tejido muscular.",
+        "Reducir progresivamente el coste coordinativo a lo largo de toda la semana para minimizar la incidencia lesiva antes de un microciclo saturado.",
+        "Cambiar el perfil predominante de la matriz de capacidades para forzar un incremento de la rigidez articular en fases de fatiga extrema."
+      ],
+      "correct_answer": "Proporcionar recursos para modular cualitativamente el estímulo fisiológico y adaptativo sin necesidad de reemplazar sistemáticamente el ejercicio matriz.",
+      "feedback": "Acumular herramientas metodológicas por mera moda es improductivo. La brillantez de dominarlas (el mando de consola) radica en la capacidad de alterar variables (crear hipoxia localizada, inducir fatiga periférica, potenciar la tasa de desarrollo de fuerza) ante los requerimientos de un contexto específico, modificando la naturaleza del estímulo interno que recibe el atleta sin tener que descartar el patrón de movimiento principal."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Al estructurar e hilar el bloque de velocidad dentro del pilar condicional general, la intención biomecánica principal se fundamenta en optimizar la reactividad elástica y ____.",
+      "options": [
+        "la masa contráctil del cuádriceps",
+        "la rigidez y eficiencia del movimiento",
+        "la tolerancia mecánica pasiva"
+      ],
+      "correct_answer": "la rigidez y eficiencia del movimiento",
+      "feedback": "La velocidad no radica únicamente en intentar mover una carga rápido, sino en la máxima economía y transferencia de la fuerza hacia el suelo. Esto exige optimizar minuciosamente el ciclo estiramiento-acortamiento (CEA), mejorar la rigidez ('stiffness') estructural de la articulación para evitar fugas de energía y garantizar que cada manifestación motriz esté ejecutada con una eficiencia biomecánica absoluta."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "En el marco de una sesión grupal con recursos e infraestructuras condicionantes, ¿cuál representa la estrategia organizativa más eficiente para aportar individualización real según el perfil neuromuscular?",
+      "options": [
+        "Asignar una tabla de entrenamiento radicalmente distinta desde el calentamiento para cada demarcación táctica.",
+        "Aislar a los jugadores según su historial clínico y prescribir un régimen exclusivo de trabajo estructural unilateral.",
+        "Diseñar tres ejercicios troncales unificados y dejar una cuarta estación condicionada para potenciar perfiles contráctiles, reactivos o elásticos.",
+        "Dividir siempre la plantilla en dos macro-grupos rotativos e igualar de manera homogénea todos los tiempos de recuperación y repeticiones."
+      ],
+      "correct_answer": "Diseñar tres ejercicios troncales unificados y dejar una cuarta estación condicionada para potenciar perfiles contráctiles, reactivos o elásticos.",
+      "feedback": "En el deporte de equipo élite, el control absoluto e individual es logísticamente irrealizable simultáneamente. La maestría radica en la 'micro-individualización': consolidar el objetivo de la sesión a través de 2-3 tareas globales (donde se permite ajustar el volumen o RIR personal) y crear una derivación final, en la cual el atleta ejecuta una tarea orientada exclusivamente a maximizar el pico de fuerza o velocidad que demanda su perfil neuromuscular evaluado previamente."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "La noción fisiológica de la 'microdosis', justificada bajo la metáfora sistémica de regar una planta, postula en la planificación del fútbol profesional que:",
+      "options": [
+        "Las sobrecargas mecánicas extremas al inicio de temporada garantizan un efecto residual estable durante un semestre competitivo completo.",
+        "Es preferible aplicar un volumen mínimo viable en los días inmediatamente anteriores y posteriores al partido para inducir un efecto agudo e invasivo.",
+        "Se deben concentrar todos los impulsos coordinativos en una única y masiva sesión semanal para lograr una verdadera supercompensación sináptica.",
+        "El rendimiento biológico responde de forma más sostenida y predecible a estímulos regulares, de volumen controlado y alta frecuencia durante la semana."
+      ],
+      "correct_answer": "El rendimiento biológico responde de forma más sostenida y predecible a estímulos regulares, de volumen controlado y alta frecuencia durante la semana.",
+      "feedback": "La biología de la adaptación dictamina que la exposición esporádica pero masiva a un estímulo suele inducir un profundo daño tisular y una disrupción aguda indeseada en el rendimiento (DOMS, fatiga central prolongada). Por el contrario, diseminar el estrés mediante estímulos regulares, concisos y bien dosificados a lo largo del microciclo (microdosis), promueve un entorno anabólico y de adaptación neurológica constante sin vaciar los tanques del jugador."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "Avanzada la etapa de la temporada (a partir del microciclo 30), el foco metodológico fundamental debe volcarse obsesivamente sobre la detección de carencias y la asunción de un alto estrés mecánico para solidificar el suelo del deportista.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La periodización macro debe respetar el desgaste residual histórico. Al final de la liga o temporada competitiva (como un barco en pleno océano que no admite maniobras traumáticas), buscar el desarrollo estructural para 'elevar el suelo' es un error sistémico. La prioridad pasa inexorablemente a maximizar las certezas y fortalezas del jugador, dotándole de gran frescura (estrés coordinativo) para proteger su salud física, táctica y psicológica ante el clímax del calendario."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "¿Bajo qué criterio técnico y de transferencia se avala la inserción de la acción condicional de 'lucha' (catalogada en empujes y tracciones) dentro de la matriz específica del sistema?",
+      "options": [
+        "Permite conectar explícitamente las exigencias posicionales de los duelos y disputas que el jugador enfrenta en el rectángulo verde con los vectores del gimnasio.",
+        "Asegura un reclutamiento sincrónico de las fibras tipo IIx sin la necesidad de implicar dominancia de cadera en futbolistas propensos a dolor lumbar.",
+        "Funciona como un mecanismo puramente estructural para aislar la musculatura erectora espinal limitando cualquier tipo de transferencia coordinativa al campo.",
+        "Reemplaza por completo las necesidades de frenado excéntrico frontal, diluyendo la fatiga residual sobre las rodillas."
+      ],
+      "correct_answer": "Permite conectar explícitamente las exigencias posicionales de los duelos y disputas que el jugador enfrenta en el rectángulo verde con los vectores del gimnasio.",
+      "feedback": "La categorización de acciones en el gimnasio perdería valor si no tuviera un eco en la dinámica del fútbol. Introducir la acción de 'lucha' garantiza que el trabajo de empujes (crear o mantener espacios ante un oponente) y tracciones (control postural frente a agarres) desarrolle un puente técnico directo. Esto permite que el tejido se prepare para lidiar con el alto impacto isométrico y concéntrico que exigen los forcejeos en las disputas reales del balón."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Dentro de la disección de capacidades basadas en la curva carga-velocidad, el propósito adaptativo primario e innegociable de aislar el entrenamiento de fuerza absoluta es elevar ____.",
+      "options": [
+        "la densidad y resistencia capilar periférica",
+        "el techo de producción de fuerza",
+        "la sincronización metabólica lactácida"
+      ],
+      "correct_answer": "el techo de producción de fuerza",
+      "feedback": "El trabajo puro de fuerza (ubicado en el extremo izquierdo de la curva) funge como el bloque estructural maestro a nivel contráctil. Su misión fisiológica no atiende aún al factor tiempo, sino al factor magnitud: elevar de manera categórica el umbral máximo de tensión y Newton que el sistema neuromuscular es capaz de emitir y tolerar (techo), sobre el cual todas las demás variables (potencia reactiva, tasa de desarrollo de fuerza) irán construyéndose a posteriori."
+    }
+  ]
+}
