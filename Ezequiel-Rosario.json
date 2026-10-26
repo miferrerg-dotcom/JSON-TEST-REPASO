@@ -1,0 +1,153 @@
+{
+  "class_title": "Certificación PSS: Del cuánto al cómo monitorear la carga en deportes de equipo",
+  "total_questions": 12,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Durante las monitorizaciones sistemáticas, ¿cuál de los siguientes marcadores actúa de forma más temprana como una alerta de estrés tisular progresivo ante la fatiga?",
+      "options": [
+        "Las alteraciones cinemáticas silenciosas",
+        "El reporte de la Percepción Subjetiva del Esfuerzo (RPE)",
+        "La disminución abrupta del rendimiento métrico final",
+        "El incremento sostenido de la frecuencia cardíaca"
+      ],
+      "correct_answer": "Las alteraciones cinemáticas silenciosas",
+      "feedback": "Los marcadores cinemáticos y biomecánicos fallan o mutan mucho antes que los marcadores de carga interna (RPE, FC) o la caída del rendimiento. El cambio biomecánico aparece primero como una compensación (por ejemplo, en la estrategia de despegue de un salto CMJ) que aumenta silenciosamente la carga articular mientras el 'output' o altura del salto se mantiene de forma transitoria."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "La carga biomecánica y la carga fisiológica convergen en una misma línea temporal de fatiga, por lo que integrarlas en un único índice compuesto es la mejor estrategia metodológica para prevenir lesiones deportivas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La carga fisiológica (ej. frecuencia cardíaca, lactato) y la biomecánica (estrés tisular, mecánica articular) siguen vías y tiempos de falla completamente distintos. El perfil biomecánico se altera mucho antes. Combinarlas en un solo número o promedio oscurece los detalles y las alertas cinemáticas más relevantes para una efectiva prevención de lesiones."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "A medida que se acumula la fatiga neuromuscular y biomecánica en un lanzador de béisbol, el aumento del riesgo de lesión tisular y la caída del rendimiento presentan una relación ____.",
+      "options": [
+        "proporcionalmente inversa",
+        "exponencialmente paralela",
+        "completamente estática"
+      ],
+      "correct_answer": "proporcionalmente inversa",
+      "feedback": "Las revisiones sistemáticas sobre la manifestación de la fatiga en deportes rotacionales como el béisbol determinan que el riesgo y el rendimiento van de la mano pero de forma inversamente proporcional a lo largo del tiempo. A medida que los cambios cinemáticos producto de la fatiga se instauran, el riesgo de lesión sube drásticamente, lo cual induce una inminente caída en la velocidad o precisión (rendimiento)."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "En un protocolo prolongado de golpeo de balón a velocidad máxima constante, se observó que el rendimiento final se mantenía inalterado. Biomecánicamente, ¿cómo logran los futbolistas estabilizar este resultado a pesar del desgaste?",
+      "options": [
+        "Aumentando la rigidez exclusiva del miembro dominante ejecutante.",
+        "Redistribuyendo las demandas mediante alteraciones en la secuencia proximal-distal.",
+        "Aislando la tensión muscular en el tronco inferior sin involucrar la pierna de apoyo.",
+        "Desconectando la participación de la cadena cinética contralateral durante el impacto."
+      ],
+      "correct_answer": "Redistribuyendo las demandas mediante alteraciones en la secuencia proximal-distal.",
+      "feedback": "El éxito prolongado del gesto (mantener el impacto a 119 mph) enmascara un cambio profundo debajo de la superficie. Bajo fatiga, la mecánica proximal-distal se altera (ej. más rotación del muslo, menos rotación de la pierna inferior). La tensión se redistribuye dinámicamente por toda la cadena cinética, acentuando significativamente la relevancia de la pierna de apoyo para sostener un resultado aparentemente estable."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Durante un sprint de alta intensidad bajo fatiga neuromuscular, el aumento desproporcionado de tensión pico y su consecuente estrés mecánico recaen de manera persistente sobre ____.",
+      "options": [
+        "la cabeza larga del bíceps",
+        "el músculo semimembranoso",
+        "la cápsula articular posterior"
+      ],
+      "correct_answer": "la cabeza larga del bíceps",
+      "feedback": "A través del uso de modelado musculoesquelético y captura tridimensional durante la aceleración completa de un sprint, se evidencia mecánicamente que, de los tres músculos que componen los isquiotibiales, la cabeza larga del bíceps femoral es la estructura que absorbe consistentemente la mayor tensión pico. Este hallazgo explica la predisposición asimétrica y desproporcionada a lesionarse bajo fatiga aguda."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "La instalación de sistemas ópticos de cámaras sin marcadores (markerless) en un laboratorio de rendimiento compromete gravemente la validez ecológica de los datos al alterar los patrones inerciales naturales del atleta evaluado.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es todo lo contrario. La principal fortaleza técnica de los sistemas 'markerless' es que evitan colocar sensores invasivos o trajes sobre el cuerpo del deportista. Esta tecnología pasiva garantiza una validez ecológica altísima, asegurando que la mecánica de movimiento observada no esté adulterada por el peso, restricción o consciencia de portar equipamiento externo."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Tomar el promedio de un equipo sobre sus adaptaciones al estrés e instaurar dicha media para dictar intervenciones en un deportista particular constituye un error conocido como 'falacia ecológica'. ¿Por qué sucede esto en el contexto biomecánico?",
+      "options": [
+        "Porque los marcadores biomecánicos rara vez cumplen el principio de ergodicidad.",
+        "Porque las diferencias entre expertos y novatos invalidan el uso del GPS posicional.",
+        "Porque el análisis de conglomerados exige un volumen de muestra estadísticamente inalcanzable.",
+        "Porque las demandas metabólicas varían dependiento puramente de la altitud geográfica."
+      ],
+      "correct_answer": "Porque los marcadores biomecánicos rara vez cumplen el principio de ergodicidad.",
+      "feedback": "El diseño de la 'falacia ecológica' radica en asumir ergodicidad (que los datos son homogéneos entre distintos individuos y estacionarios en el tiempo). Los datos técnicos biomecánicos prácticamente nunca cumplen este estándar. Utilizar un promedio grupal enmascara por completo las distintas variabilidades individuales (se han identificado hasta 5 patrones cinemáticos distintos de absorción de fatiga ante un mismo estímulo de sprints repetidos)."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "La fase de colección de datos biomecánicos debe intensificarse preferentemente durante el 'off-season' y la pretemporada para lograr establecer un modelo basal estandarizado libre de fatiga competitiva.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. En periodos de 'off-season', el cuerpo técnico tiene absoluto control sobre el volumen de carga. Esto permite documentar y perfilar detalladamente el modelo neuromecánico del atleta sin interferencia de fatiga aguda. Tener esta huella basal sirve como el referente estándar con el que se comparará cualquier futura alteración de la cadena cinética cuando los juegos congestionen la temporada regular."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "En la etapa de procesamiento informático y modelado matemático de los datos biomecánicos cinemáticos, si para limpiar la data del swing de bateo se usa R, para modelar los vectores del lanzamiento suele emplearse ____.",
+      "options": [
+        "MATLAB",
+        "SPSS",
+        "PowerBI"
+      ],
+      "correct_answer": "MATLAB",
+      "feedback": "A nivel de ciencia de datos y procesamiento de señales en el laboratorio analizado, se hace uso específico de entornos de alto rendimiento computacional. Se prefiere la arquitectura de programación en R para modelar la cinética angular del swing, mientras que MATLAB se establece como el software de análisis primario para procesar la complejidad biomecánica de la acción del pitcheo o lanzamiento."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "En relación con el alcance práctico de plataformas tecnológicas (como Dairy Motion) para emitir retroalimentación biomecánica en equipos interdisciplinarios, ¿cuál de los siguientes postulados es el correcto?",
+      "options": [
+        "Los sistemas imponen una técnica cerrada y universal que todos los deportistas de un equipo deben replicar rígidamente.",
+        "La tecnología dicta correcciones de fuerza general sin diferenciar entre las zonas proximales o distales afectadas.",
+        "Los datos describen objetivamente qué ocurre con la técnica, pero la decisión de cómo intervenir debe ser consensuada estructuralmente.",
+        "Su arquitectura está diseñada exclusivamente para que el fisioterapeuta rehabilite patologías articulares crónicas comprobadas."
+      ],
+      "correct_answer": "Los datos describen objetivamente qué ocurre con la técnica, pero la decisión de cómo intervenir debe ser consensuada estructuralmente.",
+      "feedback": "Una regla fundamental del análisis científico del rendimiento es que 'la data describe, pero rara vez prescribe'. El sistema alerta de deficiencias articulares o debilidades mecánicas específicas (marcándolas en rojo, por ejemplo). Al permitir soluciones individualmente válidas, es imperativo que el cuerpo técnico, preparadores físicos y médicos procesen el reporte unificadamente para trazar un plan de acción conjunto enfocado a ese jugador."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "En escenarios competitivos élite con calendarios densamente congestionados (como NBA o MLB), ¿por qué cuantificar únicamente el volumen bruto de carga es insuficiente para prevenir una lesión?",
+      "options": [
+        "El volumen pierde fiabilidad debido al sesgo intrínseco del GPS para trackear sprints a máxima velocidad en estadios cerrados.",
+        "El volumen desestima que el atleta de élite compensa mecánicamente su movimiento encubriendo el deterioro de su cadena cinética.",
+        "Las plataformas de fuerza de los estadios son incapaces de aislar la fatiga periférica generada en el calentamiento de rutina.",
+        "Los sistemas de medición de volumen sobreestiman el componente fisiológico y omiten calcular la frecuencia cardíaca promedio."
+      ],
+      "correct_answer": "El volumen desestima que el atleta de élite compensa mecánicamente su movimiento encubriendo el deterioro de su cadena cinética.",
+      "feedback": "En situaciones de 24 a 72 horas entre competiciones, el atleta de élite se expone a una enorme carga neuromuscular. Ellos son extraordinarios 'compensadores' biomecánicos. Pueden sostener métricas de carga externa (volumen o potencia) alterando silenciosamente y a nivel articular cómo distribuyen el esfuerzo. Guiarse puramente por el 'cuánto' ignora que 'el cómo' se produce el movimiento ya está causando microrroturas o estrés peligroso."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Tras someter a futbolistas a un protocolo intensivo de ocho semanas basado exclusivamente en sprints repetidos, ¿qué evidencia arrojó el análisis de las intervenciones a nivel biomecánico?",
+      "options": [
+        "Se constató una hipertrofia exclusiva en la pierna no dominante que incrementó la rigidez y disminuyó la absorción en el remate.",
+        "La respuesta fisiológica del lactato se aplanó por completo mitigando la variabilidad cardíaca y anulando la capacidad anaeróbica.",
+        "Ocurrió un drástico desplazamiento de la sobrecarga metabólica hacia la cápsula posterior de la rodilla, bloqueando la zancada fluida.",
+        "El patrón mecánico original bajo estado de fatiga se remodeló, disminuyendo la flexión de tronco y reduciendo la perjudicial sobresancada."
+      ],
+      "correct_answer": "El patrón mecánico original bajo estado de fatiga se remodeló, disminuyendo la flexión de tronco y reduciendo la perjudicial sobresancada.",
+      "feedback": "La fatiga es un blanco móvil o fenómeno entrenable. Los estudios con sprints reiterados evidenciaron que, a la octava semana, no solo hubo una mejoría tangible en la potencia o tiempo del atleta. Estructuralmente, su cuerpo aprendió a absorber la tensión modelando un patrón biomecánico más económico y resistente bajo agotamiento, limitando mecanismos de lesión recurrentes como la excesiva flexión de tronco, el retroceso y el sobredimensionamiento del paso (sobresancada)."
+    }
+  ]
+}
