@@ -1,0 +1,251 @@
+{
+  "class_title": "Nuevas tendencias en el análisis de datos en fútbol y en la evaluación de rendimiento",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el principal obstáculo infraestructural que restringe la masificación del análisis mediante Tracking Data en ligas regulares de fútbol femenino?",
+      "options": [
+        "La alta volatilidad de los algoritmos de Machine Learning no supervisado en la detección de siluetas complejas.",
+        "Los requisitos de hardware y el elevado costo de implementación de sistemas de cámaras en la totalidad de los estadios.",
+        "La falta de herramientas estadísticas capaces de procesar frecuencias de muestreo espaciotemporal superiores a 2 Hz.",
+        "La incompatibilidad fundamental de las coordenadas XY con los formatos de 'eventing' estándar de la industria."
+      ],
+      "correct_answer": "Los requisitos de hardware y el elevado costo de implementación de sistemas de cámaras en la totalidad de los estadios.",
+      "feedback": "El Tracking Data exige registrar la posición ininterrumpida de los 22 jugadores a una frecuencia de 10-20 Hz. Esta capa de máxima granularidad depende absolutamente de arquitecturas tecnológicas fijas (matrices de cámaras) instaladas en el estadio. Muchas ligas femeninas regulares carecen del presupuesto y la infraestructura para dotar a todos los recintos de este ecosistema, limitando su uso actual a grandes torneos internacionales."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "La explicabilidad en los modelos predictivos es fundamental para el ámbito práctico, lo que a menudo justifica sacrificar ligeramente su ____.",
+      "options": [
+        "capacidad predictiva",
+        "volumen de datos",
+        "coste de registro"
+      ],
+      "correct_answer": "capacidad predictiva",
+      "feedback": "En la toma de decisiones prácticas (por ejemplo, predecir el riesgo de lesiones), un modelo estadístico transparente como la regresión logística es más aplicable que una red neuronal de caja negra (black box). Aunque la red neuronal pueda tener una mayor precisión matemática o predictiva, su opacidad impide a los cuerpos técnicos comprender e intervenir sobre los motivos del riesgo real."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "La integración de métodos mixtos (Mixed Methods) tiene como objetivo principal erradicar el uso de estadísticas descriptivas simples en favor de modelos exclusivos de aprendizaje automático aplicados al campo de entrenamiento.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Los métodos mixtos buscan cerrar la brecha comunicativa entre el investigador científico y el practitioner (entrenador). Su objetivo es enriquecer las conclusiones cuantitativas con el contexto cualitativo (entrevistas), garantizando que las métricas respondan a problemáticas reales de los cuerpos técnicos, quienes además han demostrado preferir herramientas analíticas estadísticamente simples y visuales."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el principal sesgo que presenta la métrica tradicional 'Most Demanding Passage' (MDP) al programar tareas de entrenamiento de alta intensidad?",
+      "options": [
+        "Excluye sistemáticamente los esfuerzos mecánicos realizados a velocidades de desplazamiento inferiores a 19,8 km/h.",
+        "Asigna la categoría de 'máxima exigencia' a periodos que no representan el límite fisiológico real del deportista si el partido fue de baja intensidad.",
+        "Requiere el uso de algoritmos de clustering no supervisado para su cálculo inicial mediante medias móviles continuas.",
+        "Ignora deliberadamente las diferencias estructurales de posición específica, homogeneizando la carga entre defensas centrales y extremos."
+      ],
+      "correct_answer": "Asigna la categoría de 'máxima exigencia' a periodos que no representan el límite fisiológico real del deportista si el partido fue de baja intensidad.",
+      "feedback": "El método de medias móviles (rolling average) utilizado en el cálculo del MDP identifica forzosamente el minuto más intenso de cada partido analizado. Si un encuentro exige poca demanda condicional general, su pico máximo absoluto será bajo, pero el MDP lo catalogará erróneamente como un escenario de 'máxima exigencia'. Esto provoca que se programen sesiones de entrenamiento que subestiman severamente el umbral límite real del deportista."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "Comprender y analizar una métrica condicional de forma asilada, extrayendo su valor numérico puro sin asociarla a su contexto técnico-táctico, es el estándar más recomendado en la actualidad para evaluar el rendimiento deportivo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Como principio estructural en el análisis moderno ('context is key'), un esfuerzo físico o demanda condicional máxima carece de valor evaluativo real si no se entiende en función del estímulo que lo provocó. Aislar la carga condicional de la intención técnica del juego, o de las demandas situacionales del partido, invalida la métrica para la toma de decisiones prácticas."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "En la evaluación del rendimiento de jugadores internacionales frente al mostrado en sus clubes, ¿qué impacto directo demostraron tener las variables contextuales (nivel del oponente y presión)?",
+      "options": [
+        "La fatiga acumulada generó un desplome severo en el rendimiento condicional durante los compromisos de selecciones absolutas.",
+        "El incremento en el nivel del oponente y el mayor ritmo de juego produjeron una caída en la eficacia técnica, pese a registrar mayores demandas físicas.",
+        "La falta de cohesión táctica grupal redujo métricas de alta intensidad (high speed running), elevando paradójicamente el porcentaje de acierto en pases.",
+        "El cambio técnico del proveedor primario de datos alteró los registros base de eventing, impidiendo una calibración cruzada válida."
+      ],
+      "correct_answer": "El incremento en el nivel del oponente y el mayor ritmo de juego produjeron una caída en la eficacia técnica, pese a registrar mayores demandas físicas.",
+      "feedback": "El cruce cualitativo de datos desmintió los rumores mediáticos de falta de compromiso en los jugadores analizados. Se reveló empíricamente que enfrentarse a rivales de élite (mayor ranking) impone un ritmo de juego que asfixia el tiempo para la toma de decisiones, penalizando el acierto técnico con balón. Sin embargo, en términos de esfuerzo físico (distancia a alta intensidad, aceleraciones), los jugadores registraban valores estadísticamente superiores con su selección que en la liga regular."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "El tiempo promedio transcurrido entre pases consecutivos durante una posesión permite evaluar el ritmo de juego colectivo mediante datos clasificados en la capa de ____.",
+      "options": [
+        "eventing",
+        "tracking",
+        "estadística agregada"
+      ],
+      "correct_answer": "eventing",
+      "feedback": "La métrica 'Pace of Play' (ritmo de juego) se construye registrando las coordenadas espaciotemporales precisas de cada acción con el esférico. Al disponer de la marca temporal (timestamp) exacta de inicio y fin de cada pase anotado manualmente o por visión artificial, los datos de eventing permiten medir los micro-segundos transcurridos entre ejecuciones, revelando estructuralmente la velocidad del ataque."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "Al diseñar y seleccionar métricas de evaluación condicional, el principio analítico dicta que para garantizar su aplicabilidad práctica por parte de los entrenadores, estas deben primar la accesibilidad y la interpretabilidad por encima de la complejidad de caja negra.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La hipercomplejidad aleja drásticamente la ciencia del deporte de la aplicación diaria (ensanchando la brecha entre laboratorio y campo). Para garantizar la transferencia, comprensión y adopción de una métrica por los 'practitioners' en el terreno de juego, esta debe primar imperativamente la accesibilidad y la interpretabilidad por encima de los algoritmos opacos."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "¿Cuáles son las tres preguntas fundamentales, en orden conceptual, que validan la adopción de una nueva métrica condicional o técnica en el entorno deportivo de alto rendimiento?",
+      "options": [
+        "¿Mide lo que pretende medir?, ¿Influye objetivamente en el rendimiento final?, ¿Se posee capacidad real de intervención sobre ella en campo?",
+        "¿Presenta un tamaño de efecto estandarizado grande?, ¿Es extraída de matrices de tracking a 20Hz?, ¿Reduce activamente la parálisis por análisis?",
+        "¿Posee superior interpretabilidad?, ¿Supera predictivamente a la estadística agregada clásica?, ¿Es un modelo 100% libre de caja negra?",
+        "¿Identifica distribuciones de valores atípicos (outliers)?, ¿Alcanza significación estadística estricta (p<0.05)?, ¿Predice temporalidad de lesiones?"
+      ],
+      "correct_answer": "¿Mide lo que pretende medir?, ¿Influye objetivamente en el rendimiento final?, ¿Se posee capacidad real de intervención sobre ella en campo?",
+      "feedback": "Antes de inyectar una nueva variable en el complejo ecosistema de datos de un cuerpo técnico, se debe garantizar matemáticamente su rigor conceptual (validez de constructo), su impacto directo comprobado en el éxito competitivo del equipo y, de forma crítica, su transferibilidad práctica; si el cuerpo técnico no tiene medios metodológicos para alterar dicho parámetro mediante el diseño de tareas, la métrica es inútil aplicadamente."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Identificar y categorizar un Extremely Demanding Passage (EDP) requiere ubicar los picos de máxima exigencia convencionales y filtrar estadísticamente únicamente los valores que se sitúan como ____.",
+      "options": [
+        "outliers",
+        "promedios móviles",
+        "modelos lineales"
+      ],
+      "correct_answer": "outliers",
+      "feedback": "A diferencia del cálculo del Most Demanding Passage (MDP) que extrae el 'pico relativo' de un encuentro, el EDP corrige este sesgo de intensidad situándose exclusivamente en la cola superior de la curva de distribución general. Seleccionar estos valores atípicos severos (outliers) garantiza que el fragmento aislado represente verdaderamente un escenario extremo del límite de esfuerzo fisiológico del atleta."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "¿Qué patrón de características técnico-tácticas diferencia consistentemente a los escenarios categorizados como 'Extremely Demanding Passages' (EDP) frente a los ritmos promedio del juego?",
+      "options": [
+        "Dominio del porcentaje de posesión posicional en campo propio y un pico en el número de intervenciones cortas.",
+        "Alta densidad de pases combinativos en el tercio de finalización, anulando la necesidad de acciones de velocidad sprint.",
+        "Juego predominante a campo abierto con pases de larga amplitud espacial, desplazamientos rápidos y reducción de toques cortos.",
+        "Picos extremos del índice on-ball value (OBV) sustentados en tiempos dilatados entre ejecuciones de pases laterales."
+      ],
+      "correct_answer": "Juego predominante a campo abierto con pases de larga amplitud espacial, desplazamientos rápidos y reducción de toques cortos.",
+      "feedback": "El análisis minucioso de los EDP desveló que los picos máximos de carga condicional responden siempre a contextos tácticos precisos: escenarios de campo abierto por transiciones o contragolpes. Surgen típicamente tras lanzamientos de pases largos a las espaldas defensivas, obligando a los deportistas a abarcar amplias distancias a máxima velocidad, lo que suprime el volumen de pases cortos o contactos múltiples con la pelota."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "¿Qué impacto táctico y espacial real arrojó la instauración normativa de pausas de hidratación obligatorias, evaluado bajo métricas espaciales de eventing (Ej. Mundial 2026)?",
+      "options": [
+        "Ralentizaron el ritmo de juego general al inducir bloques defensivos hundidos hacia el primer cuarto de campo tras el reinicio.",
+        "Impulsaron cambios estructurales profundos, elevando la métrica de longitud de pase en más de 10 metros promedio por equipo.",
+        "Generaron diferencias estadísticamente significativas por un volumen de muestra masivo, pero su alteración táctica espacial resultó completamente trivial.",
+        "Incrementaron significativamente la probabilidad de éxito (OBV) y la fluidez, estabilizando posesiones más prolongadas pos-pausa."
+      ],
+      "correct_answer": "Generaron diferencias estadísticamente significativas por un volumen de muestra masivo, pero su alteración táctica espacial resultó completamente trivial.",
+      "feedback": "Pese a representar un hito reglamentario radical (segmentando el juego en bloques de 22 minutos), el análisis cruzado de datos pre/post pausa demostró fluctuaciones puramente marginales. La longitud media de los envíos apenas creció de 20.3 a 21 metros, y las coordenadas de intervención retrocedieron ínfimos 2 metros. Aunque el masivo volumen estadístico (>20,000 acciones) arrojó un 'p-value' significativo, el tamaño del efecto táctico sobre el verde fue nulo."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "El manejo de volúmenes inmensos de datos continuos (Tracking Data) asegura metodológicamente que toda diferencia estadísticamente significativa descubierta tendrá un tamaño del efecto enorme y aplicable en competición.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es absolutamente falso. En el manejo de Big Data (cientos de miles de registros), la estadística inferencial tradicional es hipersensible; tenderá a arrojar diferencias estadísticamente significativas ante cualquier ínfima variación numérica. Por ello, el análisis de rendimiento de élite exige discriminar centrándose en el 'tamaño del efecto' para asegurar que la diferencia matemática represente una ventaja táctica o condicional tangible en la vida real."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Dentro del análisis de las métricas de eventing, ¿qué dimensión estructural del comportamiento de equipo permite diagnosticar el parámetro 'Pace of Play'?",
+      "options": [
+        "Establece la eficiencia aeróbica de la línea medular procesando correlaciones entre aceleraciones explosivas e intervenciones en el tercio final.",
+        "Cuantifica porcentualmente la distribución de posesión pasiva frente al volumen cronometrado de ataques transicionales.",
+        "Opera como termómetro de la velocidad táctica y cognitiva, revelando que tiempos menores entre ejecuciones correlacionan con éxito clasificatorio en el torneo.",
+        "Separa unívocamente la temporalidad del ataque directo de alta eficacia aislando acciones circunscritas a Extremely Demanding Passages."
+      ],
+      "correct_answer": "Opera como termómetro de la velocidad táctica y cognitiva, revelando que tiempos menores entre ejecuciones correlacionan con éxito clasificatorio en el torneo.",
+      "feedback": "El 'Pace of Play' se encarga de promediar los lapsos de tiempo transcurridos entre golpeos dentro de una posesión. Un registro temporal inferior evidencia una velocidad circulatoria superior, traduciéndose en una toma de decisiones cognitiva veloz y una estructura táctica dinámica. La investigación confirma que los combinados nacionales que exigen ritmos más vertiginosos entre pases avanzan invariablemente a fases finales de campeonatos de élite."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Para asegurar que un modelo predictivo algorítmico sea adoptado funcionalmente por el analista y el cuerpo técnico, es mandatario primar el uso de enfoques estadísticos estructurados debido a su probada ____.",
+      "options": [
+        "interpretabilidad",
+        "capacidad de predicción",
+        "capacidad dimensional"
+      ],
+      "correct_answer": "interpretabilidad",
+      "feedback": "Los entrenadores (practitioners) requieren conocer las raíces mecánicas o tácticas de una anomalía predictiva para ejecutar ajustes correctivos. Un sistema opaco ('black box') como ciertas redes neuronales complejas puede ofrecer una mejora matemática predictiva, pero secuestra las razones subyacentes del pronóstico. Un diseño estadísticamente interpretable desgrana el peso de cada variable interviniente, facilitando y empoderando el trabajo de campo."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "La hibridación de estadísticas agregadas básicas y observacionales procesadas mediante algoritmos de segmentación (clustering) permite categorizar el estilo ofensivo de un equipo en tres ejes principales, los cuales son:",
+      "options": [
+        "Juego exterior masivo, triangulación en pasillos interiores y despliegues por transiciones veloces.",
+        "Ataque directo, ataque de corte conservativo (o combinativo) y esquemas de ataque mixto.",
+        "Fases de transición ofensiva pura, esquemas de repliegue en bloque y ciclos de posesión neutra.",
+        "Retención alta intensidad del esférico, centralización del flujo de juego y ataque en estático posicional."
+      ],
+      "correct_answer": "Ataque directo, ataque de corte conservativo (o combinativo) y esquemas de ataque mixto.",
+      "feedback": "Al procesar grandes dimensiones de variables (tiempo de circulación en zona de iniciación frente a zona de creación, intención táctica primaria y orientaciones espaciales), el modelo de Machine Learning no supervisado logra comprimir analíticamente el comportamiento de un once en tres etiquetas robustas. Esta segmentación táctica entre fútbol directo, conservativo y mixto simplifica inmensamente el diseño de la estrategia operativa de contención."
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "question": "A pesar de su accesibilidad, las estadísticas agregadas tradicionales carecen de la dimensión contextual necesaria para diferenciar el impacto real en el juego de dos defensores centrales que acumulan registros de pases prácticamente idénticos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La naturaleza de la métrica agregada comprime y aplana los datos en sumatorios (ej. totales acumulados de pases o de eficacia). Este aplanamiento borra por completo la coordenada espacial, el riesgo asumido y la intención. Utilizando análisis de redes (clustering), dos centrales con sumatorios iguales se revelan con mapas de calor y tipologías de riesgo diametralmente distintos, visibilizando sus roles tácticos reales."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "¿De qué manera el fenómeno operativo conocido como 'parálisis por análisis' degrada la funcionalidad de un departamento de ciencias del deporte en un club profesional?",
+      "options": [
+        "Promoviendo la recolección obsesiva de apreciaciones observacionales sesgadas que imposibilitan establecer cargas físicas.",
+        "Fomentando un apego ciego a estadígrafos básicos que generan decisiones tácticas superficiales ignorando dimensiones espaciales.",
+        "Saturando el entorno cognitivo con volúmenes inabarcables de datos complejos (GPS, Tracking) que impiden focalizar métricas accionables.",
+        "Distorsionando la percepción de fatiga al contrastar los umbrales fisiológicos con los resultados puramente algorítmicos generados por cajas negras."
+      ],
+      "correct_answer": "Saturando el entorno cognitivo con volúmenes inabarcables de datos complejos (GPS, Tracking) que impiden focalizar métricas accionables.",
+      "feedback": "La implantación masiva de tecnologías (EPTS) y proveedores de métricas avanzadas bombardea diariamente al analista con matrices gigantescas de parámetros técnico-físicos simultáneos. Si este ecosistema analítico no cuenta con una estructura depurada que reduzca la dimensionalidad buscando respuestas pragmáticas, la mera exposición al volumen genera inacción, diluyendo los insights aplicables en el día a día."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "A la hora de parametrizar acciones intangibles del futbolista en competición, como el proceso subyacente a su toma de decisiones tácticas, los modelos cuantitativos deben apoyarse forzosamente en análisis de naturaleza ____.",
+      "options": [
+        "cualitativa",
+        "biomecánica",
+        "probabilística"
+      ],
+      "correct_answer": "cualitativa",
+      "feedback": "El diseño de marcos de Machine Learning alimentados exclusivamente por marcadores espaciotemporales o cinemáticos padece ceguera contextual ante elementos ocultos: presiones emocionales, interpretaciones de pizarra o intenciones truncadas. La arquitectura de métodos mixtos remedia este déficit incorporando entrevistas estructuradas a técnicos y plantillas, fusionando la frialdad métrica de la posición con la causalidad táctica del agente de juego."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "La sinergia bidireccional entre la estructura de análisis de datos y la práctica diaria en césped se consolida sobre una premisa indispensable. ¿Qué afirmación modela fielmente este flujo?",
+      "options": [
+        "El ente investigador debe concebir modelos matemáticos disruptivos (deep learning) para forzar empíricamente cambios metodológicos en el entrenador.",
+        "Toda recolección y análisis algorítmico debe germinar como respuesta directa a una necesidad o duda extraída del campo, siendo destilada y devuelta aplicable al mismo.",
+        "La precisión de milisegundos del Tracking Data debe automatizar algorítmicamente la prescripción de tareas y rotaciones, minimizando el sesgo humano del técnico.",
+        "Los análisis de inferencia probabilística regirán la curva de asimilación física del grupo, aislando por completo la gestión condicional del diseño táctico."
+      ],
+      "correct_answer": "Toda recolección y análisis algorítmico debe germinar como respuesta directa a una necesidad o duda extraída del campo, siendo destilada y devuelta aplicable al mismo.",
+      "feedback": "La acumulación proactiva de estadísticas o el desarrollo de paneles predictivos no demandados por el primer entrenador deriva inexorablemente en el rechazo operativo ('data graveyard'). La correcta trazabilidad analítica inicia abordando fricciones detectadas en la grama, es modelada metodológicamente en sala por los científicos de rendimiento, y retorna depurada al equipo de trabajo en forma de directrices ejecutables ('cerrando el ciclo')."
+    }
+  ]
+}
