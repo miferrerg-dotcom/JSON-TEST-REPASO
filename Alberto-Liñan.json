@@ -1,0 +1,239 @@
+{
+  "class_title": "Manejo de la cadena posterior en Liga Hypermotion",
+  "total_questions": 19,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "¿Por qué la angulación de 90 grados de cadera y 20 grados de rodilla es más específica para evaluar el estado y fatiga del complejo isquiosural en futbolistas, en comparación con una medición en 90/90?",
+      "options": [
+        "Permite aislar mecánicamente el glúteo mayor y anula la intervención del tendón rotuliano.",
+        "Simula con precisión el ángulo de la cadera en el 'late swing' adaptado al fútbol, donde el jugador corre con el tronco flexionado y la cabeza baja.",
+        "Incrementa drásticamente la coactivación del cuádriceps, lo que proporciona un balance agónico-antagónico real.",
+        "Inhibe los husos neuromusculares en el bíceps femoral para captar únicamente la fuerza isométrica máxima teórica."
+      ],
+      "correct_answer": "Simula con precisión el ángulo de la cadera en el 'late swing' adaptado al fútbol, donde el jugador corre con el tronco flexionado y la cabeza baja.",
+      "feedback": "La biomecánica del sprint lineal ortodoxo difiere de la técnica del futbolista, quien, por la presencia del balón y la necesidad visual, corre con el centro de gravedad agachado y el tronco inclinado. Esta flexión acerca la cadera a los 90 grados durante la fase de 'late swing', que es el momento más susceptible de lesión en el bíceps femoral, otorgando máxima validez ecológica al test 90/20."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Para evitar una sobrecarga acumulativa extrema en el sistema nervioso al programar sesiones de fuerza, si la intensidad del trabajo táctico en campo se clasifica en una semana 'roja', el estímulo concurrente de gimnasio se cruza a ____.",
+      "options": [
+        "amarillo",
+        "verde de descarga",
+        "rojo con volumen reducido"
+      ],
+      "correct_answer": "amarillo",
+      "feedback": "La planificación integrada mediante códigos de color busca equilibrar la dosis de estrés. Cuando el campo presenta una semana roja (volumen e intensidad altos), el gimnasio intercambia su color a amarillo (intensidad alta pero volumen medio) para no saturar al deportista dándole rojo en ambas áreas simultáneamente."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "El estímulo de fuerza analítico que busca inducir un alto daño muscular excéntrico en los isquiosurales debe ubicarse en los días MD-3 o MD-4 para asegurar que los tejidos estén en pleno proceso de adaptación regenerativa justo durante el partido.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es absolutamente falso. El daño muscular excéntrico analítico se ubica en MD+1 o MD+2 porque existe un daño muscular residual comprobado que dura hasta 72 horas. Se busca alejar este estrés lesivo lo máximo posible de la competición. En MD-3/MD-4 se priorizan cargas más ligeras enfocadas a la aceleración y técnica."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Al monitorizar la carga interna y contrastarla con el volumen absoluto externo, ¿cuál de los siguientes escenarios dispara automáticamente el sistema de alarmas apoyado en la métrica Z-score (si supera 1.3)?",
+      "options": [
+        "Un aumento idéntico y proporcional del volumen externo y la percepción de esfuerzo RPE.",
+        "El registro sistemático de un 5 en el cuestionario Wellness sin variación alguna durante 14 días.",
+        "Una divergencia en la que el volumen absoluto baja respecto al histórico, pero la percepción del esfuerzo del atleta sube drásticamente.",
+        "La superación de la media histórica de HCR en un solo entrenamiento de la semana verde."
+      ],
+      "correct_answer": "Una divergencia en la que el volumen absoluto baja respecto al histórico, pero la percepción del esfuerzo del atleta sube drásticamente.",
+      "feedback": "El Z-score (utilizando las últimas 6 sesiones equivalentes) permite detectar estados de fatiga aguda encubierta. Si un jugador corre menos volumen que su media pero puntúa el esfuerzo subjetivo muy por encima de lo normal (o viceversa), cruzando el umbral de Z-score 1.3, indica una alteración en la homeostasis que alerta de riesgo."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Considerando un perfil táctico altamente exigente con línea defensiva adelantada, ¿qué necesidad fisiológica se vuelve innegociable y eleva considerablemente las métricas de High-Speed Running (HCR) del equipo?",
+      "options": [
+        "La ejecución de constantes y sumamente intensos retornos defensivos para cubrir grandes espacios a la espalda de la línea.",
+        "La necesidad de ralentizar las posesiones mediante pases laterales continuados para generar bloqueos pasivos.",
+        "El repliegue intensivo dentro del área penal propia que elimina la necesidad de aceleraciones repetidas.",
+        "El predominio del trabajo de resistencia aeróbica extensiva (LISS) para soportar 90 minutos de pressing."
+      ],
+      "correct_answer": "La ejecución de constantes y sumamente intensos retornos defensivos para cubrir grandes espacios a la espalda de la línea.",
+      "feedback": "La decisión táctica de presionar alto (press alto mano a mano) implica dejar metros a la espalda. Esta exigencia territorial hace imperativo, e innegociable, que los jugadores realicen intensos esfuerzos en sprint hacia atrás (retornos defensivos) liderando así las demandas de HCR en la liga."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "En el control de perfiles de jugadores que manifiestan una alta variabilidad impredecible de metros recorridos a alta velocidad (HCR) entre partidos, el objetivo metodológico prioritario para el cuerpo técnico es ____.",
+      "options": [
+        "maximizar constantemente las dosis intra-sesión",
+        "reducir esa varianza al mínimo controlándola mediante el microciclo",
+        "ignorar la variabilidad periférica centrando todo en la frecuencia cardíaca"
+      ],
+      "correct_answer": "reducir esa varianza al mínimo controlándola mediante el microciclo",
+      "feedback": "A diferencia del jugador que siempre acumula métricas de HCR estables (cuyo estímulo semanal se puede rebajar), un atleta con alta variabilidad no tiene garantizada una dosis de estímulo óptima. El rol del preparador es monitorizarlo estrechamente y ajustar los volúmenes del entrenamiento semanal para estabilizar su exposición a la alta intensidad."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Durante la evaluación del test isométrico 90/20, un jugador logra igualar su pico de fuerza máxima histórico, pero evidencia temblores prominentes y aborta la contracción voluntaria a los 3 segundos en vez de los 4 pautados. ¿Qué lectura clínica se extrae de esta respuesta motora?",
+      "options": [
+        "Indica una clara mejora en la sincronización de fibras Tipo IIb que agotan el ATP más velozmente.",
+        "Sugiere la presencia de fatiga profunda o una grave deficiencia neuromuscular en la estabilidad del patrón motor.",
+        "Demuestra un estado óptimo de 'tapering', ideal para afrontar un esfuerzo extensivo en las próximas horas.",
+        "Confirma que el umbral de tolerancia isquiosural está en equilibrio con su cadena anterior antagónica."
+      ],
+      "correct_answer": "Sugiere la presencia de fatiga profunda o una grave deficiencia neuromuscular en la estabilidad del patrón motor.",
+      "feedback": "En la evaluación cualitativa, el número pico absoluto de Newton no es la única variable crítica. La incapacidad de sostener la contracción durante el tiempo pautado, acompañada de vibración excesiva o abandono prematuro, refleja una incapacidad del sistema nervioso central o periférico para reclutar de manera sostenida, encendiendo alertas de fatiga neuromuscular seria."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "El Programa Preventivo de Nivel 2, que engloba ejercicios isométricos y excéntricos para grupos de alto riesgo lesivo (historial de pubis, tendinopatías e isquios), se aplica rutinariamente 15 minutos antes del entrenamiento del día MD-3 (día extensivo).",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. El Nivel 2 preventivo (grupos de riesgo) se inserta generalmente en el MD-4 (día intensivo). El que se aplica a todo el grupo 15 minutos antes del día extensivo (MD-3) es el preventivo de Nivel 1."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "En el contexto de un equipo profesional que no cuenta con descanso debido a un calendario altamente comprimido sin parones, la evidencia científica respalda que la principal intervención para minimizar la casuística de lesiones musculares recae directamente en ____.",
+      "options": [
+        "multiplicar el trabajo de fuerza dinámica",
+        "priorizar y blindar un día de descanso absoluto (MD+1 o MD+2)",
+        "aumentar la frecuencia de crioterapia post-entrenamiento"
+      ],
+      "correct_answer": "priorizar y blindar un día de descanso absoluto (MD+1 o MD+2)",
+      "feedback": "Apoyado en las evidencias de Buchheit presentadas, introducir y priorizar drásticamente al menos un día libre absoluto semanal reduce exponencialmente el riesgo lesivo crónico, aliviando no solo la carga mecánica sobre el tejido, sino también ofreciendo un reseteo imprescindible frente a la fatiga nerviosa."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "A pesar de las múltiples estrategias preventivas indoor, el abordaje metodológico concluye que el diseño, ejecución y control de un entrenamiento de campo óptimamente planificado es la herramienta de prevención lesiva de mayor impacto en el rendimiento.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es totalmente verdadero. La conclusión final de la ponencia recalca que, por muy exhaustivo que sea el trabajo complementario, el 'mayor programa preventivo que puede haber' consiste en someter al jugador a sesiones de fútbol en campo correctamente estructuradas, moduladas e intensificadas en su justa medida."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "¿Cuál de las siguientes alteraciones cuantitativas durante la medición del test de fuerza isométrica 90/20 actúa como línea roja o detonante principal para que el cuerpo técnico discuta apartar, modificar o reducir el entrenamiento en campo del deportista?",
+      "options": [
+        "Una bajada del 3% respecto a su media móvil del último trimestre competitivo.",
+        "Cualquier reducción que supere de manera significativa el 10% de su pico de fuerza óptimo.",
+        "Un aumento agudo del 15% en la fuerza, lo que evidenciaría una peligrosa rigidez fascial pre-lesiva.",
+        "La asimetría superior al 5% entre ambas piernas independientemente del valor absoluto alcanzado."
+      ],
+      "correct_answer": "Cualquier reducción que supere de manera significativa el 10% de su pico de fuerza óptimo.",
+      "feedback": "A nivel algorítmico en su toma de decisiones diaria, una caída superior al 10% sobre la base de su fuerza máxima es el umbral que dispara la duda razonable en el cuerpo técnico. Ante esa pérdida de capacidad de generar fuerza, el riesgo es crítico y el jugador entra en revisión para reducir o eliminar cargas."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Para mitigar la posible pérdida de adaptaciones mecánicas ante semanas irregulares, los preparadores estipulan una regla infranqueable respecto a la dosis de velocidad. ¿Qué parámetro temporal se fija para que todos los integrantes alcancen al menos un sprint superior al 95% de su capacidad máxima?",
+      "options": [
+        "En las primeras 24 horas tras cada partido oficial.",
+        "Como fase inicial innegociable de todos los calentamientos preventivos de Nivel 1.",
+        "Cada 7 a 10 días como máximo umbral biológico.",
+        "Únicamente durante los microciclos clasificados como semanas verdes (baja carga)."
+      ],
+      "correct_answer": "Cada 7 a 10 días como máximo umbral biológico.",
+      "feedback": "La exposición frecuente a la altísima velocidad ha demostrado tener un efecto de 'vacuna' frente a las roturas de la cadena posterior. Si el jugador pasa entre 7 y 9 días sin registrar un sprint al >95%, salta la alerta en el software interno, forzando la programación inmediata de este estímulo indispensable."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "En caso de que el protocolo dicte retirar completamente a un jugador de la sesión de campo debido al altísimo riesgo lesivo evaluado, ¿cómo se articula la última fase compensatoria del protocolo indoor paralelo para mantener la capacidad cardiorrespiratoria sin riesgo?",
+      "options": [
+        "Infiltraciones de ácido hialurónico intraarticulares guiadas por ecografía de alta resolución.",
+        "Carrera continua suave sobre el césped con una percepción de esfuerzo (RPE) estricta no superior a 3.",
+        "Un abordaje metabólico libre de impacto axial utilizando cicloergómetros (Wattbike), intervalos en cuerdas o elásticos.",
+        "Ejecución de un test Course Navette a baja intensidad combinado con ejercicios pliométricos profundos."
+      ],
+      "correct_answer": "Un abordaje metabólico libre de impacto axial utilizando cicloergómetros (Wattbike), intervalos en cuerdas o elásticos.",
+      "feedback": "El jugador descargado realiza trabajo de activación estructural, fuerza muy baja isométrico, dinámico de antagonistas y finaliza con un bloque 'metabólico' utilizando equipamiento sin riesgo biomecánico asociado al sprint o saltos (cuerdas, wattbike), induciendo estrés aeróbico/anaeróbico sin amenazar la indemnidad de sus isquiosurales o tendones."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "La ejecución del test isométrico 90/20 a las 48 o 72 horas después de la competición oficial (MD+3) resulta irrelevante, ya que la evidencia indica que los niveles de fatiga muscular en la cadena posterior siempre han retornado completamente a sus valores basales tras un solo día de reposo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Existen evidencias contundentes demostrando que a las 72 horas todavía perdura un remanente sensible de fatiga periférica muscular y daño residual pospartido; por esta razón clínica exacta se aplica el test en el MD+3, pues detecta mermas funcionales que justifiquen adaptaciones inmediatas."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Considerando las evaluaciones iniciales, el diseño de perfiles de entrenamiento de fuerza no emana aleatoriamente, sino de agrupar déficits. Esta categorización (déficit de fuerza, de velocidad o balanceado) se nutre directamente de la evaluación minuciosa de las fases excéntricas y concéntricas al estudiar: ",
+      "options": [
+        "El tiempo empleado en aterrizaje (landing) o absorción (breaking) durante el CMJ y requerimientos posicionales.",
+        "Los rangos máximos de movilidad pasiva observados durante la sesión con los podólogos.",
+        "La tasa de aclaramiento de lactato registrada durante la primera semana de pruebas aeróbicas extensivas.",
+        "La evaluación subjetiva del esfuerzo de la primera semana roja medida a través de cuestionarios Z-score."
+      ],
+      "correct_answer": "El tiempo empleado en aterrizaje (landing) o absorción (breaking) durante el CMJ y requerimientos posicionales.",
+      "feedback": "Alineado con los postulados expuestos sobre el perfil Fuerza-Velocidad (como los trabajos de Morin), los perfiles específicos se diseñan en función de los déficits hallados analizando mecánicamente un Countermovement Jump (CMJ), focalizándose particularmente en cómo el atleta absorbe las fuerzas en las ventanas excéntricas para solventar dicha deficiencia en el gimnasio."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "El trabajo preventivo denominado de 'Nivel 3', generalmente ubicado en los días MD-2 (pre-partido próximo), huye radicalmente de los altos volúmenes hipertróficos para centrarse primordialmente en la aplicación individualizada de ____.",
+      "options": [
+        "saltos con caída (drop jumps) repetidos",
+        "movilidad, relajación y expansión muscular",
+        "estimulación galvánica absoluta"
+      ],
+      "correct_answer": "movilidad, relajación y expansión muscular",
+      "feedback": "Cercano al encuentro (MD-2), el Nivel 3 atiende exigencias estrictamente individuales enfocadas en la restitución tisular y la disipación del tono acumulado. Este nivel busca asegurar la preparación inmediata del jugador mediante movilidad, control pélvico, y relajación profunda del isquiosural y compensación fascial."
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "question": "La toma de decisiones en el deporte de élite respecto al manejo de cargas preventivas está automatizada únicamente por los resultados del software (Z-score), haciendo irrelevante y contraproducente el consenso verbal entre el cuerpo médico y los preparadores físicos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es tajantemente falso. La ponencia enfatiza rotundamente que la comunicación y el consenso entre el staff del servicio médico y el de rendimiento es la piedra angular, 'lo que más beneficio ha dado' y un factor directamente responsable en la reducción objetiva del riesgo lesivo general, según la literatura científica y empírica."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Dentro de un microciclo competitivo estándar, la distribución del trabajo de cadena posterior exige una sincronización rigurosa del carácter de la contracción. Si bien a inicio de semana se consiente el daño residual, ¿cómo debe gestionarse la técnica y la carga de los ejercicios de isquio (ej. peso muerto) cuando el equipo entrena en MD-3 o MD-4?",
+      "options": [
+        "Se incrementa exponencialmente la carga gravitatoria para agotar los sarcómeros a través de excéntricos prolongados más allá de los 6 segundos.",
+        "Se restringe totalmente el uso de resistencias, acudiendo a contracciones voluntarias isométricas puras sin estiramiento tendinoso.",
+        "Se opta por movimientos con un rango excéntrico muy controlado acompañados de cargas ligeras que faciliten intencionalmente la máxima aceleración posterior.",
+        "Se prioriza un aislamiento analítico profundo en máquinas guiadas que restrinjan la transferencia neural intermuscular a toda la cadena cinética cruzada."
+      ],
+      "correct_answer": "Se opta por movimientos con un rango excéntrico muy controlado acompañados de cargas ligeras que faciliten intencionalmente la máxima aceleración posterior.",
+      "feedback": "Una vez pasada la ventana fisiológica de los días MD+1/MD+2 orientada al daño estructural regenerable, en MD-3/MD-4 el contexto demanda preparación neural para la exigencia competitiva cercana. La mecánica muta de buscar rotura sarcomérica a buscar pura activación nerviosa y velocidad de manifestación de fuerza."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "En base a la epidemiología en clubes de alta exigencia, la devastadora tendencia ascendente de lesiones isquiosurales ha constatado que el grueso de estos eventos incapacitantes, afectando predominantemente al vientre y tendón del bíceps femoral, tiene lugar específicamente durante la realización de:",
+      "options": [
+        "Impactos o tackles directos en disputas de balón en el aire.",
+        "Carreras a alta intensidad superando el umbral de sprint máximo.",
+        "Aterrizajes asimétricos después de un remate de cabeza.",
+        "Esfuerzos repetitivos de baja intensidad aeróbica continua (LISS)."
+      ],
+      "correct_answer": "Carreras a alta intensidad superando el umbral de sprint máximo.",
+      "feedback": "Los datos epidemiológicos confirman que cerca de un abrumador 80% de las afectaciones en el bíceps femoral están íntimamente supeditadas biomecánicamente al mecanismo del sprint de alta intensidad. Este acto sitúa al tendón distal de la musculatura en máxima exigencia de estiramiento y contracción simultánea (excéntrica) a grandes velocidades."
+    }
+  ]
+}
