@@ -1,0 +1,223 @@
+{
+  "class_title": "Certificación PSS: Monitorización del Rendimiento Físico mediante Nuevas Tecnologías",
+  "total_questions": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Dos deportistas registran exactamente el mismo valor de potencia máxima en su perfil de salto. Sin embargo, el análisis biomecánico indica que requieren intervenciones de entrenamiento diametralmente opuestas. ¿Por qué ocurre esto?",
+      "options": [
+        "Porque el volumen de entrenamiento previo condiciona la asimilación de nuevas cargas articulares.",
+        "Porque la potencia se alcanza mediante combinaciones distintas; uno puede generarla con alta fuerza y baja velocidad, y el otro a la inversa.",
+        "Porque las diferencias antropométricas invalidan por completo la comparación directa de potencia absoluta entre dos atletas.",
+        "Porque los dispositivos submáximos subestiman sistemáticamente el componente elástico en el deportista de menor peso corporal."
+      ],
+      "correct_answer": "Porque la potencia se alcanza mediante combinaciones distintas; uno puede generarla con alta fuerza y baja velocidad, y el otro a la inversa.",
+      "feedback": "La potencia es el producto matemático de la fuerza por la velocidad. Dos atletas pueden exhibir una potencia máxima idéntica partiendo de perfiles opuestos (uno dependiente de la fuerza absoluta y otro de la velocidad de contracción). Evaluar la altura máxima es insuficiente; perfilar estas variables permite detectar el 'déficit' individual de cada atleta para prescribir un trabajo compensatorio que desplace la curva hacia su perfil óptimo."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "En la evaluación cualitativa de la técnica de carrera de un futbolista, la obtención de una puntuación alta en el cuestionario validado SMAS (Sprint Mechanics Assessment Score) indica un mayor ____.",
+      "options": [
+        "riesgo de lesión isquiotibial",
+        "nivel de fuerza horizontal",
+        "retorno elástico del tendón"
+      ],
+      "correct_answer": "riesgo de lesión isquiotibial",
+      "feedback": "El SMAS es un cuestionario validado de evaluación cualitativa mediante observación en vídeo lateral. Funciona mediante un sistema de penalización: a mayor cantidad de respuestas afirmativas sobre desviaciones técnicas (mayor puntuación por correcciones requeridas, como la anteversión pélvica), el atleta demuestra una cinemática deficiente que predice prospectivamente una mayor probabilidad de sufrir roturas isquiotibiales."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "La inteligencia artificial implementada en aplicaciones móviles validadas permite hoy en día reconocer el despegue y aterrizaje de un salto en cámara lenta sin necesidad de selección manual por parte del evaluador.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La evolución tecnológica en la ciencia del deporte ha permitido integrar modelos de redes neuronales (inteligencia artificial) en dispositivos móviles. Estas funciones analizan los frames del vídeo y determinan automáticamente los instantes exactos de despegue y aterrizaje del salto con gran precisión, eliminando el error humano y acelerando drásticamente el flujo de trabajo del preparador físico."
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "question": "Durante el complejo proceso de 'Return to Play' tras una lesión severa de isquiotibiales, la velocidad máxima de sprint es el último indicador biomecánico en normalizarse antes de alcanzar el alta competitiva segura.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. En la readaptación de patologías isquiotibiales, la velocidad máxima suele recuperarse mucho antes que la capacidad neuromuscular para aplicar fuerza en vector horizontal (F0). Dar el alta competitiva basándose únicamente en recuperar la velocidad máxima enmascara un déficit crítico en la capacidad de aceleración pesada, exponiendo al deportista a un alto riesgo de recidiva."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "En el contexto de la preparación física de alto nivel, la diferenciación conceptual teórica y práctica entre 'testear' y 'monitorizar' radica principalmente en que la monitorización busca:",
+      "options": [
+        "Recopilar datos metabólicos exhaustivos mediante pruebas invasivas semanales estandarizadas.",
+        "Obtener datos frecuentes, de manera rápida y no invasiva, para gestionar la balanza diaria de fatiga.",
+        "Evaluar la condición física máxima del atleta obligatoriamente al inicio y final de la pretemporada.",
+        "Sustituir las pruebas de laboratorio por encuestas puramente cualitativas de percepción subjetiva."
+      ],
+      "correct_answer": "Obtener datos frecuentes, de manera rápida y no invasiva, para gestionar la balanza diaria de fatiga.",
+      "feedback": "El rigor en el alto rendimiento exige distinguir ambos procesos. Mientras que los testeos implican esfuerzos máximos, infrecuentes y agotan al atleta, la monitorización eficaz se sustenta en medir frecuentemente (idealmente a diario), utilizando variables ágiles, accesibles y cero invasivas. Esto permite controlar fluctuaciones sutiles y guiar la recuperación sin que la evaluación en sí misma suponga una carga física extra."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Prescribir la carga de entrenamiento basándose diariamente en una medición directa de la 1RM constituye un error metodológico grave porque asume matemáticamente que el estado de forma del atleta es un valor ____.",
+      "options": [
+        "inalterable y estable",
+        "dependiente del calentamiento",
+        "estrictamente metabólico"
+      ],
+      "correct_answer": "inalterable y estable",
+      "feedback": "Utilizar mediciones de 1RM fijas de principio de mesociclo asume erróneamente que la capacidad del sujeto es estática. La evidencia empírica demuestra que la fuerza máxima fluctúa continuamente a diario por variables biológicas (descanso, estrés, fatiga residual). Prescribir porcentajes sobre una 1RM estática provoca que el estímulo real de la sesión difiera sistemáticamente del estímulo teórico pretendido."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "Al aplicar un control por Velocity Based Training (VBT), entrenar sistemáticamente alcanzando un 40% de pérdida de velocidad en la serie genera mayores adaptaciones crónicas de fuerza máxima que detener la serie al 20%.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es absolutamente falso. Estudios controlados revelan que entrenar hasta un 20% de pérdida de velocidad estimula adaptaciones neuromusculares idénticas a las del 40%. La diferencia crucial es que un umbral del 40% produce un estrés metabólico excesivo (mayor acúmulo de lactato/amonio), destruyendo la 'mínima dosis efectiva' necesaria y penalizando la recuperación del atleta en calendarios competitivos saturados."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "El 'stiffness' o rigidez elástica se considera un factor determinante para maximizar la economía de carrera durante esfuerzos sostenidos. ¿Qué mecanismo biomecánico exacto justifica esta drástica reducción en la fatiga del corredor?",
+      "options": [
+        "La reducción sistemática del tiempo de vuelo entre zancadas disminuye el impacto articular global.",
+        "La anteversión pélvica optimiza dinámicamente la longitud de la musculatura posterior del muslo.",
+        "El tendón acumula energía gratuita al deformarse mínimamente, reduciendo el coste de las contracciones musculares.",
+        "La disminución de la fuerza horizontal máxima permite una mayor y más eficiente cadencia de paso."
+      ],
+      "correct_answer": "El tendón acumula energía gratuita al deformarse mínimamente, reduciendo el coste de las contracciones musculares.",
+      "feedback": "El 'stiffness' evalúa la reactividad del sistema musculotendinoso. Un alto grado de stiffness permite que elementos elásticos como el tendón de Aquiles absorban el impacto con mínima deformación y retornen esa energía elástica inmediatamente en el despegue. Este 'rebote' gratuito disminuye la cantidad de fuerza puramente contráctil (y por ende de oxígeno y energía celular) que el músculo debe generar, mejorando masivamente la economía de carrera."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "El test clínico de campo diseñado por el grupo de investigación de Jurdan Mendiguchía permite evaluar de forma accesible y rigurosa la predisposición a la anteversión pélvica midiendo directamente:",
+      "options": [
+        "Un sprint de 30 metros con marcadores posicionales cada cinco metros para extraer fotogramas.",
+        "La ejecución de saltos con cargas incrementales partiendo de una flexión isométrica a 90 grados.",
+        "El lanzamiento de la pierna hacia arriba estando el sujeto tumbado, midiendo el ángulo que describe.",
+        "La observación detallada del control del tronco durante un sprint máximo grabado lateralmente."
+      ],
+      "correct_answer": "El lanzamiento de la pierna hacia arriba estando el sujeto tumbado, midiendo el ángulo que describe.",
+      "feedback": "Para trasladar investigaciones complejas sobre cinemática pélvica al trabajo diario, se validó este test de camilla (Jordan Sprint Table Test): el atleta en decúbito supino eleva activamente la extremidad inferior recta. El ángulo descrito al lanzar la pierna (fácil de registrar en vídeo) posee una alta correlación clínica con la excesiva basculación pélvica anterior que el jugador desarrollará corriendo a máxima intensidad."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "Al analizar la cinemática de la carrera de fondo, detectar sistemáticamente una caída en la báscula pélvica contralateral (superior a 6 grados) es indicativo de un mayor consumo de oxígeno, pero no está asociado con mayor riesgo lesivo articular.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La posición de la pelvis rige toda la integridad biomecánica. Las investigaciones evidencian rotundamente que los corredores con una caída o báscula pélvica contralateral excesiva presentan una tasa estadísticamente superior de lesiones clínicas graves por sobrecarga (tendinopatía rotuliana, problemas del Aquiles, o afectaciones de la cintilla iliotibial)."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "La modificación y corrección de la técnica de sprint hacia un modelo de atletismo en futbolistas no reporta mejoras de rendimiento temporal en el sprint corto, aunque sí disminuye la tensión sobre la musculatura isquiotibial.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Intervenciones focalizadas en reeducar la técnica de sprint en futbolistas (apenas en 6 semanas) han demostrado una mejora dual muy potente: logran posicionar la pelvis en un rango más neutro disminuyendo la tensión biomecánica del isquiotibial para prevenir roturas, y a la vez mejoran de forma significativa el rendimiento (tiempos más rápidos) en el sprint de 35 metros gracias a una eficiencia mecánica superior."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Durante el proceso de readaptación tras una reconstrucción de LCA, ¿qué ventaja diferencial sitúa al CMJ unilateral como el test neuromuscular preferente para autorizar el retorno a la competición?",
+      "options": [
+        "Su capacidad absoluta para aislar exclusivamente la contribución mecánica de la cadena posterior.",
+        "La posibilidad de evaluar asimetrías objetivas en el índice de fuerza reactivo (RSI) respecto al miembro sano.",
+        "Su nula implicación funcional de la articulación de la cadera durante el momento crítico de impulso.",
+        "La dependencia total de la amplitud de movimiento articular del tobillo en el momento del despegue."
+      ],
+      "correct_answer": "La posibilidad de evaluar asimetrías objetivas en el índice de fuerza reactivo (RSI) respecto al miembro sano.",
+      "feedback": "Alcanzar el alta médica clínica no equivale a estar preparado biomecánicamente para la exigencia del juego. Evaluar el salto de manera unilateral permite al preparador medir variables complejas (como el RSI) e identificar las asimetrías neuromusculares residuales que la pierna reconstruida aún mantiene respecto a la sana, estableciendo una guía rigurosa y basada en datos reales para dictaminar el Return to Play."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Para construir analíticamente el perfil de fuerza-velocidad utilizando las ecuaciones de Samozino sin recurrir a plataformas de fuerza, es estrictamente obligatorio registrar las alturas e introducir ____.",
+      "options": [
+        "el historial lesivo",
+        "la masa corporal total y longitud de pierna",
+        "el biotipo somático de la fibra dominante"
+      ],
+      "correct_answer": "la masa corporal total y longitud de pierna",
+      "feedback": "El profundo mérito de las ecuaciones validadas por los biomecánicos Dicharry y Samozino radica en que transformaron una necesidad instrumental costosa en un simple cálculo matemático viable sobre el terreno. Midiendo un test incremental de saltos combinándolo con parámetros antropométricos elementales (peso del atleta y longitud de pierna), se dibuja con precisión la curva de potencia de empuje."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Durante la medición de rutinas de fuerza utilizando tecnología 'gold standard' como los encoders lineales en ejercicios de peso libre, la validez interna del dato capturado se destruye drásticamente si no se vigila constantemente ____.",
+      "options": [
+        "el ángulo de tracción del cable",
+        "la temperatura de la sala",
+        "la densidad del agarre"
+      ],
+      "correct_answer": "el ángulo de tracción del cable",
+      "feedback": "Los encoders lineales calculan la velocidad midiendo la retracción del propio cable del dispositivo. Estos aparatos no integran compensadores inerciales o giroscópicos para correcciones angulares; por tanto, si durante el levantamiento con peso libre el atleta se inclina o empuja desplazándose del estricto vector vertical, el encoder lee una distancia mayor y corrompe matemáticamente el cálculo real de la velocidad."
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "question": "Al monitorizar la fatiga intra-sesión del sistema nervioso y muscular, la disminución de la altura máxima lograda en el salto vertical presenta una relación lineal directa y predecible con la acumulación sistémica de lactato.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Estudios clásicos de la fisiología del entrenamiento demuestran que, durante picos de trabajo de fuerza (ej. series de sentadillas), existe una asociación matemáticamente lineal, casi perfecta, entre los centímetros que el deportista pierde en su salto vertical respecto a su línea base y la acumulación en sangre de lactato. Esto permite usar un gesto mecánico rápido para evitar pinchazos e incomodidades al evaluar la fatiga aguda."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "¿Cuál es la función crítica indispensable del especialista en ciencias del rendimiento deportivo para asegurar que un departamento técnico de súper élite logre la máxima ventaja competitiva frente a la creciente oleada de métricas biomecánicas?",
+      "options": [
+        "Diseñar algoritmos predictivos exclusivos basados en los datos crudos del GPS a 1000 hercios.",
+        "Traducir la información biomecánica compleja en decisiones prácticas y comprensibles para el cuerpo técnico.",
+        "Sustituir la observación cualitativa subjetiva del entrenador por métricas puramente aisladas de laboratorio.",
+        "Acumular la mayor cantidad de variables y dispositivos posibles para garantizar una superior validez ecológica."
+      ],
+      "correct_answer": "Traducir la información biomecánica compleja en decisiones prácticas y comprensibles para el cuerpo técnico.",
+      "feedback": "En el deporte hiper-profesionalizado se asume el concepto 'Bridge the gap' (cerrar la brecha). Muchos clubes acumulan infinidad de gadgets técnicos pero fallan en la ejecución diaria. El rol fundamental del analista o científico del deporte no es agobiar con variables abstractas, sino depurar la inmensa cantidad de información técnica (laboratorio, cinemática, GPS) destilándola en directrices simples ('menos es más') que el coach puede aplicar instantáneamente."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Al gestionar una plantilla diversa de futbolistas utilizando protocolos de Velocity Based Training, prescribir la intensidad de las cargas recurriendo a tablas normativas generalizadas representa un error técnico profundo porque:",
+      "options": [
+        "El umbral neuromecánico de pérdida de velocidad varía más de un 40% aleatoriamente entre sujetos de la misma edad.",
+        "Los dispositivos móviles carecen de la alta frecuencia de muestreo necesaria para ajustarse a los promedios universales.",
+        "Una misma velocidad absoluta de ejecución representa porcentajes de la 1RM drásticamente distintos para cada atleta.",
+        "La correlación empírica entre la carga aplicada y la velocidad pierde su linealidad clásica en atletas de élite."
+      ],
+      "correct_answer": "Una misma velocidad absoluta de ejecución representa porcentajes de la 1RM drásticamente distintos para cada atleta.",
+      "feedback": "Las investigaciones pioneras en este paradigma comprobaron que la relación carga-velocidad es única y sumamente individual en cada ser humano. Emplear una tabla normativa poblacional que establece que '0,6 m/s es siempre el 60% de la 1RM' ignora que para un jugador de tu plantilla eso puede representar su 50% y para otro el 75%. Esto provoca sobreentrenamientos encubiertos por estímulos excesivos y sub-entrenamientos sistémicos."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Bajo el paradigma del Velocity Based Training, el procedimiento veloz y metódico para descubrir y ajustar la fuerza máxima (1RM) exacta de un atleta en la propia sesión de entrenamiento consiste estrictamente en ____.",
+      "options": [
+        "medir la velocidad de una carga submáxima en el calentamiento",
+        "hacer un test al fallo repeticional con el 70% de carga",
+        "recalcular algoritmos en función de la temperatura muscular"
+      ],
+      "correct_answer": "medir la velocidad de una carga submáxima en el calentamiento",
+      "feedback": "La gran aportación metodológica del VBT es la calibración constante sin fatiga ('daily readiness'). Tras haber creado un perfil carga-velocidad inicial, el entrenador simplemente impone una carga absoluta moderada habitual en el calentamiento. La velocidad de esa repetición se cruza de inmediato en la ecuación individual del sujeto y predice con exactitud su 1RM teórica real de ese día."
+    }
+  ]
+}
