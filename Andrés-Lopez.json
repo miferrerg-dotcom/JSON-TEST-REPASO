@@ -1,0 +1,262 @@
+{
+  "class_title": "Más allá de las métricas tradicionales GPS (Certificación PSS)",
+  "total_questions": 21,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Al analizar los esfuerzos determinantes en deportes de equipo (como desmarques tácticos o repliegues de alta intensidad), la monitorización tradicional mediante la tecnología GPS 2.0 presenta un sesgo cualitativo grave porque:",
+      "options": [
+        "Sobreestima la magnitud de las aceleraciones tangenciales al aplicarlas en distancias excesivamente cortas.",
+        "Omite la fuerza centrípeta y los impactos biomecánicos derivados intrínsecamente de las trayectorias curvilíneas.",
+        "Registra una falsa correlación estadística entre la velocidad pico absoluta y la distancia total recorrida.",
+        "Requiere una calibración constante de los magnetómetros para poder validar la carga metabólica asociada."
+      ],
+      "correct_answer": "Omite la fuerza centrípeta y los impactos biomecánicos derivados intrínsecamente de las trayectorias curvilíneas.",
+      "feedback": "Los esfuerzos a alta velocidad y explosivos en el fútbol rara vez son completamente rectilíneos; implican aceleraciones, desaceleraciones y constantes arcos. El GPS 2.0 deriva sus métricas exclusivamente de la señal de tracking espacial (distancia y tiempo), perdiendo de facto entre el 35% y el 70% del coste del trabajo mecánico multidireccional al desaprovechar los datos provenientes de los giroscopios y acelerómetros internos del dispositivo."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Una elevada colinealidad estadística (r > 0.8) entre métricas tradicionales del GPS, como la distancia a alta velocidad (HSR) y el número absoluto de aceleraciones, refleja un fallo estructural que obliga al analista a buscar variables que sean genuinamente:",
+      "options": [
+        "Totalmente independientes de la velocidad submáxima.",
+        "Derivadas en exclusiva del posicionamiento de tracking satelital.",
+        "Complementarias y no repetitivas matemáticamente.",
+        "Vinculadas de forma intrínseca a la frecuencia cardíaca máxima."
+      ],
+      "correct_answer": "Complementarias y no repetitivas matemáticamente.",
+      "feedback": "Dado que todas las variables del GPS 2.0 provienen de la misma raíz matemática (tiempo y el desplazamiento de la señal satelital), cruzar métricas como HSR, distancia explosiva o sprints aporta esencialmente la misma información bajo distintos nombres técnicos. La solución para una evaluación de élite es integrar métricas complementarias que aporten nuevas dimensiones fisiológicas, como el trabajo mecánico multidireccional y las aceleraciones inerciales."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "El uso exclusivo de tecnología avanzada como plataformas de fuerza o dispositivos inerciales de posicionamiento global garantiza por sí solo una cuantificación precisa de la carga interna metabólica del deportista.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Según el modelo conceptual del cuadrante de monitorización de Martin Buchheit, los dispositivos GPS y herramientas de acelerometría se ubican estrictamente como instrumentos idóneos para cuantificar la carga neuromuscular y la respuesta neuromuscular, pero no la metabólica. Intentar extraer conclusiones absolutas de respuesta metabólica interna directamente de estas herramientas descriptivas es un error metodológico básico."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el procedimiento técnico matemático fundamentado en el concepto de GPS 3.0 para obtener el vector de aceleración completo de un jugador durante una acción en el campo?",
+      "options": [
+        "Sumar la aceleración derivada de la velocidad satelital con los picos de impacto vertical del acelerómetro de tronco.",
+        "Acoplar la aceleración centrípeta obtenida a través de los sensores inerciales directamente con la aceleración tangencial.",
+        "Calcular la integral matemática de la velocidad angular y dividir el producto por el peso corporal absoluto del deportista.",
+        "Multiplicar el tiempo de vuelo estructural por la magnitud de la aceleración resultante en los planos frontal y sagital."
+      ],
+      "correct_answer": "Acoplar la aceleración centrípeta obtenida a través de los sensores inerciales directamente con la aceleración tangencial.",
+      "feedback": "El vector de aceleración total (y consecuentemente la carga mecánica real) solo puede computarse combinando la aceleración tangencial (el incremento lineal de la velocidad a lo largo del trayecto) con la aceleración centrípeta (derivada de la lectura de sensores inerciales como el giroscopio al negociar curvas o ejecutar cambios de dirección cerrados). Esta fusión refleja verazmente el castigo mecánico que debe soportar la musculatura del atleta."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "La carga física impuesta por un \"football specific drill\" repleto de cambios de dirección constantes arroja registros prácticamente idénticos a los de una carrera puramente lineal descontextualizada si el análisis se limita a métricas clásicas de GPS 2.0.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Las métricas del modelo tradicional (High Speed Running, velocidad máxima absoluta, recuento de aceleraciones) reportan volúmenes idénticos si la distancia y el tiempo coinciden, independientemente de la trayectoria. Esto genera un vacío analítico, pues igualar los números oculta deliberadamente el enorme coste neuromuscular adicional (hasta un 70% de subestimación del trabajo mecánico) provocado por las rotaciones, giros y frenadas tácticas."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "El cálculo de la integral a lo largo del tiempo de la variable 'Mechanical Power' (expresada en vatios/kg) arroja como resultado final el volumen acumulado del esfuerzo, concepto conocido técnicamente como ____.",
+      "options": [
+        "densidad de intensidad",
+        "carga interna de sesión",
+        "trabajo mecánico"
+      ],
+      "correct_answer": "trabajo mecánico",
+      "feedback": "El 'mechanical power' (potencia mecánica) refleja la magnitud de intensidad mecánica instantánea en relación con la masa del sujeto. Cuando se aplica un cálculo integral de esta variable a lo largo del periodo de tiempo monitorizado en la sesión, obtenemos la cantidad total de energía volcada al movimiento, parametrizada como 'trabajo mecánico', una métrica esencial para un correcto control de carga."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Durante un protocolo de Return to Play avanzado de una rotura en el recto femoral, el readaptador desea inducir un alto volumen de carga mecánica pero protegiendo de forma estricta al tejido ante picos de estrés excéntrico derivados de fuertes frenadas y giros agudos. ¿Qué distribución de carga biomecánica debe diseñar mediante la información del GPS 3.0?",
+      "options": [
+        "Maximizar el 'Mechanical Work Fight' y limitar al mínimo el 'Mechanical Work Stride'.",
+        "Maximizar el 'Mechanical Work Stride' y mantener controlados los picos de 'Mechanical Work Side' (Fight).",
+        "Maximizar el Vector de Aceleración Tangencial y reducir los metros de High Speed Running.",
+        "Maximizar la asimilación de la aceleración centrípeta y suprimir el Mechanical Power absoluto."
+      ],
+      "correct_answer": "Maximizar el 'Mechanical Work Stride' y mantener controlados los picos de 'Mechanical Work Side' (Fight).",
+      "feedback": "El 'Mechanical Work Stride' describe aquel trabajo de naturaleza constante y lineal (altamente dominante en isquiotibiales y tríceps sural), siendo la opción idónea en fases donde la capacidad de rotación, el frenado abrupto y los cambios en el plano frontal son factores de riesgo altísimos para el cuádriceps (recto femoral). Por contra, el 'Side' o 'Fight' condensa las frenadas y giros, solicitando de forma muy agresiva el recto femoral y la musculatura de cadera, por lo que debe reintroducirse con extremada cautela."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "Al someter repetidamente a un futbolista a volúmenes elevados de Mechanical Work Side (o Fight), la fatigabilidad aguda medida a través del estado de readiness neuromuscular (mediante tecnología de miografía) resulta significativamente mayor en comparación con la exposición al mismo volumen de trabajo puramente lineal (Stride).",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La evidencia empírica evaluada mediante respuestas neuromusculares constata que las acciones multidireccionales cortas, trayectorias curvas y frenadas abruptas (Mechanical Work Fight) poseen una relación de causalidad más directa con la aparición de una fatiga severa (generando desplomes de hasta el 20% en el readiness) que el trabajo puramente continuo o lineal, que plantea una fatiga mucho más moderada y gestionable."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "La estrategia algorítmica de fragmentar la sesión en ventanas temporales estáticas de un minuto, midiendo cuántos bloques superan un porcentaje del valor máximo de competición, está diseñada primariamente para descubrir la verdadera:",
+      "options": [
+        "Densidad de la matriz de trabajo celular.",
+        "Simetría de impactos en el plano transversal.",
+        "Densidad real de intensidad del trabajo.",
+        "Expresión máxima de la vía fosfagénica aláctica."
+      ],
+      "correct_answer": "Densidad real de intensidad del trabajo.",
+      "feedback": "El concepto metodológico de 'Tiempo de Intensidad' plantea el análisis micro-temporal (bloques de 60 segundos) para vislumbrar la densidad real y los patrones de agrupación del esfuerzo. Así, un entrenamiento puede mostrar volúmenes globales correctos pero una densidad irrealmente baja o diluida en el tiempo, impidiendo que el metabolismo y el sistema neural del deportista experimenten el estrés agrupado (caos) característico del escenario competitivo."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Un cuerpo técnico detecta que un atleta en fase final de readaptación cumple consistentemente con los volúmenes objetivo marcados para distancia a alta velocidad (HSR) y aceleraciones máximas tradicionales, pero al insertarlo en juego real exhibe intolerancia precoz a la fatiga y decaimiento del rendimiento. Desde el análisis biomecánico, ¿qué factor oculto explica este falso optimismo?",
+      "options": [
+        "Los umbrales de velocidad de las plataformas han sido parametrizados en valores poblacionales estándar y no de forma individualizada según su ratio biológico.",
+        "Los drills cerrados emulan los picos máximos, pero carecen crónicamente de la intermitencia caótica y las múltiples transiciones acumuladas en el umbral del trabajo mecánico curvilíneo (Fight).",
+        "El jugador es víctima de un déficit grave de potencia láctica celular, parámetro que los sistemas de acelerometría y tracking son totalmente ineficaces para predecir en contexto de campo.",
+        "La tecnología de rastreo satelital comercial sufre de deriva temporal y subestima las distancias de alta intensidad si los protocolos superan la ventana de 60 minutos ininterrumpidos."
+      ],
+      "correct_answer": "Los drills cerrados emulan los picos máximos, pero carecen crónicamente de la intermitencia caótica y las múltiples transiciones acumuladas en el umbral del trabajo mecánico curvilíneo (Fight).",
+      "feedback": "El error clásico reside en ejecutar una readaptación bajo la tiranía del volumen lineal simple. Cumplir con los totales de HSR es viable utilizando tareas descontextualizadas (tipo box-to-box o rectas prolongadas), dando \"luz verde\" estadística al alta. No obstante, al ignorar la enorme densidad de trabajo intermedio curvilíneo, giros y arranques continuos ('Fight' o 'Side'), el atleta fracasa en competición por su incapacidad para tolerar la densa toxicidad de la fatiga específica del caos multivectorial de los deportes colectivos."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "El fenómeno de la \"ceguera inatencional\", ejemplificado mediante el reto cognitivo de contar los pases e ignorar visualmente la intromisión de un estímulo ajeno (el oso haciendo moonwalk), sugiere que enfocar rígidamente la atención del análisis del equipo en el cumplimiento exclusivo de métricas lineales promueve la ocultación sistemática de cargas perjudiciales subyacentes.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es absolutamente verdadero. La alegoría evidencia que el cerebro humano (y los sistemas de análisis limitados por un sesgo de confirmación) omitirá activamente dinámicas determinantes. Si un cuerpo técnico vive pendiente del semáforo verde en la caja del volumen total de High Speed Running, la carga mecánica acumulada de manera silente por frenadas tácticas, trayectorias curvadas y estrés rotacional pasará completamente inadvertida, aumentando irresponsablemente el riesgo de lesión y sobreentrenamiento."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "En un caso clínico de mala adaptación isquiosural, el análisis de primer nivel (HSR) mostraba curvas estables, mientras que las variables extraídas por el GPS 3.0 no paraban de ____.",
+      "options": [
+        "marcar ceros continuos",
+        "incrementar silenciosamente",
+        "saturar el ancho de banda"
+      ],
+      "correct_answer": "incrementar silenciosamente",
+      "feedback": "El engaño estadístico es letal en el Return to Play. El cuerpo técnico percibía el microciclo como estabilizado, puesto que el jugador no incrementaba sus cuotas de aceleraciones clásicas ni sprintaba distancias mayores. Sin embargo, las demandas espaciales y técnicas ocultas en la tipología del drill provocaron una escalada vertiginosa e inadvertida del trabajo mecánico Fight y Stride, lo que desencadenó un aplastamiento neurológico (readiness) del deportista hasta agotar su reserva funcional."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "En la deconstrucción biomecánica del 'Mechanical Work Side', ¿qué patrón de esfuerzos específicos fundamenta su enorme nivel de solicitación sobre la musculatura estabilizadora y frenadora (cadera, abductores, isquiosurales distales y cuádriceps)?",
+      "options": [
+        "Su derivación se produce en exclusiva cuando el atleta acumula tiempo de fase de vuelo con velocidad lineal mantenida superior a 21 km/h constantes.",
+        "Es un producto numérico que consolida los picos de las fuerzas de reacción del suelo exclusivamente durante el aterrizaje derivado de saltos balísticos de máxima implicación vertical.",
+        "Integra de forma holística todas aquellas acciones que comportan cambios bruscos de vector (giros, alteraciones de trayectoria en espacios reducidos) y frenadas de gran componente excéntrico y lateral.",
+        "Su algoritmo está programado para discriminar el trabajo excéntrico y enfocarse asimétricamente en la fase concéntrica de sprints en rangos de metabolismo puramente aeróbico."
+      ],
+      "correct_answer": "Integra de forma holística todas aquellas acciones que comportan cambios bruscos de vector (giros, alteraciones de trayectoria en espacios reducidos) y frenadas de gran componente excéntrico y lateral.",
+      "feedback": "La tipificación 'Side' encapsula eventos mecánicos dominados por altas tasas de fuerza excéntrica empleada para disipar masa en movimiento (las frenadas estresan el cuádriceps) y potentes reactivaciones de cadena lateral para los giros o redirecciones espaciales (glúteos, aductores, abductores). Todo este trabajo asimétrico y lateral requiere de fuertes torques articulares para el control postural en planos cruzados, lo cual es invisible desde la óptica puramente lineal de las otras métricas."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Si una estructura técnica basase la validación de su rendimiento exclusivamente en la masiva volumetría de test implementados semanalmente (recolección continua de variables en plataformas de fuerza, termografía, diarios RPE y analítica de GPS), el riesgo principal alertado en la certificación recaería sobre:",
+      "options": [
+        "La potencial saturación algorítmica de los sensores inerciales microelectromecánicos del dispositivo y consecuente degradación de los logs de los acelerómetros.",
+        "El aumento incontrolable de los costes de licencias tecnológicas, lo cual penaliza enormemente la practicabilidad del proceso e impide el modelo de monitorización ágil.",
+        "Obtener lecturas crónicas de readiness severamente infladas, generadas por el efecto espurio del aprendizaje motor residual por el que el atleta hackea crónicamente el test.",
+        "Sumergirse en una mera acumulación pasiva y descriptiva de macrodatos en lugar de la ineludible fase de transformación analítica para extraer información que imponga decisiones reales sobre el atleta."
+      ],
+      "correct_answer": "Sumergirse en una mera acumulación pasiva y descriptiva de macrodatos en lugar de la ineludible fase de transformación analítica para extraer información que imponga decisiones reales sobre el atleta.",
+      "feedback": "Acumular un mar de datos es hoy trivial; la élite se diferencia en el procesamiento e interpretación rigurosa del dato para dictar el entrenamiento. Igual que instalar un pluviómetro y un medidor de presión en el techo no convierte a alguien en meteorólogo capacitado, la evaluación vacía de la toma de decisiones carece de aplicación biológica. Si la captura no modifica el diseño inminente de la tarea para salvaguardar o potenciar al jugador, todo el aparataje metodológico se vuelve completamente inútil."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "A nivel filogenético y de demandas del juego, los deportes de equipo se separan metodológicamente de los de índole individual de perfil cíclico al caracterizarse por una distribución intermitente y fundamentalmente ____.",
+      "options": [
+        "puramente excéntrica",
+        "altamente caótica",
+        "aeróbico estricta"
+      ],
+      "correct_answer": "altamente caótica",
+      "feedback": "Frente al modelo ordenado, predecible y cuasi-estable del rendimiento atlético puro en distancias medias, los deportes colectivos de invasión experimentan una incesante cascada de perturbaciones asincrónicas, donde la intensidad transita desde fases transitorias de inactividad técnica hasta explosiones cinemáticas absolutas en micro-espacios que predeciden los instantes de mayor riesgo competitivo y de lesión."
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "question": "Para poder estandarizar la nueva variable macroscópica denominada \"Tiempo de Intensidad\", la directriz científica obliga a implementar una frontera única de velocidad pico, como los 21 km/h, empleada de manera monolítica para auditar a toda la plantilla.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La fortaleza inherente del 'Tiempo de Intensidad' radica en su máxima individualización ecofisiológica. Requiere calcular expresamente la expresión biomecánica máxima de ese atleta (ej., el pico de Mechanical Power exhibido por un central durante una horquilla sostenida de 60 segundos dentro del juego real) para extraer un límite relacional (ej. el 80% de SU capacidad de cresta de partido). Homogeneizarlo anularía la especificidad posicional."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Al cruzar variables durante la investigación de validación empírica con la tecnología neuromecánica Myosen, ¿cuál fue el patrón detectado en la degradación neural del cuadriceps tras exponer a deportistas a una acumulación severa (7-8 minutos) de la variable de estrés mecánico rotacional (Fight)?",
+      "options": [
+        "Un efecto de supercompensación aguda mediada por inhibición recíproca de los músculos isquiosurales antagonistas que derivaba en incrementos del pico de fuerza.",
+        "Una resiliencia de la frescura muscular (Readiness) con fluctuaciones ínfimas en torno a un -5%, probando su inocuidad en microciclos densos.",
+        "Incremento marcado y sostenido de la temperatura tisular local facilitando una respuesta termorreguladora de protección, bloqueando la fatiga profunda temporalmente.",
+        "Desencadenó una progresión abismal del índice de fatigabilidad central y periférica, concretando desplomes estructurales (caídas mayores al 20%) de su valor base de Readiness."
+      ],
+      "correct_answer": "Desencadenó una progresión abismal del índice de fatigabilidad central y periférica, concretando desplomes estructurales (caídas mayores al 20%) de su valor base de Readiness.",
+      "feedback": "El cruce de biomarcadores desvela el potencial destructor del esfuerzo curvilíneo. Mientras 1 a 2 minutos generaban un lastre marginal asimilable del 5%, la imposición de duraciones sostenidas de 7 u 8 minutos de frenadas y cambios multi-ángulares (Fight) produjo una erosión catastrófica de los parámetros de respuesta electro-neural del vasto (caídas de hasta 20%), evidenciando que obviar el sumatorio de trabajo lateral conlleva sobrentrenar inevitablemente."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Confeccionar cuadros de mando visuales basados en z-scores es avanzado, pero este enfoque sigue atrapado conceptualmente en su limitación de origen, dado que todo el software tradicional deriva matemáticamente de la ____.",
+      "options": [
+        "tasa de impacto osteoarticular crónico",
+        "señal de desplazamiento y tiempo",
+        "fatiga metabólica ventilatoria"
+      ],
+      "correct_answer": "señal de desplazamiento y tiempo",
+      "feedback": "Por muy robusto y exquisito que sea el andamiaje estadístico y la arquitectura visual implementada (matrices cromáticas referenciales, umbrales gaussianos, desviaciones relativas diarias), la tecnología 2.0 está sometida al pecado original: la captura exclusiva del tracking o rastro satelital (distancia por unidad de tiempo). Al descartar enteramente las métricas micro-angulares de la Unidad de Medición Inercial interna, se están pintando de colores los mismos datos incompletos."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Al contrastar comparativamente la arquitectura de intensidades de un partido frente a la arquitectura de una sesión de Readaptación avanzada orientada al RTP, emerge un déficit oculto pero fundamental en los umbrales de esfuerzo intermedio (cercanos al 60%). ¿Qué anomalía revelan concretamente las métricas?",
+      "options": [
+        "Las intervenciones cerradas de readaptación sobre-inflan absurdamente el volumen de fatiga en umbrales de estrés del 60%, rebasando las cifras crónicas de la temporada regular en más de un 100%.",
+        "Al estar obsesionados en recrear los picos cimeros de estrés (80%), las sesiones analíticas se dejan atrás una ingente bolsa de carga mecánica intermedia (ej. 12 mins logrados vs 21 mins competitivos), provocando un desbalance de densidad crónico.",
+        "Los micro-esfuerzos al 60% en readaptación exigen un predominio sistemático y forzado del sistema aeróbico láctico sub-máximo, el cual no guarda relación cinemática alguna con las capacidades del fútbol contemporáneo.",
+        "En los estratos del 60%, las métricas de rastreo satelital pierden drásticamente su precisión de muestreo frente a la inercial, volviendo virtualmente nula la trazabilidad empírica del readaptador."
+      ],
+      "correct_answer": "Al estar obsesionados en recrear los picos cimeros de estrés (80%), las sesiones analíticas se dejan atrás una ingente bolsa de carga mecánica intermedia (ej. 12 mins logrados vs 21 mins competitivos), provocando un desbalance de densidad crónico.",
+      "feedback": "Un error transversal en el modelo de readaptación radica en conformarse con empatar el cronómetro o volumen acumulado de los hitos pico (umbrales del 80-90%), propiciando el falso optimismo del alta médica. Al analizar con bisturí franjas inferiores (como la cuota del 60%), descubrimos que el caos intermitente de la competición de élite demanda hasta 21 minutos de exposición a esta intensidad media que la readaptación clínica sistemáticamente falla en estimular (alcanzando solo unos magros 12 minutos), exponiendo al atleta a una futura debilidad de fondo para sostener la densidad del fútbol."
+    },
+    {
+      "id": 20,
+      "type": "true_false",
+      "question": "En el vector bidimensional de aceleración integrado, el componente de la aceleración tangencial se caracteriza matemáticamente por arrojar valores distintos de cero única y exclusivamente en aquellas fracciones espaciales donde el deportista delinea trayectorias que incorporen arcos pronunciados o giros rotacionales.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La aceleración tangencial codifica las alteraciones escalares (incrementos y decrementos temporales) de la velocidad que experimenta la masa del jugador trazada sobre su misma línea proyectiva de recorrido. Dicho llanamente, un jugador detonando una aceleración en una línea puramente recta marcará registros potentísimos de aceleración tangencial, mientras que su variable asociada ortogonalmente (la aceleración centrípeta) figurará a cero al no existir disipación de fuerzas laterales de torsión o curva."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Si un científico deportivo quiere garantizar la solidez neural que demandará la alta competición sobre su atleta, la sesión no solo debe igualar el volumen, sino atestiguar la existencia constante de ____.",
+      "options": [
+        "sesiones de recuperación pasiva",
+        "extracciones capilares intra-esfuerzo",
+        "entradas y salidas en zonas altas"
+      ],
+      "correct_answer": "entradas y salidas en zonas altas",
+      "feedback": "El gran revelador metodológico de la intensidad radica en su oscilación perpetua. En competición, el atleta fractura sus métricas al entrar de forma repentina en umbrales máximos (>80%), caer súbitamente en densidad, volver a repuntar inmediatamente, generando una 'sierra de corte' hiperdensa (múltiples intermitencias). Una sesión estéril de volumen lineal cumplirá el check acumulativo, pero su escasez en el ratio y frenetismo de estas entradas y salidas ocultará una alarmante debilidad en el aguante del verdadero ritmo de estrés caótico competitivo."
+    }
+  ]
+}
