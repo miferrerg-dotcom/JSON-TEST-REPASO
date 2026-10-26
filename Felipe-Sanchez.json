@@ -1,0 +1,201 @@
+{
+  "class_title": "Monitorización de las cargas de entrenamiento en deportes de combate",
+  "total_questions": 16,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Un judoca completa una sesión combinada técnica y física con una duración exacta de 120 minutos, reportando al finalizar un valor de 6 en la Escala de Borg. ¿Cuál es el impacto total de esta sesión expresado como carga de entrenamiento metodológica (sRPE)?",
+      "options": [
+        "126 unidades arbitrarias.",
+        "20 unidades arbitrarias dependientes del volumen láctico.",
+        "720 unidades arbitrarias.",
+        "600 unidades arbitrarias en función del estrés neuromuscular."
+      ],
+      "correct_answer": "720 unidades arbitrarias.",
+      "feedback": "El cálculo de la Sesión RPE (sRPE) es un método validado y de alta correlación con los TRIMP cardíacos para la cuantificación de la carga interna. Se obtiene multiplicando de forma directa el volumen cronológico de la sesión (en minutos) por la intensidad subjetiva reportada. En este escenario empírico, 120 minutos multiplicados por una intensidad de 6 generan una carga metabólica total de 720 unidades arbitrarias (AU)."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "La investigación histórica del rendimiento deportivo refleja que la mejora ininterrumpida de las marcas mundiales en las últimas décadas no obedece a un aumento del volumen total de horas, sino a la maximización cualitativa del entrenamiento.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La revisión del rendimiento, con fuerte apoyo en el análisis de Issurin (2010), expone empíricamente que los volúmenes totales de horas de trabajo disminuyeron en comparación a décadas pasadas. La adaptación óptima obedece hoy a la maximización cualitativa del entrenamiento inteligente y a una dosificación monitorizada, evidenciando que el exceso crónico de trabajo no correlaciona con la élite del rendimiento."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Recolectar datos diarios ininterrumpidos sobre la variabilidad de la frecuencia cardíaca, emitir cuestionarios de bienestar y registrar valores de RPE carece de valor fisiológico y práctico si el cuerpo técnico falla en ____.",
+      "options": [
+        "publicar informes biométricos formales",
+        "interpretar y aplicar ajustes",
+        "calcular el índice DSI máximo"
+      ],
+      "correct_answer": "interpretar y aplicar ajustes",
+      "feedback": "La recolección y arquitectura de los datos deportiva es tan solo el paso fundacional. Si el registro sistemático no provoca una fase hermenéutica en la que se modulen dinámicamente las cargas, se prescriban tiempos de regeneración, o se alteren los estímulos del microciclo intradía, todo el sistema de monitorización se degrada a simple ruido estadístico improductivo."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el margen homeostático óptimo del ratio de fatiga aguda frente a fatiga crónica (ACWR) diseñado para minimizar el riesgo de lesión tisular maximizando simultáneamente el rendimiento neuromuscular?",
+      "options": [
+        "0.5 - 0.8",
+        "0.8 - 1.3",
+        "1.5 - 2.0",
+        "1.0 - 1.5"
+      ],
+      "correct_answer": "0.8 - 1.3",
+      "feedback": "El ecosistema preventivo identifica un 'sweet spot' o ventana de máxima rentabilidad fisiológica cuando la relación (ACWR) oscila entre 0.8 y 1.3. Sostener la cinética de carga del atleta en este estrecho margen protege el equilibrio adaptativo al equiparar la demanda mecánica semanal aguda contra la resiliencia estructural generada en el modelo crónico de las cuatro semanas precedentes."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Para reprimir la prevalencia endémica de patologías y roturas, se implementa el modelo biomédico del queso suizo, que dicta que las catástrofes tisulares afloran ante una alineación de vulnerabilidades, obligando al sistema a intentar ____.",
+      "options": [
+        "reducir todos los agujeros posibles",
+        "eliminar permanentemente la carga externa",
+        "automatizar el gesto isométrico"
+      ],
+      "correct_answer": "reducir todos los agujeros posibles",
+      "feedback": "La conceptualización lesiva multifactorial describe a la lesión como la permeabilidad sistémica ante múltiples errores acumulados: una merma del sueño, un déficit técnico, un incremento espurio en la monotonía y mala dosificación. La única profilaxis efectiva exige que entrenador y deportista co-asuman la responsabilidad de establecer rutinas de minimización de riesgo, tapando sistemáticamente todas estas deficiencias o 'agujeros' operativos."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Si la monitorización detecta una Percepción Subjetiva del Esfuerzo (RPE) inusualmente exacerbada de un luchador tras una matriz de entrenamiento planificada objetivamente con un volumen mínimo y una densidad altamente fragmentada, indica una disfunción directa en la:",
+      "options": [
+        "Carga externa programada biomecánicamente por el equipo científico.",
+        "Arquitectura de la curva transversal de la fuerza-velocidad en contracciones auxotónicas.",
+        "Respuesta de la carga interna.",
+        "Estructura cinemática del tejido ligamentoso."
+      ],
+      "correct_answer": "Respuesta de la carga interna.",
+      "feedback": "La carga externa se mantuvo cuantitativamente ínfima e invariable, pero la carga interna (el peaje biológico y cognitivo impuesto por ese trabajo) se disparó en el atleta. Esta desconexión neurofisiológica es una sintomatología temprana de que los sistemas de recuperación del sujeto están mermados o en fatiga residual profunda, afectando de forma aguda su percepción nociceptiva y de esfuerzo."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "Bajo planificaciones milimétricamente idénticas orientadas al mismo ciclo olímpico, la respuesta individual del sistema adaptativo de distintos atletas encuadrados en la misma categoría técnica de peso resultará idéntica en carga interna.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La premisa del principio de individualización biológica establece que un estímulo externo (Targeted Training Load) idéntico genera variaciones abismales a nivel endógeno. Factores genéticos, perfiles de dominancia muscular, variabilidad emocional y el historial de lesiones provocan cascadas adaptativas heterogéneas, demandando que todo entrenamiento se desvíe y personalice tras el screening inicial."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "El Dynamic Strength Index (DSI) funciona como un ratio biomecánico de élite fundamental para perfilar a nivel motriz al combatiente. ¿Qué variables interactúan y cómo se establece matemáticamente esta métrica específica?",
+      "options": [
+        "Dividiendo la fuerza máxima dinámica entre la fuerza máxima isométrica.",
+        "Multiplicando la altura bruta del salto vertical propulsivo por el tiempo exacto de vuelo bi-podal.",
+        "Aislando la carga total semanal absoluta y dividiéndola entre la desviación estándar volumétrica del macrociclo.",
+        "Restando la fuerza máxima concéntrica reactiva desarrollada en el test de saltos continuos (RSI)."
+      ],
+      "correct_answer": "Dividiendo la fuerza máxima dinámica entre la fuerza máxima isométrica.",
+      "feedback": "El Índice de Fuerza Dinámica es un indicador de déficit de potencia. Estructuralmente, divide la producción de fuerza en un ambiente puramente dinámico, balístico e ineludiblemente veloz (usualmente el pico de fuerza del CMJ) por la capacidad de producción de fuerza estricta y absoluta (medida estáticamente en el Tirón Isométrico de Medio Muslo - IMTP). Esta cuantificación dicta el vector del próximo bloque de entrenamiento (fuerza máxima vs trabajo pliométrico/potencia)."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Al estructurar el avance ondulatorio en las macroestructuras, someter a los atletas a fluctuaciones agudas de intensidad que rompan la barrera del incremento del 10% sobre la carga base semanal dispara agresivamente la probabilidad de lesión.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La evidencia epidemiológica ha solidificado la regla dorada del 10%. Alterar el tonelaje o la intensidad semanal por encima de este dintel rompe el rango de tolerancia estructural tisular, produciendo disrupciones y microrroturas que el mecanismo de supercompensación aguda no tiene capacidad de asimilar a tiempo, precipitando estresores mecánicos que terminan invariablemente en lesión grave."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "La jerarquía arquitectónica de la NSCA postula que para una correcta regeneración en el alto rendimiento, las plataformas tecnológicas modernas como inmersión profunda con contrastes y oxigenación hiperbárica anulan y suplantan los requerimientos básicos de sueño ininterrumpido.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Toda la base de la pirámide de recuperación de la NSCA recae íntegramente en las respuestas endógenas más esenciales, gratuitas y de mayor impacto hormonal: el descanso de alta densidad, la normalización del sueño profundo y el timing de la ingesta nutricional. Las intervenciones extrínsecas tecnológicas o fisioterapéuticas aportan beneficios marginales (aunque valiosos) pero no sustituyen el eje estructural basal."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "En la evaluación funcional de bajo coste, el protocolo de saltos con contramovimiento (CMJ) de uso microcíclico está diseñado principalmente como filtro primario de control biológico para:",
+      "options": [
+        "Monitorizar el estado de fatiga neuromuscular y observar asimetrías de producción de potencia post-lesión.",
+        "Medir indirectamente el consumo máximo de oxígeno celular a lo largo del proceso del combate.",
+        "Calcular de forma directa y absoluta la fuerza máxima isométrica central del atleta para reajustar los TRIMP diarios.",
+        "Desagregar estadísticamente el índice de monotonía provocado por los encuadres puramente isocinéticos."
+      ],
+      "correct_answer": "Monitorizar el estado de fatiga neuromuscular y observar asimetrías de producción de potencia post-lesión.",
+      "feedback": "El CMJ resalta por su extremada sensibilidad y reactividad a las fluctuaciones del sistema nervioso autónomo. La degradación de las métricas de vuelo y tiempos de contacto sirven como un bio-marcador temprano de la inhibición e ineficiencia neuromuscular (fatiga latente). Además, la monitorización continua permite aislar disparidades asimétricas entre el rendimiento de ambos miembros tras episodios de rehabilitación."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "En el marco regulatorio oficial y restrictivo de los deportes de agarre de combate, la irrupción tecnológica de los protectores bucales inteligentes ha resuelto una grave deficiencia de la recolección biométrica porque:",
+      "options": [
+        "Ofrecen protección dental primaria a la vez que miden el nivel exacto de concentración de ácido láctico en la saliva del luchador durante las fases de alta intensidad anaeróbica.",
+        "Evitan el uso de bandas torácicas que resultan un impedimento táctico por agarres y que sufren una prohibición reglamentaria generalizada en los escenarios competitivos.",
+        "Interfieren proactivamente enviando microimpulsos al complejo maxilofacial, logrando bloquear la sobretensión producida en la fatiga extrema.",
+        "Aíslan la medición del centro de gravedad, permitiendo trazar de forma unívoca y predictiva la desviación estándar de la aceleración."
+      ],
+      "correct_answer": "Evitan el uso de bandas torácicas que resultan un impedimento táctico por agarres y que sufren una prohibición reglamentaria generalizada en los escenarios competitivos.",
+      "feedback": "Las bandas convencionales de telemetría de frecuencia cardíaca introducen fricción y distorsión biomecánica en judo o lucha, siendo propensas a ser enganchadas y estrictamente excluidas de los protocolos oficiales de torneo. Las unidades biométricas vestibles (wearables) acopladas a protectores bucales eliminan el factor intrusivo extracorporal, facilitando una recolección cardiovascular sin fricciones y altamente ecológica."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "El Índice de Monotonía, al sostener un ratio por encima de 2.0 constante durante el microciclo, es el precursor estadístico absoluto que advierte que el grupo está operando bajo una supresión crítica de variabilidad y un crecimiento directo del riesgo a ____.",
+      "options": [
+        "una hipertrofia sarcoplasmática pasiva",
+        "sufrir lesiones traumáticas o por sobreuso",
+        "una supercompensación asimétrica del sistema aeróbico"
+      ],
+      "correct_answer": "sufrir lesiones traumáticas o por sobreuso",
+      "feedback": "Al normalizar estadísticamente la carga, dividir el promedio de trabajo semanal entre la desviación estándar del mismo expone la existencia o carencia de variabilidad. Valores superiores a 2.0 demuestran una arquitectura plana y saturada de los estímulos, donde la carencia de picos y caídas regenerativas conduce a una fatiga residual en tejidos tendinosos y musculares, desatando invariablemente lesiones sistémicas."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "Para poseer viabilidad en la prescripción diaria de cargas, la Variabilidad de la Frecuencia Cardíaca (HRV) debe registrarse de forma longitudinal y estructurada al amanecer en un estado de reposo neutral, no de forma inmediata tras un esfuerzo máximo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La utilidad metodológica de la HRV radica en desentrañar el estado basal del balance neuroautonómico (parasimpático vs simpático). Si se captura inmediatamente tras un trabajo máximo, los datos revelarán únicamente el estrés homeostático agudo temporal. Su medición debe estandarizarse al despertar para guiar efectivamente el 'Readiness'."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Estudios comportamentales de planificación confirmaron la existencia de un sesgo en la autopercepción de los estímulos de la carga objetivo (Targeted Training Load). ¿Qué patrón conductual específico genera desajustes continuos en la dosificación?",
+      "options": [
+        "Los deportistas regulan inherentemente a la baja, percibiendo las sesiones de exigencia extrema como algo más suaves y empujando las sesiones regenerativas por encima de su pauta objetiva.",
+        "Existe una disonancia absoluta en la que los picos de estrés puramente anaeróbico neutralizan los receptores vestibulares alterando el índice sRPE.",
+        "El índice de monotonía cardiovascular colapsa ante cuestionarios RPE en los atletas de categorías de peso bajas, sobrestimando sus resultados un 50%.",
+        "En bloques integrados puramente tácticos, la evaluación subjetiva se torna nula porque la adaptación del sistema nervioso borra los umbrales de esfuerzo muscular."
+      ],
+      "correct_answer": "Los deportistas regulan inherentemente a la baja, percibiendo las sesiones de exigencia extrema como algo más suaves y empujando las sesiones regenerativas por encima de su pauta objetiva.",
+      "feedback": "Las investigaciones empíricas relativas al sRPE subrayan un fallo en la auto-regulación humana bajo esquemas de periodización polarizada. El atleta adolece de disciplina perceptiva: se reserva inconscientemente sin alcanzar los picos planificados de dolor/esfuerzo del entrenador en los días intensos y, paradójicamente, eleva su exigencia y acelera el ritmo en las ventanas planificadas estrictamente para la regeneración y el drenaje fisiológico."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "La construcción matemática del Índice de Fatiga (Strain) agrupa dos variables determinantes que ilustran la toxicidad aguda a la que se expone el atleta durante su entrenamiento semanal. Se fundamenta axiomáticamente en:",
+      "options": [
+        "Descontar de la frecuencia cardíaca máxima observada los picos mínimos del estado basal y elevar la cifra a la duración cronometrada.",
+        "Promediar la recolección total de unidades arbitrarias y dividir la cifra transversal por siete para aislar la carga diurna.",
+        "Multiplicar de manera directa y agregada la carga semanal absoluta generada por el atleta por el índice de monotonía del microciclo.",
+        "Extraer una división fraccional neta entre el trabajo de carga acumulado de forma aguda versus el bloque estructural de los cuatro meses subyacentes."
+      ],
+      "correct_answer": "Multiplicar de manera directa y agregada la carga semanal absoluta generada por el atleta por el índice de monotonía del microciclo.",
+      "feedback": "El Índice de Fatiga o Strain es un híbrido estadístico preventivo diseñado para identificar el estrés insidioso oculto tras grandes volúmenes uniformes de entrenamiento. Extrae su potencial punitivo multiplicando la carga total semanal bruta por su propia monotonía (falta de variabilidad y falta de recuperación), alertando con eficacia del umbral exacto del sobreentrenamiento."
+    }
+  ]
+}
