@@ -1,0 +1,191 @@
+{
+  "class_title": "Cuantificación de la carga: Métodos Tradicionales y Equivalentes de Carga Objetiva (ECOs)",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "¿Cómo aborda el método ECOs la complejidad de las disciplinas híbridas como el triatlón, a diferencia de los métodos de cuantificación tradicionales?",
+      "options": [
+        "Fusiona los factores de intensidad de natación, ciclismo y carrera en una única zona metabólica ponderada.",
+        "Aplica un coeficiente de reducción general del 20% para compensar el exceso de volumen cruzado diario.",
+        "Considera configuraciones específicas, incorporando incrementos de carga de entre un 10% y un 15% por las transiciones entre deportes.",
+        "Calcula la media de los impulsos de entrenamiento (TRIMPs) de las tres disciplinas y la divide por la densidad extrema."
+      ],
+      "correct_answer": "Considera configuraciones específicas, incorporando incrementos de carga de entre un 10% y un 15% por las transiciones entre deportes.",
+      "feedback": "Los métodos tradicionales presentan limitaciones severas al no valorar el peaje fisiológico de cambiar de disciplina (disciplinas híbridas). El método ECOs resuelve esto cuantificando explícitamente el estrés adicional de las transiciones, sumando un incremento porcentual (10-15%) a la carga calculada."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Los TRIMPs de Lucía proponen un modelo de tres zonas basado en fases metabólicas para ciclistas profesionales, las cuales se delimitan identificando ____.",
+      "options": [
+        "los picos de potencia máxima",
+        "sus umbrales ventilatorios",
+        "el porcentaje de frecuencia cardíaca de reserva"
+      ],
+      "correct_answer": "sus umbrales ventilatorios",
+      "feedback": "El modelo de los Trims de Lucía personaliza la intensidad basándose en el modelo trifásico de Skinner y McClellan. Utiliza pruebas de ergoespirometría para localizar los umbrales ventilatorios (VT1 y VT2), segmentando así las intensidades en zona uno, dos y tres con un incremento lineal de peso."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Según las validaciones biomédicas realizadas en triatletas de élite, la urea ha demostrado ser un biomarcador mucho más representativo de la carga de entrenamiento acumulada y calculada mediante ECOs que la creatinfosfoquinasa (CK).",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La investigación de seguimiento en deportistas de alto rendimiento dictaminó que la urea refleja y representa mucho mejor la carga acumulada bajo el cálculo de ECOs, demostrando mayor correlación fisiológica que la enzima CK."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿Cuáles son los criterios fisiológicos y biomecánicos principales por los que el método ECOs asigna un factor multiplicador de carga menor al ciclismo frente a la carrera a pie?",
+      "options": [
+        "Menor exigencia del sistema nervioso central y total ausencia de fase contráctil isométrica en el pedaleo.",
+        "La existencia de micropausas naturales, variaciones en el daño muscular, diferente coste energético y dificultad para mantener la técnica.",
+        "La diferencia en las concentraciones de lactato basal generadas a los mismos vatios y el volumen sistólico máximo alcanzable.",
+        "La menor implicación de la musculatura profunda del core y la resistencia aerodinámica que frena artificialmente el movimiento."
+      ],
+      "correct_answer": "La existencia de micropausas naturales, variaciones en el daño muscular, diferente coste energético y dificultad para mantener la técnica.",
+      "feedback": "El método ECOs equilibra las disciplinas (ej. ciclismo 0.5 vs carrera 1.0) ponderando que en ciclismo el daño muscular es inferior por falta de impacto grave, el coste energético varía drásticamente, es más fácil conservar la técnica bajo fatiga y existen 'micropausas' o momentos de inercia innegociables rodando en grupo o descensos."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "En la cuantificación del entrenamiento de fuerza mediante ECOs, ¿qué características mecánicas definen a un ejercicio clasificado en la Categoría 5 de levantamientos?",
+      "options": [
+        "Ejercicios enfocados de forma estricta en el desarrollo estabilizador del core y prevención articular.",
+        "Movimientos que utilizan todo el cuerpo para generar máxima potencia, como la arrancada o la cargada más el envión.",
+        "Patrones analíticos ejecutados a velocidad excéntrica moderada para fomentar la hipertrofia máxima.",
+        "Tareas funcionales multiplanares que buscan el agotamiento glucolítico a través del fallo muscular."
+      ],
+      "correct_answer": "Movimientos que utilizan todo el cuerpo para generar máxima potencia, como la arrancada o la cargada más el envión.",
+      "feedback": "El método ECOs para fuerza categoriza la complejidad de las mecánicas en cinco niveles. La categoría 5, la de mayor factor de intensidad, engloba los levantamientos integrales del cuerpo completo destinados a la máxima producción de potencia (ej. halterofilia clásica), muy diferentes a los ejercicios funcionales (categoría 2) o preventivos (categoría 1)."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "El método tradicional de volumen por ciento resulta útil en ejercicios clásicos de gimnasio, pero presenta limitaciones sustanciales al intentar cuantificar ____.",
+      "options": [
+        "series al fallo muscular de forma aislada",
+        "mecánicas complejas como saltos y lanzamientos",
+        "entrenamientos en fase puramente excéntrica"
+      ],
+      "correct_answer": "mecánicas complejas como saltos y lanzamientos",
+      "feedback": "El volumen por ciento se calcula multiplicando el total de repeticiones por el % del 1RM equivalente. Esto funciona bien en sentadillas o press banca, pero carece de un marco técnico que asimile lanzamientos reactivos, cambios de dirección o potencia balística donde la métrica de 'repetición vs %RM' pierde fidelidad metodológica."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "Al cuantificar sesiones de sprint (zonas metabólicas 9 y 10), el método ECOs respeta y no penaliza la carga de la sesión cuando el atleta realiza pausas de recuperación amplias necesarias fisiológicamente para restaurar el sistema.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. En potencias fosfagenolíticas (zona 10) y capacidades alácticas (zona 9), los descansos prolongados son indispensables para la resíntesis de fosfágenos y la restauración del sistema nervioso central. Al ser un imperativo biológico, el sistema ECOs no resta puntos de carga por recuperar adecuadamente en estas zonas de alta exigencia."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Al intentar extrapolar el Training Stress Score (TSS) de Coggan hacia disciplinas como la carrera a pie o la natación, el principal obstáculo técnico y biomecánico es:",
+      "options": [
+        "La saturación de los sensores ópticos de frecuencia cardíaca debido al exceso de sudor y movimiento en fluidos.",
+        "La falta de factores de equivalencia directos debido a que la potencia no se mide de forma real en un sólido rígido, sino que se estima en base a deformaciones o desplazamientos.",
+        "La imposibilidad de calcular estadísticamente la potencia normalizada sin apoyarse en un medidor de lactato continuo in-vivo.",
+        "El exceso de variables neuromusculares que alteran la línea base del Umbral Funcional de Potencia (FTP) de forma diaria."
+      ],
+      "correct_answer": "La falta de factores de equivalencia directos debido a que la potencia no se mide de forma real en un sólido rígido, sino que se estima en base a deformaciones o desplazamientos.",
+      "feedback": "En el ciclismo, la bicicleta actúa como un sistema mecánico (sólido rígido) que permite medir el torque y la velocidad angular real en vatios (watts). Extrapolar eso al atletismo o a natación implica depender de estimaciones algorítmicas, ya que las deformaciones corporales y el terreno o agua impiden una medición puramente mecánica de los vatios sin un estándar para sumar o equilibrar ambas cargas."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "En los modelos matemáticos clásicos para proyectar el Total Stress Balance (forma, fatiga y recuperación), los ECOs semanales de las disciplinas actúan estructuralmente como ____.",
+      "options": [
+        "variable de entrada (input)",
+        "factor de atenuación metabólica",
+        "límite predictivo de sobreentrenamiento"
+      ],
+      "correct_answer": "variable de entrada (input)",
+      "feedback": "Modelos como el propuesto por Morton calculan la carga de trabajo aguda (fatiga) y crónica (fitness) aplicando ecuaciones. Para que esos algoritmos operen con rigor de cuantificación inter-disciplinar, los ECOs se transforman en la variable base (input) inyectada al sistema a lo largo del microciclo y mesociclo."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "El método ECOs pondera intencionalmente la duración de las repeticiones respecto al tiempo límite de la zona metabólica. ¿Cuál es el raciocinio fisiológico detrás de esta alteración métrica en el trabajo fraccionado?",
+      "options": [
+        "Mantener un esfuerzo cerca de su tiempo límite causa fatiga marginal irrelevante, requiriendo restar puntos a la sesión por economía de carrera.",
+        "Fraccionar el mismo volumen en series largas genera una demanda metabólica diferente y superior a fraccionarlo en series cortas, por lo que se premia el acercamiento al límite orgánico sostenido.",
+        "El tiempo límite determina la cantidad de fosfágenos acumulados en las zonas aeróbicas medias, induciendo factores correctores puramente alácticos.",
+        "Las repeticiones que superan el tiempo límite cambian de categoría deportiva de manera automática para neutralizar el estrés oxidativo tisular."
+      ],
+      "correct_answer": "Fraccionar el mismo volumen en series largas genera una demanda metabólica diferente y superior a fraccionarlo en series cortas, por lo que se premia el acercamiento al límite orgánico sostenido.",
+      "feedback": "Acumular un volumen específico (ej. 5.000 metros) no implica idéntica carga si se ejecuta en series de 1.000m frente a series de 500m con similar densidad. Las series más largas empujan el sistema orgánico más cerca del tiempo máximo que fisiológicamente se puede sostener en esa intensidad, generando adaptaciones y desgastes diferentes. El método asume y premia ese mayor peaje."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "En el cálculo de densidad del entrenamiento (relación trabajo-pausa) en ECOs, superar ampliamente la 'densidad extrema' mediante descansos diminutos garantiza un incremento exponencial e infinito de la carga total asignada a la sesión.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La 'densidad extrema' está basada en la cinética del aclaramiento de lactato y funciona como el punto límite de intercepción (el techo del premio). Superado ese límite biológico (por ejemplo, el tope del 25% de extra en zona 4), el incremento porcentual de carga se detiene para mantener coherencia fisiológica."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "¿Cuál de las siguientes situaciones expuestas evidencia la mayor debilidad metodológica al intentar aplicar de forma integral la métrica RPE de sesión (Foster) multiplicada por el tiempo de entrenamiento?",
+      "options": [
+        "La incapacidad del atleta para disociar la saturación de los receptores de lactato frente a la dureza sistémica.",
+        "La incongruencia matemática y estructural de intentar cuantificar mediante minutos totales sesiones específicas orientadas al desarrollo de la fuerza.",
+        "Su falta de sensibilidad lineal frente al estrés calórico o condiciones de hipoxia aguda severa.",
+        "El desajuste enzimático que suprime el grado de percepción real del sistema nervioso en los primeros 10 minutos post-entrenamiento."
+      ],
+      "correct_answer": "La incongruencia matemática y estructural de intentar cuantificar mediante minutos totales sesiones específicas orientadas al desarrollo de la fuerza.",
+      "feedback": "Foster plantea estimar la dureza general como [RPE * Tiempo (minutos)]. Mientras que en resistencia la duración correlaciona profundamente con el volumen, en el entrenamiento de fuerza medir el estímulo total sumando 'minutos en el gimnasio' es incongruente frente a la verdadera tensión mecánica impuesta por la intensidad, volumen y ejercicios aplicados."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Una señal evidente de que un deportista élite está asimilando adecuadamente un programa a lo largo del macrociclo se presenta cuando logra acumular una cantidad significativamente mayor de carga objetiva (ECOs) manteniendo ____.",
+      "options": [
+        "una saturación arterial de oxígeno basal intacta",
+        "sus niveles plasmáticos de testosterona/cortisol estables",
+        "la misma puntuación de carga subjetiva percibida"
+      ],
+      "correct_answer": "la misma puntuación de carga subjetiva percibida",
+      "feedback": "Cruzar carga objetiva con carga subjetiva revela la asimilación del estrés. Si en semanas posteriores el volumen o intensidad aumentan (muchos más puntos de carga externa) pero la dureza registrada por el atleta en su RPE permanece inalterable respecto a los estadios iniciales con menos volumen, significa que el cuerpo ha desarrollado las adaptaciones requeridas (fitness)."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "En índices clásicos y complejos como los primeros impulsos de entrenamiento (TRIMPs) de Bannister y el índice global de Iliute, la formulación base busca ponderar y reflejar estadísticamente:",
+      "options": [
+        "La acumulación exponencial de metabolitos de desecho frente a la producción de CO2 en umbrales máximos.",
+        "El efecto real, pulsación a pulsación, que el incremento o la reducción de la intensidad cardíaca posee multiplicado por el tiempo de esfuerzo.",
+        "El tiempo de escape y la ratio de desgaste neuro-muscular de cada sesión interválica superando el VT2.",
+        "La relación directa que existe entre el tiempo invertido y el exceso de consumo de oxígeno post-ejercicio."
+      ],
+      "correct_answer": "El efecto real, pulsación a pulsación, que el incremento o la reducción de la intensidad cardíaca posee multiplicado por el tiempo de esfuerzo.",
+      "feedback": "A diferencia de medir con simples medias y sumas estándar, el desarrollo que lideraron estos pioneros utilizaba porcentajes (de reserva o máxima) con factores exponenciales, logrando una representación matemática de cómo cada pulsación extra afecta exponencialmente al cuerpo al cruzarla con el vector del tiempo de esfuerzo."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "¿Qué limitación estructural crítica se identifica en el diseño y control del entrenamiento moderno si un preparador físico se basa únicamente en 'monitorear' con alta exactitud métricas aisladas como el volumen, la frecuencia o los vatios?",
+      "options": [
+        "Las métricas aisladas pierden validez algorítmica al trabajar a frecuencias cardíacas por debajo de la reserva funcional basal.",
+        "Controlar una variable con precisión milimétrica no equivale a cuantificar la verdadera carga global de la sesión, impidiendo evaluar los efectos totales sobre el estado de forma.",
+        "Depender exclusivamente de la tecnología de control cardíaco genera una disonancia con el aclaramiento del ácido úrico sistémico.",
+        "La medición exclusiva de vatios subestima el esfuerzo neuromuscular de alta tensión, debiéndose cruzar siempre y obligatoriamente con el RPE noruego."
+      ],
+      "correct_answer": "Controlar una variable con precisión milimétrica no equivale a cuantificar la verdadera carga global de la sesión, impidiendo evaluar los efectos totales sobre el estado de forma.",
+      "feedback": "Tener datos rigurosos sobre una sola dimensión (watts precisos en bici, ritmo en carrera) da la ilusión de control. Sin embargo, no ponderar pausas, transiciones, deportes alternos o densidad omite pedazos gigantes del estímulo. Monitorizar no es cuantificar: si la carga total subyacente es inexacta, la proyección del estado de forma (fatiga vs fitness) quedará seriamente comprometida."
+    }
+  ]
+}
