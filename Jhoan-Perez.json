@@ -1,0 +1,175 @@
+{
+  "class_title": "Interpretación del Movimiento Humano y Curvas de Fuerza-Tiempo",
+  "total_questions": 14,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Según el enfoque integrado de la evaluación motriz, ¿cuál es el verdadero propósito al analizar las curvas de fuerza-tiempo generadas por las plataformas de presión?",
+      "options": [
+        "Determinar el nivel de hipertrofia muscular comparando las asimetrías de impacto en cada fase del salto.",
+        "Identificar la cantidad total de potencia mecánica para prescribir de forma exacta la carga del levantamiento olímpico.",
+        "Observar el comportamiento, ritmo y sincronización temporal que revelan la manera en que el sistema resuelve un desafío motriz.",
+        "Cuantificar la diferencia longitudinal exacta entre la edad cronológica y la edad biológica del deportista."
+      ],
+      "correct_answer": "Observar el comportamiento, ritmo y sincronización temporal que revelan la manera en que el sistema resuelve un desafío motriz.",
+      "feedback": "La clave del análisis biomecánico avanzado radica en entender que la curva no mide simplemente al atleta como un ente estático basado en su 'output', sino que revela un comportamiento. Desglosar la curva fase por fase permite observar la solución neuromotriz elegida por el cuerpo para coordinar, estabilizar y organizar la producción de fuerza en el tiempo."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "La integración tridimensional sistemática de la estructura anatómica del atleta, su función neuromecánica y su contexto de demandas, da origen a la formación de ____.",
+      "options": [
+        "la firma del movimiento",
+        "la capacidad de salto absoluto",
+        "el ángulo infraesternal"
+      ],
+      "correct_answer": "la firma del movimiento",
+      "feedback": "El perfil holístico de un deportista no surge de métricas aisladas, sino de la integración de su estructura anatómica y background lesivo, su función neuromecánica y el contexto de sus demandas deportivas. Esta amalgama forma una huella digital neuromotriz única denominada firma del movimiento (movement signature)."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Si una evaluación integral tecnológica no logra modificar ninguna decisión táctica o de programación del entrenamiento, los datos obtenidos carecen de utilidad práctica real en el proceso.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La recolección de datos masiva mediante tecnología de punta solo tiene un valor tangible si se traduce en acciones concretas de planificación. Una evaluación que no altera o moldea positivamente una decisión de entrenamiento se convierte simplemente en información curiosa, perdiendo su objetivo en el alto rendimiento."
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "question": "En la evaluación clínica de un beisbolista con perfil altamente compensatorio y gran dependencia de las caderas para transferir fuerzas, se detecta invariablemente un ángulo infraesternal dinámico con excesiva laxitud de ligamentos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La evaluación inicial demostró que la dependencia masiva de las caderas del atleta se debía a que estaba supliendo y enmascarando las graves restricciones de movilidad que sufría en articulaciones periféricas críticas, manifestando una dorsiflexión limitadísima y una rotación torácica marcadamente restringida."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "A un atleta clasificado bajo un perfil estable, asociado a un ángulo infraesternal comprimido y con tendencia a mantener estancado su rendimiento, se le debe añadir contexto motriz enfatizando en ____.",
+      "options": [
+        "el aislamiento analítico muscular",
+        "la exploración motriz y coordinación",
+        "el volumen de hipertrofia máxima"
+      ],
+      "correct_answer": "la exploración motriz y coordinación",
+      "feedback": "Los perfiles estables (stable movers) gozan de mecánicas sólidas, consistentes y seguras, pero suelen explorar muy poco sus límites de movimiento, lo que genera estancamiento (plató). Romper este bloqueo requiere añadir variedad controlada en distintos planos (ej: sprints inestables) para expandir su variabilidad de forma coordinada."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "¿Por qué constituye un error conceptual clasificar los perfiles de movimiento (adaptativo, estable, compensatorio y caótico) como diagnósticos clínicos inflexibles?",
+      "options": [
+        "Porque representan tendencias de comportamiento fluctuantes que se esperan modificar progresivamente mediante las intervenciones programadas.",
+        "Porque son categorías rígidas que por protocolo solo deben aplicarse a deportistas en sus etapas de maduración y desarrollo juvenil.",
+        "Porque las métricas aisladas de las plataformas de presión carecen de la sensibilidad biomecánica necesaria para establecer clasificaciones crónicas.",
+        "Porque únicamente el cuerpo médico y los fisioterapeutas están avalados bajo la normativa deportiva para diagnosticar un estado neuromuscular."
+      ],
+      "correct_answer": "Porque representan tendencias de comportamiento fluctuantes que se esperan modificar progresivamente mediante las intervenciones programadas.",
+      "feedback": "Los cuatro perfiles propuestos no son etiquetas permanentes ni diagnósticos de patologías. Son agrupaciones ('buckets') que describen las tendencias de organización motriz actuales del deportista, sirviendo como guía para aplicar estímulos temporales que trasladen al individuo desde un patrón deficiente (caótico/compensatorio) hacia un control mecánico eficiente."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "La fuerza máxima producida por el sistema neuromuscular es la estrategia principal adoptada por el deportista, mientras que el movimiento resultante actúa solo como la consecuencia de dicha fuerza.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. El paradigma técnico inverso dicta que la fuerza es la consecuencia de la acción biomecánica, mientras que el movimiento representa la estrategia real elegida por el cerebro y el cuerpo para organizar y expresar dicha fuerza a lo largo del tiempo ante un problema motriz."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Al evaluar a dos deportistas que obtienen resultados virtualmente idénticos en métricas finales como la altura de salto y la velocidad pico, ¿cuál es la decisión metodológica correcta respecto a su programación?",
+      "options": [
+        "Asignar rutinas unificadas de entrenamiento dado que comparten exactamente un mismo nivel biológico de asimilación de la carga.",
+        "Aumentar en paralelo la intensidad del trabajo pliométrico en ambos para forzarlos a mantener la similitud y predictibilidad de sus resultados.",
+        "Enfocar los microciclos de ambos en potenciar exclusivamente sus fases excéntricas para equilibrar cualquier posible deficiencia muscular bilateral.",
+        "Diseñar intervenciones distintas tras constatar en las curvas de fuerza-tiempo que sus estrategias biomecánicas de estabilización y propulsión difieren."
+      ],
+      "correct_answer": "Diseñar intervenciones distintas tras constatar en las curvas de fuerza-tiempo que sus estrategias biomecánicas de estabilización y propulsión difieren.",
+      "feedback": "Resultados idénticos en métricas de salida ('output') no garantizan que la solución motriz haya sido la misma. Dos atletas con el mismo salto pueden requerir entrenamientos completamente opuestos: uno podría depender de tiempos largos de frenado y el otro de transferencias rápidas. Programar ignorando la estrategia subyacente aumenta exponencialmente el riesgo de lesión."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "Dentro del marco conceptual de las tres dimensiones del atleta, factores como el historial médico de lesiones previas y los ángulos articulares conforman estrictamente el pilar del contexto.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. El historial de lesiones y la evaluación biomecánica, como el ángulo infraesternal, pertenecen de lleno a la dimensión de 'Estructura'. El 'Contexto' engloba parámetros logísticos y ambientales: la edad de entrenamiento del deportista, sus demandas posicionales en el terreno y su entorno de recuperación."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Durante la selección de ejercicios de fuerza para un deportista insertado en un perfil compensatorio con altas deficiencias en las fuerzas de frenado, ¿qué estrategia metodológica inicial resulta prioritaria?",
+      "options": [
+        "Ejecutar trabajos de pliometría 'shock' profunda y aterrizajes en alto impacto para forzar de manera rápida una adaptación estructural tendinosa.",
+        "Programar rutinas puramente aisladas en máquinas estabilizadas para disminuir al mínimo la carga neural del sistema nervioso central.",
+        "Priorizar el incremento de la velocidad gestual en los ejercicios de halterofilia para estimular una respuesta inmediata de las unidades motoras.",
+        "Reconstruir gradualmente la estrategia de control postural a través de sentadillas en tempo, trabajo bajo tensión muscular y aterrizajes de baja amplitud."
+      ],
+      "correct_answer": "Reconstruir gradualmente la estrategia de control postural a través de sentadillas en tempo, trabajo bajo tensión muscular y aterrizajes de baja amplitud.",
+      "feedback": "El perfil compensatorio sufre de una baja organización interna; su sistema no está preparado para procesar estímulos agresivos, a pesar de poder generar picos altos de fuerza ('high output'). El objetivo primario debe ser reorganizar su control neuromuscular y su respiración utilizando protocolos de tempo (TUT) y aterrizajes leves, cimentando mecánicas seguras antes de someter al cuerpo a estrés intenso."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "El estudio profundo de la fase de aterrizaje en un salto en contramovimiento proporciona indicadores sumamente reveladores sobre la capacidad de estabilización organizativa del atleta frente a la variabilidad.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La fase de aterrizaje va más allá de un simple freno; constituye un medidor crítico que refleja la eficiencia con la que el sistema nervioso y estructural del atleta logra absorber el impacto, desacelerar y, sobre todo, organizarse para sostener la estabilidad ante escenarios mecánicamente variables y caóticos."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "El propósito primordial del bloque de intervención aplicado al beisbolista con disfunciones motrices nunca consistió en forzar un incremento de su 'output' global, sino en mejorar ____.",
+      "options": [
+        "la estrategia que lo genera",
+        "el perímetro de masa magra",
+        "la fuerza isométrica máxima"
+      ],
+      "correct_answer": "la estrategia que lo genera",
+      "feedback": "El caso evidencia a un lanzador que ya poseía métricas de rendimiento formidables de manera natural (ej. un salto de 47cm), pero logradas a costa de asimetrías y riesgos biomecánicos latentes. La meta esencial fue reprogramar su movilidad articular y su estrategia de transferencia, garantizando que pudiera seguir entregando resultados topes pero respaldados por una mecánica interna sostenible y resiliente a las lesiones."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "¿Hacia qué tipo de intervenciones en la prescripción del entrenamiento deben estar enfocadas las decisiones metodológicas de un atleta catalogado dentro de un perfil netamente adaptativo?",
+      "options": [
+        "Trabajos cíclicos de bajo impacto orientados excluyentemente a la flexibilización estática de tejidos blandos.",
+        "Dinámicas puras de hipertrofia analítica en máquinas isocinéticas para reducir al máximo el error técnico.",
+        "Sometimiento a descargas excéntricas abusivas superando los 12 segundos de tensión por fase concéntrica.",
+        "Inmersión en tareas complejas apoyadas en variabilidad, contrastes reactivos y estimulación pliométrica."
+      ],
+      "correct_answer": "Inmersión en tareas complejas apoyadas en variabilidad, contrastes reactivos y estimulación pliométrica.",
+      "feedback": "Los atletas que muestran perfiles adaptativos cuentan con la gran ventaja de asimilar y estabilizarse rápidamente bajo condiciones de estrés motor aleatorio. Poseen un ISA dinámico y asimilan el aprendizaje velozmente, lo que exige retarles con estímulos desafiantes en velocidad, reactividad y metodologías complejas de contraste para aprovechar su altísima plasticidad neural."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Entre las posturas que demuestran haber fracasado rotundamente al momento de interpretar los perfiles deportivos para el alto rendimiento, figura como un error primario:",
+      "options": [
+        "La integración periódica del análisis riguroso de las curvas de fuerza-tiempo con las impresiones cualitativas del cuerpo de entrenadores.",
+        "La pretensión funcional de simplificar y depurar el lenguaje de los reportes técnicos para entregarlos comprensiblemente a los entrenadores.",
+        "El esfuerzo constante por agrupar a los individuos en estratificaciones transitorias o canastas de progreso biomecánico.",
+        "La confianza sobredimensionada en métricas conclusivas aisladas, aplicando tratamientos idénticos a deportistas con exigencias variadas."
+      ],
+      "correct_answer": "La confianza sobredimensionada en métricas conclusivas aisladas, aplicando tratamientos idénticos a deportistas con exigencias variadas.",
+      "feedback": "Ignorar la individualización es el fallo central en las ciencias deportivas modernas. Entrenar a todos los atletas bajo una misma matriz de trabajo fundamentándose únicamente en el número de fuerza máxima o la altura pico de sus saltos invalida el contexto posicional y castiga sus variadas mecánicas compensatorias. No existen recetas universales, cada firma de movimiento reclama una solución de entrenamiento específica."
+    }
+  ]
+}
