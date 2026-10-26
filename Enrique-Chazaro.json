@@ -1,0 +1,202 @@
+{
+  "class_title": "Certificación PSS: Toma de Decisiones a través del Monitoreo de las Cargas",
+  "total_questions": 16,
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "question": "Para autorizar un alta competitiva segura (Return to Play), es absolutamente insuficiente comprobar de forma aislada que el jugador alcanza su velocidad máxima sin dolor; se requiere validar una checklist integral de métricas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Alcanzar la velocidad máxima es solo un indicador aislado y parcial. El Return to Play de élite exige validar una checklist integral basada en el histórico del atleta: volumen de distancias a alta intensidad, picos de aceleración y desaceleración máximas, tolerancias de carga aguda y niveles de fuerza basales."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Según el modelo clásico de control de cargas, ubicar a un futbolista en el 'sweet spot' del ratio agudo-crónico implica mantener sus variaciones de carga en un margen máximo de ____.",
+      "options": [
+        "un 10% por encima de la media semanal",
+        "un 20% por arriba o por abajo de su carga crónica",
+        "una desviación estándar de la carga externa"
+      ],
+      "correct_answer": "un 20% por arriba o por abajo de su carga crónica",
+      "feedback": "El rango óptimo de adaptación tisular ('sweet spot') se ubica entre los valores 0.8 y 1.2 del ratio agudo-crónico (ACWR). Matemáticamente, esto representa no exceder ni reducir la carga impuesta en más de un 20% respecto al estímulo acumulado crónicamente en el último ciclo de medición."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Al evaluar el Contra Movement Jump (CMJ) en el día +2 pospartido, ¿qué combinación de variables confirma una fatiga neuromuscular clara?",
+      "options": [
+        "Descenso en la altura del salto y aumento del RSI",
+        "Aumento del tiempo de impulso y reducción de asimetrías",
+        "Disminución del RSI e incremento del tiempo de impulso",
+        "Mantenimiento del RSI con una menor capacidad elástica"
+      ],
+      "correct_answer": "Disminución del RSI e incremento del tiempo de impulso",
+      "feedback": "El Índice de Fuerza Reactiva (RSI) refleja la rapidez y eficacia del sistema neuromuscular al producir fuerza. Su disminución, combinada de forma simultánea con un mayor tiempo invertido para generar dicha fuerza (tiempo de impulso), indica inequívocamente una pérdida de capacidad explosiva por fatiga neural."
+    },
+    {
+      "id": 4,
+      "type": "true_false",
+      "question": "Durante la fase de readaptación en el gimnasio tras un desgarro de isquiotibiales, el objetivo biomecánico principal es alcanzar un 0% de asimetría entre ambas piernas antes de autorizar el trabajo de campo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La meta clínica y funcional no es lograr una simetría perfecta e irreal (0%), sino conseguir que el deportista recupere sus niveles absolutos de fuerza promedio y retorne a su porcentaje de asimetría basal natural histórico, garantizando la operatividad motriz sin alterar su patrón original."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Al cruzar métricas en el dashboard de control, se detecta a un jugador con una carga aguda-crónica baja (amarillo), pero con un RPE (Percepción Subjetiva de Esfuerzo) excesivamente alto tras una sesión regenerativa. ¿Cuál es la acción técnico-médica más fundamentada?",
+      "options": [
+        "Descartar al jugador automáticamente para el siguiente microciclo",
+        "Aumentar el volumen de carga externa para forzar la adaptación fisiológica hipertrófica",
+        "Revisar métricas de bienestar como la calidad del sueño e individualizar la recuperación",
+        "Ignorar el RPE por considerarse un componente excesivamente subjetivo y psicológico"
+      ],
+      "correct_answer": "Revisar métricas de bienestar como la calidad del sueño e individualizar la recuperación",
+      "feedback": "Cuando la carga externa objetiva (ACWR) no justifica una percepción interna de esfuerzo tan elevada (RPE), existe una clara alteración sistémica extradeportiva. La acción correcta es investigar parámetros mediante cuestionarios de Wellness (calidad del sueño, estrés) y activar medios pasivos individualizados como presoterapia o cámaras hiperbáricas."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Frente al cuerpo técnico, el departamento de ciencias del deporte actúa como un centralizador de datos interdisciplinarios. ¿Cuál es su fin metodológico y estructural primario?",
+      "options": [
+        "Imponer descansos forzosos a los atletas basándose en algoritmos cerrados.",
+        "Facilitar decisiones operativas informadas para el entrenador jefe.",
+        "Diagnosticar lesiones tisulares de grado severo mediante plataformas de salto.",
+        "Reemplazar el criterio subjetivo del preparador físico en el gimnasio."
+      ],
+      "correct_answer": "Facilitar decisiones operativas informadas para el entrenador jefe.",
+      "feedback": "El área de Sport Science carece de la jerarquía ejecutiva para tomar la decisión final sobre la alineación o las altas médicas. Su rol metodológico consiste en centralizar la carga interna y externa y traducirla en panoramas objetivos que permitan al entrenador jefe tomar decisiones operativas con total respaldo científico."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Dentro de la clasificación de variables para la cuantificación integral del entrenamiento, ¿qué métrica combina algorítmicamente el volumen temporal con el coste acelerativo y posee altísima correlación con el RPE?",
+      "options": [
+        "El volumen bruto de HCR (High Speed Running)",
+        "El nivel celular de Creatina Quinasa (CK)",
+        "El parámetro inercial del Player Load"
+      ],
+      "correct_answer": "El parámetro inercial del Player Load",
+      "feedback": "El Player Load, capturado mediante triaxialidad de acelerómetros, es un índice de carga externa acumulada que agrupa inteligentemente el volumen temporal y las intensidades mecánicas. Los modelos analíticos demuestran una elevada correlación positiva entre este estrés dinámico y la carga interna referida por el atleta (RPE)."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "En la planificación del microciclo competitivo, es imperativo diseñar tareas analíticas para que todos los jugadores alcancen un 100% de su velocidad máxima (Vmax) al menos una vez a la semana en las prácticas.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La directriz preventiva en la periodización es garantizar que el sistema neuromuscular reciba el estímulo de prevención tocando al menos el 85% de la velocidad máxima durante la semana de entrenamientos (sin contar el partido), no siendo obligatorio forzar el umbral absoluto del 100% para evitar daños."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "El análisis preventivo de fatiga periférica exige evaluar parámetros serológicos precisos. ¿Qué combinación de variables metabólicas advierte sobre un estado crítico de acumulación y alto riesgo de desgarro muscular inminente?",
+      "options": [
+        "Lactato basal bajo e índice de hidratación alto mantenido",
+        "Alta carga aguda, valores de CK elevados y alto estrés oxidativo",
+        "Descenso drástico sostenido en las catecolaminas y aumento del VO2 máximo estimado",
+        "Reducción paulatina del Player Load y un salto CMJ con alteraciones morfológicas"
+      ],
+      "correct_answer": "Alta carga aguda, valores de CK elevados y alto estrés oxidativo",
+      "feedback": "La convergencia analítica de un ratio agudo-crónico muy alto (aceleración brusca de cargas) junto a biomarcadores que evidencian micro-roturas musculares severas (Elevación de la Creatina Quinasa) e inflamación celular profunda (Estrés oxidativo), dibuja un patrón de 'tendencia roja' que predice estadísticamente el fallo tisular o desgarro."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "El surgimiento de parámetros rojos en un sistema de alertas no debe utilizarse para prohibir la participación deportiva automática e infundir pánico, sino como detonante primario para ____.",
+      "options": [
+        "aplicar sanciones disciplinarias al jugador",
+        "activar protocolos de recuperación establecidos",
+        "solicitar nuevos tests máximos invasivos"
+      ],
+      "correct_answer": "activar protocolos de recuperación establecidos",
+      "feedback": "Las alertas en paneles de monitoreo son eventos inevitables derivados de la densidad competitiva. Su detección temprana permite desviar al jugador hacia rutas de recuperación predefinidas e iniciar diálogos transparentes, adaptando la carga sin necesidad de excluir categóricamente al deportista del juego."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Como penúltimo paso previo a otorgar el alta definitiva en un proceso de Return to Play, ¿cómo se valida objetivamente que un lateral con un perfil de alto kilometraje está realmente apto para la demanda real competitiva?",
+      "options": [
+        "Alcanzando picos de velocidad aislados en sesiones sin balón en línea recta bajo control",
+        "Completando 10 sesiones de fuerza excéntrica en gimnasio sin evidencia clínica de dolor articular",
+        "Macheando las distancias de alta intensidad históricas en una práctica de fútbol formal",
+        "Realizando un test de Cooper progresivo estandarizado hasta llegar al agotamiento absoluto"
+      ],
+      "correct_answer": "Macheando las distancias de alta intensidad históricas en una práctica de fútbol formal",
+      "feedback": "El alta deportiva no puede basarse únicamente en pruebas cerradas. Exige una exposición ecológica; el atleta debe participar en una práctica de fútbol donde el GPS verifique que alcanza las mismas distancias y altas intensidades propias de su 'baseline' pre-lesión, comprobando la total tolerancia sistémica y mecánica."
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "La principal justificación operativa para aplicar el test de salto CMJ en el día pospartido (+2) es recopilar evidencia biomecánica temprana sobre fatiga neural para permitirle al cuerpo técnico adaptar las cargas y alinear al jugador.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La evaluación del salto en el día +2 no busca penalizar al jugador descartándolo, sino detectar asimetrías de fatiga neural en una ventana de tiempo útil. Este margen de antelación permite al área física rediseñar estrategias, reducir volúmenes y garantizar que el atleta recupere capacidad para ser alineable."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "El reporte de carga externa acumulada que abarca los últimos 7 días de microciclo, visualizado sistemáticamente tras la competición oficial, tiene como justificación de control de estímulos:",
+      "options": [
+        "Planificar de forma biomecánicamente exacta las sustituciones del próximo encuentro liguero",
+        "Identificar el déficit de estímulo para diseñar trabajos compensatorios",
+        "Modificar la estructura técnico-táctica establecida estratégicamente por el entrenador jefe",
+        "Determinar el peso de la carga interna utilizando exclusivamente el hardware de posicionamiento GPS"
+      ],
+      "correct_answer": "Identificar el déficit de estímulo para diseñar trabajos compensatorios",
+      "feedback": "La lectura del volumen acumulado semanal permite aislar a los atletas con desequilibrios fisiológicos a la baja (suplentes o poco minutaje). Esta evaluación objetiva fundamenta técnicamente las sesiones del inicio del microciclo para la prescripción hiper-específica de cargas compensatorias o niveladoras."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "En el contexto de sesiones que desarrollan intensamente vías energéticas de resistencia e intervalos glucolíticos, existe una correlación altísima y directa validada entre la concentración en sangre de lactato y ____.",
+      "options": [
+        "la oscilación extrema del ratio agudo-crónico",
+        "el pico máximo aislado de velocidad",
+        "el incremento de la frecuencia cardíaca"
+      ],
+      "correct_answer": "el incremento de la frecuencia cardíaca",
+      "feedback": "Las métricas de respuesta interna demuestran que durante ejercicios continuos de alta fricción metabólica, la acumulación celular de lactato es totalmente simétrica y proporcional al comportamiento al alza de la frecuencia cardíaca (latidos por minuto), funcionando como co-validadores del esfuerzo cardiovascular y muscular."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Durante el abordaje inicial de readaptación física post-inmovilización prolongada, el índice de carga aguda-crónica (ACWR) tiende a mostrar alertas visuales en 'rojo' de forma matemática y no fisiológica. ¿Qué método correctivo permite interpretar la progresión sin sesgos algorítmicos?",
+      "options": [
+        "Prescindir temporalmente del monitoreo del ACWR durante las fases agudas de readaptación clínica de las primeras semanas",
+        "Aplicar medias ponderadas otorgando más peso a los días recientes",
+        "Utilizar un perfil unificado basado en los umbrales de esfuerzo percibido exclusivamente",
+        "Comparar la carga aguda entrante con el volumen crónico registrado 12 meses antes del evento lesivo"
+      ],
+      "correct_answer": "Aplicar medias ponderadas otorgando más peso a los días recientes",
+      "feedback": "Tras el cese de actividad por lesión, la ventana crónica de cálculo (ej. 28 días) baja a cero. Al reiniciar el estímulo, cualquier carga generará picos matemáticos de sobre-exigencia (falsas alertas). Usar promedios móviles ponderados exponencialmente asigna relevancia máxima a los estímulos inmediatos, limpiando el artefacto estadístico y logrando una medición ajustada al estado real del tejido rehabilitado."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Para asegurar una comunicación ininterrumpida y resguardar la privacidad de datos corporativos de alta sensibilidad en cargas de entrenamiento, ¿qué arquitectura base se exige a un Sport Scientist Senior?",
+      "options": [
+        "Un sistema de envío automatizado de hojas de cálculo individuales vía mensajería instantánea comercial",
+        "El almacenamiento exclusivo en los dispositivos de hardware GPS sin posibilidad alguna de conexión de red",
+        "La centralización de datos en nubes institucionales mediante software de Business Intelligence",
+        "La publicación inmediata y sin filtros de los informes crudos para que todos los departamentos puedan estudiarlos"
+      ],
+      "correct_answer": "La centralización de datos en nubes institucionales mediante software de Business Intelligence",
+      "feedback": "Los datos biométricos de élite conforman activos del club y no deben fragmentarse en plataformas vulnerables. El rol analítico moderno obliga a establecer flujos de trabajo cerrados donde los datos crudos convergen en bases centralizadas gestionadas a través de herramientas de Business Intelligence (Tableau, PowerBI), garantizando control de accesos, seguridad de la nube, e informes limpios para múltiples departamentos."
+    }
+  ]
+}
