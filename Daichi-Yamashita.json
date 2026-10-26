@@ -1,0 +1,191 @@
+{
+  "class_title": "Countermovement Jump Assessment in a Multi-Sport High-Performance Environment",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "El concepto de 'ingeniería inversa' en el diseño de evaluaciones físicas establece que un rendimiento excepcional en un salto con contramovimiento (CMJ) posee implicaciones biomecánicas distintas según las demandas reales del deporte. ¿En qué escenario una mejora en la altura del CMJ representa una transferencia menos directa al rendimiento principal?",
+      "options": [
+        "En el salto de un bloque central defensivo en voleibol.",
+        "En el impulso balístico desde un trampolín de un saltador.",
+        "En el ataque longitudinal de un patinador de velocidad en hielo.",
+        "En la entrada a canasta de un escolta en baloncesto."
+      ],
+      "correct_answer": "En el ataque longitudinal de un patinador de velocidad en hielo.",
+      "feedback": "La ingeniería inversa demanda analizar primero qué requiere el deporte en competencia. En baloncesto, voleibol o saltos acuáticos, la capacidad de generar velocidad vertical se conecta directamente con los movimientos técnicos principales. Sin embargo, en deportes como la esgrima o el patinaje de velocidad, aunque la potencia de extensión del tren inferior es vital, los vectores de aplicación de fuerza son predominantemente horizontales o laterales, haciendo que el rendimiento en el CMJ tenga una asociación más indirecta."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Al comparar la magnitud de la fuerza generada, un test IMTP suele registrar entre 1.5 y 2.5 veces el peso corporal de fuerza máxima isométrica, mientras que un CMJ produce picos de entre 1.0 y 1.5 veces. En contraste, maniobras específicas en el campo como los cambios de dirección súbitos exigen soportar fuerzas superiores a 3 veces el peso corporal debido a ____.",
+      "options": [
+        "la necesidad de frenar violentamente la inercia del deportista",
+        "una lectura deficiente por la frecuencia de muestreo",
+        "el colapso provocado por la asimetría podal"
+      ],
+      "correct_answer": "la necesidad de frenar violentamente la inercia del deportista",
+      "feedback": "Durante los cambios de dirección (change of direction), el deportista tiene que amortiguar y disipar el momentum masivo acumulado al desplazarse en una trayectoria inicial, para luego reacelerar el sistema hacia un vector distinto. Este ciclo drástico de frenado-aceleración genera demandas de fuerza de reacción contra el suelo (ground reaction forces) abismalmente mayores que las registradas en saltos concéntricos estáticos o tirones desde la mitad del muslo."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Alterar la instrucción verbal inicial en una prueba de salto de 'salta lo más alto posible' a 'salta lo más rápido y alto posible' influye en la mentalidad del atleta, pero mantiene matemáticamente intactos los patrones de la curva fuerza-tiempo al tratarse de la misma tarea física.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es absolutamente falso. La evidencia expuesta mediante análisis biomecánico detalla que un cambio en la instrucción verbal altera directamente la estrategia organizativa del movimiento. Al pedir más rapidez, si el atleta desciende más allá de los 90 grados, la curva de fuerza-tiempo comienza a generar dos picos distintos (bimodal), altera las tasas de desarrollo de fuerza (RFD) y confunde la evaluación. La instrucción verbal debe considerarse un pilar inalterable del protocolo de estandarización metodológica."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Al utilizar alfombras de contacto que basan el cálculo en el método de tiempo de vuelo, se produce frecuentemente una sobreestimación de la altura del salto que promedia 2.5 cm y puede elevarse hasta 9 cm. Ante este error sistemático, ¿qué aplicación práctica mantiene total rigurosidad científica con este dispositivo?",
+      "options": [
+        "Comparar perfiles cinéticos entre atletas de distintas categorías de peso.",
+        "Calcular la fuerza de reacción del suelo real durante el despegue.",
+        "Rastrear la evolución intrapersonal de un único atleta a lo largo de un mesociclo.",
+        "Cruzar la información para validar la exactitud de un algoritmo markerless."
+      ],
+      "correct_answer": "Rastrear la evolución intrapersonal de un único atleta a lo largo de un mesociclo.",
+      "feedback": "El error del tiempo de vuelo surge porque el dispositivo asume idéntica postura de despegue (habitualmente flexión plantar) y aterrizaje (comúnmente pie plano o leve encogimiento de rodillas). Dado que cada atleta individual suele poseer una firma motriz estable y repetirá su propia estrategia de aterrizaje defectuosa intento tras intento, la alfombra arroja datos consistentes intra-sujeto, permitiendo el monitoreo longitudinal. Su invalidez recae estrictamente al comparar atletas con distintas estrategias entre sí."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Durante el protocolo 'Return to Play' post-reconstrucción de ligamento cruzado anterior, las evaluaciones con plataformas pueden otorgar un puntaje de simetría de rendimiento del 97%. Confiar en exceso en este score sin añadir análisis de movimiento es un riesgo porque es probable enmascarar ____.",
+      "options": [
+        "un aumento drástico del volumen residual pulmonar",
+        "una compensación de trabajo articular oculto",
+        "una respuesta aeróbica desproporcionada"
+      ],
+      "correct_answer": "una compensación de trabajo articular oculto",
+      "feedback": "El puntaje de simetría es un resultado compuesto. Las plataformas de fuerza perciben el impulso final proyectado al suelo, pero son completamente ciegas ante el origen anatómico de esa fuerza. Se expuso el caso donde la fuerza de cuádriceps y salto general arrojaban alta simetría, mientras que internamente, la articulación de la rodilla lesionada contribuía un 67% respecto a la sana, habiéndose trasladado la carga hacia extensores de cadera y tobillo."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "La monitorización mediante el Índice de Fuerza Reactiva Modificado (RSI Mod) persigue añadir la dimensión temporal a la mera producción de altura vertical. Si el staff le exige a un deportista que 'optimice y maximice su RSI Mod' a toda costa sin limitar el rango del ejercicio, el error biomecánico y de adaptación más grave será que el atleta tienda a:",
+      "options": [
+        "Ejecutar un salto asimétrico transfiriendo la carga a su extremidad dominante.",
+        "Ralentizar drásticamente la transición excéntrico-concéntrica anulando el ciclo estiramiento-acortamiento.",
+        "Ejecutar un contramovimiento microscópico y veloz, arruinando deliberadamente la capacidad de impulsión y altura.",
+        "Elevar las rodillas por encima de la cadera durante el tiempo de vuelo para engañar al transductor."
+      ],
+      "correct_answer": "Ejecutar un contramovimiento microscópico y veloz, arruinando deliberadamente la capacidad de impulsión y altura.",
+      "feedback": "Dado que el RSI Mod divide la Altura entre el Tiempo de movimiento, matemáticamente hay dos formas de inflarlo: saltando altísimo o tardando poquísimo. Los atletas descubren rápido que acortar agresivamente la amplitud y el tiempo de contacto infla la métrica instantáneamente, sacrificando el impulso vertical neto y distorsionando por completo la cualidad de fuerza que el preparador deseaba entrenar en el gimnasio."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "Al emplear sistemas inerciales (IMUs) o transductores de posición lineal anclados a la barra en un salto resistido, la velocidad que se captura de la barra es el equivalente biomecánico directo, inalterable e indudable de la velocidad del centro de masa del atleta.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La velocidad de la barra y la del centro de masa son magnitudes cinemáticas que divergen. En la porción terminal de un empuje o salto, cuando el tronco, cadera y extremidades superiores terminan de extenderse vigorosamente, artefactos motores propios como 'shrugging' (encoger hombros) o tirones abruptos elevan la velocidad local de la barra artificialmente, sin que esto se corresponda con la aceleración real experimentada por el peso total del sistema (centro de masa)."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "En el caso analizado sobre un bloque de dos semanas de desentrenamiento de jugadores profesionales de hockey sobre hielo, la altura del CMJ disminuyó un mero 4%. Desde la perspectiva del control de carga, ¿qué hallazgo crucial demostró una sensibilidad superior para advertir sobre la reducción de la eficiencia neuromuscular?",
+      "options": [
+        "La disminución acentuada del 13% en el tiempo de vuelo puro.",
+        "La caída drástica del 13% en el valor de la métrica Braking RFD.",
+        "La pérdida aguda de potencia metabólica aláctica en fase excéntrica.",
+        "El aplanamiento total de la curva de aceleración articular lateral."
+      ],
+      "correct_answer": "La caída drástica del 13% en el valor de la métrica Braking RFD.",
+      "feedback": "A menudo, un atleta puede maquillar un deterioro de fuerza extendiendo sutilmente la fase propulsiva para conservar la altura final del salto, por lo que la altura del CMJ tiene muy baja sensibilidad como marcador de fatiga temprana o desentrenamiento. El Braking RFD (Rate of Force Development en frenado) no admite maquillaje, evaluando la habilidad bruta de aplicar fuerza rápidamente en la transición excéntrica. Por ende, cayó un rotundo 13%, alertando verdaderamente del estado del deportista."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Mecánicamente, la altura final de un salto con contramovimiento requiere potenciar la velocidad de despegue incrementando el impulso vertical neto. Al revisar capturas de movimiento 2D acopladas a la cinética en élites, el factor anatómico diferenciador de los saltadores de mayor altura fue ____.",
+      "options": [
+        "la limitación estricta de la flexión plantar",
+        "un trabajo mecánico superior en la articulación de la cadera",
+        "un torque bimodal en la porción tibial"
+      ],
+      "correct_answer": "un trabajo mecánico superior en la articulación de la cadera",
+      "feedback": "Una estrategia extendida para ganar salto es aumentar la profundidad del contramovimiento y disponer de más recorrido para aplicar fuerza. La recopilación de datos biomecánicos revela que el trabajo (work) en las rodillas y tobillos difiere poco entre niveles competitivos, siendo la capacidad robusta para organizar y transferir potencia desde la extensión masiva de la cadera el verdadero detonante de diferencias significativas de rendimiento."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "En la monitorización diaria mediante plataformas de fuerza, un declive de rendimiento (ej. 4-5%) no implica necesariamente retirar la carga de inmediato, ya que estas caídas pueden ser esperables y adaptativas dependiendo de la fase del macrociclo (ej. bloque de sobrecarga agresiva).",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La toma de decisiones diarias depende críticamente del contexto estacional. Caídas en variables neuromusculares son esperables, adaptativas e incluso deseables durante bloques de sobrecarga agresiva (functional overreaching). Solo resultarían alarmantes si persisten tras la finalización de un 'taper' o justo antes de la competencia."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "En el actual paradigma tecnológico, la migración de aparatosos laboratorios de mocap 3D hacia sistemas 'markerless' integrados abre el horizonte al análisis en tiempo real en los gimnasios. ¿Cuál es un área de precaución que debe auditarse cuidadosamente al operar un sistema Markerless basado en machine learning?",
+      "options": [
+        "Requieren fijar manualmente al menos seis diodos LED pasivos a los epicóndilos de los sujetos antes de captar la señal.",
+        "Su incapacidad para exportar parámetros básicos como altura, potencia y torque a bases de datos relacionales modernas.",
+        "La calibración manual del láser infrarrojo que sigue a la pelvis en cada repetición de salto impidiendo la fluidez.",
+        "La precisión real en la detección de desviaciones y asimetrías articulares pequeñas, como un valgo dinámico sutil o rotaciones internas."
+      ],
+      "correct_answer": "La precisión real en la detección de desviaciones y asimetrías articulares pequeñas, como un valgo dinámico sutil o rotaciones internas.",
+      "feedback": "Los algoritmos Markerless evitan invadir el flujo orgánico de entrenamiento al no usar sensores adheridos al cuerpo y entregan modelos de 'stick-figure' y perfiles cinemáticos en escasos 10 minutos procesando sobre potentes GPU's. El desafío científico actual consiste en la validación fina: comprobar si sus algoritmos son lo bastante refinados como para distinguir compensaciones rotacionales críticas (de apenas unos grados) que un sistema 3D por infrarrojos detectaría sin margen de error."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Dentro de un entorno multideporte de élite, lograr un flujo de evaluación óptimo obliga a sopesar precisión y viabilidad diaria. La adopción generalizada y preferente de plataformas de fuerza integradas en el gimnasio se sustenta teóricamente en que aportan ____.",
+      "options": [
+        "una exactitud superior a una alfombra de contacto, evitando requerir el abrumador costo temporal y analítico del laboratorio 3D",
+        "la eliminación absoluta del error de cálculo de tiempo de vuelo en los apoyos unipodales",
+        "un sistema de visualización de hipertrofia articular que prescinde de calibraciones previas"
+      ],
+      "correct_answer": "una exactitud superior a una alfombra de contacto, evitando requerir el abrumador costo temporal y analítico del laboratorio 3D",
+      "feedback": "Las plataformas de fuerza encuentran el 'sweet spot' (punto óptimo) operativo en el alto rendimiento. Son diametralmente más precisas y fiables que el cálculo temporal de un switch de contacto (jump mat) al analizar la curva de impulso continuo, y son inmensamente más rápidas, prácticas y sostenibles para una batería diaria a 40 atletas que enfundarlos en trajes de marcadores reflectantes."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "El concepto de 'Diseño de salto fundamentado en datos' aborda la forma en que interactúa el coach y la tecnología. En la intervención documentada durante entrenamientos de saltos resistidos para alterar variables como el Braking RFD, la estrategia de diseño pedagógico que resultó eficaz se basó en:",
+      "options": [
+        "Prohibir radicalmente la observación técnica humana para no sesgar las mediciones.",
+        "Combinar la pericia observacional ('coaching eye') integrando el input del transductor numérico con indicaciones precisas de foco externo.",
+        "Grabar la sesión al completo y enviar resúmenes promediados visualmente tras 48 horas.",
+        "Permitir un bloque de cuatro semanas sin correcciones externas para lograr el desarrollo de consciencia cinestésica innata."
+      ],
+      "correct_answer": "Combinar la pericia observacional ('coaching eye') integrando el input del transductor numérico con indicaciones precisas de foco externo.",
+      "feedback": "El entrenador Yamashita probó empíricamente que ni los reportes tardíos ni la simple grabación funcionaban para modelar la conducta motora aguda. Solo cuando combinaron el feedback numérico instantáneo de la fuerza/velocidad junto a cues específicos (primero corrigiendo flexión, luego añadiendo estímulos externos para fomentar el contramovimiento), el deportista modificó agudamente la asimilación del estrés y elevó sustancialmente sus variables de desempeño y RFD."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Confrontando el valor diagnóstico de perfiles cinéticos estáticos frente a balísticos en deportes de campo cruzados con cambios de dirección y plantados agresivos. ¿Qué evaluación demostró correlacionar fuertemente (r ≥ 0.5) con las altas fuerzas horizontales originadas en esas maniobras técnicas?",
+      "options": [
+        "El Tiempo de Vuelo Modificado en saltos profundos (Flight Time).",
+        "Las variables de fuerza isométrica pura obtenidas en el IMTP (Mid-Thigh Pull).",
+        "El volumen inspiratorio de reserva en fase concéntrica.",
+        "La métrica combinada aislada de tiempo de propulsión de CMJ sin cargas."
+      ],
+      "correct_answer": "Las variables de fuerza isométrica pura obtenidas en el IMTP (Mid-Thigh Pull).",
+      "feedback": "Existe una 'brecha contextual' muy clara entre la pura propulsión elástica de un salto (CMJ) y las necesidades restrictivas de absorber inmensas cantidades de momentum durante un corte en la pista de baloncesto (Change of Direction). La investigación correlacional evidenció que soportar mecánicamente las fuerzas horizontales extremas es una cualidad mucho más predecible por los niveles absolutos de fuerza registrados en tirones isométricos (IMTP), quedando desvinculada de variables convencionales de CMJ."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "¿Por qué el flujo de datos proveniente de las plataformas de fuerza no es suficiente por sí solo y requiere una integración metodológica absoluta en el alto rendimiento?",
+      "options": [
+        "Porque suple completamente al análisis humano, revelando la etiología anatómica sin sesgo pero careciendo de aplicabilidad en el campo.",
+        "Porque actúa como predictor directo si los desbalances superan la desviación típica, anulando la necesidad de tests complementarios.",
+        "Porque aporta apenas el 70% del cuadro funcional real, requiriendo su integración absoluta con el criterio observacional técnico y el contexto estacional del deporte.",
+        "Porque solo retiene credibilidad en fases concéntricas puras, desestimando por completo la acción de los componentes de amortiguación articular."
+      ],
+      "correct_answer": "Porque aporta apenas el 70% del cuadro funcional real, requiriendo su integración absoluta con el criterio observacional técnico y el contexto estacional del deporte.",
+      "feedback": "El autor concluye como pilar filosófico de su ponencia que 'debemos usar los datos fuertemente, pero no depender completamente de ellos'. Las plataformas de fuerza fallan al detectar estrategias segmentarias compensatorias (como restricciones específicas del deporte o descargas articulares latentes). La recolección de los Newtons representa, a sumo, el 70% del puzzle; el porcentaje restante es pura experiencia práctica, observación directa (coaching eye) y entendimiento profundo del macrociclo del atleta."
+    }
+  ]
+}
