@@ -1,0 +1,251 @@
+{
+  "class_title": "Certificación PSS: Accurate Data Collection of Force-Time Data",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "¿Por qué resulta biomecánicamente incorrecto evaluar un Countermovement Push-Up (flexión pliométrica) utilizando únicamente plataformas de fuerza uniaxiales portátiles?",
+      "options": [
+        "El movimiento describe un arco de traslación pivotando sobre los pies, introduciendo vectores de fuerza horizontales imposibles de registrar para un sistema uniaxial.",
+        "El impacto directo de las extremidades superiores sobre la plataforma genera un exceso de ruido superior a cinco desviaciones estándar.",
+        "La frecuencia de muestreo de estos dispositivos es insuficiente para captar la altísima tasa de desarrollo de fuerza explosiva del tren superior.",
+        "La amortiguación anatómica de la muñeca absorbe más del 16% de la fuerza pico, falseando los datos netos verticales."
+      ],
+      "correct_answer": "El movimiento describe un arco de traslación pivotando sobre los pies, introduciendo vectores de fuerza horizontales imposibles de registrar para un sistema uniaxial.",
+      "feedback": "Una plataforma uniaxial asume que el centro de masa viaja estrictamente en el plano vertical. En una flexión balística, el cuerpo utiliza los pies como fulcro, generando un movimiento en arco. Esto introduce componentes de fuerza horizontales que el software uniaxial procesará erróneamente como vectores verticales, invalidando el cálculo y las decisiones de programación."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "Tras el contacto reactivo en un Drop Jump, resulta metodológicamente indispensable que el atleta permanezca estático al aterrizar, ya que esto permite calcular matemáticamente con total exactitud su altura real de caída inicial.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "El aterrizaje estático post-salto durante al menos 1 segundo es un protocolo innegociable. Su función biocinemática no es evaluar la recepción, sino calcular matemáticamente con exactitud la altura real de caída inicial del atleta, mitigando el margen de error por variabilidad postural que puede oscilar entre un 20% y un 30%."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Para deportistas biomecánicamente desfavorables, como jugadores de baloncesto con torsos muy largos, el Isometric Belt Squat se utiliza como alternativa primaria al Isometric Squat convencional para evitar ____.",
+      "options": [
+        "la limitación del agarre",
+        "la asimetría transversal",
+        "la carga axial en la columna"
+      ],
+      "correct_answer": "la carga axial en la columna",
+      "feedback": "El Isometric Belt Squat desplaza el vector de carga directamente hacia la pelvis y los miembros inferiores, suprimiendo la compresión espinal (carga axial) que frecuentemente desencadena dolor lumbar en atletas de gran envergadura durante los test de fuerza máxima isométrica."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "A pesar de la alta validez concurrente de las plataformas de fuerza portátiles frente al 'gold standard', cruzar y comparar datos de un mismo atleta entre plataformas de distintos fabricantes (ej. ForceDecks vs Hawkin Dynamics) es contraproducente por:",
+      "options": [
+        "La incapacidad del hardware portátil para sostener frecuencias de registro superiores a los 500 Hz en entornos de campo.",
+        "El uso exclusivo de placas uniaxiales en el mercado portátil, en contraposición a las plataformas triaxiales de Kistler o AMTI.",
+        "Las variaciones en la masa neta del sistema asumida por defecto en la fase previa al pesaje silencioso de un segundo.",
+        "Las divergencias en el software propietario al aplicar umbrales de inicio de movimiento, definiciones de fases y algoritmos de dinámica inversa."
+      ],
+      "correct_answer": "Las divergencias en el software propietario al aplicar umbrales de inicio de movimiento, definiciones de fases y algoritmos de dinámica inversa.",
+      "feedback": "El hardware capta impulsos eléctricos similares, pero el tratamiento algorítmico es propietario (caja negra). Diferentes marcas interpretan el inicio exacto del movimiento (onset threshold) y las fases de empuje bajo criterios matemáticos distintos, haciendo matemáticamente incompatible la comparación cruzada de sus métricas derivadas."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "Monitorizar exclusivamente la altura de salto en el Countermovement Jump (CMJ) resulta insuficiente para evaluar la fatiga neuromuscular, ya que el atleta puede mantener la altura alterando drásticamente su estrategia biomecánica.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "La altura de salto es el 'Outcome' (resultado). Un atleta fatigado puede mantener intacta la altura de su CMJ alterando drásticamente su 'Strategy' (estrategia biomecánica), como hundirse más en el contramovimiento o alargar los tiempos de propulsión. Por tanto, sin el análisis completo de la curva fuerza-tiempo, la fatiga real queda enmascarada."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Para aislar correctamente el umbral de inicio de movimiento (onset threshold) y calcular la dinámica inversa sin ruido, se requiere un período de pesaje estable de 1 segundo fundamentado en un máximo de cinco desviaciones estándar del ____.",
+      "options": [
+        "pesaje estable",
+        "tiempo de vuelo libre",
+        "fase de aceleración neta"
+      ],
+      "correct_answer": "pesaje estable",
+      "feedback": "Cualquier micro-oscilación del atleta altera la lectura basal. Retrocender 30 milisegundos y aplicar una banda de tolerancia matemática de 3 a 5 desviaciones estándar sobre ese período exacto de pesaje estable garantiza la detección certera del inicio de la descarga (unweighting phase) sin falsos positivos por ruido."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "¿Cuál es la principal justificación técnica para NO utilizar la directriz verbal de 'tirar verticalmente de la barra' al realizar el Isometric Mid-Thigh Pull (IMTP) en atletas de deportes de equipo?",
+      "options": [
+        "Genera un vector de fuerza opuesto al sensor piezoeléctrico, restando hasta un 15% del valor en la métrica de fuerza neta total.",
+        "Desencadena una alteración postural en la que el atleta flexiona codos y encoge hombros, restando protagonismo a los miembros inferiores.",
+        "Produce una sobredemanda en la musculatura lumbar, incrementando radicalmente la aparición de micro-lesiones en el raquis.",
+        "Adelanta artificialmente el umbral de inicio de movimiento, invalidando el cálculo de dinámica inversa y el peso real del sistema."
+      ],
+      "correct_answer": "Desencadena una alteración postural en la que el atleta flexiona codos y encoge hombros, restando protagonismo a los miembros inferiores.",
+      "feedback": "A diferencia de los halterófilos o fuerzas tácticas especiales, los atletas de deportes de equipo carecen de la maestría técnica en levantamientos. Pedirles 'tirar de la barra' provoca una compensación parasitaria con el tren superior (shrugging/flexión de codo), disipando la transferencia directa de la fuerza contra el suelo que buscan registrar las plataformas bajo sus pies."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Para evitar resultados erróneos y la aplicación del principio 'Garbage in, Garbage out', el registro en pruebas como el CMJ requiere que la frecuencia de muestreo del hardware sea, como mínimo funcional, de 1000 Hz, previniendo que se sobreestime ____.",
+      "options": [
+        "el pico excéntrico máximo",
+        "la altura del salto",
+        "la pre-tensión isométrica"
+      ],
+      "correct_answer": "la altura del salto",
+      "feedback": "La literatura científica evidencia que descender de los 1000 Hz en pruebas balísticas de alta velocidad pierde fotogramas de datos clave en el despegue, lo que matemáticamente puede sobreestimar el cálculo de la altura final del CMJ en torno a un 4%."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "A la hora de interpretar índices como el Dynamic Strength Index (DSI), dictaminar los bloques de entrenamiento tomando como base únicamente el valor crudo del ratio final es un error grave debido a que:",
+      "options": [
+        "El DSI es extremadamente sensible a las fluctuaciones del ciclo circadiano, requiriendo estandarización temporal estricta.",
+        "Un ratio perfectamente equilibrado puede pertenecer a un deportista con un déficit crítico de fuerza base absoluta que jamás deba iniciar trabajo pliométrico aún.",
+        "Se priorizan los gestos de triple extensión frente a los requerimientos cinéticos reales de deportes multidireccionales.",
+        "Se asume erróneamente que la fase de amortiguación dictamina el techo biológico de la fuerza concéntrica propulsiva."
+      ],
+      "correct_answer": "Un ratio perfectamente equilibrado puede pertenecer a un deportista con un déficit crítico de fuerza base absoluta que jamás deba iniciar trabajo pliométrico aún.",
+      "feedback": "Las métricas de ratio camuflan la magnitud absoluta. Un atleta con niveles deplorables tanto en salto balístico como en fuerza máxima isométrica puede arrojar un DSI 'equilibrado'. Si no se analizan los componentes subyacentes, se le podría prescribir mantenimiento, cuando la necesidad fisiológica urgente es desarrollar fuerza base pura."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "La física dicta que el impulso total de aterrizaje tras un salto será equivalente al impulso propulsivo de despegue, pero el deportista fatigado altera drásticamente su mecánica disminuyendo el tiempo de contacto para absorber agresivamente mayores picos de fuerza.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es matemáticamente falso en su mecanismo biomecánico de disipación. Aunque los impulsos sean equivalentes por ley de física, el atleta fatigado adopta una estrategia protectora: PROLONGA la duración de la fase de aterrizaje, aumentando el tiempo bajo tensión precisamente para disipar el estrés y REDUCIR las fuerzas pico de impacto."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Omitir el uso sistemático de correas de fijación (straps) durante un Isometric Mid-Thigh Pull desencadena una cascada de invalidaciones biomecánicas que cristalizan principalmente en:",
+      "options": [
+        "Una sobreestimación matemática del índice de fuerza reactiva debido al falso pico de tensión pre-registro.",
+        "La evaluación exclusiva de la fuerza sub-máxima de agarre del atleta, con una merma media de 1000 Newtons frente a su potencial real de miembros inferiores.",
+        "El aumento de ruido vibratorio por encima de los 500 Hz, corrompiendo la definición del algoritmo de 'onset threshold'.",
+        "Un desplazamiento involuntario de la barra que incrementa el brazo de palanca y la tensión cizalla lumbar en un 23%."
+      ],
+      "correct_answer": "La evaluación exclusiva de la fuerza sub-máxima de agarre del atleta, con una merma media de 1000 Newtons frente a su potencial real de miembros inferiores.",
+      "feedback": "Los músculos flexores del antebrazo claudicarán neurológica y mecánicamente mucho antes de que glúteos y cuádriceps alcancen su reclutamiento máximo. Esto convierte una prueba de fuerza global elite en un simple test de grip strength, regalando una subestimación masiva (-1000N) de las capacidades de las extremidades inferiores."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "El uso de frecuencias de muestreo elevadas (ej. 1000 Hz) en tests isométricos monoarticulares aislados resulta una elección metodológicamente subóptima fundamentalmente porque amplifica excesivamente ____.",
+      "options": [
+        "el ruido del sistema",
+        "el tiempo de contacto total",
+        "el pico de fuerza relativo"
+      ],
+      "correct_answer": "el ruido del sistema",
+      "feedback": "En isometría monoarticular la masa total interactuando es menor (bajo peso del sistema), por lo que un muestreo de alta resolución documenta variaciones y vibraciones micro-motoras irrelevantes. Ese excesivo 'ruido' arruina la capacidad del software para fijar un umbral de inicio limpio (onset threshold), corrompiendo el cálculo de la RFD."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "Un intento en un test de fuerza isométrica (IMTP) se considera perfectamente válido y representativo de la capacidad de reclutamiento muscular puro si la fuerza pico se alcanza justo al finalizar la tracción de los 3-5 segundos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Alcanzar el pico máximo de tensión en el instante final del test isomérico evidencia invariablemente una trampa técnica o compensación (dynamic shift): el atleta cambia sus ángulos articulares, buscando extensión de cadera o flexión de rodilla desesperada para traccionar mecánicamente. El intento debe anularse y repetirse."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "El marco teórico PODS (Person, Outcome, Driver, Strategy) permite decodificar y jerarquizar los más de 100 parámetros que escupen los softwares. ¿En qué categoría metodológica encaja el desplazamiento vertical del centro de masas (profundidad de la flexión) durante la amortiguación de un salto?",
+      "options": [
+        "Person (Persona), ya que la antropometría dicta la excursión articular.",
+        "Outcome (Resultado), porque determina el valor absoluto reportado al cuerpo técnico.",
+        "Driver (Impulsador), al definir la Tasa de Desarrollo de Fuerza (RFD) propulsiva neta.",
+        "Strategy (Estrategia), pues revela la mecánica elegida para solventar la tarea biomecánica impuesta."
+      ],
+      "correct_answer": "Strategy (Estrategia), pues revela la mecánica elegida para solventar la tarea biomecánica impuesta.",
+      "feedback": "Mientras la Altura del Salto es el 'Outcome', y las Fuerzas/Tiempos específicos son los 'Drivers', la cinemática de cómo se hundió el atleta, cuánto tiempo invirtió y su desplazamiento definen intrínsecamente la 'Estrategia'. Dos atletas pueden saltar 45cm empleando Estrategias biomecánicas diametralmente opuestas."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "En evaluaciones clínicas avanzadas 'Return to Play' tras la reconstrucción del LCA, el alta médica suele fallar al otorgarse basándose en la simetría de la fuerza pico, enmascarando que la pierna afectada mantiene déficits críticos cercanos al 40% en ____.",
+      "options": [
+        "la absorción excéntrica tardía",
+        "la masa magra segmentaria",
+        "la tasa rápida de fuerza"
+      ],
+      "correct_answer": "la tasa rápida de fuerza",
+      "feedback": "El riesgo patológico agudo del LCA se manifiesta en intervalos inferiores a 500 ms (típicamente 50-200ms). Un atleta puede recuperar meses después su 100% de fuerza máxima isométrica (peak force), pero ser incapaz biológicamente de reclutarla con velocidad (Rapid Force / RFD), quedando expuesto a una rotura inminente en gestos reactivos."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "¿Cuál es la distorsión mecánica cuantitativa que sufre la métrica de fuerzas de reacción terrestres pico (peak ground reaction forces) al testar capacidades reactivas en plataformas dispuestas sobre un suelo de madera amortiguado tipo pista de baloncesto?",
+      "options": [
+        "Sufre una atenuación estructural aproximada del 16% al ser la compliance del suelo quien absorbe y disipa el componente elástico.",
+        "Se incrementa un 16% de manera artificial al sumar el rebote sinérgico del entramado de la propia pista deportiva.",
+        "El pico se mantiene inalterado pero la curva fuerza-tiempo adelanta 30ms su umbral de disparo inicial.",
+        "Provoca una caída superior al 30% exclusivamente en el ratio de simetría de la fase de despegue unilateral."
+      ],
+      "correct_answer": "Sufre una atenuación estructural aproximada del 16% al ser la compliance del suelo quien absorbe y disipa el componente elástico.",
+      "feedback": "La estandarización ambiental es sagrada (ley de GAGO). Las superficies blandas o amortiguadas (compliance ambiental) absorben parte del impacto mecánico, 'robando' la fuerza generada. Investigaciones directas prueban reducciones artificiales masivas del 16% en los picos de fuerza, arruinando diagnósticos de atletas elásticos/reactivos."
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "question": "A nivel procedimental analítico, establecer un umbral absoluto de 250 Newtons para discriminar la variabilidad y fiabilidad inter-intentos de un IMTP es un estándar inamovible que debe aplicarse universalmente desde la élite hasta categorías de formación.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Falso por contexto antropométrico. Un déficit de 250N en un lineman de NFL de 130kg es anecdótico, pero en un gimnasta pre-púber de 35kg ese margen de error absoluto representaría oscilaciones irracionales cercanas al 100% de su propia masa corporal. En estos perfiles, la estandarización exige migrar a umbrales relativos (ej. 5-15% del pico de fuerza)."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Al ejecutar protocolos reactivos cíclicos exigentes, como el test 10/5 de rebote continuo en plataformas de fuerza, las limitaciones computacionales fuerzan al software a sacrificar la doble integración del área bajo la curva (fuerza-tiempo), acudiendo obligatoriamente a estimar la altura mediante:",
+      "options": [
+        "La sumatoria de las fuerzas horizontales y transversales para aislar la fatiga del huso muscular.",
+        "El tiempo de vuelo bruto de cada acción, lo que inyecta inexactitud al derivarse métricas secundarias como el RSI.",
+        "Un modelo predictivo polinómico basado en las primeras tres desviaciones estándar del período propulsivo.",
+        "La dinámica inversa extrapolada exclusivamente a través del punto de máxima pre-tensión isométrica del tríceps sural."
+      ],
+      "correct_answer": "El tiempo de vuelo bruto de cada acción, lo que inyecta inexactitud al derivarse métricas secundarias como el RSI.",
+      "feedback": "Integrar vectores de aceleración y desplazamiento para calcular trabajo mecánico neto de manera continuada en 15-20 impactos es informáticamente colosal y susceptible a la acumulación infinita de errores (drift). Por ello, los softwares retroceden al cálculo analógico simplista mediante los milisegundos de tiempo de vuelo, arrastrando las imprecisiones típicas de las alfombras de contacto tradicionales."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Interpretar aisladamente el porcentaje de asimetría inter-miembro es un error clínico conceptual letal. Bajo la lente del modelo de cuadrantes de riesgo, la verdadera 'bandera roja' que pronostica un daño estructural inminente no es ser asimétrico, sino presentar un perfil que cruce asimetría con una condena severa de:",
+      "options": [
+        "Déficit en los niveles de fuerza globales e incapacidad para vencer resistencias altas (ser estructuralmente débil).",
+        "Un exceso patológico de masa magra no funcional en el miembro dominante limitando la flexibilidad isquiosural.",
+        "Picos erráticos en la sensibilidad propioceptiva registrados durante los primeros 50 milisegundos de contacto terrestre.",
+        "Estrategias de salto dominadas excesivamente por el tobillo suprimiendo la absorción en cadera y rodilla."
+      ],
+      "correct_answer": "Déficit en los niveles de fuerza globales e incapacidad para vencer resistencias altas (ser estructuralmente débil).",
+      "feedback": "La fuerza absoluta ejerce como blindaje anatómico definitivo. Un deportista que emite un 20% de asimetría pero goza de marcas de fuerza globales colosales (asimétrico pero fuerte) es un perfil funcional y resistente en el deporte. El caldo de cultivo de la lesión es la 'debilidad'. Ser simétrico y débil, o peor, asimétrico y débil, destruye la tolerancia de los tejidos al estrés biomecánico agudo."
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "De acuerdo a los lineamientos de 'Data Literacy' orientados a empoderar al Preparador Físico, el reporte infográfico de la cascada de datos que provee la plataforma de fuerza hacia el entrenador principal o médico debe cimentarse imperativamente bajo el principio de:",
+      "options": [
+        "Enmascarar la variabilidad inherente de los intentos detrás de gráficos de barras consolidados y sólidos para proyectar mayor seguridad técnica.",
+        "Minimizar el ratio dato/tinta, evitando sobrecargar de líneas de cuadrícula y mostrando los valores reales y la dispersión (margen de error) de la métrica.",
+        "Generar alarmas rojas estáticas siempre que cualquier variable secundaria supere un 5% de desviación estándar intradiaria.",
+        "Reportar las métricas de laboratorio puras (ej. Impulso neto segmentario a 150ms) evitando traducir el resultado a lenguaje tácito deportivo como 'altura'."
+      ],
+      "correct_answer": "Minimizar el ratio dato/tinta, evitando sobrecargar de líneas de cuadrícula y mostrando los valores reales y la dispersión (margen de error) de la métrica.",
+      "feedback": "Ocultar la crudeza de la información detrás de gráficos rígidos de barras (bar charts) aniquila la visualización del ruido intrínseco de cada atleta (incertidumbre). Mostrar la dispersión (puntos de datos reales o gráficos de violín) sin tinta inútil y contextualizado estadísticamente (Z-scores) transfiere 'sabiduría' en lugar de inundar al equipo con dígitos ciegos."
+    }
+  ]
+}
