@@ -1,0 +1,191 @@
+{
+  "class_title": "Bridging the Gap Between Science and Coaching and Decision Making in High Performance",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "En el framework de la toma de decisiones aplicado al alto rendimiento, durante la fase de procesamiento, ¿qué factor determina de manera directa la ponderación y alteración de la relevancia de los datos empíricos recogidos?",
+      "options": [
+        "La sensibilidad térmica y la fiabilidad intrínseca de los sistemas de trackeo y GPS utilizados por el club.",
+        "La elaboración exclusiva de informes estadísticos en formato A4 para presentar ante el cuerpo biomédico del equipo.",
+        "El contexto competitivo específico y el sesgo interpretativo que aporta la propia experiencia del preparador físico.",
+        "El volumen de carga cardiovascular registrada durante la ejecución de las tareas socioafectivas previas."
+      ],
+      "correct_answer": "El contexto competitivo específico y el sesgo interpretativo que aporta la propia experiencia del preparador físico.",
+      "feedback": "Durante el procesamiento de la información, el contexto en el que se recoge la muestra altera el significado real del dato. La capacidad analítica para filtrar y priorizar la información exige comprender si se trata de un amistoso o de una fase eliminatoria, y siempre existirá un sesgo natural determinado por la experiencia y el 'background' del profesional que interpreta las variables."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "A pesar de la alta densidad de los actuales calendarios competitivos, es una responsabilidad técnica imperativa buscar estímulos durante la temporada regular para seguir desarrollando el potencial físico del deportista, en lugar de limitarse al periodo de 'off-season'.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. A pesar de los calendarios hipercongestionados y las escasas ventanas de preparación, es una responsabilidad técnica imperativa buscar estímulos, microdosis o píldoras de trabajo durante la plena temporada regular que sigan empujando y desarrollando el potencial físico de los atletas, sin conformarse únicamente con metodologías de recuperación pasiva."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Para lograr la máxima excelencia en la preparación física de un deporte de equipo colectivo, es imprescindible individualizar el estímulo entendiendo que la verdadera equidad deportiva se alcanza al proporcionar a cada jugador ____.",
+      "options": [
+        "lo que realmente necesita",
+        "un volumen idéntico",
+        "estadísticas de rendimiento"
+      ],
+      "correct_answer": "lo que realmente necesita",
+      "feedback": "La igualdad y la equidad metodológica no son el mismo concepto. Aplicar exactamente la misma dosis de entrenamiento a toda la plantilla no generará adaptaciones homogéneas. La excelencia exige diagnosticar e implementar individualmente los estímulos específicos que cada perfil demanda para llevarlo hacia su tope de rendimiento."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿Cuál es la principal barrera logística y operativa que dificulta gravemente la implementación obligatoria de sesiones compensatorias post-partido en jugadores suplentes (menos de 10 minutos de juego) durante concentraciones cortas de selecciones nacionales?",
+      "options": [
+        "El escaso margen temporal institucional para asentar una cultura de trabajo sólida, dejando la decisión a expensas de la voluntad de descanso del jugador.",
+        "La recomendación estricta de la evidencia clínica que desaconseja por completo añadir carga adicional a la cadena posterior sin dejar un margen de 24 horas.",
+        "La falta sistemática de dispositivos inerciales, acelerómetros y tecnología GPS calibrada en los pabellones gestionados por organizaciones deportivas anfitrionas.",
+        "La fatiga del sistema nervioso central documentada en jugadores con roles secundarios, que imposibilita una activación fisiológica y psicológica eficiente."
+      ],
+      "correct_answer": "El escaso margen temporal institucional para asentar una cultura de trabajo sólida, dejando la decisión a expensas de la voluntad de descanso del jugador.",
+      "feedback": "En el contexto de selecciones nacionales con alta densidad competitiva, el staff carece de los meses de pretemporada que ofrece un club para instaurar hábitos y una cultura de esfuerzo férrea. Con un margen de influencia muy corto, la viabilidad de los trabajos compensatorios se apoya enormemente en habilidades de persuasión y comunicación para vencer la inclinación natural del deportista internacional hacia el descanso."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Cuando se carece de tiempo material para organizar reuniones formales estructuradas en un staff multidisciplinar complejo, el profesional del rendimiento debe absorber información vital acudiendo rutinariamente a ____.",
+      "options": [
+        "la sala de fisioterapia",
+        "las ruedas de prensa",
+        "comités disciplinarios"
+      ],
+      "correct_answer": "la sala de fisioterapia",
+      "feedback": "La coordinación logística en estructuras de élite es difícil y no siempre hay espacio para juntas directivas diarias. La comunicación informal es fundamental; acompañar y estar presente en los lugares de tratamiento y recuperación de los deportistas permite al preparador físico interactuar fluidamente, observar la clínica directa y capturar datos valiosos fuera de los protocolos formales."
+    },
+    {
+      "id": 6,
+      "type": "true_false",
+      "question": "Un registro idéntico de 700 Unidades Arbitrarias calculado mediante el 'RPE de la sesión' desencadena un nivel de fatiga e impacto fisiológico equivalente, independientemente del momento del año en el que se obtenga.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El valor numérico de métricas de percepción como el RPE es puramente relativo y sufre alteraciones drásticas mediadas por el contexto anual. El estrés residual y las exigencias de recuperación derivadas de alcanzar esas 700 UAs en un mes de pretemporada carecen por completo de correlación con la fatiga experimentada si ese mismo valor absoluto se genera en medio de unos playoffs concentrados."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Ante indicadores de alerta biológica graves (bajo wellness, mala recuperación intermitente, dolor en la cadena posterior) reflejados en la monitorización de un deportista franquicia en la víspera de competición, ¿qué dinámica estructural choca frecuentemente con la recomendación de frenar la carga?",
+      "options": [
+        "La latencia intrínseca que presentan los actuales transmisores telemétricos al calcular variabilidades de frecuencia cardíaca (HRV) durante esfuerzos máximos en intervalos.",
+        "La interferencia metodológica del marco médico externo del jugador, que suele desestimar los cuestionarios perceptivos debido a su alta sensibilidad cruzada con el estrés diario.",
+        "El uso de microciclos herméticos heredados del modelo clásico que prohíben modificar la intensidad pautada con menos de 48 horas de antelación al inicio del partido.",
+        "El fuerte sentido de liderazgo y jerarquía del atleta que le impulsa a negarse a alterar sus rutinas para mantener el estatus de líder y ejemplo intocable ante el vestuario."
+      ],
+      "correct_answer": "El fuerte sentido de liderazgo y jerarquía del atleta que le impulsa a negarse a alterar sus rutinas para mantener el estatus de líder y ejemplo intocable ante el vestuario.",
+      "feedback": "La gestión humana en el alto rendimiento subraya que los datos (las 'Red Flags' de la ciencia) topan con el perfil psicológico y social de los líderes del vestuario. Un jugador franquicia puede desoír de pleno su cuadro sintomatológico y las evidencias de sobreentrenamiento argumentando que su responsabilidad como referente moral del equipo requiere no ceder terreno en los entrenamientos, anulando la intervención teórica."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Al momento de estructurar y comunicar la decisión final de intervención (output) a un 'Head Coach' de élite, el analista o preparador físico tiene la obligación técnica de garantizar que su mensaje final:",
+      "options": [
+        "Se condense en una instrucción verbal extremadamente sintetizada y directa que determine operativamente qué acciones físicas o tácticas se deben emprender al día siguiente.",
+        "Excluya toda alusión empírica de métricas inerciales, limitando su exposición a fundamentos psicofisiológicos respaldados por publicaciones del último trimestre.",
+        "Se encuentre respaldado por un dosier impreso que desmenuce matemáticamente la oscilación de la frecuencia cardíaca máxima durante las fases de transición.",
+        "Delegue la determinación de los minutos de contacto en pista a las sensaciones autoinformadas por los capitanes del equipo en la reunión de capitanes previa."
+      ],
+      "correct_answer": "Se condense en una instrucción verbal extremadamente sintetizada y directa que determine operativamente qué acciones físicas o tácticas se deben emprender al día siguiente.",
+      "feedback": "La utilidad y calidad de la toma de decisiones en el entorno profesional no se valida por la ostentación de la complejidad estadística del proceso, sino por su facilidad de ejecución. Los entrenadores principales enfrentan saturación cognitiva; por ende, un filtrado de alta calidad exige que toda la matriz de datos culmine en instrucciones resolutivas verbales breves y ejecutables inmediatamente (saber exactamente 'qué hacemos mañana')."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "En el proceso de individualización para salvaguardar la salud osteoarticular a largo plazo de un pilar clave del equipo, el preparador físico asume inevitablemente el enorme desafío táctico de ____.",
+      "options": [
+        "aumentar sus marcadores biológicos",
+        "sacrificarlo temporalmente en pista",
+        "evitar ejercicios de readaptación"
+      ],
+      "correct_answer": "sacrificarlo temporalmente en pista",
+      "feedback": "Fungir como el verdadero arquitecto de la salud competitiva a largo plazo fuerza a tomar medidas drásticas y antipopulares de prevención. Esto incluye frenar en seco al jugador estelar, concediendo descansos profilácticos que chocan frontalmente contra la voluntad y la necesidad inmediata del cuerpo técnico de disponer de sus mejores herramientas en todo momento para ganar partidos."
+    },
+    {
+      "id": 10,
+      "type": "true_false",
+      "question": "En escenarios de readaptación con alta presión, el conocimiento empírico del comportamiento lesional previo y la ausencia de patologías en imagen pueden justificar un alta competitiva (Return to Play) exitosa, incluso si el atleta no alcanza el 100% de simetría en tests funcionales.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La evidencia científica en los procesos de readaptación no configura una verdad irrefutable en entornos de altísima presión. En escenarios donde coexisten sintomatologías álgicas complejas y bajos resultados funcionales, el conocimiento empírico e histórico del comportamiento lesional previo del jugador, sumado a la ausencia de hallazgos patológicos en pruebas diagnósticas, puede justificar asumir decisiones de alta exposición al riesgo que derivan en retornos plenamente exitosos."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "¿Qué debilidad epistemológica grave expone la brecha real entre los parámetros descritos en los 'papers' y hojas de cálculo (Data Overload) frente al desarrollo dinámico del rendimiento en pista?",
+      "options": [
+        "La saturación computacional del análisis algorítmico bloquea la interpretación inmediata de la acelerometría, generando reportes obsoletos para el día de partido.",
+        "La dependencia exclusiva en la cuantificación numérica produce ceguera clínica, desconectando al profesional de observar el lenguaje corporal real y las dinámicas que acontecen lejos de las pantallas.",
+        "Los dispositivos GPS y telemétricos de nueva generación poseen un error estándar de medición superior al 15% cuando la humedad del pabellón aumenta significativamente.",
+        "El procesamiento estadístico desensibiliza al atleta respecto a la autopercepción de su esfuerzo, obligando a triplicar las escalas RPE durante los periodos de off-season."
+      ],
+      "correct_answer": "La dependencia exclusiva en la cuantificación numérica produce ceguera clínica, desconectando al profesional de observar el lenguaje corporal real y las dinámicas que acontecen lejos de las pantallas.",
+      "feedback": "El riesgo supremo del 'Data Overload' radica en sepultar al preparador entre celdas de Excel, provocando que la métrica pase a ser el fin en lugar del medio. En el alto rendimiento, las respuestas orgánicas, adaptativas y emocionales del juego a menudo no son cuantificables. Restar atención visual al deportista a favor del análisis obsesivo de la pantalla degenera irreparablemente la calidad de las decisiones tomadas; 'menos datos suele equivaler a más y mejores decisiones'."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Frente a las contingencias del alto rendimiento, al intervenir y reajustar precipitadamente los microciclos de cargas previamente planificadas, el cuerpo técnico incurre frecuentemente en el peligroso error de gestionar mediante ____.",
+      "options": [
+        "la modificación del orden de ejercicios",
+        "patrones teóricos inamovibles",
+        "decisiones guiadas por impulsividad"
+      ],
+      "correct_answer": "decisiones guiadas por impulsividad",
+      "feedback": "La incertidumbre y las disrupciones biológicas o logísticas formarán siempre parte del panorama del alto rendimiento. La clave para que el bucle de adaptación de cargas sea efectivo reside en procesar rápidamente la información por el 'framework de decisión' sin sucumbir ante la impulsividad reactiva o el pánico provocado por posibles presiones mediáticas, los resultados adversos o el riesgo inminente de perder a un atleta."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "¿De qué modo condicional el ratio 'entrenador-jugador' altera drásticamente la viabilidad de la preparación técnica comparando ecosistemas elitistas como las franquicias de la NBA frente al tejido del baloncesto profesional FIBA / Europeo?",
+      "options": [
+        "El bajo índice de staff en la NBA obliga a subcontratar fisiología deportiva externa a clínicas privadas, aumentando el riesgo de disonancia en la prescripción de suplementos.",
+        "En Europa, la dotación de múltiples readaptadores por jugador en pista garantiza una reducción drástica en la latencia telemétrica del sistema de frecuencia cardíaca (HRV).",
+        "La proporción casi equitativa en USA permite un control micrométrico por atleta, mientras que los ajustados staff europeos impiden logísticamente el despliegue de sesiones profundamente divididas e individualizadas en cancha.",
+        "Los entrenadores NBA relegan toda decisión táctica de los entrenamientos compensatorios al departamento de Data Science, eliminando el contacto interhumano en las áreas de team building."
+      ],
+      "correct_answer": "La proporción casi equitativa en USA permite un control micrométrico por atleta, mientras que los ajustados staff europeos impiden logísticamente el despliegue de sesiones profundamente divididas e individualizadas en cancha.",
+      "feedback": "Las metodologías académicas chocan con los recursos limitados en el mundo real. Las organizaciones en la NBA cuentan con plantillas superlativas que permiten disponer de casi un preparador para cada uno o dos deportistas, logrando niveles de atención técnica absolutos. En contraste, en estructuras formativas y profesionales en Europa, el escaso número de técnicos a cargo de plantillas amplias fragmenta seriamente la posibilidad práctica de orquestar dinámicas altamente compartimentadas e individualizadas a nivel biomecánico y táctico."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Al pautar tareas destinadas explícitamente a la alteración de dinámicas grupales socioafectivas ('Team Building') previas al esfuerzo principal, el S&C Coach afronta un claro riesgo de desprestigio profesional al:",
+      "options": [
+        "Inhibir la activación neuro-simpática necesaria si la duración total de la actividad supera los límites temporales del calentamiento estructurado por la evidencia científica de prevención articular.",
+        "Intervenir excesivamente en los protocolos de prevención de tobillo recomendados por el equipo médico, limitando así el proceso fisiológico de propiocepción inicial.",
+        "Desvirtuar su credibilidad y confundir radicalmente su perfil técnico de alto rendimiento con el mero entretenimiento, al abusar de componentes recreativos que carecen de rigor o de transferencia mecánica a la tarea.",
+        "Generar un efecto acumulativo de fatiga residual en el sistema nervioso del atleta suplente debido a la falta prolongada de intervención táctica pospartido."
+      ],
+      "correct_answer": "Desvirtuar su credibilidad y confundir radicalmente su perfil técnico de alto rendimiento con el mero entretenimiento, al abusar de componentes recreativos que carecen de rigor o de transferencia mecánica a la tarea.",
+      "feedback": "El diseño correcto y riguroso de tareas representa un pilar intransigible de la profesión. Incorporar dosis marginales de ejercicios lúdicos o juegos emocionales puede servir para revertir rachas anímicas complejas; sin embargo, cruzar la frontera de su uso abusivo transforma la imagen del preparador ante los deportistas, degradándolo de un 'científico' encargado del diseño metodológico a un simple facilitador del divertimento sin justificación de transferencia atlética real."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "En la gestión integral de un equipo deportivo de alto rendimiento, ¿cuál es el factor intrínseco determinante que valida o arruina la eficacia de disponer de infraestructuras vanguardistas de prevención de lesiones y fuerza muscular?",
+      "options": [
+        "El grado de calibración térmica y mecánica del suelo pélvico de las bañeras de recuperación pasiva controladas domóticamente por el club.",
+        "El fomento de la cultura y la educación actitudinal del jugador, forjando el hábito autónomo de acudir preventivamente a dichas áreas antes y después de cada carga oficial en pista.",
+        "La integración obligatoria de los sistemas de evaluación isométrica en la red estadística telemétrica conectada con el perfil de rendimiento biométrico de la organización.",
+        "El desarrollo imperativo de microdosis competitivas diseñadas paramétricamente dentro del marco del 'off-season', donde la incidencia lesional aguda es matemáticamente nula."
+      ],
+      "correct_answer": "El fomento de la cultura y la educación actitudinal del jugador, forjando el hábito autónomo de acudir preventivamente a dichas áreas antes y después de cada carga oficial en pista.",
+      "feedback": "La primera de todas las responsabilidades en el desarrollo de rendimiento consiste en forjar la mente del jugador, cultivando su adhesión disciplinaria al 'entrenamiento invisible'. No importa la magnitud ni la modernidad de la inversión financiera del equipo en aparatajes de fuerza, biomecánica o readaptación si los jugadores carecen de la asimilación autónoma que les compromete moral y conductualmente a preparar y reconstruir su cuerpo por voluntad propia en torno a cada sesión general pautada."
+    }
+  ]
+}
