@@ -1,0 +1,190 @@
+{
+  "class_title": "Key Performance Indicators",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "En el diseño del panel de control (Dashboard) individual de un jugador durante la temporada competitiva, ¿cuál es la referencia óptima al emplear gráficos de radar para evaluar sus KPIs de rendimiento y salud?",
+      "options": [
+        "El valor promedio del equipo en esa misma semana competitiva.",
+        "El estándar normativo de la liga para su posición de juego.",
+        "Los mejores registros históricos obtenidos por el propio atleta.",
+        "El valor de la pretemporada ajustado por la ratio aguda-crónica."
+      ],
+      "correct_answer": "Los mejores registros históricos obtenidos por el propio atleta.",
+      "feedback": "Para que el dashboard sea accionable y altamente individualizado, la visualización en gráficos de radar debe contrastar el estado actual de las métricas del jugador frente a sus propios picos de rendimiento históricos. Esto contextualiza si una métrica específica se encuentra al 100% de su capacidad real demostrada, independientemente del promedio colectivo."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "Durante la temporada regular competitiva (in-season), la recolección de métricas de rendimiento debe priorizar el uso de tecnologías e indicadores indirectos, como los sistemas de posicionamiento local (LPS) y tracking óptico, con la finalidad de no sumar estrés crónico al deportista.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La etapa competitiva tiene como objetivo principal jugar y asimilar entrenamientos de máxima intensidad táctica. Por ello, la recopilación de datos debe transicionar desde pruebas invasivas o máximas hacia evaluaciones indirectas que extraigan picos de aceleración o distancias sin necesidad de tests directos que supongan una carga neuromecánica añadida."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Al implementar evaluaciones perceptuales subjetivas en la práctica diaria, se recomienda que el cuerpo técnico califique el estado de los jugadores utilizando un sistema simplificado de semáforo (1 a 3) para minimizar ____.",
+      "options": [
+        "el error de valoración",
+        "el volumen de la carga",
+        "el ruido estadístico de la VFC"
+      ],
+      "correct_answer": "el error de valoración",
+      "feedback": "Simplificar la escala perceptual tradicional de 1 a 5, pasándola a un formato de tres puntos (semáforo de estados: óptimo, estable o bajo nivel de alerta), reduce considerablemente la ambigüedad y el error inter-evaluador. Esto dota de fiabilidad técnica a las sensaciones y el instinto que aportan los entrenadores en la evaluación subjetiva."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿Cuál es una herramienta clínica de alta prioridad para el monitoreo avanzado de la prevención estructural en disciplinas que exigen elevados volúmenes de salto y fuerzas reactivas laterales?",
+      "options": [
+        "La electromiografía de superficie en la musculatura isquiosural.",
+        "El escaneo ecográfico de los tendones rotuliano y de Aquiles.",
+        "La medición del rango articular del hombro con tecnología 3D.",
+        "El análisis sanguíneo enfocado exclusivamente en la vitamina D."
+      ],
+      "correct_answer": "El escaneo ecográfico de los tendones rotuliano y de Aquiles.",
+      "feedback": "En perfiles atléticos que soportan constantes cargas de naturaleza excéntrica y de aterrizaje, el monitoreo ecográfico de los tendones representa un KPI clínico crítico. Evaluar la integridad anatómica del tendón rotuliano y el de Aquiles de forma proactiva permite intervenir antes de la aparición de dolor crónico o de roturas por estrés mecánico severo."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "Las pruebas de fuerza isométrica destinadas a estructuras lumbares y estabilizadoras, como las planchas frontales o las evaluaciones con ForceFrame en isquiosurales, se categorizan metodológicamente como KPIs de Rendimiento Deportivo orientados a la velocidad pura.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La resistencia isométrica muscular y la medición de la capacidad contráctil en el core, el sóleo o la musculatura abductora/aductora se asocian de forma primordial a la protección estructural y a los ratios de estabilidad. Por ello, se clasifican directamente como KPIs en la categoría de Salud del atleta."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el abordaje de procesamiento de datos más adecuado al evaluar y parametrizar el perfil elástico-reactivo mediante el uso de plataformas de salto?",
+      "options": [
+        "Sustituir la acción concéntrica veloz por evaluaciones puramente isométricas para homogeneizar la muestra grupal.",
+        "Exportar e interpretar exhaustivamente las más de 200 variables algorítmicas de fuerza-tiempo registradas por salto.",
+        "Registrar empíricamente la altura total alcanzada y obviar factores de aceleración que interfieran en el análisis.",
+        "Acotar la recolección a uno o dos indicadores extremadamente selectivos (ej: RSI modificado) que expliquen la duda técnica abordada."
+      ],
+      "correct_answer": "Acotar la recolección a uno o dos indicadores extremadamente selectivos (ej: RSI modificado) que expliquen la duda técnica abordada.",
+      "feedback": "Evitar la parálisis por exceso de análisis es clave. La sensibilidad de los biosensores modernos facilita la extracción de cientos de métricas cinéticas, sin embargo, la calidad reside en seleccionar intencionalmente indicadores (como el impulso o el RFD excéntrico) que se alineen a los objetivos neuromusculares del microciclo."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "En la adaptación y selección de la batería de pruebas, mientras que un joven talento orienta sus KPIs técnicos en la expresión de potencia, la programación analítica de un jugador veterano con antecedentes clínicos se enfocará drásticamente en ____.",
+      "options": [
+        "la aceleración de sus sprints",
+        "el monitoreo de su salud",
+        "los tiempos del ciclo de estiramiento-acortamiento"
+      ],
+      "correct_answer": "el monitoreo de su salud",
+      "feedback": "El historial de lesiones y la edad biológica imponen el sesgo de las métricas. Un atleta veterano, que arrastra desgaste fisiológico, requiere un volumen alto de recolección en marcadores protectores (control continuo de la masa grasa, escaneos articulares y perfiles inflamatorios) en favor del aumento puro de los RM mecánicos."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "¿Qué demuestra el consenso basado en las evidencias de evaluación contemporánea respecto a la cuantificación de las asimetrías de producción lateral de fuerza en atletas?",
+      "options": [
+        "Las asimetrías que rondan entre el 15% y el 25% pueden resultar funcionales, permitiendo competir sistemáticamente libres de lesiones.",
+        "Se precisa aplicar compensaciones urgentes obligatorias cuando un déficit inter-limb sobrepasa el histórico umbral del 3-5%.",
+        "La simetría biomecánica absoluta garantiza una eficiencia óptima para maximizar la vectorización de la potencia en fase concéntrica.",
+        "Cualquier diferencia detectada resulta ser un factor predictivo inmediato e infalible de roturas ligamentosas severas."
+      ],
+      "correct_answer": "Las asimetrías que rondan entre el 15% y el 25% pueden resultar funcionales, permitiendo competir sistemáticamente libres de lesiones.",
+      "feedback": "El antiguo estándar preventivo que forzaba a corregir minuciosamente desviaciones por encima del 5% resulta anacrónico. Debido a la asimetría funcional intrínseca a movimientos específicos, disparidades del 15% al 25% son en muchas ocasiones adaptaciones protectoras positivas que no inciden negativamente en el riesgo lesional."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "El registro algorítmico del rendimiento técnico en los partidos oficiales es un KPI que posee alta fiabilidad predictiva, incluso para perfiles de jugadores que disponen de volúmenes de juego intermitentes o inferiores a cinco minutos por encuentro.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Toda estadística generada en situaciones competitivas reales (por ejemplo, el ratio de eficiencia PER o los rebotes por minuto) exige un tamaño muestral de minutos disputados para amortiguar desviaciones matemáticas. Extraer métricas de periodos tácticos menores a los 20-25 minutos continuos arroja ruido y desvirtúa la tendencia del jugador."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "¿En qué interfiere severamente un aumento progresivo del tejido adiposo al impactar directamente como vector de riesgo en el pilar de salud del deportista?",
+      "options": [
+        "El estado fisiológico de la latencia en el sueño de fase profunda.",
+        "Su capacidad técnica para expresar fuerza isométrica máxima medible en decúbito.",
+        "La ratio adaptativa del tendón cruzado posterior frente a impactos elásticos.",
+        "Su capacidad de recuperación sistémica y la agilidad de los desplazamientos en el campo."
+      ],
+      "correct_answer": "Su capacidad de recuperación sistémica y la agilidad de los desplazamientos en el campo.",
+      "feedback": "El exceso de masa no magra no es un factor aislado en la prevención clínica. Constituye una sobrecarga pasiva que lastra agudamente la movilidad biomecánica, el ratio de fuerza relativa y compromete la eficiencia energética en la dispersión del lactato y los procesos inflamatorios de recuperación metabólica."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Dentro de la arquitectura gráfica de los reportes integrales, la curva que dibuja el balance longitudinal para sostener la ratio aguda-crónica exenta de picos de inadaptación o de desentrenamiento se sitúa, metodológicamente, en la zona central entre ____.",
+      "options": [
+        "0.8 y 1.3",
+        "0.3 y 0.7",
+        "1.6 y 2.0"
+      ],
+      "correct_answer": "0.8 y 1.3",
+      "feedback": "La gestión minuciosa del estrés mecánico impuesto requiere que los datos analíticos de carga transiten armónicamente dentro del denominado 'sweet spot'. Mantener las proporciones de estímulo en la franja de 0.8 a 1.3 favorece la sobrecompensación funcional sin someter a las estructuras tendinosas a fluctuaciones críticas."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el objeto funcional de la reunión estipulada al arranque de los microciclos competitivos de la temporada regular, en el marco organizacional del staff y la toma de decisiones basada en datos empíricos?",
+      "options": [
+        "Delinear estadísticamente los percentiles normativos para cada atleta y sancionar en qué magnitudes saltan los umbrales de alerta clínica inmediata.",
+        "Argumentar ante los analistas externos la validación biométrica de la batería total implementada en la fase preparatoria veraniega.",
+        "Estandarizar las frecuencias de registro y selección del almacenamiento cifrado en la nube corporativa.",
+        "Derivar las responsabilidades computacionales de análisis exclusivamente al personal paramédico limitando la influencia técnica."
+      ],
+      "correct_answer": "Delinear estadísticamente los percentiles normativos para cada atleta y sancionar en qué magnitudes saltan los umbrales de alerta clínica inmediata.",
+      "feedback": "De nada sirven los KPIs si su obtención no es inmediatamente accionable. Ese encuentro fija los límites estables de las variables físicas y los puntos de inflexión exactos en los que los marcadores (fuerza pico mermada o VFC anómala) activan protocolos obligatorios de alteración del entrenamiento."
+    },
+    {
+      "id": 13,
+      "type": "true_false",
+      "question": "Las funciones integradoras de un Científico del Deporte contemporáneo exigen el manejo y la aplicación interpretativa de conceptos numéricos como el 'Cambio Mínimo Significativo' o el Z-score, delegando la depuración exhaustiva y el modelado profundo algorítmico al Científico de Datos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Existe una delimitación de dominios técnicos: el analista o científico de datos se ocupa de filtrar ruido estadístico complejo. Por otro lado, el Científico del Deporte infunde el criterio del gimnasio y contextualiza por qué una desviación estandarizada (T-Score) resulta ser una adaptación fisiológicamente destacable."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "¿A través de qué cruce de datos se evidencia la convergencia funcional entre la viabilidad clínica del departamento de protección física y los volúmenes formales emitidos en la alta competición táctica?",
+      "options": [
+        "Índice predictivo de hipertrofia transversal.",
+        "Porcentaje algorítmico de eficiencia posicional en zona.",
+        "Disponibilidad mecano-biológica para la participación.",
+        "Tasa de sudoración baso-metabólica acumulada."
+      ],
+      "correct_answer": "Disponibilidad mecano-biológica para la participación.",
+      "feedback": "La estadística más concluyente de un programa funcional ('Game Availability' o Disponibilidad para Jugar) evalúa exactamente la división entre minutos competitivos jugados y los jugables. Sintetiza la capacidad del atleta de mantenerse exento de lesiones severas sumando un rendimiento de juego fiable en cancha."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Desde la perspectiva más purista de las Ciencias del Deporte, ¿cuál de los siguientes dogmas denota un colapso en los procesos del área de rendimiento, invalidando la filosofía principal del entorno de KPIs?",
+      "options": [
+        "Acotar el diseño de pruebas omitiendo los registros indirectos de tracking óptico implementados en partidos amistosos de corta duración.",
+        "Reducir las escalas tradicionales perceptuales de fatiga (de 5 gradaciones a 3) mermando un rango superficial matemático.",
+        "Recopilar asiduamente marcadores numéricos careciendo de un sistema reactivo o plan de contingencia diseñado para ajustar las cargas en base a la información extraída.",
+        "Fomentar una individualización radical orientando al extremo las baterías físicas para aquellos jugadores de edad deportiva más avanzada."
+      ],
+      "correct_answer": "Recopilar asiduamente marcadores numéricos careciendo de un sistema reactivo o plan de contingencia diseñado para ajustar las cargas en base a la información extraída.",
+      "feedback": "La ley primaria del rendimiento basada en el dato argumenta que poseer infraestructuras costosas carece de valor clínico y táctico si, ante las desviaciones del dato crudo recopilado en los tests, el staff jamás altera las sesiones de fuerza, táctica o los protocolos de recuperación pasiva."
+    }
+  ]
+}
