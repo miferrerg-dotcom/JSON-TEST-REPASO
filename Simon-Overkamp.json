@@ -1,0 +1,153 @@
+{
+  "class_title": "Load Monitoring in Elite Handball",
+  "total_questions": 12,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "En el contexto del control de rendimiento, ¿cuál es la diferencia fundamental entre carga (load) y estrés (strain) al programar un entrenamiento de fuerza?",
+      "options": [
+        "La carga es el tonelaje total levantado en una semana, mientras que el estrés mide exclusivamente la intensidad cardiovascular de cada sesión.",
+        "La carga es un estímulo objetivo e inmutable administrado al atleta, mientras que el estrés es la respuesta individual sistémica a dicho estímulo.",
+        "La carga cuantifica el impacto metabólico acumulado, y el estrés representa las demandas mecánicas musculares registradas por acelerometría.",
+        "La carga y el estrés son variables sinérgicas e intercambiables utilizadas para calcular el índice de esfuerzo percibido agudo-crónico."
+      ],
+      "correct_answer": "La carga es un estímulo objetivo e inmutable administrado al atleta, mientras que el estrés es la respuesta individual sistémica a dicho estímulo.",
+      "feedback": "La carga (como cargar 200 libras en una barra) es un factor externo objetivo y constante. Sin embargo, el estrés (strain) que ese estímulo provoca varía drásticamente según el estado de descanso, la fase de la temporada o los estresores psicosociales del atleta, representando así su respuesta fisiológica y neurológica individual."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Sabiendo que la disposición (readiness) del sistema nervioso no es estática, la diferencia diaria del 1RM de un atleta en un ejercicio de fuerza máxima puede variar ____.",
+      "options": [
+        "hasta un 18%",
+        "cerca del 2%",
+        "más del 40%"
+      ],
+      "correct_answer": "hasta un 18%",
+      "feedback": "Debido a factores como el estrés del sistema nervioso central, la falta de fases REM profundas o una recuperación muscular incompleta, el 1RM real diario puede fluctuar hasta un 18%. Prescribir intensidades basándose en un porcentaje fijo histórico, ignorando esta enorme fluctuación diaria de 'readiness', aumenta críticamente el riesgo de llegar al fallo neuromuscular y detonar un sobreentrenamiento."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "El efecto residual de la fuerza máxima decae severamente tras los primeros 10 días, lo que exige programar múltiples sesiones de levantamiento pesado intratorneo durante las competiciones internacionales.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. La cualidad de fuerza máxima o absoluta posee un remanente fisiológico (efecto residual) prolongado de entre 25 y 35 días. Este marco temporal cubre prácticamente la duración total de un torneo internacional, por lo que una sesión intensa justo antes de viajar suele ser suficiente, dejando el escaso tiempo disponible para microdosis de estímulos aeróbicos o de velocidad."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Para determinar si el estímulo de entrenamiento protege al atleta o lo expone a un riesgo severo de lesión, se analiza la comparativa entre la carga aguda y crónica. ¿Cuál es la 'zona dulce' de este ratio (ACWR) respecto a la línea base del deportista?",
+      "options": [
+        "Entre el 50% y el 100% (0.5 a 1.0)",
+        "Entre el 80% y el 130% (0.8 a 1.3)",
+        "Entre el 100% y el 150% (1.0 a 1.5)",
+        "Entre el 120% y el 180% (1.2 a 1.8)"
+      ],
+      "correct_answer": "Entre el 80% y el 130% (0.8 a 1.3)",
+      "feedback": "Mantener el ACWR en un margen de 0.8 a 1.3 asegura que el atleta esté expuesto a un volumen e intensidad asimilables. Desviaciones persistentes por debajo de 0.8 indican desentrenamiento o subpreparación de los tejidos, y picos por encima de 1.3 marcan un estado de 'overreaching' agudo, disparando en ambos casos el riesgo estadístico de sufrir lesiones."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "¿Por qué se considera la comunicación interpersonal directa como el 'gold standard' indiscutible de la monitorización, por encima de herramientas validadas como los test psicométricos o el RPE?",
+      "options": [
+        "Porque el reglamento de la federación prohíbe basar decisiones médicas exclusivamente en algoritmos de software predictivo.",
+        "Porque los atletas de élite tienden a manipular de forma deliberada las respuestas digitales para evadir las sesiones de pista más demandantes.",
+        "Porque los sistemas cuantifican anomalías en el estado, pero la charla revela estresores contextuales y psico-sociales que los números puros no explican.",
+        "Porque los cuestionarios matutinos presentan un margen de error superior al 45% al intentar medir la calidad subjetiva del sueño."
+      ],
+      "correct_answer": "Porque los sistemas cuantifican anomalías en el estado, pero la charla revela estresores contextuales y psico-sociales que los números puros no explican.",
+      "feedback": "Mientras los cuestionarios pueden indicar un pico repentino de estrés o una alteración grave del sueño, los números no diagnostican el origen real. La interacción directa del staff con el deportista dota de contexto a la métrica, revelando problemáticas externas inmedibles (como el nacimiento de un hijo o presiones mediáticas), lo que resulta vital para ajustar la prescripción del 'strain'."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Para cuantificar con precisión la carga mecánica en deportes de interior (indoor), la tecnología LPS captura los cambios de dirección extremos utilizando obligatoriamente ____.",
+      "options": [
+        "un algoritmo satelital",
+        "un acelerómetro",
+        "una celda de carga"
+      ],
+      "correct_answer": "un acelerómetro",
+      "feedback": "A diferencia del fútbol al aire libre que puede depender de redes GPS para trazar rutas, la falta de señal satelital en pabellones exige el uso del Local Positioning System (LPS). Este hardware depende de acelerómetros de altísima sensibilidad capaces de medir hasta 180 métricas cinemáticas críticas (desaceleraciones agresivas, altura de saltos, impactos), trazando así un perfil preciso de carga mecánica."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "Las fluctuaciones hormonales cíclicas derivadas de los periodos menstruales obligan a la preparadora física a periodizar las cargas, dado que alteran la adaptación al entrenamiento y los niveles de vulnerabilidad o laxitud de tejidos de la atleta.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La carga deportiva tiene que interpretarse desde la biología celular de cada humano. Las fluctuaciones hormonales propias del ciclo menstrual dictan picos y valles en la adaptación fisiológica de cualidades como la fuerza o la resistencia, requiriendo periodizaciones microajustadas para prevenir lesiones ligamentarias derivadas de variaciones en la laxitud articular."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "En deportes de equipo de naturaleza caótica, ¿cuál es el argumento central para diseñar situaciones en pista que integren toma de decisiones complejas en un manifiesto estado de fatiga?",
+      "options": [
+        "El estrés cognitivo inherente a decidir rápidamente acorta el tiempo hasta la claudicación física, por lo que debe ser condicionado para crear resiliencia sistémica.",
+        "Facilita la exclusión progresiva del sistema glucolítico anaeróbico para forzar al músculo a depender de las vías oxidativas de manera anticipada.",
+        "Mejora la técnica biomecánica de lanzamiento al restringir la atención consciente sobre los eslabones cinéticos.",
+        "Eleva drásticamente el volumen total de kilómetros recorridos durante la sesión, cumpliendo con la cuota de la línea base del ACWR."
+      ],
+      "correct_answer": "El estrés cognitivo inherente a decidir rápidamente acorta el tiempo hasta la claudicación física, por lo que debe ser condicionado para crear resiliencia sistémica.",
+      "feedback": "En el contexto élite, pasar, finta o lanzar ocurre bajo un agudo apremio temporal. Este procesamiento neural forzado añade una carga invisible inmensa (estrés cognitivo) que acelera la fatiga física general. Entrenar repetidamente el cerebro para emitir juicios correctos mientras los músculos están inundados de lactato desarrolla una tolerancia neurológica indispensable."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Ante escenarios competitivos de extrema congestión de partidos, la dosificación de la carga de fuerza adoptando el paradigma del 'microdosing' se ejecuta con el fin de ____.",
+      "options": [
+        "maximizar el tiempo de recuperación",
+        "erradicar las agujetas por completo",
+        "aumentar el estímulo táctico"
+      ],
+      "correct_answer": "maximizar el tiempo de recuperación",
+      "feedback": "El 'microdosing' integra estímulos hiper-concentrados de fuerza (1-3 ejercicios ejecutados en apenas 15-20 minutos) solapados de manera continua con el final de la sesión de pista. Al no segmentar los entrenamientos entre mañana y tarde, se evita romper los ritmos biológicos, regalando al deportista ventanas ininterrumpidas mucho más amplias para la regeneración tisular."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "El sistema energético en deportes de alta intermitencia jamás se recupera del todo entre acciones. Ante este déficit, la meta del preparador físico moderno no se limita a elevar los niveles máximos de fuerza, sino a desarrollar fundamentalmente:",
+      "options": [
+        "La tolerancia isométrica sostenida de los grupos musculares antigravitatorios axiales.",
+        "La eficiencia técnica en desplazamientos lineales superiores a los cuarenta metros ininterrumpidos.",
+        "La capacidad de amortiguación anaeróbica para minimizar la caída del pico de rendimiento por efecto del lactato.",
+        "La tasa de sudoración corporal para estabilizar la temperatura del núcleo (core) y evitar golpes de calor."
+      ],
+      "correct_answer": "La capacidad de amortiguación anaeróbica para minimizar la caída del pico de rendimiento por efecto del lactato.",
+      "feedback": "Con ráfagas de muy alta intensidad de 6-8 segundos repetidas hasta 85 veces por partido, las micropausas son insuficientes para vaciar los bioproductos. Elevar la fuerza absoluta sirve de poco si el atleta decae agresivamente en el minuto 40. Entrenar el sistema de 'buffering' de lactato frena la degradación neuromuscular, permitiendo a los atletas ser casi igual de potentes al final que al principio del encuentro."
+    },
+    {
+      "id": 11,
+      "type": "true_false",
+      "question": "Para asegurar un restablecimiento fisiológico homogéneo durante los torneos, el equipo técnico debe estandarizar y exigir de manera obligatoria rutinas de recuperación pasiva, como los baños de inmersión helada, para todos los jugadores.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Con la excepción innegociable de la calidad del sueño (fases REM) y el timing nutricional, el resto de terapias activas y pasivas no deben imponerse. Un baño de hielo puede resultar placentero para un atleta y generar una respuesta negativa de estrés agudo en otro. La labor profesional es facilitar el abanico de recursos (Recovery Buffet) y permitir que el jugador seleccione los que le procuren adherencia real."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Durante la etapa crítica del 'Return to Play' tras una lesión de rodilla, los históricos de la línea base mecánica registrados previamente con LPS cumplen la vital función de:",
+      "options": [
+        "Sustituir las ecografías clínicas para dictaminar el grado de cicatrización de los tejidos blandos intraarticulares.",
+        "Servir de benchmark innegociable, validando el alta a tareas de contacto únicamente si el atleta ha restituido el 95% de su métrica histórica previa.",
+        "Proyectar estadísticamente si el nivel de masa magra de los cuádriceps ha alcanzado simetría bilateral superior al ochenta por ciento.",
+        "Aislar de manera teórica las disfunciones neuromusculares provocadas directamente por compensaciones del miembro inferior sano."
+      ],
+      "correct_answer": "Servir de benchmark innegociable, validando el alta a tareas de contacto únicamente si el atleta ha restituido el 95% de su métrica histórica previa.",
+      "feedback": "Las métricas crudas (ej. velocidad pico documentada a 30 km/h pre-lesión) actúan como un punto de control insobornable. Liberar a un jugador al caos competitivo (donde operan fuerzas de colisión incontrolables) sin exigirle antes en entornos controlados un restablecimiento mecánico de al menos el 95% frente a su propio récord histórico, constituye una negligencia en el control del riesgo de re-lesión."
+    }
+  ]
+}
