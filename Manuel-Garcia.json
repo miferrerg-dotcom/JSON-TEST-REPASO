@@ -1,0 +1,251 @@
+{
+  "class_title": "Datos y Toma de Decisiones en el Alto Rendimiento",
+  "total_questions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el objetivo final de un modelo de monitorización de entrenamiento en el alto rendimiento?",
+      "options": [
+        "Recopilar el mayor volumen de datos para el análisis biomecánico",
+        "Optimizar el rendimiento guiando decisiones sobre el tipo, intensidad y dosificación del estímulo",
+        "Prevenir exclusivamente la aparición de lesiones musculares crónicas",
+        "Sustituir la toma de decisiones del entrenador por algoritmos de inteligencia artificial"
+      ],
+      "correct_answer": "Optimizar el rendimiento guiando decisiones sobre el tipo, intensidad y dosificación del estímulo",
+      "feedback": "El propósito último de cualquier modelo es asegurar que el proceso de adaptación sea objetivo y eficiente. La optimización del rendimiento se logra cuando los datos recolectados permiten ajustar de manera precisa la dosis y el tipo de estímulo aplicado, generando el efecto agudo deseado en el deportista."
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Durante la valoración inicial del deportista, es fundamental centrarse en los problemas estructurales grandes o 'elefantes' y evitar distraerse analizando ____.",
+      "options": [
+        "motas o mosquitos",
+        "la edad madurativa",
+        "su entorno familiar"
+      ],
+      "correct_answer": "motas o mosquitos",
+      "feedback": "En la fase de perfilado, el análisis debe ir a la foto grande, priorizando características físicas clave, historial de lesiones y el rol del jugador, antes de entrar en pequeños detalles que no tienen un impacto crítico inmediato en el rendimiento."
+    },
+    {
+      "id": 3,
+      "type": "true_false",
+      "question": "Recopilar masivamente datos mediante cuestionarios wellness, GPS y plataformas de salto es el paso inicial antes de definir los KPIs del modelo de trabajo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es un error habitual recopilar datos sin un objetivo claro. Primero se deben definir los KPIs determinantes basados en el contexto (perfil del jugador, calendario, estilo de juego) y posteriormente establecer la herramienta y el proceso de recogida que dé coherencia al modelo antes de diseñar paneles de control."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿De qué manera facilita la cuantificación del 'worst case scenario' los protocolos de retorno a la competición (Return to Play)?",
+      "options": [
+        "Asegura que el jugador evite el contacto físico durante los primeros tres meses",
+        "Garantiza que la rehabilitación se base únicamente en contracciones concéntricas",
+        "Objetiva cuánto tiempo el jugador es capaz de soportar las habilidades diferenciadoras bajo exigencia real",
+        "Reduce la necesidad de utilizar GPS durante las fases de readaptación en campo"
+      ],
+      "correct_answer": "Objetiva cuánto tiempo el jugador es capaz de soportar las habilidades diferenciadoras bajo exigencia real",
+      "feedback": "Conocer el peor escenario de demandas permite medir la distancia (far versus close) entre el estado actual del jugador lesionado y las exigencias reales del juego, objetivando si está preparado para soportar los esfuerzos de alta intensidad necesarios para su posición."
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el principal beneficio organizativo de implementar un sistema de semáforo (rojo, naranja, verde, amarillo) en un equipo multidisciplinar?",
+      "options": [
+        "Unifica el lenguaje del staff permitiendo objetivar las sesiones y definir fácilmente KPIs individuales",
+        "Elimina la necesidad de utilizar tecnología GPS en los entrenamientos diarios",
+        "Asegura que todos los jugadores realicen exactamente el mismo volumen de metros por minuto",
+        "Sustituye la comunicación verbal entre los departamentos médico y técnico"
+      ],
+      "correct_answer": "Unifica el lenguaje del staff permitiendo objetivar las sesiones y definir fácilmente KPIs individuales",
+      "feedback": "El sistema de semáforo dota de equilibrio a la carga y permite que perfiles diversos dentro del cuerpo técnico hablen el mismo idioma. Esto minimiza problemas de comunicación y genera un marco donde es sencillo diseñar reajustes o trabajos compensatorios individualizados."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "El entrenamiento de la velocidad y aceleración en deportes colectivos de contacto difiere del atletismo de pista porque requiere incorporar obligatoriamente elementos de ____.",
+      "options": [
+        "alta carga aeróbica",
+        "incertidumbre y oposición",
+        "aislamiento articular"
+      ],
+      "correct_answer": "incertidumbre y oposición",
+      "feedback": "El análisis de video de situaciones reales demuestra que la aceleración en el campo ocurre bajo contacto, lucha y cambios de dirección. Las tareas no deben ser simples sprints lineales, sino incluir tomas de decisión y oposición para replicar la especificidad del deporte."
+    },
+    {
+      "id": 7,
+      "type": "true_false",
+      "question": "El diseño de las tareas de entrenamiento nunca debe ser el punto de partida en la creación de un modelo de programación deportiva, sino la consecuencia final de un proceso previo de análisis.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. La tarea nunca es un fin en sí mismo. Antes de diseñar la tarea, se debe evaluar la cultura del staff, periodizar el calendario, analizar la densidad competitiva y establecer un perfil de sesión adecuado. La tarea es la plasmación final de todo ese análisis."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Dentro de la categorización de sesiones mediante el sistema de semáforo, ¿qué parámetros definen estrictamente a una 'sesión verde'?",
+      "options": [
+        "Alto volumen y alta intensidad con trabajo a campo completo",
+        "Baja intensidad enfocada exclusivamente en la recuperación táctica",
+        "Media intensidad, bajo volumen, ausencia de contacto y desarrollo en espacios reducidos",
+        "Alta intensidad neuromuscular con contacto controlado en tres cuartos de campo"
+      ],
+      "correct_answer": "Media intensidad, bajo volumen, ausencia de contacto y desarrollo en espacios reducidos",
+      "feedback": "La sesión verde se caracteriza por la eliminación total del contacto, un descenso significativo del volumen y la ejecución de tareas (como 3 vs 3) en espacios muy reducidos, manteniendo la intensidad orientada en un nivel medio."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "¿Por qué resulta ineficaz copiar directamente los algoritmos de recuperación de jugadores de élite de otros deportes?",
+      "options": [
+        "Porque la fisiología muscular difiere genéticamente entre distintos deportes",
+        "Porque la tecnología empleada por la élite suele estar desactualizada",
+        "Porque los contratos de patrocinio limitan el acceso a los datos reales",
+        "Porque la fatiga es multifactorial y los mecanismos que la producen son específicos de cada contexto y calendario competitivo"
+      ],
+      "correct_answer": "Porque la fatiga es multifactorial y los mecanismos que la producen son específicos de cada contexto y calendario competitivo",
+      "feedback": "La fatiga no tiene un mecanismo único. Las variables como el daño muscular por contacto, la frecuencia competitiva diaria, los cambios horarios (jet lag) y el perfil de aceleraciones crean una 'coctelera' única para cada jugador, exigiendo estrategias propias."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "La individualización del trabajo en la sala de fuerza, orientada a corregir eslabones débiles, se ubica temporalmente en el bloque de ____.",
+      "options": [
+        "trabajo isométrico y pliometría",
+        "sistemas energéticos puros",
+        "activación metabólica inicial"
+      ],
+      "correct_answer": "trabajo isométrico y pliometría",
+      "feedback": "Aunque la sesión sea grupal, la individualización por dosis, historial de lesiones o puntos a potenciar se introduce estructuralmente en el segundo bloque de la sesión, coincidiendo con la pliometría, lanzamientos y el trabajo isométrico."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "En el control de la recuperación, ¿qué indicadores sugieren la necesidad de aplicar una individualización profunda (por todo el equipo multidisciplinar) en lugar de una recuperación tradicional?",
+      "options": [
+        "Un CMJ por encima del 95% y una variabilidad cardíaca estable",
+        "Descensos acentuados del CMJ combinados con alteraciones marcadas en el Wellness y desviación de métricas GPS",
+        "Un aumento del 5% en la fuerza isométrica de aductores medida por dinamometría",
+        "La mera percepción subjetiva del entrenador sobre la falta de intensidad en la sesión previa"
+      ],
+      "correct_answer": "Descensos acentuados del CMJ combinados con alteraciones marcadas en el Wellness y desviación de métricas GPS",
+      "feedback": "El sistema de cuadrantes dicta que cuando existe una alteración crítica cruzando carga externa (desviación GPS) e interna (Wellness alterado, HRV desviado) junto con una pérdida clara de capacidad neuromuscular (CMJ bajo), se debe activar una individualización exhaustiva evaluada por todo el staff."
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "El uso de encoders de velocidad en el trabajo de fuerza representa un cambio de paradigma que permite emplearlos de forma continua durante todo el mesociclo para controlar el volumen y garantizar la intensidad.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Los encoders ya no se limitan a fases puntuales de potencia. Se emplean continuamente (trabajando con dos o tres dispositivos) para controlar el volumen exacto, asegurar que la intensidad sea la correcta y educar al deportista en la intención de generar alta velocidad en cada levantamiento."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "¿Cuál es la finalidad principal de elaborar y entregar informes individuales de GPS directamente al deportista?",
+      "options": [
+        "Fomentar la competitividad interna penalizando a los que menos corren",
+        "Educar al jugador sobre su respuesta individual y permitir la evaluación del propio diseño de entrenamiento",
+        "Justificar las rotaciones en las alineaciones ante la prensa",
+        "Sustituir las valoraciones biomecánicas mensuales de laboratorio"
+      ],
+      "correct_answer": "Educar al jugador sobre su respuesta individual y permitir la evaluación del propio diseño de entrenamiento",
+      "feedback": "Compartir métricas de volumen, intensidad y densidad empodera al deportista haciéndolo partícipe. Al mismo tiempo, cruzar estos datos con el sistema de semáforo sirve de retroalimentación para que el staff compruebe si se alcanzaron las demandas planificadas."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "¿Qué estrategia de recuperación térmica se empleó en Barcelona para adaptar a las jugadoras de cara a un torneo en Hong Kong?",
+      "options": [
+        "Inmersión en agua con hielo antes y después del entrenamiento",
+        "Uso inmediato de sauna post-entrenamiento para simular las condiciones de calor y alta humedad",
+        "Restricción de líquidos durante la sesión para forzar la aclimatación",
+        "Entrenamiento exclusivo en horario nocturno para evitar el choque térmico"
+      ],
+      "correct_answer": "Uso inmediato de sauna post-entrenamiento para simular las condiciones de calor y alta humedad",
+      "feedback": "Entendiendo el contexto (diferencia de hasta 12 grados y casi 100% de humedad en Hong Kong), se optó por la exposición a la sauna justo después de entrenar en Barcelona, priorizando la adaptación fisiológica al entorno de competición por encima de una recuperación muscular clásica con frío."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Para objetivar la pérdida de capacidad contráctil en el mismo día, empleando un gesto técnicamente sencillo y seguro, se recomienda el uso de ____.",
+      "options": [
+        "sprints máximos de 40m",
+        "dinamometría de aductores",
+        "tests de lactato en sangre"
+      ],
+      "correct_answer": "dinamometría de aductores",
+      "feedback": "En periodos de alta carga o procesos de RTP, la dinamometría (como en la musculatura aductora usando sistemas VALD) permite cuantificar la fatiga contráctil de manera intra-sesión sin generar estrés adicional en el deportista, creando tendencias fiables."
+    },
+    {
+      "id": 16,
+      "type": "true_false",
+      "question": "El uso de inmersión en agua fría (ice baths) sigue siendo una estrategia válida y justificada en torneos con alta densidad competitiva, priorizando la recuperación global por encima de la señalización anabólica aislada.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Hay que contextualizar la evidencia: aunque algunos estudios penalicen la crioterapia por mitigar vías anabólicas en contracciones excéntricas analíticas, en torneos donde se disputan múltiples partidos seguidos, el beneficio perceptivo, analgésico y fisiológico global que aporta el ice bath lo convierte en una estrategia excelente y necesaria."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "¿Qué dinámica representa un riesgo contextual significativo al integrarse en un staff multidisciplinar de alto rendimiento deportivo?",
+      "options": [
+        "El exceso de presupuesto que dificulta la selección de material tecnológico",
+        "La homogeneidad cultural absoluta de todos los componentes del equipo",
+        "La inestabilidad del ecosistema debido a la presión extrema por los resultados a corto plazo",
+        "La excesiva duración de los plazos biológicos de recuperación"
+      ],
+      "correct_answer": "La inestabilidad del ecosistema debido a la presión extrema por los resultados a corto plazo",
+      "feedback": "El deporte de élite es un entorno de altísimas expectativas donde las dinámicas de victoria o derrota alteran la percepción sobre la calidad del trabajo. Los staffs suelen ser inestables y multiculturales, lo que demanda un modelo de comunicación robusto y basado en el respeto."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Para evitar que el exceso de comunicación dentro del cuerpo técnico genere fatiga y desgaste, ¿qué medidas operativas son esenciales?",
+      "options": [
+        "Reuniones diarias de cinco horas para repasar cada jugada en vídeo",
+        "Centralizar toda la toma de decisiones exclusivamente en el primer entrenador",
+        "Acordar KPIs comunes, definir estructuras de sesión claras y establecer un reparto de roles explícito",
+        "Eliminar cualquier debate interdisciplinar y trabajar de manera aislada"
+      ],
+      "correct_answer": "Acordar KPIs comunes, definir estructuras de sesión claras y establecer un reparto de roles explícito",
+      "feedback": "Una comunicación eficiente no significa exceso de contacto incesante. Se logra compartiendo bases de datos, acordando las bandas del sistema de semáforo o Return to Play, y respetando los roles, de forma que el trabajo colaborativo aporte valor y no resulte insostenible en el tiempo."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Más allá de implementar hábitos saludables guiados por la motivación, el objetivo último del cuidado 24/7 en el alto rendimiento es forjar en el deportista ____.",
+      "options": [
+        "una identidad",
+        "un estado de ansiedad",
+        "un récord de hipertrofia"
+      ],
+      "correct_answer": "una identidad",
+      "feedback": "La motivación es temporal y la disciplina genera hábitos, pero integrar el autocuidado, la fotobiomodulación o el descanso como parte intrínseca de su vida construye una 'identidad'. Esto equipara la importancia fundamental del descanso a la del propio entrenamiento de fuerza."
+    },
+    {
+      "id": 20,
+      "type": "true_false",
+      "question": "Los anillos inteligentes son la herramienta tecnológica definitiva y más recomendada para medir la calidad del sueño y dictaminar la carga de entrenamiento del día.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La experiencia real en el alto rendimiento ha demostrado que la sensibilidad y fiabilidad de los anillos inteligentes para monitorizar el sueño no están plenamente conseguidas, prefiriéndose el uso de pulseras de actividad o métodos más robustos e integrados para todo el equipo."
+    }
+  ]
+}
