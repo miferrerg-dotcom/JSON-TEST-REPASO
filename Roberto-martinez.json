@@ -1,0 +1,347 @@
+{
+  "class_title": "El proceso de toma de decisiones en el rendimiento deportivo",
+  "total_questions": 28,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Al analizar la dimensión de la 'Información' para diagnosticar adecuadamente el sistema de influencia dentro una organización deportiva, el especialista debe enfocar su evaluación en descubrir específicamente:",
+      "options": [
+        "El presupuesto económico destinado anualmente para la compra de sistemas de tracking y fuerza.",
+        "Qué tipo de evidencia se considera legítima y quién controla su distribución en ese ecosistema.",
+        "La frecuencia diaria con la que se envían reportes automatizados al departamento médico.",
+        "La velocidad de transmisión en vivo de los datos provenientes de los chalecos GPS."
+      ],
+      "correct_answer": "Qué tipo de evidencia se considera legítima y quién controla su distribución en ese ecosistema.",
+      "feedback": "Dentro de un club, diferentes departamentos otorgan distinta validez a los datos. Mientras algunos ecosistemas basan su confianza enteramente en la información cuantitativa (GPS, biomarcadores), otros priorizan la evaluación médica o la experiencia empírica del entrenador. Comprender qué información resulta legítima para cada estamento es fundamental para que la evidencia tenga un impacto real en las decisiones."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "Juzgar la calidad de una decisión deportiva basándose exclusivamente en si el resultado en el campo fue exitoso o desastroso, ignorando el contexto y la información disponible en el momento en que se tomó, constituye un error metodológico conocido como 'outcome bias'.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "El sesgo de resultado (outcome bias) provoca la tendencia a considerar como brillante una decisión que terminó bien y como pésima una que terminó mal, pese a que ambas se tomaron usando exactamente la misma información. Una revisión eficaz debe evaluar la calidad del proceso decisorio (qué se sabía, la incertidumbre aceptada y el contexto) y no sólo el desenlace."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Al integrar especialistas de alto nivel en ecosistemas deportivos regidos por jerarquías fuertemente establecidas (como los observados en regiones de África), el desafío crítico no es la carencia de conocimientos técnicos, sino lograr que dicho 'expertise' logre ____.",
+      "options": [
+        "aumentar drásticamente el presupuesto logístico",
+        "sustituir de raíz las metodologías de los entrenadores locales",
+        "funcionar operativamente dentro de la estructura de autoridad"
+      ],
+      "correct_answer": "funcionar operativamente dentro de la estructura de autoridad",
+      "feedback": "El conocimiento especializado por sí solo es insuficiente para transformar una organización. El verdadero reto del especialista reside en acoplarse y navegar correctamente por las líneas de autoridad, la cultura de comunicaciones y los derechos de toma de decisiones vigentes, logrando que el nuevo conocimiento fluya sin romper la cadena de mando."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "¿Cuál es la función real y rigurosa de un Dashboard de rendimiento (Power BI o similares) que agrupa métricas de carga externa, bienestar y biomarcadores dentro del ciclo de la gobernanza de datos?",
+      "options": [
+        "Un sistema automatizado de inteligencia que toma la decisión final sobre las alineaciones del equipo.",
+        "Una plataforma diseñada para suprimir el análisis del contexto reduciendo los datos a un solo número.",
+        "Un sustituto formal y legal de la recomendación clínica del departamento médico.",
+        "Una herramienta estructurada que tiene como único fin organizar una conversación interdepartamental de calidad."
+      ],
+      "correct_answer": "Una herramienta estructurada que tiene como único fin organizar una conversación interdepartamental de calidad.",
+      "feedback": "Un panel de control o dashboard no constituye una decisión per se. Su existencia no representa verdadera monitorización deportiva a menos que la información se interprete, estructure el debate entre las distintas áreas (cuerpo técnico, médico y rendimiento), culmine en una acción concreta en campo y sea revisada posteriormente."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "Dado su innegable y masivo impacto financiero, los patrocinadores internacionales ostentan el derecho y la autoridad deportiva formal sobre las decisiones diarias de gestión de carga y disponibilidad del futbolista en las sesiones de entrenamiento.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Los patrocinadores no poseen ningún derecho ni autoridad formal deportiva. Aunque son un entorno con gran capacidad para ejercer influencia (mediante compromisos comerciales o exposición pública) que debe ser identificada y gestionada, dicha influencia organizativa nunca debe confundirse con la autoridad técnica, médica o táctica real del club."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "El futbolista moderno interactúa simultáneamente con su club de origen, selección nacional y preparadores personales. Para evitar que colapse intentando autogestionar exigencias cruzadas, los ecosistemas deben coordinarse asumiendo que el jugador cuenta con ____.",
+      "options": [
+        "autoridad médica absoluta e intransferible",
+        "una única realidad competitiva",
+        "una capacidad de asimilación biomecánica ilimitada"
+      ],
+      "correct_answer": "una única realidad competitiva",
+      "feedback": "Añadir más capas y especialistas sin integrarlos genera un exceso de ruido perjudicial. El valor del soporte no radica en forzar más sesiones, sino en entender que el atleta solo posee un cuerpo y un calendario. Cada entorno debe coordinarse sabiendo cuándo su intervención aporta verdadero valor técnico y cuándo simplemente añade carga vacía que interfiere con el descanso del jugador."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Un analista sugiere limitar los sprints de un jugador, pero el cuerpo técnico, argumentando necesidades tácticas, decide mantenerlo en el campo. Este caso ejemplifica el siguiente pilar conceptual de la gobernanza:",
+      "options": [
+        "El departamento de ciencias del deporte posee un nivel de influencia informal superior a la jerarquía del entrenador.",
+        "La evidencia recopilada a través del sistema GPS carece de validez e integridad operativa para el alto rendimiento.",
+        "Recomendar no otorga automáticamente el derecho de decidir; la autoridad recae en quien asume la responsabilidad del riesgo.",
+        "El analista incurre sistemáticamente en el sesgo de confirmación y el cuerpo técnico se fundamenta estrictamente en la biología."
+      ],
+      "correct_answer": "Recomendar no otorga automáticamente el derecho de decidir; la autoridad recae en quien asume la responsabilidad del riesgo.",
+      "feedback": "La construcción de la evidencia y la elaboración de una recomendación experta es competencia del científico deportivo. No obstante, la decisión táctica sobre la participación competitiva (en ausencia de restricciones médicas severas) corresponde formalmente al entrenador. Es vital desvincular el acto de proponer un plan del derecho orgánico de imponerlo."
+    },
+    {
+      "id": 8,
+      "type": "true_false",
+      "question": "En el fútbol de élite, es fundamental establecer mecanismos claros de gobernanza para poder escalar decisiones y asumir desacuerdos técnicos, ya que alcanzar un consenso absoluto y unánime entre todas las áreas es metodológicamente utópico.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Aunque el consenso absoluto genera confianza y fluidez, en el fútbol de élite rara vez es posible alcanzarlo por completo debido a los diferentes intereses (tácticos vs médicos). Un sistema sólido de rendimiento no se paraliza buscando la unanimidad, sino que establece mecanismos claros (quién recomienda, quién ejecuta) asumiendo los desacuerdos."
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "La premisa fundamental sobre la gestión de la tecnología deportiva postula que disponer de un volumen masivo de datos biomecánicos, sistemas de tracking satelital y decenas de marcadores fisiológicos:",
+      "options": [
+        "No garantiza inherentemente la toma de mejores decisiones si toda esta información continúa fragmentada y desprovista de contexto.",
+        "Resuelve de manera automática cualquier problema táctico logrando la supresión total de la incertidumbre interpretativa.",
+        "Sustituye por completo el rol, la necesidad empírica y los objetivos estratégicos establecidos previamente por el cuerpo técnico.",
+        "Asegura la generación directa e inmediata de revisiones organizativas sin la necesidad de intervención o interpretación humana."
+      ],
+      "correct_answer": "No garantiza inherentemente la toma de mejores decisiones si toda esta información continúa fragmentada y desprovista de contexto.",
+      "feedback": "La paradoja de la sobreinformación dicta que poseer infraestructuras punteras no genera un salto de calidad automático si no se consigue que dicha tecnología opere de forma sistémica. Si los datos llegan a destiempo, a las personas equivocadas, o se ignoran las variaciones en el contexto temporal del jugador, el aumento de dispositivos tecnológicos se traduce en simple acumulación sin impacto práctico."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Cuando se activa la metodología para resolver fricciones entre médicos y preparadores físicos, el protocolo dicta que el paso inicial es separar rigurosamente los hechos comprobables de las interpretaciones, y a su vez, de ____.",
+      "options": [
+        "las tecnologías operativas a utilizar",
+        "los sistemas tácticos en desarrollo",
+        "los intereses a proteger"
+      ],
+      "correct_answer": "los intereses a proteger",
+      "feedback": "Para destrabar un conflicto estructural, es crucial aislar qué datos están confirmados (hechos), cómo cree cada parte que evolucionarán (interpretaciones) y qué busca resguardar cada área orgánicamente (intereses). Por ejemplo, el médico protege la salud integral, mientras que el club protege la preparación inminente para la próxima jornada."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Al validar una métrica de rendimiento, la capacidad de determinar si una variación detectada refleja realmente una alteración orgánica en el atleta (en lugar de ser ruido inherente a la herramienta) evalúa específicamente la dimensión de:",
+      "options": [
+        "La individualidad del contexto biológico",
+        "La integridad operativa de recolección",
+        "La sensibilidad de la medida",
+        "La validez del constructo fundamental"
+      ],
+      "correct_answer": "La sensibilidad de la medida",
+      "feedback": "La sensibilidad de un test o tecnología es el atributo que define su umbral para captar cambios genuinos y significativos por encima del error típico del instrumento. Poseer datos muy estables (fiables) no aporta valor si el instrumento no es lo suficientemente sensible para reaccionar de manera precisa ante los cambios verdaderos del estado fisiológico del atleta."
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "El diseño, gestión y ajuste minucioso de la carga de entrenamiento en el campo es una responsabilidad construida de forma colaborativa entre el cuerpo técnico y el departamento de rendimiento, y no una potestad exclusiva del área médica.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. El ajuste de la carga requiere equilibrar la intención táctica (cuerpo técnico) y el análisis de la respuesta al esfuerzo (departamento de rendimiento). El área médica tiene autoridad técnica indiscutible sobre las restricciones clínicas, cirugías y límites de salud, pero no le corresponde diseñar unilateralmente las tareas de campo."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Concluida la ejecución de una decisión, el Athlete Performance Decision Framework establece que una revisión post-evento evita ser una simple charla y consolida un verdadero aprendizaje organizativo exclusivamente cuando se logra ____.",
+      "options": [
+        "asegurar un volumen exorbitante de estadísticas descriptivas",
+        "modificar y mejorar el sistema",
+        "garantizar victorias deportivas a corto plazo"
+      ],
+      "correct_answer": "modificar y mejorar el sistema",
+      "feedback": "El conocimiento derivado del análisis de una acción ejecutada acaba desaprovechándose si permanece limitado a las mentes de los individuos. El rendimiento mejora institucionalmente cuando el aprendizaje promueve la redefinición de protocolos de trabajo, el ajuste de umbrales clínicos, o la estructuración de nuevos canales de comunicación, optimizando cómo la entidad decidirá frente a casos futuros."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Un futbolista reporta un decaimiento en su cuestionario. Las métricas del GPS son válidas, pero el departamento debate si esta alerta biológica obedece a un mal viaje prolongado, alteraciones del sueño o el inicio de una molestia muscular. Este problema representa una:",
+      "options": [
+        "Incertidumbre absoluta en cuanto al nivel de riesgo asumido por el entrenador.",
+        "Incertidumbre operativa respecto a la fiabilidad matemática y validez del dispositivo tecnológico.",
+        "Incertidumbre clínica relacionada con una mala formulación de la pregunta central por parte de la dirección.",
+        "Incertidumbre de interpretación."
+      ],
+      "correct_answer": "Incertidumbre de interpretación.",
+      "feedback": "Existen tres vertientes de incertidumbre (de medida, de interpretación y de decisión). Cuando la captura del dato es impoluta y el valor técnico es correcto, pero coexisten múltiples causales fisiológicas razonables que explican el mismo fenómeno observable, el especialista en ciencias del deporte se enfrenta puntualmente a un problema de interpretación contextual."
+    },
+    {
+      "id": 15,
+      "type": "true_false",
+      "question": "El establecimiento de un proceso de 'Gobernanza del Rendimiento' en una franquicia de élite obliga a dotar al club de complejas estructuras burocratizadas formadas por densos comités asamblearios para revisar cada dato diario.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La gobernanza aplicada al alto rendimiento deportivo no significa añadir burocracia, papeleo ni estamentos jerárquicos interminables. Trata rigurosamente de establecer claridad sistémica definiendo tres ejes precisos: reglas de funcionamiento, roles claros (quién recomienda, informa o ejecuta) y derechos de decisión sin diluir la agilidad operativa."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "En la etapa metodológica de generación de opciones, el grado de incertidumbre que un club está dispuesto a tolerar varía significativamente si el error compromete la salud a largo plazo o si la decisión destaca por su alta ____.",
+      "options": [
+        "reversibilidad de la decisión",
+        "capacidad de cobertura de los medios",
+        "precisión de calibración instrumental"
+      ],
+      "correct_answer": "reversibilidad de la decisión",
+      "feedback": "El perfil de riesgo es asimétrico. Mantener un escenario conservador que provoque una pérdida puntual de minutos durante la semana es altamente reversible al día siguiente. No obstante, tolerar una incertidumbre idéntica ante una decisión que puede causar una recaída estructural grave en el tejido del jugador carece de reversibilidad, dictando posturas totalmente diferentes."
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "¿Cuál de las siguientes afirmaciones traza con exactitud el perfil metodológico y organizativo del 'Performance Scientist' al ser descrito como el arquitecto general del proceso de decisión?",
+      "options": [
+        "Se erige como el supervisor financiero único de todo el departamento, vetando el presupuesto en ausencia de datos probados.",
+        "Conecta la evidencia distribuida, contextualiza el dato biológico, propone opciones fundamentadas y garantiza la posterior revisión operativa.",
+        "Substituye el criterio del cuerpo técnico y asume unilateralmente la potestad de seleccionar a los deportistas ante fatigas inminentes.",
+        "Concentra todos los niveles de información, influyendo de manera oculta y bloqueando el acceso al departamento clínico."
+      ],
+      "correct_answer": "Conecta la evidencia distribuida, contextualiza el dato biológico, propone opciones fundamentadas y garantiza la posterior revisión operativa.",
+      "feedback": "El arquitecto del proceso no es la máxima figura jerárquica con autoridad de veto general. Es aquel elemento orgánico encargado de reunir la información fragmentada proveniente del jugador, médicos y preparadores técnicos, asegurando que la conversación integre la incertidumbre correctamente, evitando así saltos lógicos perjudiciales hacia conclusiones sin sustento."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "El segundo eslabón en el marco organizativo para solucionar desacuerdos sistémicos requiere 'escalar' el conflicto. A nivel metodológico, la implementación correcta de este protocolo significa específicamente:",
+      "options": [
+        "Forzar la realización asamblearia de una votación que paralice el funcionamiento para buscar equidad.",
+        "Someter al cuerpo técnico al escrutinio del departamento de relaciones públicas, delegando la responsabilidad.",
+        "Identificar inequívocamente a la persona que posee la autoridad formal pertinente para que asuma el cierre de la decisión y sus riesgos.",
+        "Obligar al jugador a intervenir como gestor principal del entorno forzándolo a emitir un diagnóstico subjetivo inminente."
+      ],
+      "correct_answer": "Identificar inequívocamente a la persona que posee la autoridad formal pertinente para que asuma el cierre de la decisión y sus riesgos.",
+      "feedback": "Escalar no alude a fomentar peleas burocráticas ni sumar peldaños artificiales al organigrama, sino a reconocer las limitaciones del consenso multidisciplinario; garantizando que el veredicto lo dictamine, con absoluta claridad, el responsable previamente designado para asumir el riesgo y la autoridad en ese ámbito específico."
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Bajo esta perspectiva, un especialista materializa una influencia sustantiva cuando consigue que los datos probatorios contextualizados lleguen a la máxima autoridad técnica mientras haya margen de tiempo útil para ____.",
+      "options": [
+        "alterar los historiales clínicos de la institución",
+        "sustituir formalmente las creencias del staff",
+        "mejorar la calidad de la decisión"
+      ],
+      "correct_answer": "mejorar la calidad de la decisión",
+      "feedback": "Influir en el alto rendimiento no se correlaciona con suplantar la figura del entrenador o silenciar la evaluación médica imponiendo posturas. Influir exitosamente implica garantizar un suministro oportuno de la evidencia crítica hacia la autoridad adecuada permitiendo reajustar los planes, minimizar riesgos ocultos y engrandecer la solidez del acto resolutivo."
+    },
+    {
+      "id": 20,
+      "type": "true_false",
+      "question": "El marco observacional referenciado sobre el rendimiento de clubes europeos constata empíricamente que una disminución alarmante en la calidad percibida de las comunicaciones entre el cuerpo técnico y los servicios médicos conlleva un incremento sistemático de la carga y severidad lesional.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "La comunicación interdepartamental defectuosa excede ser simplemente un fallo de convivencia o confort laboral. Representa un fallo orgánico del sistema; el estudio citado expone que si la sinergia médica-táctica empeora, el impacto se transfiere al campo con mayor carga de lesiones, disminuyendo dramáticamente los índices de disponibilidad competitiva del equipo."
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Una fluctuación en el perfil hematológico (ej. valores de creatina quinasa alterados) no debería evaluarse con alarmismo desde un dato aislado, sino enmarcada en la tendencia evolutiva normalizada del jugador. ¿A qué filtro básico de análisis biométrico corresponde este procedimiento?",
+      "options": [
+        "Filtro cualitativo de la Integridad Operativa",
+        "Filtro longitudinal de Tiempo",
+        "Filtro táctico de Coordinación",
+        "Filtro logístico Organizativo"
+      ],
+      "correct_answer": "Filtro longitudinal de Tiempo",
+      "feedback": "De los cuatro filtros obligatorios para procesar datos (Calidad, Contexto, Tiempo e Individualidad), el Filtro de Tiempo exige comprender de manera precisa si el pico estadístico apreciado responde a una alteración aberrante puntual originada por un traumatismo específico, o si representa un comportamiento cíclico esperable dentro de la tendencia cronológica normal."
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Respecto a la proliferación incontrolada de la gestión puramente individual del atleta de élite (presencia desestructurada de fisioterapeutas o analistas personales), la consecuencia organizativa más crítica se manifiesta porque:",
+      "options": [
+        "Incrementa vertiginosamente la eficacia regenerativa logrando el aislamiento y la especialización microscópica que demanda el alto estrés de competición.",
+        "Revoluciona mecánicamente la concepción del juego, ya que la autonomía irrestricta maximiza de facto la realidad competitiva individual reduciendo fatigas tácticas.",
+        "Se convierte en el paradigma organizacional óptimo respaldado por las directrices de gobernanza de rendimiento moderno en deportes de equipo interconectados.",
+        "Aumenta de forma drástica la complejidad y el ruido orgánico de todo el sistema de soporte, obligando ineficientemente al propio jugador a ejercer funciones de coordinador."
+      ],
+      "correct_answer": "Aumenta de forma drástica la complejidad y el ruido orgánico de todo el sistema de soporte, obligando ineficientemente al propio jugador a ejercer funciones de coordinador.",
+      "feedback": "Sumar múltiples profesionales al ecosistema personal del deportista sin establecer rigurosamente los nexos y responsabilidades crea un exceso de fricción (ruido). En ausencia de flujos centralizados, el atleta absorbe injustificadamente un rol administrativo de integración que interfiere letalmente con sus deberes fundamentales: competir a intensidad óptima y maximizar sus ventanas de descanso."
+    },
+    {
+      "id": 23,
+      "type": "true_false",
+      "question": "Dentro del marco conceptual de los ecosistemas deportivos, la existencia de una elevada influencia informal (como la de un jugador franquicia) confiere automática y jurídicamente los derechos formales e inapelables de la toma de decisión final.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La influencia y la autoridad representan ejes de funcionamiento independientes dentro de las jerarquías de un club deportivo. Un agente externo o un deportista franquicia, pese a su indiscutible peso condicionador en la esfera pública y estructural, no poseen constitucionalmente el derecho formal para determinar de manera unilateral las pautas técnicas de las cargas de campo o el alta biomédica."
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Una vez evaluada la incertidumbre de la carga mediante el framework de decisiones, el especialista debe canalizar la evidencia final garantizando con obligatoriedad el proceder de ____.",
+      "options": [
+        "eliminar de raíz cualquier traza de incertidumbre matemática",
+        "publicar irrestrictamente las matrices paramétricas resultantes",
+        "adaptar integralmente el formato del mensaje al receptor final"
+      ],
+      "correct_answer": "adaptar integralmente el formato del mensaje al receptor final",
+      "feedback": "El proceso de traducción informacional es clave. Mientras que la dirección deportiva valora las implicaciones económicas o estratégicas, el entrenador precisa entender el impacto táctico sobre la estructura del próximo entrenamiento, y el jugador exige saber exclusivamente qué se espera en la práctica. Remitir una única redacción cruda a entidades dispares fractura el impacto de la información."
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "De acuerdo con el modelo circular del Decision Framework (que arranca y concluye con el problema), el error metodológico operativo más recurrente que puede precipitar un departamento de Ciencias del Deporte consiste en:",
+      "options": [
+        "Supeditar las interpretaciones tecnológicas a los conocimientos históricos o la posición anatómico-táctica de los futbolistas clave.",
+        "Proceder directamente a la recolección, apertura del panel de control y el minado de los datos sin haber formulado previamente la pregunta específica que requiere decisión.",
+        "Establecer rigurosamente por anticipado los condicionantes clínicos, la reversibilidad temporal de las lesiones, y definir la cota máxima del error.",
+        "Introducir masivamente al deportista en la ecuación de análisis obligándolo a transparentar su percepción orgánica por encima del seguimiento analítico."
+      ],
+      "correct_answer": "Proceder directamente a la recolección, apertura del panel de control y el minado de los datos sin haber formulado previamente la pregunta específica que requiere decisión.",
+      "feedback": "La acumulación sin objetivo genera confusión parálisis. Acudir al software del GPS o a plataformas analíticas para buscar respuestas sin haber delimitado antes la verdadera naturaleza organizativa del problema (qué hay que resolver, su horizonte temporal de ejecución y las personas implicadas) resulta inefectivo, desvirtuando todo el proceso técnico metodológico posterior."
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "En la etapa formal de recomendación y ante un caso crítico de disponibilidad competitiva en el cual no existan certezas absolutas, el especialista debe cuidar minuciosamente las formas comunicativas evitando caer en:",
+      "options": [
+        "La enumeración progresiva y condicionada de las posibles contingencias tácticas para las subsiguientes semanas de la temporada.",
+        "La integración argumentativa de los antecedentes históricos frente a los desafíos biológicos impuestos por el nuevo ecosistema logístico.",
+        "La comunicación basada en descriptores cualitativos racionales vinculados a los parámetros de preocupación identificados y justificados por la literatura.",
+        "La falsa precisión numérica y algorítmica, tal como emitir proyecciones categóricas afirmando que estadísticamente persiste un ineludible '40% de riesgo lesional'."
+      ],
+      "correct_answer": "La falsa precisión numérica y algorítmica, tal como emitir proyecciones categóricas afirmando que estadísticamente persiste un ineludible '40% de riesgo lesional'.",
+      "feedback": "Asumir rigurosamente la incertidumbre no significa maquillar suposiciones inciertas dotándolas de una engañosa pátina matemática. Exponer probabilidades numéricas redondas respecto a los traumatismos (como tasar algorítmicamente porcentajes fijos de lesión) no solo denota imprudencia analítica, sino que confunde severamente a la figura decisora."
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Ante una profunda reestructuración competitiva acontecida en zonas como Oriente Medio, la frontera que condiciona el próximo salto orgánico ya no es la carencia de inversiones tecnológicas, sino el desafío de:",
+      "options": [
+        "Restringir al máximo la importación del 'know-how' técnico internacional en pos de proteger exclusivamente la independencia autárquica de las federaciones.",
+        "Abogar por la supresión de las líneas metodológicas del cuerpo directivo delegando responsabilidades en las matrices automáticas y herramientas predictivas.",
+        "Lograr exitosamente que las infraestructuras, los dispositivos en red y los cruces interpersonales catalicen en una verdadera cultura organizativa sistemática.",
+        "Sobredimensionar la inversión logística dirigida en forma estricta hacia la monitorización de las ligas formativas en detrimento del primer equipo."
+      ],
+      "correct_answer": "Lograr exitosamente que las infraestructuras, los dispositivos en red y los cruces interpersonales catalicen en una verdadera cultura organizativa sistemática.",
+      "feedback": "El capital monetario permite la veloz asimilación de tecnología de vanguardia y recursos humanos de primer orden. No obstante, esa capacidad adquisitiva no genera resultados deportivos duraderos si los procedimientos interactivos de trabajo no consiguen institucionalizarse estructurando hábitos sólidos que consoliden una nueva matriz y cultura integral de funcionamiento grupal."
+    },
+    {
+      "id": 28,
+      "type": "true_false",
+      "question": "El ciclo integral de análisis deportivo se da por concluido en el preciso instante en el cual se garantiza la captura minuciosa de información de carga, tests funcionales y biomarcadores con niveles óptimos de integridad operativa.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Obtener métricas fiables e incontestables representa tan sólo el umbral biológico y el primer peldaño del ciclo general que nos dice simplemente 'qué ocurrió'. Si esos datos no se cruzan con el contexto analítico, no se traducen con sensibilidad, no propician decisiones y no logran catalizar cambios efectivos, el recorrido integral pierde de facto la totalidad de su valor transformador."
+    }
+  ]
+}
