@@ -1,0 +1,226 @@
+{
+  "class_title": "Framework de Datos y Toma de Decisiones en Sport Science",
+  "total_questions": 18,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "¿Cuál es el propósito funcional primario de la etapa de transformación o 'staging' en un pipeline automatizado de datos deportivos?",
+      "options": [
+        "Extraer insights predictivos de fatiga utilizando un ratio agudo-crónico acoplado a modelos de machine learning no supervisado.",
+        "Ingestar, limpiar, mapear identidades (IDs) dispares y estandarizar la data cruda mediante reglas automáticas para habilitar su análisis cruzado.",
+        "Generar la visualización final a través de dashboards dinámicos orientados a la comunicación con los directores técnicos.",
+        "Recolectar directamente y sin filtros los inputs manuales provenientes de los cuestionarios de bienestar psicofísico de los atletas."
+      ],
+      "correct_answer": "Ingestar, limpiar, mapear identidades (IDs) dispares y estandarizar la data cruda mediante reglas automáticas para habilitar su análisis cruzado.",
+      "feedback": "La capa de 'staging' toma la información desestructurada en bruto (proveniente de APIs, GPS, plataformas de fuerza) y aplica scripts de automatización para unificar métricas, limpiar errores y estructurar tablas sólidas. Esto permite que diferentes orígenes de datos converjan correctamente antes de aplicar modelos matemáticos."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "En la manipulación de cargas de entrenamiento, aumentar el volumen de trabajos de alta intensidad genera una respuesta de adaptación lineal y matemáticamente predecible sobre el riesgo de lesión del deportista.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "El rendimiento humano y las lesiones operan bajo la dinámica de sistemas complejos, los cuales son inherentemente impredecibles. Se desmiente el determinismo (donde A resulta en B de forma directa); el profesional solo puede manipular los constreñimientos (constraints) para influir probabilísticamente en el comportamiento que emerge."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "La utilización de la altura del salto vertical para evaluar la potencia intrínseca del miembro inferior representa el uso de un 'proxy' estadístico debido a que:",
+      "options": [
+        "Mide de forma exacta y directa la manifestación fenomenológica del rendimiento deportivo en sistemas complejos interconectados.",
+        "Elimina por completo la necesidad de aplicar reglas heurísticas o de contexto en la capa final de visualización de datos.",
+        "Constituye una aproximación funcional de una realidad inmedible, acarreando un grado de variabilidad y sesgo inherente al modelo de medición.",
+        "Garantiza predecir de forma determinista y sin margen de error el comportamiento futuro del atleta frente a cargas mecánicas excéntricas."
+      ],
+      "correct_answer": "Constituye una aproximación funcional de una realidad inmedible, acarreando un grado de variabilidad y sesgo inherente al modelo de medición.",
+      "feedback": "La realidad fenomenológica del rendimiento deportivo es demasiado compleja para ser medida directamente. Las ciencias del deporte utilizan 'proxies' (aproximaciones como un CMJ). Todo profesional debe reconocer las limitaciones de estas métricas, asumiendo que representan un modelo simplificado y no la realidad absoluta."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Depender de hojas de cálculo convencionales para centralizar la información institucional es operativamente frágil; el almacenamiento moderno en lagos de datos o bases en la nube (como Firebase o MySQL) debe ser primordialmente ____.",
+      "options": [
+        "inmutable",
+        "efímero",
+        "desestructurado"
+      ],
+      "correct_answer": "inmutable",
+      "feedback": "Las hojas de cálculo convencionales (Excel/Sheets) son vulnerables a sobreescrituras humanas, virus o pérdida de archivos. El almacenamiento técnico avanzado ingesta la data vía API en lagos de datos (data lakes) donde permanece inmutable, garantizando un archivo seguro, escalable y resistente a errores."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "Construir una arquitectura de datos in-house independiente (sin depender de sistemas AMS de terceros) puede lograrse con presupuestos mínimos empleando herramientas tecnológicas accesibles como Firebase o rutinas de Python.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Sistematizar una arquitectura de datos propia evita el secuestro operativo por parte de proveedores corporativos costosos. Esto puede lograrse de forma altamente escalable y con presupuestos irrisorios (menores a 2 dólares mensuales) mediante herramientas open-source o plataformas ágiles como Firebase y Supabase."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "En el contexto de establecer reglas heurísticas para la compensación de cargas (ej. carrera a alta velocidad o HSR), ¿cuál de los siguientes parámetros contextuales es indispensable integrar para modelar adecuadamente la intervención?",
+      "options": [
+        "La densidad mitocondrial de las fibras lentas evaluada indirectamente mediante el consumo máximo de oxígeno (VO2 máx).",
+        "Los minutos reales de juego disputados durante la competencia y la posición táctica específica ocupada por el jugador.",
+        "El volumen bruto de métricas de 'wellness' reportadas diariamente por el atleta a lo largo de un macrociclo completo de 6 meses.",
+        "El tiempo de latencia del algoritmo de machine learning encargado de compilar el pipeline de la sesión matutina."
+      ],
+      "correct_answer": "Los minutos reales de juego disputados durante la competencia y la posición táctica específica ocupada por el jugador.",
+      "feedback": "Para compensar cargas eficientemente, un simple punto de corte absoluto (ej. Z-Score) es insuficiente si no se modela el contexto. Es obligatorio filtrar y agrupar a los jugadores según variables determinantes, como haber jugado un mínimo de minutos y las exigencias mecánicas propias de su rol o posición táctica."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Si un cuerpo técnico recolecta cotidianamente una gran densidad de métricas de bienestar (wellness) sin integrarlas a la estructura de intervenciones, generará frustración en el deportista al percibir que dicha data no se utiliza para ____.",
+      "options": [
+        "publicar estudios",
+        "tomar decisiones",
+        "comprar software"
+      ],
+      "correct_answer": "tomar decisiones",
+      "feedback": "Recolectar información sin un propósito activo es una grave falla metodológica. Si el deportista invierte tiempo brindando información de su fatiga o sueño y nota que esto no resulta en decisiones palpables (ajuste de volumen, recuperación), percibirá una falta de propósito y perderá la adherencia al sistema de monitoreo."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Dentro de los seis niveles de conflicto de una arquitectura de datos deportivos, la captura de la información se clasifica jerárquicamente como la capa más crítica debido a que:",
+      "options": [
+        "Es la única fase que depende íntegramente de la disciplina metodológica humana y del rigor de los protocolos de evaluación aplicados.",
+        "Determina de forma automática y predictiva qué tipo de algoritmos de inteligencia artificial se utilizarán para gestionar el Data Lake.",
+        "Requiere obligatoriamente el uso de ecosistemas tecnológicos de marcas propietarias para validar los diccionarios de variables.",
+        "Se encarga de ejecutar el filtrado automatizado y la limpieza de ruido estadístico (staging) antes del análisis."
+      ],
+      "correct_answer": "Es la única fase que depende íntegramente de la disciplina metodológica humana y del rigor de los protocolos de evaluación aplicados.",
+      "feedback": "Si la recolección de los datos base es deficiente (errores en el protocolo de un salto, falta de estandarización), ninguna tecnología posterior podrá corregirlo. Es la base de la pirámide y el único eslabón que no depende de herramientas computacionales, sino de la estandarización humana, requiriendo manuales y bibliotecas claras."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "El empleo de algoritmos programados, conocidos como 'cron jobs', facilita la extracción periódica de métricas de rendimiento desde múltiples plataformas, depositándolas unificadas en un repositorio central sin intervención manual.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Utilizar rutinas como scripts de Python permite que un sistema automatice las llamadas a las APIs (ej. sincronizar datos de GPS y plataformas de fuerza simultáneamente al finalizar el entrenamiento). Esto erradica el flujo manual y fragmentado basado en exportaciones USB o traspaso en Excel."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Sumergirse en micro-debates excesivamente teóricos o celulares en el deporte, desconociendo la dinámica fenomenológica general, es un error reduccionista que aleja al profesional de encontrar soluciones ____.",
+      "options": [
+        "útiles",
+        "comerciales",
+        "opacas"
+      ],
+      "correct_answer": "útiles",
+      "feedback": "Existe una brecha sustancial entre el reduccionismo científico ('lo que es') y la aplicación funcional en el alto rendimiento ('lo que debe ser'). Debatir exclusivamente mecanismos celulares, como biogénesis mitocondrial para explicar el rendimiento general, carece de sentido si no deriva en soluciones operativas que mejoren la toma de decisión."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "La filosofía 'data-informed' implementada en la sexta capa del framework (la toma final de decisiones) asume orgánicamente que:",
+      "options": [
+        "Se debe descartar el criterio heurístico para subordinar cualquier modificación de la carga física a los cálculos de un sistema AMS hermético.",
+        "La totalidad de la respuesta adaptativa o preventiva (ej. apartar a un atleta) se debe delegar algorítmicamente si un Z-Score cruza el umbral crítico.",
+        "Las plataformas tecnológicas deben emitir un reporte final inamovible hacia el entrenador en jefe para evitar los sesgos intrapersonales.",
+        "Los cálculos estadísticos deben tratarse como señales o banderas de alerta que invariablemente exigen triangulación e indagación humana."
+      ],
+      "correct_answer": "Los cálculos estadísticos deben tratarse como señales o banderas de alerta que invariablemente exigen triangulación e indagación humana.",
+      "feedback": "Un modelo 'data-informed' prioriza que la tecnología asista a la decisión pero no la reemplace. Las variaciones en las métricas no son patologías inminentes, son 'señales'. El paso decisivo requiere validar el contexto cara a cara con el atleta (ej. preguntarle cómo se siente), blindando el proceso mediante interacción humana."
+    },
+    {
+      "id": 12,
+      "type": "true_false",
+      "question": "En la capa de modelado analítico, resulta metodológicamente superior delegar las predicciones deportivas a modelos 'black boxes' (cajas negras de IA) por encima de la inteligencia estadística paramétrica y trazable.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Se advierte enfáticamente el peligro de las 'cajas negras' (black boxes) en machine learning, ya que arrojan un output procesado sin transparencia sobre cómo y bajo qué reglas interactuaron los datos. Es prioritario desarrollar modelos trazables donde se pueda auditar el origen matemático del insight antes de aplicarlo en seres humanos."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Frente a un registro matutino automatizado que detecta un riesgo agudo por 'dolor lumbar bajo' en un jugador de campo, el flujo de respuesta integrado más pertinente recomienda:",
+      "options": [
+        "Sugerir una intervención estandarizada que reduzca la carga mecánica en la zona específica (ej. 20-35%), limite impactos, y priorice isometría, apoyando el criterio médico posterior.",
+        "Suprimir al atleta por completo del microciclo competitivo por un lapso de 72 horas operando exclusivamente bajo mandato del software, sin derivación profesional.",
+        "Omitir el despliegue de alertas hacia el jugador para prevenir la sugestionabilidad psicológica (efecto nocebo), notificando solo a la dirección técnica mediante reportes PDF.",
+        "Prescribir proactivamente un aumento transitorio del entrenamiento aeróbico extensivo destinado a acelerar el flujo sanguíneo y el barrido de metabolitos lumbares."
+      ],
+      "correct_answer": "Sugerir una intervención estandarizada que reduzca la carga mecánica en la zona específica (ej. 20-35%), limite impactos, y priorice isometría, apoyando el criterio médico posterior.",
+      "feedback": "El sistema de datos más maduro integra las intervenciones directamente en su interfaz operativa. No excluye la labor humana ni diagnostica, pero sí provee lineamientos técnicos preestablecidos (ej. reducir volumen, evitar velocidad, utilizar fisioterapia focalizada) que estandarizan y blindan el abordaje inicial del equipo multidisciplinar."
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Para asegurar que la analítica de rendimiento tenga una influencia medible, el diseño completo del flujo de información (ingeniería reversa) no debe iniciar acumulando métricas al azar, sino fundamentándose directamente en ____.",
+      "options": [
+        "el algoritmo de predicción",
+        "la marca del hardware",
+        "la decisión final"
+      ],
+      "correct_answer": "la decisión final",
+      "feedback": "El diseño de una arquitectura eficaz comienza con el fin en mente. Partir del objetivo de intervención (por ejemplo: 'necesito saber qué perfil fisiológico requiere compensación hoy') dictamina con precisión qué datos se deben recolectar, cómo deben almacenarse y qué reglas estadísticas se deben emplear para resolver esa incógnita específica."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Uno de los principales ejes operativos de contar con trazabilidad ininterrumpida a lo largo de un framework de datos en Sport Science es que facilita la capacidad técnica de:",
+      "options": [
+        "Delegar indefinidamente el mantenimiento de las bases de datos maestras al soporte técnico de empresas proveedoras corporativas (vendors).",
+        "Sustituir el discernimiento profesional en favor de modelos de machine learning no supervisados exentos de auditoría manual.",
+        "Rastrear el origen fundacional de cualquier métrica, error o anomalía operativa, auditando de manera reproducible cómo se ejecutó el modelo estadístico.",
+        "Incrementar las cargas de competencia del plantel sin temor al desarrollo exponencial y multicausal de lesiones osteoarticulares severas."
+      ],
+      "correct_answer": "Rastrear el origen fundacional de cualquier métrica, error o anomalía operativa, auditando de manera reproducible cómo se ejecutó el modelo estadístico.",
+      "feedback": "La trazabilidad (traceability) figura como un pilar irremplazable. Si un tablero arroja una alerta de asimetría o carga crítica, el científico de datos debe tener el acceso auditable para 'volver hacia atrás' en el pipeline y revisar si el fallo proviene del proceso de staging, un bug en el script, o si el test inicial sufrió alteraciones metodológicas."
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Apoyándose en la arquitectura asimétrica de la mitigación de fallos expuesta mediante el análisis del inversor Charlie Munger, se concluye que al momento de implementar un ecosistema metodológico y tecnológico de datos:",
+      "options": [
+        "Resulta infinitamente más contundente y valioso blindar el entorno enfocándose en mitigar riesgos críticos, en lugar de obsesionarse en optimizar beneficios marginales de performance.",
+        "Debe justificarse el retorno de inversión del equipo forzando modelos de correlación lineal que prometan erradicar matemáticamente la fatiga neuromuscular.",
+        "Es un requisito insoslayable orientar el algoritmo de análisis a maximizar indicadores de potencia pico a expensas de la estabilidad funcional a largo plazo.",
+        "La minimización del riesgo resulta estéril a menos que la totalidad de los datos provengan de plataformas biomécanicas inalterables provistas en la nube."
+      ],
+      "correct_answer": "Resulta infinitamente más contundente y valioso blindar el entorno enfocándose en mitigar riesgos críticos, en lugar de obsesionarse en optimizar beneficios marginales de performance.",
+      "feedback": "Al igual que identificar qué eventos derriban un avión en la meteorología militar, en el deporte se prioriza evitar la 'bancarrota' (procesos que colapsan todo el sistema de evaluación o lesiones masivas evitables). Pretender utilizar los datos para optimizar beneficios microscópicos se califica como un derroche de esfuerzo respecto a asegurar la solidez y mitigación de fallas."
+    },
+    {
+      "id": 17,
+      "type": "true_false",
+      "question": "En la capa comunicacional, la distribución de informes extensos y formales en formato PDF se reafirma como el medio más eficiente para presentar alertas de monitoreo agudo al cuerpo técnico contemporáneo.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Es falso. Se expone categóricamente que los reportes tradicionales en PDF son estáticos e inoperantes para el ritmo del alto rendimiento moderno. La comunicación ágil contemporánea (Capa 5: Visualización y Comunicación) exige interconexión dinámica, empujando notificaciones automáticas y concretas a redes de uso inmediato (Slack, WhatsApp, etc.)."
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "En relación a la construcción de constructos matemáticos en el alto rendimiento, un abordaje estricto, dogmático y descontextualizado de ratios estadísticos (como el ratio Agudo:Crónico) conlleva el elevado riesgo sistémico de:",
+      "options": [
+        "Erradicar íntegramente las oscilaciones biológicas normales detectadas durante la fase de transformación en las arquitecturas SQL.",
+        "Derivar en una sobrecomplejización operacional, creando falsas alarmas que coaccionen al cuerpo multidisciplinario a implementar tomas de decisiones erradas.",
+        "Asegurar un protocolo estandarizado y aceptado a nivel mundial que impide cualquier intervención perjudicial de agentes externos no calificados.",
+        "Favorecer la inclusión forzada de modelos de Inteligencia Artificial que reescriben los diccionarios de variables almacenadas en las bases inmutables."
+      ],
+      "correct_answer": "Derivar en una sobrecomplejización operacional, creando falsas alarmas que coaccionen al cuerpo multidisciplinario a implementar tomas de decisiones erradas.",
+      "feedback": "Se advierte sobre el peligro latente en el cual 'el invento mata al inventor'. Convertir un simple modelo estadístico (como el índice Agudo/Crónico) en una verdad absoluta ignora la realidad fenomenológica de la variabilidad biológica, promoviendo intervenciones desacertadas ('es mejor no poseer datos, que tener datos engañosos')."
+    }
+  ]
+}
