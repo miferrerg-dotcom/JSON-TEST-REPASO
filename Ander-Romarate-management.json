@@ -1,0 +1,189 @@
+{
+  "class_title": "Diseñar entornos de alto rendimiento interdisciplinares en deportes olímpicos y paralímpicos",
+  "total_questions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Para que un grupo de especialistas alcance el nivel de un verdadero equipo experto, resulta indispensable desarrollar, además de la competencia técnica, un modelo mental compartido y un sólido ____.",
+      "options": [
+        "capital social",
+        "perfil biomecánico",
+        "análisis predictivo"
+      ],
+      "correct_answer": "capital social",
+      "feedback": "La efectividad de un equipo interdisciplinar recae en su sistema operativo humano. Además de la estructura, la competencia técnica y un marco de objetivos claros (modelo mental), se requiere un alto nivel de capital social, que engloba la confianza, el respeto, la cohesión y la comunicación, para gestionar proactivamente las interdependencias del alto rendimiento."
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "question": "En la creación de un entorno de alto rendimiento, maximizar la colaboración interdisciplinar en todas y cada una de las decisiones es la estrategia más eficiente para blindar el sistema contra errores.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "La interdisciplinariedad tiene un coste asociado en tiempo y recursos. El objetivo operativo no es maximizar la colaboración por defecto, sino adecuarla estrictamente a la complejidad del problema. Reunir a todo el staff para abordar pautas sencillas y unidimensionales ralentiza y entorpece las decisiones del sistema."
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Al estructurar el funcionamiento de un Performance Support Team, ¿cuál de los siguientes elementos define el punto de partida real de su sistema operativo integral?",
+      "options": [
+        "La identificación exacta del problema de rendimiento que se intenta solucionar.",
+        "La jerarquía metodológica establecida en el organigrama del departamento.",
+        "El volumen total de datos fisiológicos y de carga mecánica disponibles.",
+        "El nivel de permeabilidad transdisciplinar de los especialistas contratados."
+      ],
+      "correct_answer": "La identificación exacta del problema de rendimiento que se intenta solucionar.",
+      "feedback": "Un equipo efectivo funciona a través de un marco de decisiones que arranca invariablemente definiendo cuál es el problema de rendimiento a atacar. Solo tras delimitar y comprender esta interrogante es posible estructurar qué aporta cada profesional, qué información se requiere compartir y quién posee los derechos de decisión específicos para ese escenario."
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "En el marco metodológico del Performance Science, ¿cuál representa el error estratégico más común al implementar nuevas tecnologías de monitorización deportiva?",
+      "options": [
+        "Aplicar modelos estadísticos predictivos antes de validar el rango de datos puramente descriptivos.",
+        "Restringir el acceso interpretativo de los datos exclusivamente al grupo de directores de rendimiento.",
+        "Organizar la dinámica de trabajo en torno a las métricas generadas por un sensor en lugar de partir de una interrogante.",
+        "Delegar el análisis longitudinal de la carga de entrenamiento a un único profesional médico sin validación externa."
+      ],
+      "correct_answer": "Organizar la dinámica de trabajo en torno a las métricas generadas por un sensor en lugar de partir de una interrogante.",
+      "feedback": "Un riesgo latente actual es adquirir una tecnología y buscar de manera retrospectiva qué problemas se pueden solucionar con los datos que esta genera. El ciclo metodológico correcto exige invertir el proceso: plantear primero qué decisión o parámetro se busca mejorar y, consecuentemente, identificar qué tipo de tecnología o dato se requiere para informar dicha decisión."
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "question": "El dato extraído de una plataforma de monitorización posee la cualidad inherente de dictar la decisión deportiva final, mitigando la necesidad de aplicar una interpretación subjetiva o contextual.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Falso",
+      "feedback": "Un panel de datos (dashboard) no equivale a una decisión operativa. El dato proporciona información objetiva, pero una métrica idéntica puede derivar en rutas de acción opuestas dependiendo del momento del macrociclo, el perfil individual del atleta o el nivel de riesgo asumible, requiriendo siempre una interpretación humana contextualizada."
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Cuando los especialistas técnicos operan en silos y transmiten mensajes incongruentes o prioridades contradictorias, se obliga inadvertidamente al atleta a asumir el rol de ____.",
+      "options": [
+        "un director de integración",
+        "un analista de procesos",
+        "un evaluador de riesgos"
+      ],
+      "correct_answer": "un director de integración",
+      "feedback": "Si el staff multidisciplinar es incapaz de gestionar sus desacuerdos internos mediante un modelo unificado de toma de decisiones, el deportista termina actuando como embudo de mensajes contradictorios. Esto traslada el peso de sintetizar la complejidad directamente al atleta, generando estrés y contradiciendo la premisa de un sistema verdaderamente centrado en facilitar su rendimiento."
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Ante escenarios de alta interdependencia, como el proceso de Return to Play previo a una competición crítica, la metodología de toma de decisiones exige indispensablemente:",
+      "options": [
+        "Otorgar el control y liderazgo absoluto al departamento médico para proteger la integridad estructural a largo plazo.",
+        "Subordinar las métricas clínicas a las variables de adaptación fisiológica con el fin de consolidar el pico de forma física.",
+        "Un abordaje donde se difuminen las fronteras departamentales para integrar y ponderar de forma compartida el riesgo y el beneficio.",
+        "Aislar la directriz técnica de las sensaciones subjetivas del propio atleta para que la urgencia competitiva no contamine el rigor clínico."
+      ],
+      "correct_answer": "Un abordaje donde se difuminen las fronteras departamentales para integrar y ponderar de forma compartida el riesgo y el beneficio.",
+      "feedback": "Las áreas de salud y rendimiento no existen de forma aislada; convergen en interfaces operativas. Retornar a la competición requiere equilibrar las alertas estructurales (riesgo) con las necesidades técnicas (beneficio de la carga), exigiendo que médicos, fisiólogos, entrenadores y el atleta colaboren para alcanzar una resolución que el sistema asuma en conjunto."
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Dentro del esquema de 'derechos de decisión' bajo incertidumbre, establecer rígidamente quién es la figura encargada de comunicar la directriz final al competidor persigue como objetivo primordial:",
+      "options": [
+        "Asegurar que el deportista reciba una instrucción técnica unificada, protegiéndolo de los debates internos y discrepancias del cuerpo técnico.",
+        "Satisfacer las regulaciones de trazabilidad institucional impuestas por las entidades rectoras del movimiento olímpico y paralímpico.",
+        "Sustituir los bucles posteriores de revisión de resultados mediante una retroalimentación de carácter unidireccional y vertical.",
+        "Acelerar la curva de autonomía del atleta apartándolo tempranamente del ecosistema deliberativo para focalizarlo en el plano motor."
+      ],
+      "correct_answer": "Asegurar que el deportista reciba una instrucción técnica unificada, protegiéndolo de los debates internos y discrepancias del cuerpo técnico.",
+      "feedback": "El diseño correcto de un flujo de información dicta que las discusiones interdisciplinares y las fricciones de criterio ocurran exclusivamente a nivel de staff. Designar claramente a la persona que comunica garantiza que el atleta perciba directrices nítidas y cohesionadas, liberando su carga cognitiva de la burocracia técnica."
+    },
+    {
+      "id": 9,
+      "type": "true_false",
+      "question": "La pronunciada heterogeneidad en el deporte paralímpico obliga a examinar el significado fisiológico individualizado de cada métrica antes de intentar validar su uso mediante benchmarks normativos genéricos.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "La variabilidad derivada de la condición o deficiencia de cada atleta altera drásticamente parámetros clásicos (como el comportamiento autonómico de la frecuencia cardíaca o la disipación térmica). Por ello, es imperativo establecer un proceso de contextualización minucioso antes de recurrir a la comparación estadística tradicional de la literatura científica estandarizada."
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Si una planificación defectuosa en el transporte merma el grado de autonomía de un deportista paralímpico y, como consecuencia, devalúa la calidad de su descanso, un factor de origen puramente logístico se transforma de manera sistémica en un problema de ____.",
+      "options": [
+        "rendimiento",
+        "gobernabilidad institucional",
+        "cumplimiento normativo"
+      ],
+      "correct_answer": "rendimiento",
+      "feedback": "Los elementos que rodean la preparación, tales como la accesibilidad de infraestructuras o la complejidad del equipamiento y rutinas personales, interactúan directamente con la capacidad del atleta de tolerar las cargas de entrenamiento. Una perturbación en el entorno logístico altera el ecosistema de recuperación y, en última instancia, condiciona su potencial fisiológico real."
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "El rendimiento se entiende como un ecosistema multifactorial interactivo. Si un atleta manifiesta una preparación fisiológica óptima, pero su ejecución se desploma tras recibir pautas de calentamiento opuestas por parte de su fisioterapeuta y preparador físico, ¿qué eslabón del diseño ha colapsado?",
+      "options": [
+        "La integración cronológica del macrociclo de carga aguda frente a la crónica acumulada.",
+        "La periodización estructurada de los bloques de desarrollo y transferencia biomotora.",
+        "La orquestación de las interfaces operativas y la cohesión ejecutiva entre departamentos.",
+        "La especificidad metodológica aplicada a las herramientas tecnológicas de la preparación."
+      ],
+      "correct_answer": "La orquestación de las interfaces operativas y la cohesión ejecutiva entre departamentos.",
+      "feedback": "La sumatoria de variables físicas o metabólicas optimizadas de forma aislada no garantiza el resultado si las interacciones o las zonas límite (interfaces) entre profesionales fallan. Un atleta excelente colapsa si el entorno le provee instrucciones cruzadas, evidenciando un quiebre directo en la coordinación funcional del organigrama técnico."
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "La emergencia del cargo de Director de Rendimiento en estructuras deportivas complejas no obedece a una intención de superponer un nuevo nivel de conocimiento técnico, sino a la necesidad de ____.",
+      "options": [
+        "orquestar el sistema",
+        "homogeneizar las cargas",
+        "auditar el presupuesto"
+      ],
+      "correct_answer": "orquestar el sistema",
+      "feedback": "El perfil ideal de esta figura gerencial asume funciones de inteligencia relacional y pensamiento sistémico. Su principal cometido no es poseer un dominio científico superior al de los especialistas sectoriales, sino ejercer la traducción estratégica, conectar nodos de información dispares, atenuar discrepancias y salvaguardar la visión transversal del proyecto."
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "¿Qué pilar estructural consolida el salto cualitativo desde un modelo organizativo meramente interdisciplinar hacia un entorno transdisciplinar integrado?",
+      "options": [
+        "La adquisición y centralización de plataformas de almacenamiento de datos accesibles para todo el organigrama operativo.",
+        "La total difuminación de los silos departamentales impulsada por la asimilación de vocabularios técnicos y principios metodológicos comunes.",
+        "La concentración piramidal de todas las facultades de recomendación en la figura del responsable médico principal.",
+        "La mitigación táctica de las interdependencias mediante la asignación de variables de monitorización altamente especializadas."
+      ],
+      "correct_answer": "La total difuminación de los silos departamentales impulsada por la asimilación de vocabularios técnicos y principios metodológicos comunes.",
+      "feedback": "El avance evolutivo al estadio transdisciplinar requiere que los especialistas dejen de percibir los problemas desde su disciplina particular, integrando un nivel superior de permeabilidad donde el entendimiento conceptual y el lenguaje analítico fluyen libremente sin respetar los confines tradicionales de su área formativa de origen."
+    },
+    {
+      "id": 14,
+      "type": "true_false",
+      "question": "Para mitigar conflictos en un sistema de gobernanza efectivo, el diseño del entorno exige trazar de antemano un mapa detallado del flujo de información y los derechos de decisión frente a escenarios complejos multivariables.",
+      "options": [
+        "Verdadero",
+        "Falso"
+      ],
+      "correct_answer": "Verdadero",
+      "feedback": "Es verdadero. Designar a excelentes profesionales y otorgarles parcelas delimitadas de trabajo es insuficiente ante escenarios multivariables. Los problemas genuinamente complejos atraviesan las fronteras departamentales. Evitar el conflicto requiere trazar un mapa detallado del flujo de información que establezca de forma inamovible cómo intervendrá cada rol."
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "En el análisis de estructuras operativas, la distinción metodológica crucial entre el concepto de 'adaptar' un sistema o 'diseñar' un entorno radica en que el enfoque de diseño:",
+      "options": [
+        "Reestructura reactivamente el flujo interno preexistente a medida que afloran obstáculos infraestructurales imprevistos.",
+        "Focaliza la optimización en los medios materiales, protegiendo inalterados los procesos gerenciales heredados del modelo estándar.",
+        "Sustituye la necesidad de elaborar redes interdisciplinares al ceder el liderazgo del protocolo al propio competidor.",
+        "Exige diagnosticar primariamente las restricciones reales del deportista para vertebrar a partir de ellas los recursos y el conocimiento técnico necesario."
+      ],
+      "correct_answer": "Exige diagnosticar primariamente las restricciones reales del deportista para vertebrar a partir de ellas los recursos y el conocimiento técnico necesario.",
+      "feedback": "Adaptar es una respuesta reactiva que asume un modelo prefabricado e intenta encajar forzosamente al atleta en él subsanando grietas funcionales progresivamente. En contraposición, diseñar requiere invertir el algoritmo: situar al atleta y sus condiciones específicas como el lienzo de partida, para edificar a su alrededor las interacciones operacionales oportunas."
+    }
+  ]
+}
